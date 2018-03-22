@@ -1,7 +1,12 @@
 MAIN LICENSES OF THIS RESOURSEPACK
-
-#### License
+#### Main License
 # BetterFonts
 # MineVost.org
 
-Main licence contains authored translate for all mods that depend minevost.org servers.
+Main licence contributes to authored translate for all mods that depend minevost.org servers and russian font fix.
+
+You can free use and share this resourcepack. Any share to global websites must be with link to source (github or main site minevost.org) otherwise this file will be deleted from source by author request.
+###########################
+Основная лицензия относится к авторскому перевод всех предоставленных модов которые предоставляется в сборке серверов minevost.org и основная лицензия автора Russian Font fix. 
+
+Вы можете спокойно использовать и распространять данный ресурспак. Распространение ресурспака на общедоступных источниках должна сопроваждаться с ссылкой на данный репозиторий либо на сайт проекта minevost.org, в другом случае данный ресурс-пак будет снят с сайта по запросу автора.
