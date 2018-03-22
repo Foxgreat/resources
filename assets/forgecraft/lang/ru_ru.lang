@@ -1,0 +1,188 @@
+itemGroup.forgecraft=ForgeCraft
+
+
+tile.castingform.name=Литьевая форма
+tile.castingblock.name=Литьевой блок
+tile.bloomery_adobe.name=Кузнечный горн из Самана
+tile.bloomery_brick.name=Кузнечный горн из Кирпича
+tile.forge_brick.name=Кузница из кирпича
+tile.forge_adobe.name=Кузница из самана
+tile.blockbreaker.name=Дробильщик блоков
+tile.stoneanvil.name=Каменная наковальня
+tile.ironanvil.name=Железная наковальня
+tile.yewstave.name=Трость из тиса
+
+
+tile.pistonbellowsoak.name=Кузнечные меха из дуба
+tile.pistonbellowsjungle.name=Кузнечные меха из тропического дерева
+tile.pistonbellowsbirch.name=Кузнечные меха из берёзы
+tile.pistonbellowsspruce.name=Кузнечные меха из ели
+tile.pistonbellowsdarkoak.name=Кузнечные меха из тёмного дуба
+tile.pistonbellowsacacia.name=Кузнечные меха из акации
+
+tile.emptycruciblehot.name=Пустой Горячий Тигель
+tile.emptycrucible.name=Пустой Тигель
+tile.emptycruciblehit.name=Горячий Пустой Тигель
+tile.emptycruciblecracked.name=Треснувший Пустой Тигель
+tile.emptycruciblecrackedhot.name=Треснувший Горячий Пустой Тигель
+
+tile.rawbronzecrucible.name=Грубый Бронзовый Тигель
+tile.hotbronzecrucible.name=Горячий Бронзовый Тигель
+tile.hotcookedbronzecrucible.name=Горячий Закалённый Бронзовый Тигель
+
+tile.rawbronzeТигель_emerald.name=Грубый Тигель из Изумрудной Бронзы
+tile.hotbronzeТигель_emerald.name=Горячий Тигель из Изумрудной Бронзы
+tile.hotcookedbronzeТигель_emerald.name=Горячий Закалённый Тигель из Изумрудной Бронзы
+
+tile.rawbronzecrucible_diamond.name=Грубый Тигель из Алмазной Бронзы
+tile.hotbronzecrucible_diamond.name=Горячий Тигель из Алмазной Бронзы
+tile.hotcookedbronzecrucible_diamond.name=Горячий Закалённый Тигель из Алмазной Бронзы
+
+tile.rawbronzecrucible_lapis.name=Грубый Тигель из Ляписной Бронзы
+tile.hotbronzecrucible_lapis.name=Горячий Тигель из Ляписной Бронзы
+tile.hotcookedbronzecrucible_lapis.name=Горячий Закалённый Тигель из Ляписной Бронзы
+
+tile.rawbronzecrucible_redstone.name=Грубый Тигель из Бронзы Красного Камня
+tile.hotbronzecrucible_redstone.name=Горячий Тигель из Бронзы Красного Камня
+tile.hotcookedbronzecrucible_redstone.name=Закалённый Тигель из Бронзы Красного Камня
+
+
+
+tile.rawironcrucible.name=Грубый Железный Тигель
+tile.hotironcrucible.name=Горячий Железный Тигель
+tile.hotcookedironcrucible.name=Горячий Закалённый Железный Тигель
+tile.coolironcrucible.name=Охлаждённый Железный Тигель
+tile.failedironcrucible.name=Испорченный Железный Тигель
+tile.failedironcruciblehot.name=Испорченный горячий Железный Тигель
+
+tile.rawcleanironcrucible.name=Грубый тигель из Очищенного железа
+tile.hotcleanironcrucible.name=Горячий тигель из Очищенного железа
+tile.hotcookedcleanironcrucible.name=Горячий Закалённый тигель из Очищенного железа
+tile.coolcleanironcrucible.name=Охлаждённый тигель из Очищенного железа
+tile.failedcleanironcrucible.name=Испорченный тигель из Очищенного железа
+tile.failedcleanironcrucible.name=Испорченный горячий тигель из Очищенного железа
+
+tile.rawsteelcrucible.name=Грубый тигель из Стали
+tile.hotsteelcrucible.name=Горячий Тигель из Стали
+tile.hotcookedsteelcrucible.name=Горячий Закалённый тигель из Стали
+tile.coolsteelcrucible.name=Охлаждённый тигель из Стали
+tile.failedsteelcrucible.name=Испорченный тигель из Стали
+tile.failedsteelcruciblehot.name=Испорченный горячий тигель из Стали
+
+tile.rawwootzcrucible.name=Грубый тигель из Булата
+tile.hotwootzcrucible.name=Горячий тигель из Булата
+tile.hotcookedwootzcrucible.name=Горячий закалённый тигель из Булата
+tile.coolwootzcrucible.name=Охлаждённый тигель из Булата
+tile.failedwootzcrucible.name=Испорченный тигель из Булата
+tile.failedwootzcruciblehot.name=Испорченный горячий тигель из Булата
+
+
+tile.ironball.name=Кованый железный слиток
+tile.ironchunk.name=Кусок кованного железа
+tile.ironcleanball.name=Слиток Очищенного железа
+tile.ironcleanchunk.name=Кусок Очищенного железа
+tile.steelball.name=Стальной слиток
+tile.steelchunk.name=Стальной кусок
+tile.wootzball.name=Слиток Дамасской стали
+tile.wootzchunk.name=Кусок Дамасской стали
+
+item.brokenbronzetool.name=Сломаный Бронзовый инструмент
+item.brokenwroughtirontool.name=Сломаный инструмент из Кованого железа
+item.brokencleanirontool.name=Сломаный инструмент из Очищенной стали
+item.brokensteeltool.name=Сломаный Стальной инструмент
+item.brokenwootztool.name=Сломаный инструмент из Дамасской стали
+
+item.unstrunglongbow.name=Ветхий длинный лук
+item.longbow.name=Длинный лук
+item.rawlongbow.name=Грубый длинный лук
+
+item.bellowshandle.name=Ручные меха
+item.softcrucible.name=Мягкий тигель
+item.stonetongs.name=Каменные щипцы
+item.forgehammer.name=Кузнечный молот
+
+item.cast_axe.name=Отлить Топор
+item.cast_gladius.name=Отлить Гладиус
+item.cast_pickaxe.name=Отлить Кирку
+item.cast_shovel.name=Отлить Лопату
+item.cast_hoe.name=Отлить Мотыгу
+item.castingmud.name=Шлак
+
+item.bronzegladius.name=Гладиус из Бронзы
+item.wroughtirongladius.name=Гладиус из Кованого железа
+item.cleanirongladius.name=Гладиус из Очищенного железа
+item.steelgladius.name=Гладиус из Стали
+
+item.cleanironlongsword.name=Длинный меч из Очищенного железа
+item.steellongsword.name=Длинный меч из Стали
+
+item.wroughtironslayer.name=Убийца из Кованого Железа
+item.cleanironslayer.name=Убийца из Очищенного Железа
+item.steelslayer.name=Убийца из Стали
+
+item.ironingothot.name=Горячий железный слиток
+item.ironchunkhot.name=Горячий железный кусок
+
+item.ironcleaningotballhot.name=Горячий слиток из Очищенного железа
+item.ironcleanchunkhot.name=Горячий кусок из Очищенного железа
+
+item.steelingotballhot.name=Горячий стальной слиток
+item.steelchunkhot.name=Горячий стальной кусок
+
+item.wootzingothot.name=Горячий слиток из Дамасской стали
+item.wootzchunkhot.name=Горячий кусок из Дамасской стали
+
+item.bronzepickaxehead.name=Головка Бронзовой Кирки
+item.bronzeaxehead.name=Головка Бронзового Топора
+item.bronzeshovelhead.name=Головка Бронзовой Лопаты
+item.bronzehoehead.name=Головка Бронзовой Кирки
+item.bronzepickaxe.name=Бронзовая Кирка
+item.bronzeaxe.name=Бронзовый Топор
+item.bronzeshovel.name=Бронзовая Лопата
+item.bronzehoe.name=Бронзовая Мотыга
+
+item.ironpickaxehead.name=Головка Железной Кирки
+item.ironaxehead.name=Головка Железного Топора
+item.ironshovelhead.name=Головка Железной Лопаты
+item.ironhoehead.name=Головка Железной Мотыги
+item.ironpickaxe.name=Железная Кирка
+item.ironaxe.name=Железный Топор
+item.ironshovel.name=Железная Лопата
+item.ironhoe.name=Железная Мотыга
+item.ironsword.name=Железный Меч
+
+item.cleanironpickaxehead.name=Головка Кирки из Очищенного железа
+item.cleanironaxehead.name=Головка Топора из Очищенного железа
+item.cleanironshovelhead.name=Головка Лопаты из Очищенного железа
+item.cleanironhoehead.name=Головка Мотыги из Очищенного железа
+item.cleanironpickaxe.name=Кирка из Очищенного железа
+item.cleanironaxe.name=Топор из Очищенного железа
+item.cleanironshovel.name=Лопата из Очищенного железа
+item.cleanironhoe.name=Мотыга из Очищенного железа
+#item.cleanironsword.name=Меч из Очищенного железа
+
+item.steelpickaxehead.name=Головка Кирки из Стали
+item.steelaxehead.name=Головка Топора из Стали
+item.steelshovelhead.name=Головка Лопаты из Стали
+item.steelhoehead.name=Головка Мотыги из Стали
+item.steelpickaxe.name=Кирка из Стали
+item.steelaxe.name=Топор из Стали
+item.steelshovel.name=Лопата из Стали
+item.steelhoe.name=Мотыга из Стали
+#item.steelsword.name=Меч из Стали
+
+item.wootzpickaxehead.name=Головка Кирки из Дамасской стали
+item.wootzaxehead.name=Головка Топора из Дамасской стали
+item.wootzshovelhead.name=Головка Лопаты из Дамасской стали
+item.wootzhoehead.name=Головка Мотыги из Дамасской стали
+item.wootzpickaxe.name=Кирка из Дамасской стали
+item.wootzaxe.name=Топор из Дамасской стали
+item.wootzshovel.name=Лопата из Дамасской стали
+item.wootzhoe.name=Мотыга из Дамасской стали
+#item.wootzsword.name=Меч из Дамасской стали
+
+# -- configuration -- #
+forgecraft.config.title=Конфигурация ForgeCraft
+
+forgecraft.compatibility=Совместимость
+forgecraft.compatibility.tooltip=Особенности совместимости
