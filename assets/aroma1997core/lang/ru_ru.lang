@@ -1,0 +1,4 @@
+
+aroma1997core:gui.element.tank.empty=Пусто
+aroma1997core:gui.element.tank.fluidDescr=%s
+aroma1997core:gui.element.tank.fillDescr=%sмб / %sмб

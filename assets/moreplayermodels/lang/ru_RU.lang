@@ -1,0 +1,106 @@
+gui.normal=Нормальный
+gui.none=Пусто
+gui.save=Сохранить
+gui.load=Загрузить
+gui.config=Конфигурация
+gui.entity=Сущность
+gui.parts=Части
+gui.scale=Масштаб
+gui.extra=Дополнительно
+gui.options=Опции
+gui.type=Тип
+gui.playerskin=Скин игрока
+gui.pattern=Шаблон
+gui.headwear=Головной убор
+gui.show=Показать
+gui.left=Левый
+gui.right=Правый
+gui.both=Оба
+gui.default=По умолчанию
+gui.color=Цвет
+gui.remove=Удалить
+gui.draw=Нарисовать
+gui.position=Позиция
+
+scale.width=Ширина
+scale.height=Высота
+scale.depth=Глубина
+scale.shared=Общий
+
+part.ears=Уши
+part.horns=Рога
+part.hair=Волосы
+part.mohawk=Могавк
+part.snout=Рыло
+part.beard=Борода
+part.wings=Крылья
+part.claws=Когти
+part.skirt=Юбка
+part.legs=Ноги
+part.tail=Хвост
+part.head=Голова
+part.breasts=Грудь
+part.fin=Плавник
+part.body=Тело
+part.armleft=Левая рука
+part.armright=Правая рука
+part.legleft=Левая нога
+part.legright=Правая нога
+part.eyes=Глаза
+
+eye.glint=Блеск
+eye.brow=Бровь
+eye.lid=Веко
+
+ears.bunny=Ушки кролика
+
+hair.solid=Твердый
+
+horns.bull=Бык
+horns.antlers=Олень
+horns.antenna=Антенна
+
+tail.dragon=Дракон
+tail.horse=Лошадь
+tail.squirrel=Белка
+tail.fin=Плавник
+tail.rodent=Грызун
+tail.bird=Птица
+tail.fox=Лиса
+
+snout.bunny=Кролик
+snout.beak=Клюв
+snout.small=Маленький
+snout.medium=Средний
+snout.large=Большой
+
+fin.shark=Акула
+fin.reptile=Рептилия
+
+legs.naga=Нага
+legs.spider=Паук
+legs.horse=Лошадь
+legs.mermaid=Русалка
+legs.digitigrade=Пальцеходящий
+
+config.sounds=Звуки
+config.humanfemale=Женщина
+config.humanmale=Мужчина
+config.goblinmale=Гоблин
+config.skinurl=URL скина
+config.reloadskins=Перегазгрузить скины
+config.editbuttons=Изменить кнопки
+config.pov=Точка зрения
+config.chatbubbles=Показывать Чат-бабблы
+config.backitem=Показывать вещь на спине
+config.particles=Показывать частицы
+config.tooltip=Подсказка
+config.solidheadlayer=Твердый внешний слой
+config.compatibility=Режим совместимости
+config.blockhighlight=Подсветка блока
+config.names=Показывать имена
+
+message.noserver=На сервере не установлен мод/плагин
+message.lowerversion=Версия мода на сервере - ниже
+message.higherversion=Версия мода на сервере - выше
+message.delete=Вы уверены, что хотите удалить это?

@@ -1,0 +1,7 @@
+MAIN LICENSES OF THIS RESOURSEPACK
+
+#### License
+# BetterFonts
+# MineVost.org
+
+Main licence contains authored translate for all mods that depend minevost.org servers.
