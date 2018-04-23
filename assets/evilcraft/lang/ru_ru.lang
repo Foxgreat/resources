@@ -1,0 +1,646 @@
+# General
+itemGroup.evilcraft=EvilCraft
+general.evilcraft.info.empty=Пусто
+
+# Blocks
+tile.blocks.evilcraft.inner_block.info=Блок: %s
+tile.blocks.evilcraft.block_blood.name=Кровь
+tile.blocks.evilcraft.block_poison.name=Яд
+tile.blocks.evilcraft.blood_chest.name=Кровавый сундук
+tile.blocks.evilcraft.blood_chest.info=Чинит предметы.
+tile.blocks.evilcraft.blood_infuser.name=Наполнитель кровью
+tile.blocks.evilcraft.dark_ore.name=Руда тёмных самоцветов
+tile.blocks.evilcraft.dark_ore.info.custom=Можно найти между уровнями %s и %s.
+tile.blocks.evilcraft.dark_block.name=Тёмный блок
+tile.blocks.evilcraft.blood_stained_block.name=Окрашенный кровью блок
+tile.blocks.evilcraft.blood_stained_block.info=Создаётся, когда сущность умирает.
+tile.blocks.evilcraft.lightning_bomb.name=Бомба молний
+tile.blocks.evilcraft.bloody_cobblestone.name=Кровавый булыжник
+tile.blocks.evilcraft.nether_monster_block.name=Яйцо монстра Нижнего мира
+tile.blocks.evilcraft.excrement_pile.name=Кучка экскрементов
+tile.blocks.evilcraft.hardened_blood.name=Затвердевшая кровь
+tile.blocks.evilcraft.hardened_blood.info=Высушенная кровь. Превращается в жидкость от дождя.
+tile.blocks.evilcraft.obscured_glass.name=Затемнённое стекло
+tile.blocks.evilcraft.environmental_accumulator.name=Погодный аккумулятор
+tile.blocks.evilcraft.environmental_accumulator.info=Можно найти в тёмных храмах, чаще в горах.
+tile.blocks.evilcraft.undead_leaves.name=Мёртвая листва
+tile.blocks.evilcraft.undead_log.name=Мёртвая древесина
+tile.blocks.evilcraft.undead_sapling.name=Мёртвый саженец
+tile.blocks.evilcraft.undead_sapling.info=Наполняет мёртвый куст кровью.
+tile.blocks.evilcraft.undead_plank.name=Мёртвые доски
+tile.blocks.evilcraft.invisible_redstone_block.name=Невидимый красный блок
+tile.blocks.evilcraft.purifier.name=Очиститель
+tile.blocks.evilcraft.purifier.info=Убирает зачарования
+tile.blocks.evilcraft.dark_brick.name=Тёмный кирпич
+tile.blocks.evilcraft.dark_blood_brick.name=Тёмный кровавый кирпич
+tile.blocks.evilcraft.spirit_furnace.name=Печь духов
+tile.blocks.evilcraft.spirit_furnace.info=Готовка духов мщения
+tile.blocks.evilcraft.spirit_furnace.help.invalid=Нельзя готовить
+tile.blocks.evilcraft.spirit_furnace.help.invalid.no_entity=Пустая или нет коробки
+tile.blocks.evilcraft.spirit_furnace.help.invalid.content_size=Размер содержимого: %s
+tile.blocks.evilcraft.spirit_furnace.help.invalid.required_size=Требуется размер: %s
+tile.blocks.evilcraft.spirit_furnace.help.invalid.force_halt=Нет места для предметов
+tile.blocks.evilcraft.spirit_furnace.help.invalid.caught_error=Неверный дух моба. Сообщите разработчику(-ам) модификации.
+tile.blocks.evilcraft.box_of_eternal_closure.name=Коробка вечного закрытия
+tile.blocks.evilcraft.box_of_eternal_closure.info.content=Содержит: %s
+tile.blocks.evilcraft.dark_tank.name=Тёмный резервуар
+tile.blocks.evilcraft.dark_tank.info=Положите в сетку создания рядом с другими резервуарами, чтобы увеличить ёмкость. Shift + ПКМ для авто-подачи.
+tile.blocks.evilcraft.dark_tank.info.auto_supply=Авто-подача: %s
+tile.blocks.evilcraft.sanguinary_pedestal.name=Кровавый пьедестал
+tile.blocks.evilcraft.sanguinary_pedestal.info=Поглощает ближайшие блоки, окрашенные кровью.
+tile.blocks.evilcraft.sanguinary_pedestal.boost=Эффективность I
+tile.blocks.evilcraft.spiked_plate.name=Шипованная пластина
+tile.blocks.evilcraft.spiked_plate.info=Убивает мобов, поставьте на пьедестал, чтобы забирать кровь.
+tile.blocks.evilcraft.spirit_reanimator.name=Реаниматор духов
+tile.blocks.evilcraft.spirit_reanimator.info=Возвращает к жизни духов мщения.
+tile.blocks.evilcraft.spirit_reanimator.help.invalid.no_entity=Недоступен, пуст или нет коробки
+tile.blocks.evilcraft.spirit_reanimator.help.invalid.invalid_entity=Яйцо призыва не доступно для этого моба
+tile.blocks.evilcraft.spirit_reanimator.help.invalid.different_egg=Уберите разные яйца призыва
+tile.blocks.evilcraft.entangled_chalice.name=Кубок запутывания
+tile.blocks.evilcraft.entangled_chalice.info=Содержимое кубков запутывания вездесуще.\nShift-ПКМ для вездесущей подачи.
+tile.blocks.evilcraft.entangled_chalice.info.auto_supply=Вездесущая подача: %s
+tile.blocks.evilcraft.dark_power_gem_block.name=Блок тёмной силы
+tile.blocks.evilcraft.gem_stone_torch.name=Факел из самоцвета
+tile.blocks.evilcraft.gem_stone_torch.info=Запрещает появление духов мщения в радиусе 15 блоков.
+tile.blocks.evilcraft.eternal_water_block.name=Блок вечной воды
+tile.blocks.evilcraft.eternal_water_block.info=Бесконечный источник воды.
+tile.blocks.evilcraft.blood_waxed_coal_block.name=Блок кровавого угля
+tile.blocks.evilcraft.display_stand.name=Витрина
+
+# Items
+item.items.evilcraft.werewolf_bone.name=Кость оборотня
+item.items.evilcraft.werewolf_flesh.name=Плоть оборотня
+item.items.evilcraft.human_flesh.name=Человеческая плоть
+item.items.evilcraft.lightning_grenade.name=Граната молний
+item.items.evilcraft.redstone_grenade.name=Красная граната
+item.items.evilcraft.bucket_blood.name=Ведро крови
+item.items.evilcraft.bucket_poison.name=Ведро яда
+item.items.evilcraft.blood_extractor.name=Экстрактор крови
+item.items.evilcraft.blood_extractor.info=Shift-ПКМ, чтобы переключить авто-подачу.
+item.items.evilcraft.blood_extractor.info.auto_supply=Авто-подача: %s
+item.items.evilcraft.dark_gem.name=Тёмный самоцвет
+item.items.evilcraft.dark_stick.name=Тёмная палка
+item.items.evilcraft.weather_container.name=Пузырёк с погодой
+item.items.evilcraft.blood_pearl_of_teleportation.name=Кровавый эндер-жемчуг
+item.items.evilcraft.broom.name=Метла
+item.items.evilcraft.broom.info=Я умею летать!
+item.items.evilcraft.broom_part.name=Часть метлы
+item.items.evilcraft.hardened_blood_shard.name=Осколок крови
+item.items.evilcraft.hardened_blood_shard.info=Используйте огниво на затвердевшей крови.
+item.items.evilcraft.blood_infusion_core.name=Ядро наполнения кровью
+item.items.evilcraft.dark_power_gem.name=Самоцвет тёмной силы
+item.items.evilcraft.dark_power_gem.info=Бросьте тёмный самоцвет в бассейн с как минимум пятью жидкими блоками крови. Или наполните тёмный самоцвет кровью.
+item.items.evilcraft.blood_container.bloodCell.name=Кровавая капсула
+item.items.evilcraft.blood_container.bloodCan.name=Кровавая банка
+item.items.evilcraft.blood_container.bloodBasin.name=Кровавый резервуар
+item.items.evilcraft.blood_container.creativeBloodContainer.name=Творческий кровавый контейнер
+item.items.evilcraft.blood_container.info=УСТАРЕЛО! Используйте верстак, чтобы превратить в Тёмный резервуар.
+item.items.evilcraft.blood_container.info.autoSupply=Авто-подача: %s
+item.items.evilcraft.poison_sac.name=Ядовитый мешочек
+item.items.evilcraft.werewolf_fur.name=Мех оборотня
+item.items.evilcraft.blook.name=Кровавая книга
+item.items.evilcraft.blook.info=Наполните книгу кровью.
+item.items.evilcraft.potentia_sphere.name=Сфера силы
+item.items.evilcraft.potentia_sphere.info=Наполните кровью, чтобы сделать жемчуг Края.
+item.items.evilcraft.inverted_potentia.name=Инвертированная сила
+item.items.evilcraft.inverted_potentia.info=Ударьте молнией, чтобы усилить.
+item.items.evilcraft.mace_of_distortion.name=Жезл искажения
+item.items.evilcraft.kineticator.name=Кинетикатор
+item.items.evilcraft.kineticator.repelling.name=Отталкивающий кинетикатор
+item.items.evilcraft.kineticator.info=Shift-ПКМ, чтобы переключить притяжение.\nПКМ, чтобы изменить территорию.
+item.items.evilcraft.kineticator.info.attraction=Притяжение: %s
+item.items.evilcraft.kineticator.info.repelling.attraction=Отталкивание: %s
+item.items.evilcraft.kineticator.info.area=Территория: %s
+item.items.evilcraft.vengeance_ring.name=Кольцо мщения
+item.items.evilcraft.vengeance_ring.info=Shift-ПКМ, чтобы переключить.
+item.items.evilcraft.vengeance_ring.info.status=Статус: %s
+item.items.evilcraft.vengeance_focus.name=Фокус мщения
+item.items.evilcraft.vengeance_focus.info=ПКМ, чтобы включить луч.
+item.items.evilcraft.vengeance_pickaxe.name=Кирка мщения
+item.items.evilcraft.vengeance_pickaxe.info=Может призвать духов мщения.
+item.items.evilcraft.burning_gem_stone.name=Горящий самоцвет
+item.items.evilcraft.burning_gem_stone.info=Преобразует урон духов мщения в голод.
+item.items.evilcraft.dark_gem_crushed.name=Измельчённый самоцвет
+item.items.evilcraft.vein_sword.name=Жильный меч
+item.items.evilcraft.creative_blood_drop.name=Творческая капля крови
+item.items.evilcraft.creative_blood_drop.info=Предмет только для творческого режима, для получения бесконечного количества крови.
+item.items.evilcraft.creative_blood_drop.info.auto_supply=Авто-подача: %s
+item.items.evilcraft.dark_spike.name=Шип
+item.items.evilcraft.exalted_crafter.name=Продвинутый верстак
+item.items.evilcraft.exalted_crafter.wood.name=Деревянный продвинутый верстак
+item.items.evilcraft.necromancer_staff.name=Посох некроманта
+item.items.evilcraft.necromancer_staff.info=Призывает орды зомби.
+item.items.evilcraft.invigorating_pendant.name=Бодрящий кулон
+item.items.evilcraft.invigorating_pendant.info=Убирает отрицательные эффекты зелий.
+item.items.evilcraft.bound_blood_drop.name=Связанная кровавая капля
+item.items.evilcraft.bound_blood_drop.info=ПКМ, чтобы связать с Вашей сетью Blood Magic.
+item.items.evilcraft.bound_blood_drop.info.auto_supply=Авто-подача: %s
+item.items.evilcraft.bound_blood_drop.info.current_owner=Текущий владелец: %s
+item.items.evilcraft.bound_blood_drop.info.current_owner.none=Нет
+item.items.evilcraft.resurgence_egg.name=Яйцо возрождения
+item.items.evilcraft.resurgence_egg.info.content=Содержит: %s
+item.items.evilcraft.corrupted_tear.name=Осквернённая слеза
+item.items.evilcraft.promise.name=Обещание
+item.items.evilcraft.promise.use_in=Применимо в:
+item.items.evilcraft.promise.tier1.name=Обещание упорства I
+item.items.evilcraft.promise.tier1.info=Улучшение уровня механизма, также применимо для низких уровней. Ёмкость резервуара x2.
+item.items.evilcraft.promise.tier2.name=Обещание упорства II
+item.items.evilcraft.promise.tier2.info=Улучшение уровня механизма, также применимо для низких уровней. Ёмкость резервуара x4.
+item.items.evilcraft.promise.tier3.name=Обещание упорства III
+item.items.evilcraft.promise.tier3.info=Улучшение уровня механизма, также применимо для низких уровней. Ёмкость резервуара x8.
+item.items.evilcraft.promise.speed0.name=Обещание скорости
+item.items.evilcraft.promise.speed0.info=Скорость механизмов x2
+item.items.evilcraft.promise.efficiency0.name=Обещание эффективности
+item.items.evilcraft.promise.efficiency0.info=Эффективность кровавых механизмов x1.5
+item.items.evilcraft.bowl_of_promises.name=Миска обещаний
+item.items.evilcraft.bowl_of_promises.active.name=Миска обещаний
+item.items.evilcraft.bowl_of_promises.dusted.name=Заполненная миска пустых обещаний
+item.items.evilcraft.bowl_of_promises.empty.name=Миска пустых обещаний
+item.items.evilcraft.bowl_of_promises.strength=Сила
+item.items.evilcraft.dull_dust.name=Тусклая пыль
+item.items.evilcraft.dull_dust.info=Скучная пыль... или нет?
+item.items.evilcraft.blood_waxed_coal.name=Кровавый уголь
+item.items.evilcraft.blood_waxed_coal.info=Удваивает эффективность Вашего угля.
+item.items.evilcraft.ender_tear.name=Слеза Края
+item.items.evilcraft.ender_tear.info=Редкий предмет странника Края.
+item.items.evilcraft.blood_potash.name=Кровавый поташ
+item.items.evilcraft.blood_potash.info=Удваивает эффективность Вашей костной муки.
+item.items.evilcraft.bucket_eternal_water.name=Ведро вечной воды
+item.items.evilcraft.bucket_eternal_water.info=Бесконечный источник воды.
+item.items.evilcraft.promise_acceptor.0.name=Железный акцептор обещаний
+item.items.evilcraft.promise_acceptor.1.name=Золотой акцептор обещаний
+item.items.evilcraft.promise_acceptor.2.name=Алмазный акцептор обещаний
+item.items.evilcraft.sceptre_of_thunder.name=Скипетр грома
+item.items.evilcraft.sceptre_of_thunder.info=Призывает гром при активации, одноразовый.
+item.items.evilcraft.blood_orb.name=Сфера Крови
+item.items.evilcraft.blood_orb.empty.name=Пустая сфера
+item.items.evilcraft.blood_orb.filled.name=Сфера Крови
+item.items.evilcraft.origins_of_darkness.name=Происхождение Тьмы
+item.items.evilcraft.darkened_apple.name=Тёмное яблоко
+item.items.evilcraft.blood_wand_cap.name=Кровяной наконечник метлы
+item.items.evilcraft.effortless_ring.name=Кольцо лёгкости
+item.items.evilcraft.effortless_ring.info=Двигаться быстрее и более эффективно.
+item.items.evilcraft.primed_pendant.potion=§7 Эффект: %s (%s)
+item.items.evilcraft.golden_string.name=Золотая нить
+item.items.evilcraft.biome_extract.info.content=Содержит: %s
+item.items.evilcraft.garmonbozia.name=Гармонбозия
+item.items.evilcraft.garmonbozia.info="Боль и Страдания"
+item.items.evilcraft.poison_bottle.name=Пузырёк с ядом
+item.items.evilcraft.spikey_claws.name=Шипастые когти
+item.items.evilcraft.spectral_glasses.name=Спектральные очки
+
+item.evilcraft.powerable.info.power=Сила: %s
+
+# Fluids
+fluid.fluids.evilcraft.evilcraftblood=Кровь
+fluid.fluids.evilcraft.evilcraftpoison=Яд
+
+# Weather container info
+weather_container.evilcraft.empty=Пусто
+weather_container.evilcraft.clear=Моё единственное солнце
+weather_container.evilcraft.rain=Когда дождь начинается
+weather_container.evilcraft.lightning=Шторм
+
+# Controls
+key.categories.evilcraft=Evil_craft
+key.evilcraft.fart=Переключить пукание
+key.evilcraft.exalted_crafting=Открыть продвинутый верстак
+
+# Entities
+entity.evilcraft.werewolf.name=Оборотень
+entity.evilcraft.poisonous_libelle.name=Ядовитая стрекоза
+entity.evilcraft.netherfish.name=Рыба Нижнего мира
+entity.vengeance_spirit.name=Дух мщения
+entity.evilcraft.vengeance_spirit.name=Дух мщения
+entity.evilcraft.broom_entity.name=Метла
+entity.Villager.werewolf_villager=Деревенский оборотень
+
+# Enchantments
+enchantment.evilcraft.breaking=Разрушение
+description.enchantment.enchantments.breaking=Инструменты быстрее ломаются
+enchantment.evilcraft.life_stealing=Вампиризм
+enchantment.evilcraft.unusing=Непригодность
+enchantment.evilcraft.poison_tip=Ядовитый наконечник
+enchantment.evilcraft.vengeance=Мщение
+
+# Chat messages
+chat.evilcraft.command.farting_enabled=Пукание включено
+chat.evilcraft.command.farting_disabled=Пукание отключено
+chat.evilcraft.boss_display.charge=Заряд: %s
+
+# Death messages
+death.attack.evilcraft.die_without_any_reason=%1$s умер без всякой видимой причины!
+death.attack.evilcraft.distorted=%1$s не смог справиться с большим количеством искажений.
+death.attack.evilcraft.spiked=%1$s убит шипами.
+death.attack.evilcraft.paling=%1$s исчез.
+
+# Biomes
+biomes.evilcraft.biome_degraded=Деградированный
+
+# Potion Effects
+potions.evilcraft.paling=Угасание
+potions.evilcraft.paling.postfix=Зелье угасания
+potion.potency.2=III
+potion.potency.3=IV
+potion.potency.4=V
+
+# Achievements
+achievement.evilcraft.evil_source=Истинный источник Зла
+achievement.evilcraft.evil_source.desc=Получить копию "Происхождения Тьмы" бросая книгу в аномалию возникшую из-за скармливания Тёмного Яблока животному.
+achievement.evilcraft.fart=Учимся пукать
+achievement.evilcraft.fart.desc=Наконец-то выпустите все эти неприятные газы.
+achievement.evilcraft.first_age=Первая эпоха
+achievement.evilcraft.first_age.desc=Откройте истоки первой эпохи зла добыв тёмных самоцветов
+achievement.evilcraft.second_age=Вторая эпоха
+achievement.evilcraft.second_age.desc=Начните вторую злую эпоху.
+achievement.evilcraft.master_distorter=Мастер-искажатель
+achievement.evilcraft.master_distorter.desc=Исказите более десяти мобов сразу с помощью жезла искажения.
+achievement.evilcraft.spirit_cooker=Моб-повар
+achievement.evilcraft.spirit_cooker.desc=Сделайте печь духов.
+achievement.evilcraft.closure=Вечное закрытие
+achievement.evilcraft.closure.desc=Используйте фокус мщения, чтобы запутать духа мщения.
+achievement.evilcraft.player_distorter=Игрок-искажатель
+achievement.evilcraft.player_distorter.desc=Исказите игрока с помощью жезла искажения.
+achievement.evilcraft.player_devastator=Игрок-разрушитель
+achievement.evilcraft.player_devastator.desc=Нападите на игрока, используя зомби, призванных с помощью посоха некроманта.
+achievement.evilcraft.power_crafting=Могущественное создание
+achievement.evilcraft.power_crafting.desc=Сделайте продвинутый верстак.
+achievement.evilcraft.cannibal=Каннибал
+achievement.evilcraft.cannibal.desc=Съесть плоть человекообразных.
+
+# Gui
+gui.exalted_crafting=Продвинутое создание
+gui.waila.tank_config=Содержимое резервуара
+gui.waila.inner_blocks_config=Отображение скрытых блоков
+gui.waila.broom_info_config=Информация от метле
+gui.nei.fluids=Жидкости
+
+# Broom parts
+broom.evilcraft.shiftinfo=<Shift для информации о метле>
+broom.parts.evilcraft.shiftinfo=<Shift для информации о частях метлы>
+broom.parts.evilcraft.rod_bare.name=Голый черенок метлы
+broom.parts.evilcraft.rod_wood.name=Деревянный черенок метлы
+broom.parts.evilcraft.rod_stone.name=Каменный черенок метлы
+broom.parts.evilcraft.rod_bone.name=Костяной черенок метлы
+broom.parts.evilcraft.rod_blaze.name=Огненный черенок метлы
+broom.parts.evilcraft.rod_reed.name=Тростниковый черенок метлы
+broom.parts.evilcraft.rod_netherrack.name=Незеритовый черенок метлы
+broom.parts.evilcraft.rod_obsidian.name=Обсидиановый черенок метлы
+broom.parts.evilcraft.rod_undead.name=Мёртвый черенок метлы
+broom.parts.evilcraft.rod_prismarine.name=Призмариновый черенок метлы
+broom.parts.evilcraft.rod_ice.name=Ледяной черенок метлы
+broom.parts.evilcraft.rod_sponge.name=Губчатый черенок метлы
+broom.parts.evilcraft.rod_endstone.name=Эндернитовый черенок метлы
+broom.parts.evilcraft.rod_purpur.name=Пурпурный черенок метлы
+broom.parts.evilcraft.brush_bare.name=Голый хвост метлы
+broom.parts.evilcraft.brush_wheat.name=Хвост метлы из сена
+broom.parts.evilcraft.brush_wool.name=Хвост метлы из шерсти
+broom.parts.evilcraft.brush_feather.name=Хвост метлы из перьев
+broom.parts.evilcraft.brush_twig.name=Хвост метлы из прутиков
+broom.parts.evilcraft.brush_leaves.name=Хвост метлы из листьев
+broom.parts.evilcraft.cap_bare.name=Голый наконечник метлы
+broom.parts.evilcraft.cap_gem_dark.name=Наконечник метлы из тёмного самоцвета
+broom.parts.evilcraft.cap_gem_dark_power.name=Наконечник метлы из самоцвета тёмной силы
+broom.parts.evilcraft.cap_gem_diamond.name=Алмазный наконечник метлы
+broom.parts.evilcraft.cap_gem_emerald.name=Изумрудный наконечник метлы
+broom.parts.evilcraft.cap_gem_quartz.name=Незер-кварцовый наконечник метлы
+broom.parts.evilcraft.cap_gem_lapis.name=Лазуритовый наконечник метлы
+broom.parts.evilcraft.cap_head_skeleton.name=Наконечник метлы из черепа скелета
+broom.parts.evilcraft.cap_head_witherskeleton.name=Наконечник метлы из черепа визер-скелета
+broom.parts.evilcraft.cap_head_zombie.name=Наконечник метлы из черепа зомби
+broom.parts.evilcraft.cap_head_player.name=Наконечник метлы из черепа игрока
+broom.parts.evilcraft.cap_head_creeper.name=Наконечник метлы из черепа крипера
+broom.parts.evilcraft.cap_head_wither.name=Наконечник метлы из черепа Визера
+broom.parts.evilcraft.cap_metal_iron.name=Железный наконечник метлы
+broom.parts.evilcraft.cap_metal_gold.name=Золотой наконечник метлы
+broom.parts.evilcraft.cap_metal_thaumium.name=Таумиумный наконечник метлы
+broom.parts.evilcraft.cap_metal_copper.name=Медный наконечник метлы
+broom.parts.evilcraft.cap_metal_silver.name=Серебряный наконечник метлы
+broom.parts.evilcraft.cap_metal_alubrass.name=Алюминиевый наконечник метлы
+broom.parts.evilcraft.cap_metal_ardite.name=Ардитовый наконечник метлы
+broom.parts.evilcraft.cap_metal_cobalt.name=Кобальтовый наконечник метлы
+broom.parts.evilcraft.cap_metal_manyullyn.name=Мануллиновый наконечник метлы
+broom.parts.evilcraft.cap_slime.name=Наконечник метлы из слизи
+
+# Broom part types
+broom.parts.evilcraft.type.name=Тип: %s
+broom.parts.evilcraft.types.name=Части:
+broom.parts.evilcraft.type.rod.name=Черенок метлы
+broom.parts.evilcraft.type.brush.name=Хвост метлы
+broom.parts.evilcraft.type.cap.name=Наконечник метлы
+
+# Broom modifiers
+broom.modifiers.evilcraft.shiftinfo=<Shift для информации о метле>
+broom.modifiers.evilcraft.type.name=Модификатор
+broom.modifiers.evilcraft.types.name=Модификаторы:
+broom.modifiers.evilcraft.types.nameparam=Модификаторы (%s/%s):
+broom.modifiers.evilcraft.type.speed.name=Скорость
+broom.modifiers.evilcraft.type.acceleration.name=Ускорение
+broom.modifiers.evilcraft.type.maneuverability.name=Манёвренность
+broom.modifiers.evilcraft.type.levitation.name=Левитация
+broom.modifiers.evilcraft.type.particles.name=Частицы
+broom.modifiers.evilcraft.type.flame.name=Пламя
+broom.modifiers.evilcraft.type.smash.name=Сокрушения
+broom.modifiers.evilcraft.type.bouncy.name=Упругость
+broom.modifiers.evilcraft.type.witherer.name=Иссушение
+broom.modifiers.evilcraft.type.hungerer.name=Ненасытный
+broom.modifiers.evilcraft.type.kamikaze.name=Камикадзе
+broom.modifiers.evilcraft.type.withershield.name=Щит Визера
+broom.modifiers.evilcraft.type.luck.name=Удача
+broom.modifiers.evilcraft.type.efficiency.name=Эффективность
+broom.modifiers.evilcraft.type.swimming.name=Плавание
+broom.modifiers.evilcraft.type.icy.name=Ледяной
+
+# Subtitles
+subtitles.evilcraft.effect.vengeancebeam.base=Луч мщения
+
+# ------ Origins of Darkness contents ------
+info_book.evilcraft.section.main=Происхождение Тьмы
+info_book.evilcraft.tag_index=&oСодержание&r
+
+info_book.evilcraft.preface=Предисловие
+
+info_book.evilcraft.structure=&oСтруктура&r
+
+# --- First Age ---
+info_book.evilcraft.first_age=Первая эпоха
+
+# - A Strange New World -
+info_book.evilcraft.first_age.new_world=Этот странный новый мир
+info_book.evilcraft.first_age.new_world.introduction=Введение
+
+info_book.evilcraft.first_age.new_world.dark_ore=Руда тёмных самоцветов
+
+info_book.evilcraft.first_age.new_world.darkened_apple=Тёмное яблоко
+
+info_book.evilcraft.first_age.new_world.evil_dungeon=Подземелье Зла
+
+info_book.evilcraft.first_age.new_world.dark_temple=Тёмный храм
+
+
+
+info_book.evilcraft.first_age.new_world.libelle=Ядовитая стрекоза
+
+info_book.evilcraft.first_age.new_world.werewolf=Оборотень
+
+info_book.evilcraft.first_age.new_world.nether_fish=Рыба Нижнего мира
+
+# - Relics -
+info_book.evilcraft.first_age.relics=Реликвия
+
+info_book.evilcraft.first_age.relics.humanoid_flesh=Человеческая плоть
+
+
+# - Items -
+info_book.evilcraft.first_age.items=Предметы
+
+info_book.evilcraft.first_age.items.dark_tank=Тёмный резервуар
+
+info_book.evilcraft.first_age.items.dark_spike=Шипы
+
+info_book.evilcraft.first_age.items.spiked_plate=Шипованная пластина
+
+info_book.evilcraft.first_age.items.spikey_claws=Шипастые когти
+
+info_book.evilcraft.first_age.items.potentia_sphere=Сфера силы
+
+info_book.evilcraft.first_age.items.dull_dust=Тусклая пыль
+
+info_book.evilcraft.first_age.items.obscured_glass=Затемнённое стекло
+
+info_book.evilcraft.first_age.items.exalted_crafter=Продвинутый верстак
+
+info_book.evilcraft.first_age.items.display_stand=Витрина
+
+# - Items -
+info_book.evilcraft.first_age.vengeance_spirits=Духи Мщения
+
+info_book.evilcraft.first_age.vengeance_spirits.introduction=После смерти монстров
+
+info_book.evilcraft.first_age.vengeance_spirits.catching_spirits=Ловля Духов
+
+
+# --- Second Age ---
+info_book.evilcraft.second_age=Вторая эпоха
+
+# - Blood Extraction -
+
+# - Powers of Blood -
+info_book.evilcraft.second_age.powers_of_blood=Сила Крови
+
+# - Blood Infusion -
+
+info_book.evilcraft.second_age.blood_infusion.blood_infusion_core=Ядро наполнения кровью
+
+info_book.evilcraft.second_age.blood_infusion.blood_chest=Кровавый сундук
+
+info_book.evilcraft.second_age.blood_infusion.blood_infuser=Наполнитель кровью
+
+info_book.evilcraft.second_age.blood_infusion.undead_tree=Мёртвое дерево
+
+
+
+# - Evolved Blood Machinery -
+
+info_book.evilcraft.second_age.evolved_blood_machinery.sanguinary_pedestal=Кровавый пьедестал
+
+info_book.evilcraft.second_age.evolved_blood_machinery.purifier=Очиститель
+
+info_book.evilcraft.second_age.evolved_blood_machinery.entangled_chalice=Кубок запутывания
+
+
+
+# - Tools -
+info_book.evilcraft.second_age.tools=Инструменты
+
+info_book.evilcraft.second_age.tools.broom=Метла
+
+info_book.evilcraft.second_age.tools.broom.introduction=Основы метлологии
+
+info_book.evilcraft.second_age.tools.broom.modifiers=Модификаторы метлы
+
+info_book.evilcraft.second_age.tools.broom.parts=Части метлы
+
+info_book.evilcraft.second_age.tools.introduction=Введение
+
+info_book.evilcraft.second_age.tools.blood_pearl_of_teleportation=Кровавый эндер-жемчуг
+
+info_book.evilcraft.second_age.tools.invigorating_pendant=Бодрящий кулон
+
+
+info_book.evilcraft.second_age.tools.effortless_ring=Кольцо лёгкости
+
+info_book.evilcraft.second_age.tools.kineticator=Кинетикатор
+
+info_book.evilcraft.second_age.tools.sceptre_of_thunder=Скипетр грома
+
+info_book.evilcraft.second_age.tools.vengeance_pickaxe=Кирка мщения
+
+info_book.evilcraft.second_age.tools.gemstone_torch=Факел из самоцвета
+
+
+# - Weapons -
+info_book.evilcraft.second_age.weapons=Оружие
+
+info_book.evilcraft.second_age.weapons.vein_sword=Жильный меч
+
+info_book.evilcraft.second_age.weapons.mace_of_distortion=Жезл искажения
+
+info_book.evilcraft.second_age.weapons.necromancer_staff=Посох некроманта
+
+
+# - Abusing Spirits -
+info_book.evilcraft.second_age.abusing_spirits=Злоупотребление духами
+
+
+info_book.evilcraft.second_age.abusing_spirits.spirit_furnace=Печь духов
+
+info_book.evilcraft.second_age.abusing_spirits.spirit_reanimator=Реаниматор духов
+
+# - Killing Spirits -
+info_book.evilcraft.second_age.after_death=После смерти
+
+info_book.evilcraft.second_age.after_death.spirit_killing101=Убийство-духов 101
+
+info_book.evilcraft.second_age.after_death.garmonbozia=Гармонбозия
+
+# --- Mod Integrations ---
+info_book.evilcraft.mod_integrations=&oИнтеграция с модами&r
+
+info_book.evilcraft.mod_integrations.baubles=Baubles
+
+info_book.evilcraft.mod_integrations.blood_magic=Blood Magic
+
+info_book.evilcraft.mod_integrations.ee3=Equivalent Exchange 3
+
+info_book.evilcraft.mod_integrations.forestry=Forestry
+
+info_book.evilcraft.mod_integrations.enderio=Ender IO
+
+info_book.evilcraft.mod_integrations.ic2=Industrial Craft 2
+
+info_book.evilcraft.mod_integrations.jei=Just Enough Items
+
+info_book.evilcraft.mod_integrations.immersiveengineering=Immersive Engineering
+
+info_book.evilcraft.mod_integrations.nei=Not Enough Items
+
+info_book.evilcraft.mod_integrations.thermal_expansion=Thermal Expansion
+
+info_book.evilcraft.mod_integrations.thaumcraft=Thaumcraft
+
+info_book.evilcraft.mod_integrations.tinkers_construct=Tinkers' Construct
+
+info_book.evilcraft.mod_integrations.waila=WAILA
+
+# Config Screens
+config.evilcraft=Конфигурация %s
+
+## Config categories
+config.evilcraft.item=Настройки предметов
+config.evilcraft.item.tooltip=Настройки предметов
+config.evilcraft.block=Настройки блоков
+config.evilcraft.block.tooltip=Настройки блоков
+config.evilcraft.fluid=Настройки жидкостей
+config.evilcraft.fluid.tooltip=Настройки жидкостей
+config.evilcraft.entity=Настройки сущностей
+config.evilcraft.entity.tooltip=Настройки сущностей
+config.evilcraft.general=Основные настройки
+config.evilcraft.general.tooltip=Основные настройки
+config.evilcraft.worldgeneration=Настройки генерации Мира
+config.evilcraft.worldgeneration.tooltip=Настройки генерации Мира
+config.evilcraft.mob=Настройки мобов
+config.evilcraft.mob.tooltip=Настройки мобов
+config.evilcraft.biome=Настройки генерации биома
+config.evilcraft.biome.tooltip=Настройки генерации биома
+config.evilcraft.machine=Настройки механизмов
+config.evilcraft.machine.tooltip=Настройки механизмов
+config.evilcraft.core=Системные настройки
+config.evilcraft.core.tooltip=Системные настройки
+config.evilcraft.modcompat=Настройки совместимости
+config.evilcraft.modcompat.tooltip=Настройки совместимости
+config.evilcraft.degradationeffect=Эффект деградации
+config.evilcraft.degradationeffect.tooltip=Эффект деградации
+config.evilcraft.entity=Настройки сущностей
+config.evilcraft.entity.tooltip=Настройки сущностей
+
+## Block settings
+config.evilcraft.blood_stained_block.bloodMBPerHP=MB крови за HP
+
+## Core settings
+config.evilcraft.general.debug=Режим разработки
+config.evilcraft.general.version=Версия
+config.evilcraft.general.versionChecker=Проверка версии
+
+## Degradition effect settings
+degradationeffect.evilcraft.biome=Биом
+degradationeffect.evilcraft.nauseate=Тошнота
+degradationeffect.evilcraft.paling=Угасание
+degradationeffect.evilcraft.particle=Частица
+degradationeffect.evilcraft.sound=Звук
+degradationeffect.evilcraft.terraform=Терраформирование
+
+## Entity settings
+
+## Fluid settings
+config.evilcraft.general.bloodConverters=Коэффициенты конверсии крови
+
+## General settings
+config.evilcraft.general.bloodGuiOverlay=Кровавый интерфейс
+config.evilcraft.general.dieWithoutAnyReason=Умереть без причин
+config.evilcraft.general.farting=Пуканье
+config.evilcraft.general.mbFlowRate=MB расхода
+
+## Item settings
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Machine settings
+
+
+
+
+
+
+
+
+
+## Mob settings
+
+
+config.evilcraft.poisonous_libelle.isEnabled=Ядовитая стрекоза
+
+config.evilcraft.vengeance_spirit.isEnabled=Дух мщения
+
+config.evilcraft.werewolf.isEnabled=Оборотень    
+
+## Mod compatibility settings
+config.evilcraft.baubles=Baubles
+config.evilcraft.BloodMagic=Blood magic
+config.evilcraft.IC2=Industrial Craft 2
+config.evilcraft.JEI=JEI
+config.evilcraft.Waila=Waila
+config.evilcraft.forestry=Forestry
+config.evilcraft.tconstruct=Tinkers' Construct
+
+## World generation
+
+
+

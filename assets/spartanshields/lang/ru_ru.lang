@@ -1,0 +1,130 @@
+#Localisation for Spartan Shields version 1.3
+#Items
+item.spartanshields:shield_basic_wood.name=Деревянный щит
+item.spartanshields:shield_basic_stone.name=Каменный щит
+item.spartanshields:shield_basic_iron.name=Железный щит
+item.spartanshields:shield_basic_gold.name=Золотой щит
+item.spartanshields:shield_basic_diamond.name=Алмазный щит
+
+item.spartanshields:shield_basic_bronze.name=Бронзовый щит
+item.spartanshields:shield_basic_steel.name=Стальной щит
+item.spartanshields:shield_riot_enderio.name=Электрический щит
+
+item.spartanshields:shield_basic_copper.name=Медный щит
+item.spartanshields:shield_basic_tin.name=Оловянный щит
+item.spartanshields:shield_basic_silver.name=Серебряный щит
+item.spartanshields:shield_basic_obsidian.name=Обсидиановый щит
+item.spartanshields:shield_riot_rftools.name=Заряженный щит
+
+item.spartanshields:shield_basic_enderium.name=Эндериумный щит
+item.spartanshields:shield_basic_invar.name=Инваровый щит
+item.spartanshields:shield_basic_platinum.name=Платиновый щит
+item.spartanshields:shield_basic_electrum.name=Электрумный щит
+item.spartanshields:shield_basic_nickel.name=Никелевый щит
+item.spartanshields:shield_basic_lead.name=Свинцовый щит
+item.spartanshields:shield_basic_lumium.name=Люмиумный щит
+item.spartanshields:shield_basic_signalum.name=Сигналиумный щит
+item.spartanshields:shield_flux_ra.name=Силовой щит
+
+item.spartanshields:shield_botania_manasteel.name=Манастальной щит
+item.spartanshields:shield_botania_terrasteel.name=Террастальной щит
+item.spartanshields:shield_botania_elementium.name=Элементиумный щит
+
+#Items not part of this mod
+item.spartanshields:ingotBronze=Бронзовый слиток
+item.spartanshields:ingotSteel=Стальной слиток
+item.spartanshields:ingotCopper=Медный слиток
+item.spartanshields:ingotTin=Оловянный слиток
+item.spartanshields:ingotSilver=Серебряный слиток
+item.spartanshields:ingotEnderium=Эндериумный слиток
+item.spartanshields:ingotInvar=Инваровый слиток
+item.spartanshields:ingotPlatinum=Платиновый слиток
+item.spartanshields:ingotElectrum=Электрумный слиток
+item.spartanshields:ingotNickel=Никелевый слиток
+item.spartanshields:ingotLead=Свинцовый слиток
+item.spartanshields:ingotLumium=Люмиумный слиток
+item.spartanshields:ingotSignalum=Сигналиумный слиток
+
+#Other mods
+mod.spartanshields:enderio=Ender IO
+mod.spartanshields:rftools=RFTools
+mod.spartanshields:abyssalcraft=AbyssalCraft
+mod.spartanshields:redstonearsenal=Redstone Arsenal
+mod.spartanshields:botania=Botania
+
+#Creative Tabs
+itemGroup.spartanshields:tabBasic.name=Spartan Shields
+
+#Tooltips
+tooltip.spartanshields:dev.wip=Идёт работа (WIP)
+tooltip.spartanshields:dev.unimplemented=Ещё Не Реализовано!
+
+tooltip.spartanshields:protection=Макс. Защита: %d
+tooltip.spartanshields:shieldSilver.desc=Наносит повреждения нежити которая бьёт в щит
+tooltip.spartanshields:shieldSignalum.desc=Накладывает Слабость (%ds) на врага при ударе в щит
+tooltip.spartanshields:shieldLumium.desc=Накладывает Свечение (%ds) на врага при ударе в щит
+tooltip.spartanshields:shieldEnderium.desc=Накладывает Замедление (%ds) на врага при ударе в щит
+tooltip.spartanshields:shieldElementium.desc= %d%% шанс вызова Феи при ударе в щит
+tooltip.spartanshields:rfCapacity=%,d/%,d RF
+tooltip.spartanshields:rfPerDamage=Использует %d RF на сердечко поглощённого урона
+tooltip.spartanshields:rfShield.desc=Запитывается энергией RF
+tooltip.spartanshields:feCapacity=%,d/%,d FE
+tooltip.spartanshields:fePerDamage=Использует %d FE на сердечко поглощённого урона
+tooltip.spartanshields:feShield.desc=Принимает энергию RF & FE
+
+tooltip.spartanshields:cantCraftMissingMods=Нельзя создать. Нужен мод:
+tooltip.spartanshields:cantCraftMissingMaterial=Нельзя создать. Нужен материал: %s.
+
+#Configs
+config.spartanshields:durabilityWoodShield=Прочность деревянного щита
+config.spartanshields:durabilityStoneShield=Прочность каменного щита
+config.spartanshields:durabilityIronShield=Прочность железного щита
+config.spartanshields:durabilityGoldShield=Прочность золотого щита
+config.spartanshields:durabilityDiamondShield=Прочность алмазного щита
+config.spartanshields:durabilityBronzeShield=Прочность бронзового щита
+config.spartanshields:enableBronzeShield=Разрешён бронзовый щит
+config.spartanshields:durabilitySteelShield=Прочность стального щита
+config.spartanshields:enableSteelShield=Разрешён стальной щит
+config.spartanshields:durabilityCopperShield=Прочность медного щита
+config.spartanshields:enableCopperShield=Разрешён медный щит
+config.spartanshields:durabilityTinShield=Прочность оловянного щита
+config.spartanshields:enableTinShield=Оловянный щит разрешён
+config.spartanshields:durabilitySilverShield=Прочность серебряного щита
+config.spartanshields:enableSilverShield=Разрешён серебряный щит
+config.spartanshields:durabilityObsidianShield=Прочность обсидианового щита
+config.spartanshields:enableObsidianShield=Разрешён обсидиановый щит
+config.spartanshields:durabilityEnderiumShield=Прочность эндериумного щита
+config.spartanshields:enableEnderiumShield=Разрешён эндериумный щит
+config.spartanshields:durabilityInvarShield=Прочность инварового щита
+config.spartanshields:enableInvarShield=Разрешён инваровый щит
+config.spartanshields:durabilityPlatinumShield=Прочность платинового щита
+config.spartanshields:enablePlatinumShield=Разрешён платиновый щит
+config.spartanshields:durabilityElectrumShield=Прочность электрумного щита
+config.spartanshields:enableElectrumShield=Разрешён электрумный щит
+config.spartanshields:durabilityNickelShield=Прочность никелевого щита
+config.spartanshields:enableNickelShield=Разрешён никелевый щит
+config.spartanshields:durabilityLeadShield=Прочность свинцового щита
+config.spartanshields:enableLeadShield=Разрешён свинцовый щит
+config.spartanshields:durabilitySignalumShield=Прочность сигналиумного щита
+config.spartanshields:enableSignalumShield=Разрешён сигналиумный щит
+config.spartanshields:durabilityLumiumShield=Прочность люмиумного щита
+config.spartanshields:enableLumiumShield=Разрешён Люмиумный щит
+config.spartanshields:durabilityManasteelShield=Прочность манастального щита
+config.spartanshields:enableManasteelShield=Разрешён манастальной щит
+config.spartanshields:durabilityTerrasteelShield=Прочность террастального щита
+config.spartanshields:enableTerrasteelShield=Разрешён террастальной щит
+config.spartanshields:durabilityElementiumShield=Прочность элементиумного щита
+config.spartanshields:enableElementiumShield=Разрешён элементиумный щит
+config.spartanshields:enableEnderIOShield=Разрешён электрический щит
+config.spartanshields:enableRFToolsShield=Разрешён заряженный щит
+config.spartanshields:enableRAShield=Разрешён силовой щит
+config.spartanshields:damageToRFMultiplier=Множитель урон к RF
+config.spartanshields:damageToFEMultiplier=Множитель урон к FE
+config.spartanshields:vanillaOnly=Только стандартные щиты
+
+#Enchantments
+enchantment.spartanshields:spikes=Зубцы
+enchantment.spartanshields:deflect=Отражение
+
+#Messages
+message.spartanshields:poweredShieldBlockFail=Урон не поглощается. Кончилась энергия щита.

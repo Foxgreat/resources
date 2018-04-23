@@ -1,0 +1,610 @@
+itemGroup.lostthaumaturgy=Lost Thaumaturgy
+itemGroup.lostthaumaturgy.researches=Lost Thaumaturgy: Discoveries
+
+tile.lostthaumaturgy:crucible.name=Crucible
+tile.lostthaumaturgy:crucible_eyes.name=Crucible of Eyes
+tile.lostthaumaturgy:crucible_thaumium.name=Thaumium Crucible
+tile.lostthaumaturgy:crucible_void.name=Void Crucible
+tile.lostthaumaturgy:conduit.name=Vis Conduit
+tile.lostthaumaturgy:silverwood_conduit.name=Silverwood Vis Conduit
+tile.lostthaumaturgy:pressurized_conduit.name=Pressurized Conduit
+tile.lostthaumaturgy:pressurized_conduit.tooltip0=Emits redstone signal
+tile.lostthaumaturgy:pressurized_conduit.tooltip1=if there is any suction
+tile.lostthaumaturgy:vis_tank.name=Vis Storage Tank
+tile.lostthaumaturgy:reinforced_vis_tank.name=Thaumium Reinforced Tank
+tile.lostthaumaturgy:silverwood_vis_tank.name=Silverwood Vis Tank
+tile.lostthaumaturgy:vis_pump.name=Vis Pump
+tile.lostthaumaturgy:thaumium_vis_pump.name=Thaumium Vis Pump
+tile.lostthaumaturgy:infuser.name=Thaumic Infuser
+tile.lostthaumaturgy:dark_infuser.name=Dark Infuser
+tile.lostthaumaturgy:vis_filter.name=Vis Filter
+tile.lostthaumaturgy:vis_valve.name=Vis Valve
+tile.lostthaumaturgy:bellows.name=Arcane Bellows
+tile.lostthaumaturgy:thaumium_bellows.name=Thaumium Reinforced Bellows
+tile.lostthaumaturgy:crystal_ore_vaporous.name=Vaporous Crystal Ore
+tile.lostthaumaturgy:crystal_ore_aqueous.name=Aqueous Crystal Ore
+tile.lostthaumaturgy:crystal_ore_earthen.name=Earthen Crystal Ore
+tile.lostthaumaturgy:crystal_ore_fiery.name=Fiery Crystal Ore
+tile.lostthaumaturgy:crystal_ore_vis.name=Vis Crystal Ore
+tile.lostthaumaturgy:crystal_ore_tainted.name=Tainted Crystal Ore
+tile.lostthaumaturgy:crystal_ore_depleted.name=Depleted Crystal Ore
+tile.lostthaumaturgy:cinnabar_ore.name=Cinnabar Ore
+tile.lostthaumaturgy:vis_purifier.name=Vis Purifier
+tile.lostthaumaturgy:advanced_vis_valve.name=Advanced Vis Valve
+tile.lostthaumaturgy:studium_table.name=Studium Table
+tile.lostthaumaturgy:auxilium_table.name=Auxilium Table
+tile.lostthaumaturgy:shimmerleaf.name=Shimmerleaf
+tile.lostthaumaturgy:taintedleaf.name=Taintedleaf
+tile.lostthaumaturgy:cinderpearl.name=Cinderpearl
+tile.lostthaumaturgy:silverwood_leaves.name=Silverwood Leaves
+tile.lostthaumaturgy:silverwood_log.name=Silverwood Log
+tile.lostthaumaturgy:tainted_log.name=Tainted Log
+tile.lostthaumaturgy:silverwood_planks.name=Silverwood Planks
+tile.lostthaumaturgy:silverwood_stairs.name=Silverwood Stairs
+tile.lostthaumaturgy:crystallizer.name=Crystallizer
+tile.lostthaumaturgy:nitor.name=Nitor
+tile.lostthaumaturgy:tainted_soil.name=Tainted Soil
+tile.lostthaumaturgy:eldritch_block.name=Eldritch Stone
+tile.lostthaumaturgy:pengu_cobble_gen.name=Pengu in a CobbleGen
+tile.lostthaumaturgy:void_chest.name=Void Chest
+tile.lostthaumaturgy:generator.name=Thaumic Generator
+tile.lostthaumaturgy:tainted_plant.name=Tainted Laonri
+tile.lostthaumaturgy:jar_singularity.name=Singularity-in-a-jar
+tile.lostthaumaturgy:duplicator.name=Thaumic Duplicator
+tile.lostthaumaturgy:lt_monolith_opener.name=§dMonolith Generator
+tile.lostthaumaturgy:totem_dawn.name=Totem of Dawn
+tile.lostthaumaturgy:totem_twilight.name=Twilight Totem
+tile.lostthaumaturgy:seal.name=Arcane Seal
+tile.lostthaumaturgy:seal.desc=Color: $col
+tile.lostthaumaturgy:vis_condenser.name=Vis Condenser
+tile.lostthaumaturgy:void_block.name=Block of Void Metal
+tile.lostthaumaturgy:thaumium_block.name=Block of Thaumium Metal
+tile.lostthaumaturgy:infuser_base.name=Arcane Stone Block
+tile.lostthaumaturgy:fuser.name=Arcane Crafter
+tile.lostthaumaturgy:wand_constructor.name=Wand Constructor
+tile.lostthaumaturgy:greatwood_leaves.name=Greatwood Leaves
+tile.lostthaumaturgy:greatwood_log.name=Greatwood Log
+tile.lostthaumaturgy:greatwood_sapling.name=Greatwood Sapling
+tile.lostthaumaturgy:darkness_generator.name=Darkness Generator
+tile.lostthaumaturgy:tainted_leaves.name=Tainted Leaves
+tile.lostthaumaturgy:repairer.name=Thaumic Restorer
+tile.lostthaumaturgy:primordial_rift.name=Primordial Rift
+tile.lostthaumaturgy:lt_monolith.name=Monolith
+tile.lostthaumaturgy:greatwood_planks.name=Greatwood Planks
+tile.lostthaumaturgy:greatwood_stairs.name=Greatwood Stairs
+tile.lostthaumaturgy:greatwood_fence.name=Greatwood Fence
+tile.lostthaumaturgy:greatwood_fence_gate.name=Greatwood Fence Gate
+tile.lostthaumaturgy:greatwood_trapdoor.name=Greatwood Trapdoor
+tile.lostthaumaturgy:silverwood_fence.name=Silverwood Fence
+tile.lostthaumaturgy:silverwood_fence_gate.name=Silverwood Fence Gate
+tile.lostthaumaturgy:silverwood_trapdoor.name=Silverwood Trapdoor
+tile.lostthaumaturgy:everful_urn.name=Everful Urn
+tile.lostthaumaturgy:thaumium_conduit.name=Thaumium Vis Conduit
+tile.lostthaumaturgy:void_hole_struct.name=Portable Hole
+
+
+
+item.lostthaumaturgy:vaporous_crystal.name=Vaporous Crystal
+item.lostthaumaturgy:aqueous_crystal.name=Aqueous Crystal
+item.lostthaumaturgy:earthen_crystal.name=Earthen Crystal
+item.lostthaumaturgy:fiery_crystal.name=Fiery Crystal
+item.lostthaumaturgy:vis_crystal.name=Vis Crystal
+item.lostthaumaturgy:tainted_crystal.name=Tainted Crystal
+item.lostthaumaturgy:depleted_crystal.name=Depleted Crystal
+item.lostthaumaturgy:enchanted_wood.name=Enchanted Wood
+item.lostthaumaturgy:enchanted_silverwood.name=Enchanted Silverwood
+item.lostthaumaturgy:cinderpearl_pod.name=Cinderpearl Pod
+item.lostthaumaturgy:zombie_brains.name=Zombie Brains
+item.lostthaumaturgy:quicksilver.name=Quicksilver
+item.lostthaumaturgy:thaumium_ingot.name=Thaumium Ingot
+item.lostthaumaturgy:enchanted_fabric.name=Enchanted Fabric
+item.lostthaumaturgy:animated_piston.name=Animated Piston
+item.lostthaumaturgy:alumentum.name=Alumentum
+item.lostthaumaturgy:ancient_pottery.name=Ancient Pottery
+item.lostthaumaturgy:ancient_pottery.tooltip0=Common Lost Artifact
+item.lostthaumaturgy:tarnished_chalice.name=Tarnished Chalice
+item.lostthaumaturgy:tarnished_chalice.tooltip0=Common Lost Artifact
+item.lostthaumaturgy:worn_statuette.name=Worn Statuette
+item.lostthaumaturgy:worn_statuette.tooltip0=Uncommon Lost Artifact
+item.lostthaumaturgy:ancient_weapon.name=Ancient Weapon
+item.lostthaumaturgy:ancient_weapon.tooltip0=Uncommon Lost Artifact
+item.lostthaumaturgy:ancient_seal.name=Ancient Seal
+item.lostthaumaturgy:ancient_seal.tooltip0=Rare Lost Artifact
+item.lostthaumaturgy:ancient_stone_tablet.name=Ancient Stone Tablet
+item.lostthaumaturgy:ancient_stone_tablet.tooltip0=Exceptional Lost Artifact
+item.lostthaumaturgy:goggles_revealing.name=Goggles of Revealing
+item.lostthaumaturgy:crystalline_bell.name=Crystalline Bell
+item.lostthaumaturgy:thaumonomicon.name=Thaumonomicon
+item.lostthaumaturgy:thaumonomicon.tooltip0=The Thaumonomicon stores all the information you need
+item.lostthaumaturgy:fragment.name=Fragment
+item.lostthaumaturgy:fragment.tooltip0=&text 
+item.lostthaumaturgy:fragment.tooltip1=Difficulty: &difficulty
+item.lostthaumaturgy:theory.name=Theory
+item.lostthaumaturgy:theory.tooltip0=&text 
+item.lostthaumaturgy:theory.tooltip1=Difficulty: &difficulty
+item.lostthaumaturgy:discovery.name=Discovery
+item.lostthaumaturgy:discovery.tooltip0=&text 
+item.lostthaumaturgy:thaumium_helmet.name=Thaumium Helmet
+item.lostthaumaturgy:thaumium_chestplate.name=Thaumium Chestplate
+item.lostthaumaturgy:thaumium_leggings.name=Thaumium Leggings
+item.lostthaumaturgy:thaumium_boots.name=Thaumium Boots
+item.lostthaumaturgy:wand_item_freeze.name=Item Freezing Wand
+item.lostthaumaturgy:upgrades/quicksilver_core.name=Quicksilver Core
+item.lostthaumaturgy:upgrades/quicksilver_core.tooltip0=Improves speed
+item.lostthaumaturgy:upgrades/stabilized_singularity.name=Stabilized Singularity
+item.lostthaumaturgy:upgrades/stabilized_singularity.tooltip0=Improves efficiency
+item.lostthaumaturgy:upgrades/harnessed_rage.name=Harnessed Rage
+item.lostthaumaturgy:upgrades/harnessed_rage.tooltip0=Increases aggression and damage
+item.lostthaumaturgy:upgrades/concentrated_evil.name=Concentrated Evil
+item.lostthaumaturgy:upgrades/concentrated_evil.tooltip0=Unlocks functions that involve taint
+item.lostthaumaturgy:upgrades/infinite_saddness.name=Infinite Sadness
+item.lostthaumaturgy:upgrades/infinite_saddness.tooltip0=Worsens the mood of Pengu
+item.lostthaumaturgy:upgrades/infinite_saddness.tooltip1=by breaking the gameplay balance
+item.lostthaumaturgy:upgrades/contained_emptiness.name=Contained Emptiness
+item.lostthaumaturgy:upgrades/contained_emptiness.tooltip0=Increases capacity
+item.lostthaumaturgy:upgrades/collected_wisdom.name=Collected Wisdom
+item.lostthaumaturgy:upgrades/collected_wisdom.tooltip0=Increases mystical capacity or knowledge
+item.lostthaumaturgy:upgrades/concentrated_purity.name=Concentrated Purity
+item.lostthaumaturgy:wand_reversal.name=Wand of Reversal
+item.lostthaumaturgy:singularity.name=Arcane Singularity
+item.lostthaumaturgy:topaz.name=Topaz
+item.lostthaumaturgy:concentrated_vis.name=Concentrated Vis
+item.lostthaumaturgy:concentrated_taint.name=Concentrated Taint
+item.lostthaumaturgy:potion_purity.name=Potion of Purity
+item.lostthaumaturgy:extract_purest_magic.name=Extract of Purest Magic
+item.lostthaumaturgy:extract_foulest_taint.name=Extract of Foulest Taint
+item.lostthaumaturgy:extract_warmest_fire.name=Extract of Warmest Fire
+item.lostthaumaturgy:extract_deepest_earth.name=Extract of Deepest Earth
+item.lostthaumaturgy:extract_lightest_air.name=Extract of Lightest Air
+item.lostthaumaturgy:extract_coolest_water.name=Extract of Coolest Water
+item.lostthaumaturgy:soul_fragment.name=Soul Fragment
+item.lostthaumaturgy:congealed_taint.name=Congealed Taint
+item.lostthaumaturgy:rezuli_crystal.name=Rezuli Crystal
+item.lostthaumaturgy:cracked_wisp_shell.name=Cracked Wisp Shell
+item.lostthaumaturgy:cracked_wisp_shell.tooltip0=Common Forbidden Artifact
+item.lostthaumaturgy:distorted_skull.name=Distorted Skull
+item.lostthaumaturgy:distorted_skull.tooltip0=Common Forbidden Artifact
+item.lostthaumaturgy:inhuman_skull.name=Inhuman Skull
+item.lostthaumaturgy:inhuman_skull.tooltip0=Uncommon Forbidden Artifact
+item.lostthaumaturgy:darkened_crystal_eye.name=Darkened Crystal Eye
+item.lostthaumaturgy:darkened_crystal_eye.tooltip0=Uncommon Forbidden Artifact
+item.lostthaumaturgy:knotted_spike.name=Knotted Spike
+item.lostthaumaturgy:knotted_spike.tooltip0=Rare Forbidden Artifact
+item.lostthaumaturgy:tome_forbidden_knowledge.name=Tome of Forbidden Knowledge
+item.lostthaumaturgy:tome_forbidden_knowledge.tooltip0=Exceptional Forbidden Artifact
+item.lostthaumaturgy:taint_spores.name=Taint Spores
+item.lostthaumaturgy:taint_spores.tooltip0=Common Tainted Artifact
+item.lostthaumaturgy:tainted_organ.name=Tainted Organ
+item.lostthaumaturgy:tainted_organ.tooltip0=Common Tainted Artifact
+item.lostthaumaturgy:tainted_fruit.name=Tainted Fruit
+item.lostthaumaturgy:tainted_fruit.tooltip0=Uncommon Tainted Artifact
+item.lostthaumaturgy:tainted_branch.name=Tainted Branch
+item.lostthaumaturgy:tainted_branch.tooltip0=Uncommon Tainted Artifact
+item.lostthaumaturgy:intact_taintspore_pod.name=Intact Taintspore Pod
+item.lostthaumaturgy:intact_taintspore_pod.tooltip0=Rare Tainted Artifact
+item.lostthaumaturgy:writhing_taint_tendrils.name=Writhing Taint Tendrils
+item.lostthaumaturgy:writhing_taint_tendrils.tooltip0=Exceptional Tainted Artifact
+item.lostthaumaturgy:shard_strange_metal.name=Shard of Strange Metal
+item.lostthaumaturgy:shard_strange_metal.tooltip0=Common Eldritch Artifact
+item.lostthaumaturgy:eldritch_mechanism.name=Eldritch Mechanism
+item.lostthaumaturgy:eldritch_mechanism.tooltip0=Common Eldritch Artifact
+item.lostthaumaturgy:opalescent_eye.name=Opalescent Eye
+item.lostthaumaturgy:opalescent_eye.tooltip0=Uncommon Eldritch Artifact
+item.lostthaumaturgy:disturbing_mirror.name=Disturbing Mirror
+item.lostthaumaturgy:disturbing_mirror.tooltip0=Uncommon Eldritch Artifact
+item.lostthaumaturgy:glowing_eldritch_device.name=Glowing Eldritch Device
+item.lostthaumaturgy:glowing_eldritch_device.tooltip0=Rare Eldritch Artifact
+item.lostthaumaturgy:eldritch_repository.name=Eldritch Repository
+item.lostthaumaturgy:eldritch_repository.tooltip0=Exceptional Eldritch Artifact
+item.lostthaumaturgy:darkness_seed.name=Darkness Seed
+item.lostthaumaturgy:void_ingot.name=Void Ingot
+item.lostthaumaturgy:eldritch_keystone_inert.name=§5Inert Eldritch Keystone
+item.lostthaumaturgy:eldritch_keystone_tlhutlh.name=§dEldritch Keystone: Tlhutlh
+item.lostthaumaturgy:void_helmet.name=Void Helmet
+item.lostthaumaturgy:void_chestplate.name=Void Chestplate
+item.lostthaumaturgy:void_leggings.name=Void Leggings
+item.lostthaumaturgy:void_boots.name=Void Boots
+item.lostthaumaturgy:traveling_trunk.name=Traveling Trunk
+item.lostthaumaturgy:inert_carpet.name=Inert Carpet
+item.lostthaumaturgy:vis_detector.name=Vis Detector
+item.lostthaumaturgy:taint_detector.name=Taint Detector
+item.lostthaumaturgy:radiation_detector.name=Radiation Detector
+item.lostthaumaturgy:thaumometer.name=Thaumometer
+item.lostthaumaturgy:mithrillium_ingot.name=§3Mithrillium Ingot
+item.lostthaumaturgy:adaminite_ingot.name=§cAdaminite Ingot
+item.lostthaumaturgy:elemental_pickaxe.name=Pickaxe of the Core
+item.lostthaumaturgy:void_compass.name=Void Compass
+item.lostthaumaturgy:thaumium_axe.name=Thaumium Axe
+item.lostthaumaturgy:thaumium_hoe.name=Thaumium Hoe
+item.lostthaumaturgy:thaumium_pickaxe.name=Thaumium Pickaxe
+item.lostthaumaturgy:thaumium_shovel.name=Thaumium Shovel
+item.lostthaumaturgy:thaumium_sword.name=Thaumium Sword
+item.lostthaumaturgy:wand.name=Wand
+item.lostthaumaturgy:cap_iron.name=Iron Cap
+item.lostthaumaturgy:cap_gold.name=Gold Cap
+item.lostthaumaturgy:cap_thaumium.name=Thaumium Cap
+item.lostthaumaturgy:cap_void.name=Void Cap
+item.lostthaumaturgy:rod_silverwood.name=Silverwood Rod
+item.lostthaumaturgy:boots_striding.name=Boots of Striding
+item.lostthaumaturgy:rod_greatwood.name=Greatwood Rod
+item.lostthaumaturgy:elemental_axe.name=Axe of the Stream
+item.lostthaumaturgy:elemental_sword.name=Sword of the Zephyr
+item.lostthaumaturgy:elemental_shovel.name=Shovel of Renewal
+item.lostthaumaturgy:elemental_hoe.name=Hoe of the Mystic
+item.lostthaumaturgy:tallow.name=Tallow
+item.lostthaumaturgy:primordial_crystal.name=Primordial Crystal
+item.lostthaumaturgy:primordial_ingot.name=Primordial Ingot
+item.lostthaumaturgy:runic_essence_magic.name=Runic Essence: Magic
+item.lostthaumaturgy:runic_essence_air.name=Runic Essence: Air
+item.lostthaumaturgy:runic_essence_water.name=Runic Essence: Water
+item.lostthaumaturgy:runic_essence_earth.name=Runic Essence: Earth
+item.lostthaumaturgy:runic_essence_fire.name=Runic Essence: Fire
+item.lostthaumaturgy:runic_essence_dark.name=Runic Essence: Dark
+item.lostthaumaturgy:runic_essence_depleted.name=Runic Essence: Depleted
+item.lostthaumaturgy:runic_essence_primordial.name=Runic Essence: Primordial
+item.lostthaumaturgy:potion_primordial.name=Primordial Potion
+item.lostthaumaturgy:foci_ward.name=Wand Focus: Ward
+item.lostthaumaturgy:foci_fire.name=Wand Focus: Fire
+item.lostthaumaturgy:greatwood_door.name=Greatwood Door
+item.lostthaumaturgy:silverwood_door.name=Silverwood Door
+item.lostthaumaturgy:foci_reversal.name=Wand Focus: Reversal
+item.lostthaumaturgy:portable_hole.name=Portable Hole
+
+
+
+potion.lostthaumaturgy:magnetism=Magnetism
+potion.lostthaumaturgy:taint_corruption=Taint Corruption
+
+
+
+gui.lostthaumaturgy:click_to_read=Click to Read More
+gui.lostthaumaturgy:upgradable=Upgradable
+gui.lostthaumaturgy:not_upgradable=Not Upgradable
+
+
+
+entity.lostthaumaturgy:smart_zombie.name=Smart Zombie
+entity.lostthaumaturgy:tslime.name=Thaum Slime
+entity.lostthaumaturgy:traveling_trunk.name=Traveling Trunk
+entity.lostthaumaturgy:wisp.name=Wisp
+entity.lostthaumaturgy:golem.name=Golem
+entity.lostthaumaturgy:tainted_spider.name=Tainted Spider
+entity.lostthaumaturgy:tainted_chicken.name=Tainted Chicken
+
+
+
+lt.research_name.atmosphere=Thaumosphere
+lt.research_text.atmosphere=What surrounds you
+lt.research_desc.atmosphere=Thaumosphere is a magical field of energy that is everywhere. Some areas are energy-rich and some are poor. This energy aims to distribute equally around the world. The rare thaumosphere hole is tainted areas, they are hard to fight with and they could get very annoying.<LINE>You are going to interact with this mysterious energy sometime, but for now it doesn't exist for you.
+
+lt.research_name.researching=Researches
+lt.research_text.researching=How to discover
+lt.research_desc.researching.1=Researching things requires 3 stages<BR>Stage 1. Studium Table<LINE>You need Studium Table (recipe on next page). Put some rare items that have smelting value and look at the table until it's finished. There is a chance to get Fragments with researches.<BR>Stage 2. Auxilium Table<LINE>After you obtained Auxilium Table (recipe on next page), supply it with vis.
+lt.research_desc.researching.2=<LINE>Put some fragments of the same type in the table. The more crystals you place around (up to 27) the less fragments would be required to upgrade fragments to theories.<BR>Stage 3. Arcane Crafter<LINE>Put your theory in arcane crafter and put a wand with some vis and taint, and give it your XP (2 lvls per theory).<BR>See: <REF>wands:0</REF>
+
+lt.research_name.singularity=Arcane Singularity
+lt.research_text.singularity=Magical Black Hole
+lt.research_desc.singularity=The Arcane Singularity is a mysterious object that is so dense it actually draws entities towards it. Just throw it, but not close to your home!
+
+lt.research_name.foci_reversal=Wand Focus: Reversal
+lt.research_text.foci_reversal=Undo, please!
+lt.research_desc.foci_reversal=Dismantling upgrades wasn't as easy as it is with Wand Focus of Reversal. Just use it on thaumic machine to dismantle the upgrade.
+
+lt.research_name.crucible_eyes=Crucible of Eyes
+lt.research_text.crucible_eyes=Tracking vis overflow!
+lt.research_desc.crucible_eyes=Crucibles are a common way of getting vis. The big downside to them is that they convert nearly half potential vis into taint. You made a simple improvement to a crucible by infusing some redstone and spider eye with one. This crucible now converts more potential vis into pure vis, about 60 percent. Also this crucible is a little bit faster and holds a little more vis than it's parent.
+
+lt.research_name.crucible_thaumium=Thaumium Crucible
+lt.research_text.crucible_thaumium=More capacity!
+lt.research_desc.crucible_thaumium=Crucible of Eyes does a good job of getting more vis from objects than regular Crucible but It's time for upgrade! You found a way to improve the efficiency even more, retaining about 70 percent vis from objects. It's capacity is also improved a bit and it runs three times faster than normal Crucible.
+
+lt.research_name.crucible_void=Void Crucible
+lt.research_text.crucible_void=Empty Crucible
+lt.research_desc.crucible_void=The Thaumium Crucible is good enough but after reading some discoveries of The Eldritch in the Eldritch Repository you tried to upgrade your Thaumium Crucible even more. Void metal easily infused into the crucible on the dark infuser, using some vis and taint. It holds 1000 vis, it's speed is four times better and it's efficiency is 80 percent.
+
+lt.research_name.crystalline_bell=Crystalline Bell
+lt.research_text.crystalline_bell=A Sharp touch to a crystal
+lt.research_desc.crystalline_bell=Sometimes gathering crystals is a problem as you can't really harvest them without destroying them. Not anymore! The Crystalline Bell is a magical tool that eradicates the problem.
+
+lt.research_name.quicksilver_core=Quicksilver Core
+lt.research_text.quicksilver_core=Speed upgrade!
+lt.research_desc.quicksilver_core=The Quicksilver Core is an upgrade for some thaumic machines. It improves speed but in most cases, also increases vis usage.
+
+lt.research_name.stabilized_singularity=Stabilized Singularity
+lt.research_text.stabilized_singularity=Efficiency upgrade!
+lt.research_desc.stabilized_singularity=The Stabilized Singularity is an upgrade for some thaumic machines. It improves efficiency by decreasing vis usage.
+
+lt.research_name.concentrated_purity=Concentrated Purity
+lt.research_text.concentrated_purity=Purity upgrade!
+lt.research_desc.concentrated_purity=The Concentrated Purity is an upgrade for some thaumic devices. For example, vis filter can be used to dump vis instead of taint into thaumosphere.
+
+lt.research_name.totem_dawn=Totem of Dawn
+lt.research_text.totem_dawn=Attracting Vis
+lt.research_desc.totem_dawn=Nature provides mysterious silverwood trees that keep the nearby thaumosphere clean. But making it faster and more effective was impossible before. You found a way to purify the thaumosphere by placing a Totem of Dawn.
+
+lt.research_name.totem_twilight=Twilight Totem
+lt.research_text.totem_twilight=Attracting Taint
+lt.research_desc.totem_twilight=Destroying order in the thaumosphere is easy: spill some taint onto the ground, use vis filters etc. But creating taint without any manual work wasn't an easy job. Until now. You found a way to taintify the thaumosphere by placing a Twilight Totem.
+
+lt.research_name.infuser=Thaumic Infuser
+lt.research_text.infuser=Fusing items together
+lt.research_desc.infuser=Crafting Table has a lot of restrictions, and you can't really fuse items together, from magical perspective. You found almost perfect machine to do that: Thaumic Infuser. There are a lot of recipes that you can perform right from the start, see them on next pages.
+
+lt.research_name.crucible=Crucible
+lt.research_text.crucible=Dissolving items into vis
+lt.research_desc.crucible=Some machines require vis/taint to run. The very first way to obtain vis is crucible. Throw items that have vis cost into it and watch them transform to vis.
+
+lt.research_name.vis_conduit=Vis Conduit
+lt.research_text.vis_conduit=Transporting vis around
+lt.research_desc.vis_conduit=Placing machines next to crucible is not always convinient. Vis conduits are "magical cables". It's capacity is very small, but it should be enough, for now.
+
+lt.research_name.vis_tank=Vis Storage Tank
+lt.research_text.vis_tank=Storing vis for later
+lt.research_desc.vis_tank=Crucibles can store some vis when you don't have any conduits, but how to store more than one crucible of vis? The answer is very simple: Vis Storage Tank. It holds vis and can be stacked on top of each other.
+
+lt.research_name.arc_crafter=Arcane Crafting
+lt.research_text.arc_crafter=Magical Crafting Table
+lt.research_desc.arc_crafter=This structure allows to assemble more complex magical objects using vis from your wand.<LINE>To make yourself this device, place 2x2 of Arcane Stone Blocks and use your charged wand on any arcane stone block.
+
+lt.research_name.crystallizer=Crystallizer
+lt.research_text.crystallizer=Empowering Depleted Crystals
+lt.research_desc.crystallizer=Depleted crystals are not all that useful and it's better not to make anything with them. You found a good way to get your crystals back! The Crystallizer infuses any crystals, including depleted ones, with any primal essence.
+
+lt.research_name.void_ingot=Void Ingots
+lt.research_text.void_ingot=The 'Eldritch' Ingot
+lt.research_desc.void_ingot=Seed of Darkness sure is a strange object for a seed. It has a strong ability to retain it's form after it has been deformed. You mixed this weird seed with quicksilver and the results were quite amazing: you made a self-repairing substance. The only downside to it is that it evaporates really quickly. You tried your best to mix it with a common thaumium ingot. Void Ingots are very sturdy but can also repair themselves, but not too fast. The only downside to this metal is that it uses some vis from the thaumosphere to recover.
+
+lt.research_name.concentrated_taint=Concentrated Taint
+lt.research_text.concentrated_taint=Tainted Bottle
+lt.research_desc.concentrated_taint=While thinking about taint and ways to obtain it you have discovered a very dangerous way to collect it. You have to obtain congealed taint and fill glass bottle with it. You shouldn't make it on normal infuser, however.
+
+lt.research_name.potion_purity=Potion of Purity
+lt.research_text.potion_purity=Cures the tainted lands!
+lt.research_desc.potion_purity=Studying taint-related behavior you came across a very terrifying fact: taint is really hard to get rid of. But you didn't stop, and invented a new substance packed in a bottle. Getting rid of taint is still a pain, but at least you can temporarily get rid of it.
+
+lt.research_name.concentrated_evil=Concentrated Evil
+lt.research_text.concentrated_evil=Evil Machines
+lt.research_desc.concentrated_evil=Crazy thaumaturgists love taint, But until now your could not obtain tainted crystals by processing it in crystallizer. Not anymore! You discovered a very good upgrade to solve that and many more problems. Inserting this upgrade into crystallizer will add extra slot to it - for tainted crystals. Now you can get your much-desired crystals even easier!
+
+lt.research_name.eldritch_keystone=Eldritch Keystones
+lt.research_text.eldritch_keystone=The Eldritch Key
+lt.research_desc.eldritch_keystone=While looting one of the eldritch monoliths you've found, you saw a mystical hole for some sort of key... Discovering properties of eldritch mechanisms you made an inert keystone, but the lock would just reject it. After more studies you've come to a simple solution: infuse the inert keystone with an extract of purest magic. You hope that it is going to work...
+
+lt.research_name.darkness_seed=Darkness Seed
+lt.research_text.darkness_seed=It's evil!
+lt.research_desc.darkness_seed=Researching the eldritch artifacts opened the whole new level of stuff to achieve. It seems like mostly all eldritch things are made of something dark... You call this metal 'Void Metal'. You were able to find a base for everything void-related - Darkness Generator. You believe that if you put it next to a monolith, into a complete darkness and put some seeds, it will make the Darkness Seeds.
+
+lt.research_name.repairer=Thaumic Restorer
+lt.research_text.repairer=Time for another repair!
+lt.research_desc.repairer=Every tool breaks eventually... Your knowledge has allowed you to channel vis to reconstuct your tools/weapons. The Thaumic Restorer repairs your weapons, tools, armor and power items using liquid vis, Making it one of the most essential pieces of thaumic machinery.
+
+lt.research_name.vis_purifier=Vis Purifier
+lt.research_text.vis_purifier=Destroying the taint
+lt.research_desc.vis_purifier=Taint is nearly useless and can sometimes cause an explosion to unprepared tanks. You were previously using Vis Filters to "clean" your tanks, but it taintified your thaumosphere. You made something similar to vis filters - Vis Purifiers. It destroys taint completely given some time.
+
+lt.research_name.elemental_pickaxe=Pickaxe of the Core
+lt.research_text.elemental_pickaxe=X-Ray Pickaxe
+lt.research_desc.elemental_pickaxe=The Thaumium Pickaxe is as tough as iron and has a good potential for enchanting, but mining rare stuff with it isn't that easy. By attaching some fiery crystals and upgrading the handle using enchanted wood you made The Pickaxe of the Core. It can find you some great treasures, just use it in a cave.
+
+lt.research_name.elemental_axe=Axe of the Stream
+lt.research_text.elemental_axe=Treecapitator Axe
+lt.research_desc.elemental_axe=Chopping down tall trees in this world is a hassle with no gravity. But luckily you found a interesting tool that uses magical streams to chop the highest points of the tree. You called this tool the Axe of the Stream
+
+lt.research_name.elemental_shovel=Shovel of Renewal
+lt.research_text.elemental_shovel=Good against taint!
+lt.research_desc.elemental_shovel=Digging big areas is a problem with regular shovels. Your researches lead you to something: Shovel of Renewal. While it digs some materials it also can act like bone meal and it cleans taint better than any other tool.
+
+lt.research_name.elemental_sword=Sword of the Zephyr
+lt.research_text.elemental_sword=Into the air!
+lt.research_desc.elemental_sword=Your dream to fly has come true! Sword of the Zephyr is a magical sword that pushes you when you use it. It also has a special ability to target up to five enemies when you attack one of them. While the sword is in your hand it also nulifies fall damage.
+
+lt.research_name.elemental_hoe=Hoe of the Mystic
+lt.research_text.elemental_hoe=Make a big farm in few moments!
+lt.research_desc.elemental_hoe=Making huge farms could sometimes take a while (and a lot of hoes). This hoe is capable of tilling a huge area around the center.
+
+lt.research_name.reinforced_vis_tank=Reinforced Vis Tank
+lt.research_text.reinforced_vis_tank=Extra-Big Vis Storage
+lt.research_desc.reinforced_vis_tank=Researching more properties of silverwood and thaumium, you discovered Reinforced Vis Tanks. This is an improvement for silverwood vis tank and stores up to 1000 vis.
+
+lt.research_name.silverwood_vis_tank=Silverwood Vis Tank
+lt.research_text.silverwood_vis_tank=Protected Vis Storage
+lt.research_desc.silverwood_vis_tank=Researching some properties of silverwood, you discovered that, in fact, it is resistant to taint. You thought that upgrading your vis storage tank would be worth it. And it is! Silverwood Vis Tanks are a good improvement to your old vis tanks. It doesn't explode when overloaded by taint and stores up to 750 vis.
+
+lt.research_name.conduit_silverwood=Silverwood Vis Conduit
+lt.research_text.conduit_silverwood='Superconductive'
+lt.research_desc.conduit_silverwood=Vis Conduits are the main way to transport Vis and/or Taint, but sometimes that might not be enough. For example, if you need to transport vis over great distances you might need a faster speed for it. It seems like you found a good way to improve vis conduits. Infusing a vis conduit with enchanted silverwood is going to do it.
+
+lt.research_name.conduit_thaumium=Thaumium Vis Conduit
+lt.research_text.conduit_thaumium='Hyperconductive'
+lt.research_desc.conduit_thaumium=You found da wae to upgrade silverwood vis conduits ever further using thaumium metal. It seems that these conduits can hold twice more than their parent.
+
+lt.research_name.pressurized_conduit=Pressurized Conduit
+lt.research_text.pressurized_conduit=Measuring Suction!
+lt.research_desc.pressurized_conduit=You wanted to trigger some redstone when your machines create suction. Pressurized Conduit are your attempt to do it.
+
+lt.research_name.vis_pump=Vis Pump
+lt.research_text.vis_pump=Making suction last longer!
+lt.research_desc.vis_pump=Thaumic machines create suction when they are active. This suction can't go forever and you have to make vis flow to them. Vis pump is exactly what you need. It creates suction on the animated part and outputs vis to the opposite side. This is good for transporting vis over great distance. Vis pumps could also be improved with Arcane Bellows.
+
+lt.research_name.thaumium_vis_pump=Thaumium Vis Pump
+lt.research_text.thaumium_vis_pump=Making suction last even longer!
+lt.research_desc.thaumium_vis_pump=The Thaumium Vis Pump is a good attempt to upgrade your Vis Pump. It transports vis over greater distances, up to 50 blocks!
+
+lt.research_name.bellows=Arcane Bellows
+lt.research_text.bellows=Accelerating the air
+lt.research_desc.bellows=Sometimes your tanks need better suction. Arcane Bellows when placed facing to the tank will increase the suction by ten points.
+
+lt.research_name.thaumium_bellows=Thaumium Bellows
+lt.research_text.thaumium_bellows=Even faster!
+lt.research_desc.thaumium_bellows=Arcane Bellows are useful for upgrading some of your machines. Thaumium Reinforced Bellows improve the suction up to 25, from 10.
+
+lt.research_name.vis_valve=Vis Valve
+lt.research_text.vis_valve=Controlling the vis!
+lt.research_desc.vis_valve=Sometimes conduits have to use valve so vis can't flow through the pipe. Vis Valve acts like a conduit that can prevent vis from flowing through it and can be toggled with redstone signal.
+
+lt.research_name.advanced_vis_valve=Advanced Vis Valve
+lt.research_text.advanced_vis_valve=Better Control over vis!
+lt.research_desc.advanced_vis_valve=Vis Valves are good at stopping vis going through, but they aren't flexible enough. You have invented Advanced Vis Valve - A more usable version of the valve. It has 3 modes: off, vis-only and taint-only.
+
+lt.research_name.minerals=Ores and Crystals
+lt.research_text.minerals=What could be found in caves?
+lt.research_desc.minerals.1=Vis Crystals are powerful natural energy source. They slowly regenerate thaumosphere if there is too much taint. You can find those in caves:<IMG>lostthaumaturgy:textures/gui/book/research2.png:0:0:256:256:0.4</IMG>
+lt.research_desc.minerals.2=<LINE>Some of your future researches might involve quicksilver. It is mined as cinnabar ore and then smelted in the furnace. It is found deep and rare and looks something like this:<IMG>lostthaumaturgy:textures/gui/book/research3.png:0:0:162:162:0.6</IMG>
+lt.research_desc.minerals.3=<LINE>Also, to start researching you are definitely going to need a few Topaz crystals. They are not an ore but rather an artifact to mine from stone. It's level is from 16 to 24 inclusive (approx. 1 Topaz per 75 stone mined):<IMG>lostthaumaturgy:textures/gui/book/research3.png:162:163:92:92:1.0</IMG>
+
+lt.research_name.void_compass=Void Compass
+lt.research_text.void_compass=Points to a monolith
+lt.research_desc.void_compass=These mysterious monoliths emit so much energy that one can make a compass that will point to a monolith ignoring distance. This Void Compass reacts to the nearest monolith around.
+
+lt.research_name.monolith=Monoliths
+lt.research_text.monolith=Eldritch Buildings
+lt.research_desc.monolith.1=Monoliths are rare eldritch buildings that seem to have existed forever. They seem to emit strong energy of the void... Maybe goggles would help? Or maybe it has something bigger hiding behind these strange building... Those 4 'keyholes' seem to react to crystals, somehow.
+lt.research_desc.monolith.2=<IMG>lostthaumaturgy:textures/gui/book/monolith.png:0:0:256:256:0.4</IMG>
+
+lt.research_name.primordial_crystal=Primordial Crystal
+lt.research_text.primordial_crystal=The energy of everything
+lt.research_desc.primordial_crystal=You found a really strange energy... It looks like a pulsating energy, while your machines emit radiation. It does seem like it forged in the universe without anything else... You found a way to absorb this energy and fill a few crystals with it.
+
+lt.research_name.primordial_potion=Primordial Potion
+lt.research_text.primordial_potion=Balancing nature!
+lt.research_desc.primordial_potion=This brand new energy infused within a crystal is so powerful that it can transform radiation into primordial waves plus vis and taint. It seems to be a good idea to brew a potion with the crystal.
+
+lt.research_name.primordial_ingot=Primordial Ingot
+lt.research_text.primordial_ingot=An 'Abstract' Ingot
+lt.research_desc.primordial_ingot=This crystal seems to be flexible and easily infusable with void ingot. The new ingot shines with primordial energy and changes it's colors. It's wonderful.
+
+lt.research_name.wands=Wands
+lt.research_text.wands=Magical Multi-Tool
+lt.research_desc.wands=Wands are used in lots of operations from wand foci to arcane crafting. This branch of Thaumaturgy gives you access to different wand foci.<LINE>To make better wands you are going to need Wand Constructor (recipe on the next page). Put 2 caps and one rod AND supply constructor with vis to make a wand. See: <REF>vis_conduit:0</REF>
+
+lt.research_name.foci_fire=Wand Foci: Fire
+lt.research_text.foci_fire=Let your enemies burn!
+lt.research_desc.foci_fire=Fire Focus emits a beam of fire that ignites anyone you look at. It uses a bit of vis and taint to keep up the beam.
+
+lt.research_name.foci_ward=Wand Foci: Ward
+lt.research_text.foci_ward=Protecting your stuff
+lt.research_desc.foci_ward=Warding Focus creates a cube of protection around the block. It is smart enough to prevent anybody except the owner to interact with the block in any way.
+
+lt.research_name.goggles_of_revealing=Goggles of Revealing
+lt.research_text.goggles_of_revealing=I see everything!
+lt.research_desc.goggles_of_revealing=This thaumosphere is not balanced between certain areas and you want to live in the purest area nearby.<LINE>Goggles of Revealing show everything about thaumosphere around you. You might see what you don't want to...
+
+lt.research_name.boots_striding=Boots of Striding
+lt.research_text.boots_striding=Faster than air!
+lt.research_desc.boots_striding=Once while traveling you thought what if you could run faster, jump higher, and walk one block up wihout jumping... When you came home you started research and discovered something new. Boots of Striding are excellent tool for explorers, the only problem is that is breaks very fast - like leather boots.
+
+lt.research_name.mithrillium_ingot=Mithrillium Ingots
+lt.research_text.mithrillium_ingot=Is it better than The Universe?
+lt.research_desc.mithrillium_ingot=The discovery of Primordial Ingots was a huge success but the is not much practical use for those ingots. You thought to improve them even more and it seems that this ingot is much more powerful than it seems...
+
+lt.research_name.plants=Plants
+lt.research_text.plants=Organical Stuff
+lt.research_desc.plants.1=Greatwood is an uncommon tree to find. It is good for infusing with crystals to get 1 more enchanted wood. But if you aren't lucky with the thaumosphere you can't grow it yourself you may need Concentrated Vis to boost your vis levels to at least 5K. <IMG>lostthaumaturgy:textures/gui/book/research1.png:129:129:126:126:0.8</IMG>
+lt.research_desc.plants.2=Shimmerleaf could be found under silverwood trees in a small group. It has a number of uses that you may need it for. <IMG>lostthaumaturgy:textures/gui/book/research1.png:132:4:120:120:0.8</IMG>
+lt.research_desc.plants.3=Cinderpearl can be useful for potion brewing and other tasks where you need blazing powder. It's pod contains the powder itself. Perharps it is an organic version of the same thing? <IMG>lostthaumaturgy:textures/gui/book/research1.png:2:2:123:123:0.8</IMG>
+lt.research_desc.plants.4=Silverwood is a rare tree to find. It can be used for a lot of things taint-related and not only. It is also a good idea not to cut the tree brcause it slowly regenerates thaumosphere. <IMG>lostthaumaturgy:textures/gui/book/research1.png:1:129:126:126:0.8</IMG>
+
+lt.research_name.vis_filter=Vis Filter
+lt.research_text.vis_filter=Pollution is real!
+lt.research_desc.vis_filter=<REF>vis_tank</REF>store a lot of vis and/or taint. But if the taint levels get too high it is going to explode. You had to make any machine that uses taint to work, and Vis Filter was your first invention. It is capable of consuming taint and dispersing it into thaumosphere. Honestly this isn't a very good idea.
+
+lt.research_name.vis_condenser=Vis Condenser
+lt.research_text.vis_condenser=Depleting the thaumosphere!
+lt.research_desc.vis_condenser=<REF>crucible</REF>is a good and fast way to get vis. The side effect of any sane crucible is taint. Since taint is not very useful for you, you decided to invent a new generator that makes pure vis. The best place to look for vis was your surroundings: <REF>atmosphere</REF>The power required to convert wispy vis into liquid seems to be inside crystals. However this process is slow and crystals will eventually deplete.
+
+lt.research_name.duplicator=Thaumic Duplicator
+lt.research_text.duplicator=My diamond got a clone!
+lt.research_desc.duplicator=After burning all your precious items, well, you don't have them anymore... Plus you wanted to solidify your vis into something more transportable. Thaumic Duplicator does a good job of making a copy to any item. The vis usage however is 5x, this means that you need 5 times more vis to reconstruct your item than it costs.
+
+lt.research_name.dark_infuser=Dark Infuser
+lt.research_text.dark_infuser=The cause of everything dark
+lt.research_desc.dark_infuser=<REF>infuser</REF>is a good device to fuse objects together, but it doesn't seem to work with evil stuff. The decision was made: invent a new, alternative infuser to do exactly that. This device is capable of fusing dark items to get some useful stuff.
+
+lt.research_name.soul_fragment=Soul Fragment
+lt.research_text.soul_fragment=Not stolen from a pig!
+lt.research_desc.soul_fragment=Dark infuser has a lot of abilities it seems... One of the first things you could do is Soul Fragment. It seems that Soul Sand awakens while crafting this thing...
+
+lt.research_name.elgenerator=Generator
+lt.research_text.elgenerator=Unequivalent energy exchange
+lt.research_desc.elgenerator=There is a technological "power" systems wich require RF or FE etc. Thaumaturgy can offer a generator for some energy systems. This device uses vis to charge it's buffer and then to convert the buffer into electricity.
+
+lt.research_name.traveling_trunk=Traveling Trunk
+lt.research_text.traveling_trunk=Annoying traveling chest
+lt.research_desc.traveling_trunk=Sometimes 45 slots for the inventory is not enough. This didn't stop you however. You discovered a fancy new chest that can contain some of your items and can travel with you.
+
+lt.research_name.nitor=Nitor
+lt.research_text.nitor=A Mystical Light
+lt.research_desc.nitor=Torches are all good 'n stuff but the look.. overused. Inventing a new, fancy light source wasn't a hard task. Your 'light of the future' is nitor, an everlasting light source.
+
+lt.research_name.everful_urn=Everful Urn
+lt.research_text.everful_urn=Filled to the top!
+lt.research_desc.everful_urn=Infinite water sources are not fancy and can mess with your piping. This small urn can fill one's fluid container with water. What goes for pipes? You CAN connect fluid pipes to it, but only from the top side. <LINE>When urn empties one bucket, it will charge thaumosphere with little taint potential of about one percent. Also, don't overuse it, or your thaumosphere is dead!
+lt.research_desc.everful_urn.botania=Infinite water sources are not fancy and can mess with your piping. This small urn can fill one's fluid container with water. What goes for pipes? You CAN connect fluid pipes to it, but only from the top side. You also believe that it can fill Botania's Petal Apothecary... <LINE>When urn empties one bucket, it will charge thaumosphere with little taint potential of about one percent. Also, don't overuse it, or your thaumosphere is dead!
+
+lt.research_name.portable_hole=Portable Hole
+lt.research_text.portable_hole=No obstruction!
+lt.research_desc.portable_hole=Sometimes you have to pass through a wall without breaking it. Arcane singularity seems to be able to open a fourth dimension - an actual link between two endpoints. It has a limited use but can be repaired. It's also enchantable with unbreaking.
+
+
+
+bookapi.lostthaumaturgy:thaumonomicon:basics=Basics
+bookapi.lostthaumaturgy:thaumonomicon:thaumaturgy=Thaumaturgy
+bookapi.lostthaumaturgy:thaumonomicon:lost_knowledge=Lost Knowledge
+bookapi.lostthaumaturgy:thaumonomicon:eldritch=Eldritch Knowledge
+bookapi.lostthaumaturgy:thaumonomicon:forbidden=Forbidden Knowledge
+bookapi.lostthaumaturgy:thaumonomicon:tainted=Tainted Knowledge
+bookapi.lostthaumaturgy:thaumonomicon:primordial=Primordial Knowledge
+bookapi.lostthaumaturgy:thaumonomicon:undefined=???
+
+
+
+advancement.lostthaumaturgy:aura/root=Lost Thaumaturgy: Thaumosphere
+advancement.lostthaumaturgy:aura/root.desc=This is where all troubles begin...
+
+advancement.lostthaumaturgy:aura/findTaintedLand=Thaumosphere Catastrophe
+advancement.lostthaumaturgy:aura/findTaintedLand.desc=Find or make a tainted area
+
+advancement.lostthaumaturgy:aura/makeVisCondenser=Capturing Vis
+advancement.lostthaumaturgy:aura/makeVisCondenser.desc=Make a Vis Condenser
+
+advancement.lostthaumaturgy:aura/makeVisFilter=Releasing Taint
+advancement.lostthaumaturgy:aura/makeVisFilter.desc=Make a Vis Filter
+
+
+
+key.category.lostthaumaturgy=Lost Thaumaturgy
+key.lostthaumaturgy.foci=Change Wand Focus
+
+
+
+wand.rod.wood=Wood
+wand.rod.greatwood=Greatwood
+wand.rod.silverwood=Silverwood
+wand.cap.iron=Iron
+wand.cap.gold=Gold
+wand.cap.thaumium=Thaumium
+wand.cap.void=Void Metal
+
+
+
+lt.researchmissing=Missing Research
+recipe.type.workbench=Crafting
+recipe.type.workbenchshapeless=Crafting (Shapeless)
+recipe.type.infusion=Thaumic Infuser
+recipe.type.fuser=Arcane Crafter
+recipe.type.infusion.dark=Dark Infuser
+recipe.type.construct=Mystical Construct
+recipe.type.smelting=Smelting
+recipe.clickthrough=Click to View Recipe
+recipe.return=Back
+
+
+
+chat.lostthaumaturgy:generator_sadness=You feel Pengu's sadness caused by Kenijey...
+chat.lostthaumaturgy:not_my_master=You are not my master!
+chat.lostthaumaturgy:trunk_stay=The trunk will remain here.
+chat.lostthaumaturgy:trunk_follow=The trunk will now follow you.
+chat.lostthaumaturgy:vis_detector=Detected %s Vis.
+chat.lostthaumaturgy:taint_detector=Detected %s Taint.
+chat.lostthaumaturgy:thaumometer=Detected %s Taint and %s Vis.
+chat.lostthaumaturgy:insanity.increase=%s You feel a little bit more insane...
