@@ -1,0 +1,70 @@
+itemGroup.compactmachines3=Compact Machines 2
+
+tile.compactmachines3.machine.tiny.name=Крошечный компактный механизм
+tile.compactmachines3.machine.small.name=Маленький компактный механизм
+tile.compactmachines3.machine.normal.name=Средний компактный механизм
+tile.compactmachines3.machine.large.name=Большой компактный механизм
+tile.compactmachines3.machine.giant.name=Гигантский компактный механизм
+tile.compactmachines3.machine.maximum.name=Максимальный компактный механизм
+
+tile.compactmachines3.tunnel.name=Туннель
+tile.compactmachines3.wallbreakable.name=Стена компактного механизма
+tile.compactmachines3.wall.name=Твёрдая стена компактного механизма
+
+item.compactmachines3.psd.name=Личное устройство сжатия
+item.compactmachines3.tunneltool.name=Туннель
+
+item.compactmachines3.psd.spawnpoint_set=Entry point set!
+
+tooltip.compactmachines3.machine.coords=Механизм #%d
+tooltip.compactmachines3.machine.coords.unused=Неиспользуемый
+
+tooltip.compactmachines3.psd.hint=Used as documentation and to enter Compact Machines.
+tooltip.compactmachines3.tunneltool.hint=Used to connect Wall blocks with outside Compact Machine faces.
+tooltip.compactmachines3.wall.hint=Warning! Unbreakable for non-creative players!
+tooltip.compactmachines3.machine.hint=A %s provides a %s room.
+
+tooltip.compactmachines3.jei.crafting_trigger=Throw this into the shrinking zone to start the crafting.
+tooltip.compactmachines3.jei.shape=Use these to build the multiblock
+
+compactmachines3.jei.category.multiblock_miniaturization=Multiblock Miniaturization
+
+
+enumfacing.side=Side: %s
+enumfacing.up=Верх
+enumfacing.down=Низ
+enumfacing.north=Север
+enumfacing.south=Юг
+enumfacing.west=Запад
+enumfacing.east=Восток
+
+
+commands.compactmachines3.usage=/compactmachines3 [subcommand, leave empty for list of commands]
+
+commands.compactmachines3.available=Доступные подкоманды:
+commands.compactmachines3.denied=You do not have the permission to use this command.
+
+commands.compactmachines3.schema.description=Save/load the contents of machines
+commands.compactmachines3.schema.save.usage=/compactmachines3 schema save <name>
+commands.compactmachines3.schema.save.description=Saves the machine you are in to disk
+commands.compactmachines3.schema.save.exception.not_in_machine_dimension=You must be in the machine dimension for this command to work.
+commands.compactmachines3.schema.save.exception.invalid_file=Could not open file '%s' for writing! Schema is not saved!
+commands.compactmachines3.schema.save.exception.not_serializable=Could not serialize machine! Schema is not saved!
+
+commands.compactmachines3.schema.load.usage=/compactmachines3 schema load <name>
+commands.compactmachines3.schema.load.description=Loads the specified schema from disk and places it in the room you are in.
+commands.compactmachines3.schema.load.exception.not_in_machine_dimension=You must be in the machine dimension for this command to work.
+commands.compactmachines3.schema.load.exception.invalid_file=Invalid schema. File '%s' does not exist or is invalid!
+commands.compactmachines3.schema.load.exception.not_deserializable=Could not deserialize schema! Schema is not loaded!
+
+commands.compactmachines3.recipe.description=Stuff related to Multiblock Miniaturization recipes
+commands.compactmachines3.recipe.unpack-defaults.usage=/compactmachines3 recipe unpack-defaults [force]
+commands.compactmachines3.recipe.unpack-defaults.description=Extract the default recipes from the .jar to the config folder. Append "force" to overwrite existing files.
+
+gui.compactmachines3.psd.welcome.intro=Compact Machines 2 allows you to build<br/>complex machine contraptions within a single<br/>block!<br/><br/>Available chapters:
+
+gui.compactmachines3.psd.machines.label=Compact Machines
+gui.compactmachines3.psd.machines.intro=Compact Machines are the core mechanic of<br/>this mod. They allow you to build large rooms<br/>in a single block space connected to the<br/>outside world.<br/><br/>They come in various sizes ranging from<br/>3x3x3 to 13x13x13.<br/><br/>You can use Tunnels to connect the outside<br/>block faces with any of the inside walls to<br/>transport items, fluids etc.<br/><br/>You can enter a Compact Machine by right-<br/>clicking it with a charged Personal Shrinking<br/>Device.<br/><br/>Please use JEI to look up crafting recipes.
+
+gui.compactmachines3.psd.tunnels.label=Tunnels
+gui.compactmachines3.psd.tunnels.intro=Tunnels are used to connect inside wall<br/>faces to outside block faces.<br/>Only one connection for each outside face,<br/>this means a total of 6 tunnels per machine.<br/><br/>Right click a Compact Machine Wall with a<br/>Tunnel Tool to place a tunnel. Right click it<br/>again to cycle through the outside faces it<br/>is connected to.<br/><br/>Tunnels are using the Forge Capability<br/>system to "connect" the two blocks. Other<br/>mods need to use this system for tunnels to<br/>work properly.<br/>This is the case for most storage, but<br/>rarely for multiblock systems, so expect<br/>some pipes etc to not work as expected.

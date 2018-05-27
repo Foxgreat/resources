@@ -2,19 +2,12 @@
 
 itemGroup.twilightForest=Twilight Forest
 
+# ADVANCEMENTS
 advancement.twilightforest.desc=Enter the mysterious magical woodlands; the Twilight Forest.
 
-advancement.twilight_magic_map_focus=With Fire It Writes
-advancement.twilight_magic_map_focus.desc=Craft the magic map focus with a raven's feather, glowstone dust, and torchberries.
-
-advancement.twilight_hunter=The Silence of the Forest
-advancement.twilight_hunter.desc=Hunt some of the local wildlife.
-advancement.twilight_kill_naga=Time To Even The Scales
-advancement.twilight_kill_naga.desc=Slay the naga in its forest courtyard and obtain a Naga Scale to overcome the barrier magic surrounding the Lich's Tower.
-advancement.twilight_kill_lich=Bring Out Your Dead
-advancement.twilight_kill_lich.desc=Slay the Lich at the top of his tower and retrieve a Scepter to clear the poisonous mosquitoes from the swamp.
-advancement.twilight_kill_hydra=Hydra Slayer
-advancement.twilight_kill_hydra.desc=Defeat the mighty hydra and empower yourself to see through the blinding darkness of the Dark Forest's curse.
+# General progression
+advancement.twilight_hedge=Bug Stomper
+advancement.twilight_hedge.desc=Defeat a spider in a hedge maze.
 
 advancement.twilight_hill1=The Boots Are Mine!
 advancement.twilight_hill1.desc=Defeat a redcap goblin in a small hollow hill.
@@ -23,6 +16,53 @@ advancement.twilight_hill2.desc=Defeat a redcap sapper in a medium hollow hill.
 advancement.twilight_hill3=I See Right Through You
 advancement.twilight_hill3.desc=Defeat a twilight wraith in a large hollow hill.
 
+advancement.twilight_quest_ram=Consummate Baaahs
+advancement.twilight_quest_ram.desc=Give the Quest Ram what it is missing.
+
+# Map
+advancement.twilight_magic_map_focus=With Fire It Writes
+advancement.twilight_magic_map_focus.desc=Craft the magic map focus with a raven's feather, glowstone dust, and torchberries.
+advancement.twilight_magic_map=I Can See For Miles
+advancement.twilight_magic_map.desc=Craft the magic map.
+advancement.twilight_maze_map=And Now, to Find the Exit
+advancement.twilight_maze_map.desc=Craft the maze map after obtaining the focus from the labyrinth.
+advancement.twilight_ore_map=How Can That Be Worth It?
+advancement.twilight_ore_map.desc=Craft the maze/ore map.
+
+# Mainline beginning progression
+advancement.twilight_hunter=The Silence of the Forest
+advancement.twilight_hunter.desc=Hunt some of the local wildlife.
+
+advancement.twilight_kill_naga=Time To Even The Scales
+advancement.twilight_kill_naga.desc=Slay the naga in its forest courtyard and obtain a Naga Scale to overcome the barrier magic surrounding the Lich's Tower.
+advancement.twilight_naga_armors=Naga Armorer
+advancement.twilight_naga_armors.desc=Craft both naga scale chest and leg armor.
+
+advancement.twilight_kill_lich=Bring Out Your Dead
+advancement.twilight_kill_lich.desc=Slay the Lich at top of his tower and retrieve a Scepter to clear poisonous mosquitoes from the swamp, see through blinding darkness of the Dark Forest's curse, and resist the snow forest's chill.
+advancement.twilight_lich_scepters=By Our Powers Combined!
+advancement.twilight_lich_scepters.desc=Acquire all three scepters of power.
+
+# Swamp Progression
+advancement.twilight_progress_labyrinth=Mighty Stroganoff
+advancement.twilight_progress_labyrinth.desc=The meat & mushroom stew pleasantly warms you, enough so that that you feel you're acclimatised enough to venture into the Fire Swamp.
+advancement.twilight_kill_hydra=Hydra Slayer
+advancement.twilight_kill_hydra.desc=Defeat the mighty hydra and empower yourself.
+advancement.twilight_mazebreaker=Breaking the Maze
+advancement.twilight_mazebreaker.desc=Find the Mazebreaker pickaxe in the secret labyrinth vault.
+advancement.twilight_hydra_chop=Hydra Chop, Baby!
+advancement.twilight_hydra_chop.desc=Chow down on some overpowered hydra meat when your food bar is empty.
+
+# Dark Forest Progression
+advancement.twilight_progress_trophy_pedestal=Trophied Champion
+advancement.twilight_progress_trophy_pedestal.desc=Claim your title by placing a trophy on the pedestal in the dark forest ruins.
+advancement.twilight_progress_knights=Carminite Acclimation
+advancement.twilight_progress_knights.desc=Settle the restless phantoms in the Knight's Tomb and the carminite tower's devices will obey you.
+advancement.twilight_ghast_trap=Something Strange in Towerwood
+advancement.twilight_ghast_trap.desc=Slay the Ghastlings around a Ghast Trap and activate to wrench the Ur-Ghast from the sky!
+advancement.twilight_progress_urghast=Tears of Fire
+advancement.twilight_progress_urghast.desc=Touch the fiery red tears of the Ur-ghast.
+
 advancement.twilight_experiment_115=Mystery Meat?
 advancement.twilight_experiment_115.desc=It looks like cake, though...
 advancement.twilight_experiment_115_2=Making a note: Huge Success!
@@ -30,57 +70,32 @@ advancement.twilight_experiment_115_2.desc=It's so delicious and moist!
 advancement.twilight_experiment_115_3=Eating 115 Everyday, 115 Years, Forever
 advancement.twilight_experiment_115_3.desc=eating experiment one-hundred-fifteen all day, forever, one-hundred-fifteen times experiment one-hundred-fifteen, experiment one-hundred-fifteen dot com, double-u double-u double-u dot experiment one-hundred-fifteen dot com, one-hundred-fifteen years, every minute experiment one-hundred-fifteen dot com, double-u double-u double-u dot one-hundred-fifteen times experiment one-hundred-fifteen dot com
 
+# Snow Forest Progression
+advancement.twilight_progress_yeti=Alpha Fur
+advancement.twilight_progress_yeti.desc=Line your garments with the soft fur from the alpha yeti, keeping you safe from the glacier's cold.
+advancement.twilight_progress_glacier=Clear Skies
+advancement.twilight_progress_glacier.desc=Defeat the Snow Queen atop the Aurora Palace.
+advancement.twilight_arctic_dyed=Getting in Fashion
+advancement.twilight_arctic_dyed.desc=Dye all four pieces of Arctic Armor.
+
+# Mid-way Misc. Stuff
 advancement.twilight_glass_sword=One Hit Wonder
 advancement.twilight_glass_sword.desc=Hope you made good use of that.
-
-advancement.twilight_hydra_chop=Hydra Chop, Baby!
-advancement.twilight_hydra_chop.desc=Chow down on some overpowered hydra meat when your food bar is empty.
 
 advancement.twilight_dining=We Dine At Eternal Sundown
 advancement.twilight_dining.desc=Eat ALL of the Food exclusive to the Twilight Forest.
 
-advancement.twilight_ghast_trap=Something Strange in Towerwood
-advancement.twilight_ghast_trap.desc=Slay the Ghastlings around a Ghast Trap and activate to wrench the Ur-Ghast from the sky!
-
-advancement.twilight_arctic_dyed=Getting in Fashion
-advancement.twilight_arctic_dyed.desc=Dye all four pieces of Arctic Armor.
-
-advancement.twilight_naga_armors=Naga Armorer
-advancement.twilight_naga_armors.desc=Craft both naga scale chest and leg armor.
-advancement.twilight_lich_scepters=By Our Powers Combined!
-advancement.twilight_lich_scepters.desc=Acquire all three scepters of power.
-advancement.twilight_hedge=Bug Stomper
-advancement.twilight_hedge.desc=Defeat a spider in a hedge maze.
-advancement.twilight_magic_map=I Can See For Miles
-advancement.twilight_magic_map.desc=Craft the magic map.
-advancement.twilight_maze_map=And Now, to Find the Exit
-advancement.twilight_maze_map.desc=Craft the maze map after obtaining the focus from the labyrinth.
-advancement.twilight_ore_map=How Can That Be Worth It?
-advancement.twilight_ore_map.desc=Craft the maze/ore map.
-advancement.twilight_mazebreaker=Breaking the Maze
-advancement.twilight_mazebreaker.desc=Find the Mazebreaker pickaxe in the secret labyrinth vault.
 advancement.twilight_fiery_set=Gallons of Blood and Tears
 advancement.twilight_fiery_set.desc=Wield a fiery tool or weapon while wearing at least one piece of fiery armor.
-advancement.twilight_quest_ram=Consummate Baaahs
-advancement.twilight_quest_ram.desc=Give the Quest Ram what it is missing.
 
-advancement.twilight_progress_labyrinth=Mighty Stroganoff
-advancement.twilight_progress_labyrinth.desc=The meat & musroom stew pleasantly warms you, enough so that that you feel you're acclimatised enough to venture into the Fire Swamp.
-advancement.twilight_progress_trophy_pedestal=Trophied Champion
-advancement.twilight_progress_trophy_pedestal.desc=Claim your title by placing a trophy on the pedestal in the dark forest ruins.
-advancement.twilight_progress_knights=Carminite Acclimation
-advancement.twilight_progress_knights.desc=Settle the restless phantoms in the Knight's Tomb and the carminite tower's devices will obey you.
-advancement.twilight_progress_urghast=Tears of Fire
-advancement.twilight_progress_urghast.desc=Touch the fiery red tears of the Ur-ghast, allowing you to resist the snow forest's chill.
-advancement.twilight_progress_yeti=Alpha Fur
-advancement.twilight_progress_yeti.desc=Line your garments with the soft fur from the alpha yeti, keeping you safe from the glacier's cold.
-advancement.twilight_progress_glacier=Clear Skies
-advancement.twilight_progress_glacier.desc=Defeat the Snow Queen atop the Aurora Palace, clearing away the acid rain from the highlands.
+# Highlands
+advancement.twilight_progress_merge=Ultimate Showdown
+advancement.twilight_progress_merge.desc=Slay the Hydra, Ur-Ghast, and Snow Queen to clear the acid rain and embolden yourself for the Highlands.
 advancement.twilight_progress_troll=I Wish For More Burning
 advancement.twilight_progress_troll.desc=Find the Lamp of Cinders in the troll caves, and you can burn away the thorn barriers.
-advancement.twilight_progress_thorns=Past the Thorns
+advancement.twilight_progress_thorns=Past the Thorns [NYI]
 advancement.twilight_progress_thorns.desc=Make it past the thornlands, and unlock the door of the castle.
-advancement.twilight_progress_castle=So Castle Very Wow
+advancement.twilight_progress_castle=So Castle Very Wow [NYI]
 advancement.twilight_progress_castle.desc=What could even be in that castle?!?
 
 twilightforest.trophyPedestal.ineligible=You are unworthy.
@@ -272,7 +287,7 @@ tile.BlockOfStorage.4.name=Block of Carminite
 tile.CinderFurnaceIdle.name=Cinder Furnace [NYI]
 tile.CinderLog.0.name=Cinder Log [NYI]
 tile.MiniatureStructure=Miniature %s [NYI]
-tile.SpiralBricks.name=Spiral Stone Bricks [WIP]
+tile.SpiralBricks.name=Spiral Stone Bricks
 tile.BlockOfLapisTF.name=Block Of Lapis [NYI]
 tile.EtchedNagastone.name=Etched Nagastone
 tile.NagastonePillar.name=Nagastone Pillar
@@ -497,6 +512,8 @@ entity.twilightforest.ice_crystal.name=Ice Crystal
 entity.twilightforest.apocalypse_cube.name=Apocolypse Cube [NYI]
 entity.twilightforest.adherent.name=Adherent [NYI]
 
+twilightforest.effect.frosted=Frosted
+
 twilightforest.misc.wip0=This block is a work in progress and may have bugs or unintended effects that may damage your world.
 twilightforest.misc.wip1=Use with caution.
 twilightforest.misc.nyi=This block has effects that are not yet implemented.
@@ -511,6 +528,8 @@ twilightforest.config.dimension_id=Dimension ID
 twilightforest.config.dimension_id.tooltip=What ID number to assign to the Twilight Forest dimension. Change if you are having conflicts with another mod.
 twilightforest.config.dimension_seed=Dimension Seed
 twilightforest.config.dimension_seed.tooltip=If set, this will override the normal world seed when generating parts of the Twilight Forest Dimension.
+twilightforest.config.spawn_in_tf=New Players Spawn in Twilight Forest
+twilightforest.config.spawn_in_tf.tooltip=If true, players spawning for the first time will spawn in the Twilight Forest.
 
 twilightforest.config.compat=Compatibility
 twilightforest.config.compat.tooltip=Should TF Compatibility load? Turn off if TF's Compatibility is causing crashes or if not desired.
@@ -541,6 +560,10 @@ twilightforest.config.portal_creator=Portal Creation Item
 twilightforest.config.portal_creator.tooltip=Registry String ID of item used to create the Twilight Forest Portal.
 twilightforest.config.portal_creator_meta=Portal Creation Item's Meta
 twilightforest.config.portal_creator_meta.tooltip=Meta of item used to create the Twilight Forest Portal. -1 for any metadata.
+twilightforest.config.portal_lighting=Portal Creation Lightning Fire
+twilightforest.config.portal_lighting.tooltip=Set this true if you want the lightning that zaps the portal to not set things on fire. For those who don't like fun.
+twilightforest.config.portal_return=Should Portals generate as a two-way portal
+twilightforest.config.portal_return.tooltip=If false, the return portal will require the activation item.
 
 twilightforest.config.uncrafting=Disable Uncrafting in Uncrafting Table
 twilightforest.config.uncrafting.tooltip=Disable the uncrafting function of the uncrafting table. Provided as an option when interaction with other mods produces exploitable recipes.
@@ -550,6 +573,19 @@ twilightforest.config.antibuilder_blacklist.tooltip=Anti-Builder blacklist. (dom
 
 twilightforest.config.animate_trophyitem=Rotate Trophy Heads on Item model
 twilightforest.config.animate_trophyitem.tooltip=Rotate trophy heads on item model. Has no performance impact at all. For those who don't like fun.
+
+twilightforest.config.shield_parry=Shield Parrying
+twilightforest.config.shield_parry.tooltip=We recommend downloading the Shield Parry mod for parrying, but these controls remain for without.
+twilightforest.config.parry_non_twilight=Parry non-Twilight projectiles
+twilightforest.config.parry_non_twilight.tooltip=Set to true to parry non-Twilight projectiles. We recommend downloading the Shield Parry mod instead.
+twilightforest.config.parry_window_arrow=Timing Windowspan for Arrows
+twilightforest.config.parry_window_arrow.tooltip=The amount of ticks after raising a shield that makes it OK to parry an arrow. There is 20 ticks in 1 second.
+twilightforest.config.parry_window_fireball=Timing Windowspan for Fireballs
+twilightforest.config.parry_window_fireball.tooltip=The amount of ticks after raising a shield that makes it OK to parry a fireball. There is 20 ticks in 1 second.
+twilightforest.config.parry_window_throwable=Timing Windowspan for Throwables
+twilightforest.config.parry_window_throwable.tooltip=The amount of ticks after raising a shield that makes it OK to parry a throwable. There is 20 ticks in 1 second.
+twilightforest.config.shieldParryTicksBeam=Timing Windowspan for Beams???
+twilightforest.config.shieldParryTicksBeam.tooltip=???
 
 twilightforest.config.loading_screen=Loading Screen
 twilightforest.config.loading_screen.tooltip=Client only: Controls for the Loading screen
@@ -570,38 +606,68 @@ twilightforest.config.loading_icon_tilt_pushback.tooltip=Pushback value to re-ce
 
 twilightforest.book.lichtower.1=\u00A78[[An explorer's notebook, gnawed on by monsters]]\u00A70\n\nI have begun examining the strange aura surrounding this tower. The bricks of the tower are protected by a curse, stronger than any I've seen before. The magic from the curse
 twilightforest.book.lichtower.2=is boiling off into the surrounding area.\n\nIn my homeland I would have many options for dealing with this magic, but here my supplies are limited. I shall have to research...
-twilightforest.book.lichtower.3=\u00A78[[Many entries later]]\u00A70\n\nA breakthrough!  In my journeys I sighted a huge snake-like monster in a decorated courtyard. Nearby, I picked up a worn down, discarded green scale.\n\nThe magic in the scale seems to have the
+twilightforest.book.lichtower.3=\u00A78[[Many entries later]]\u00A70\n\nA breakthrough! In my journeys I sighted a huge snake-like monster in a decorated courtyard. Nearby, I picked up a worn down, discarded green scale.\n\nThe magic in the scale seems to have the
 twilightforest.book.lichtower.4=curse-breaking properties I need, but the magic is too dim. I may need to acquire a fresher specimen, directly from the creature.
+
 twilightforest.book.labyrinth.1=\u00A78[[An explorer's notebook, written on waterproof paper]]\u00A70\n\nThe mosquitoes in this swamp are vexing, but strange. The vast majority of them seem to have no natural source, nor do they seem to have a role in the local ecology. I have begun to
 twilightforest.book.labyrinth.2=suspect that they are some kind of magical curse.\n\n\u00A78[[Next entry]]\u00A70\n\nNow that I have encountered a protection spell on the ruined labyrinth here, I consider my suspicions confirmed. Both the protection
 twilightforest.book.labyrinth.3=spell and the mosquitoes are a curse. This curse seems to have a different source from the others I have encountered. I will have to research further...\n\n\u00A78[[Next entry]]\u00A70\n\nThe curse seems to
-twilightforest.book.labyrinth.4=be of a type too powerful for one being alone to produce. several wizards working in combination would be necessary.\n\nif one of the wizards stopped contributing, the whole of the curse over the entire swamp would fall. strangely,
+twilightforest.book.labyrinth.4=be of a type too powerful for one being alone to produce. Several wizards working in combination would be necessary.\n\nIf one of the wizards stopped contributing, the whole of the curse over the entire swamp would fall. Strangely,
 twilightforest.book.labyrinth.5=my divinations do not show signs of any nearby living wizards. I did see something interesting in one of the nearby pointy-roofed towers though...
+
 twilightforest.book.hydralair.1=\u00A78[[An explorer's notebook, written on fireproof paper]]\u00A70\n\nFire is a trivial obstacle for a master explorer such as myself. I have traversed seas of fire, and swam through oceans of lava. The burning air here is an interesting variation,
 twilightforest.book.hydralair.2=but ultimately no hinderance.\n\nWhat does stop me though is that I have encountered another protection spell, this time surrounding a mighty creature that must be king of this fire swamp. This is not the first protection spell I have
 twilightforest.book.hydralair.3=encountered, and I am beginning to unravel the mysteries of how they work.\n\nIf this spell is like the others, it will be sustained by a powerful creature nearby. Surrounding the fire swamp are several wet swamps, and under those
 twilightforest.book.hydralair.4=swamps are labyrinths full of minotaurs. The logical choice to bind such a spell to would be some sort of powerful minotaur, different in some way from the others that surround it...
+
 twilightforest.book.tfstronghold.1=\u00A78[[An explorer's notebook, written on faintly glowing paper]]\u00A70\n\nThe tendrils of darkness surrounding this area are just a manifestation of a protective spell over the entire dark forest. The spell causes blindness, which is quite vexing. I have
-twilightforest.book.tfstronghold.2=seen several interesting things in the area and would like to keep exploring.\n\n\u00A78[[Next entry]]\u00A70\n\nI have found ruins in the dark forest.  They belong to a stronghold, of a type usually inhabited by knights. Rather than
+twilightforest.book.tfstronghold.2=seen several interesting things in the area and would like to keep exploring.\n\n\u00A78[[Next entry]]\u00A70\n\nI have found ruins in the dark forest. They belong to a stronghold, of a type usually inhabited by knights. Rather than
 twilightforest.book.tfstronghold.3=knights though, this stronghold is full of goblins. They wear knightly armor, but their behavior is most un-knightly.\n\n\u00A78[[Next entry]]\u00A70\n\nDeep in the ruins, I have found a pedestal. The pedestal seems to be of a type that
-twilightforest.book.tfstronghold.4=knights would place trophies on to prove their strength.\n\nKilling a powerful creature would seem to weaken the curse on the dark forest, and placing a trophy associated with the creature on the pedestal would likely grant access into the
-twilightforest.book.tfstronghold.5=main part of the stronghold.\n\nThe only creature I have seen so far seen so far of sufficient power is the many-headed beast in the fire swamp. How vexing...
+twilightforest.book.tfstronghold.4=knights would place trophies on to prove their strength.\n\Obtaining a powerful scepter would seem to weaken the curse on the dark forest, and placing a trophy associated with a powerful creature on the pedestal would likely grant access into the
+twilightforest.book.tfstronghold.5=main part of the stronghold.
+
 twilightforest.book.darktower.1=\u00A78[[An explorer's notebook that seems to have survived an explosion]]\u00A70\n\nThis tower clearly has mechanisms that are not responding to me. Their magic almost yearns to acknowledge my touch, but it cannot. It is if the devices of the tower are being
 twilightforest.book.darktower.2=suppressed by a powerful group of beings nearby.\n\n\u00A78[[Next entry]]\u00A70\n\nThe magic seems to emanate from deep within the strongholds nearby. It can't come from the goblins, as their magic is charming, but unfocused. There
 twilightforest.book.darktower.3=must still be some force still active in the strongholds.\n\n\u00A78[[Next entry]]\u00A70\n\nMy analysis indicates that it comes from several sources, operating as a group. I will head back to the stronghold after I resupply...
+
 twilightforest.book.yeticave.1=\u00A78[[An explorer's notebook, covered in frost]]\u00A70\n\nThe blizzard surrounding these snowy lands is unceasing. This is no ordinary snowfall--this is a magical phenomenon. I will have to conduct experiments to find
-twilightforest.book.yeticave.2=what is capable of causing such an effect.\n\n\u00A78[[Next entry]]\u00A70\n\nAt the center of the dark forest, where the leaves turn red and the grass dies, there is a wooden tower. The tops of the tower are affixed with
-twilightforest.book.yeticave.3=structures acting as antennae. The antennae are not the source of the snowfall, but serve merely to boost the power of the curse causing it.\n\nA blizzard this intense must be caused by a powerful creature, most likely found
-twilightforest.book.yeticave.4=near the top of the dark forest tower. Stop the creature, and the blizzard will fade.
+twilightforest.book.yeticave.2=what is capable of causing such an effect.\n\n\u00A78[[Next entry]]\u00A70\n\nThe curse seems to be of a type too powerful for one being alone to produce. Several wizards working in combination would be necessary.
+twilightforest.book.yeticave.3=If one of the wizards stopped contributing, the blizzard would calm. Strangely, my divinations do not show signs of any nearby living wizards. I did see something interesting in one of the nearby pointy-roofed towers though...
+
 twilightforest.book.icetower.1=\u00A78[[An explorer's notebook, caked in ice]]\u00A70\n\nI overcame one blizzard, only to run into this terrible ice storm atop the glacier. My explorations have shown me the splendor of an ice palace, shining with the colors of the polar aurora. It
-twilightforest.book.icetower.2=all seems protected by some sort of curse.\n\n\u00A78[[Next entry]]\u00A70\n\nI am no novice.  This curse is fed by the power of a creature nearby.  The cause of the curse surrounding the fire swamp was built off the power of the leader of the
-twilightforest.book.icetower.3=minotaurs nearby.\n\nSurrounding this glacier, there are masses of yetis.  Perhaps the yetis have some sort of leader...
+twilightforest.book.icetower.2=all seems protected by some sort of curse.\n\n\u00A78[[Next entry]]\u00A70\n\nI am no novice. This curse is fed by the power of a creature nearby. The cause of the curse surrounding the fire swamp was built off the power of the leader of the
+twilightforest.book.icetower.3=minotaurs nearby.\n\nSurrounding this glacier, there are masses of yetis. Perhaps the yetis have some sort of leader...
+
 twilightforest.book.trollcave.1=\u00A78[[An explorer's notebook, damaged by acid]]\u00A70\n\nThere seems to be no way to protect myself from the toxic rainstorm surrounding this area. In my brief excursions, I have also encountered another protection spell, similar to the
-twilightforest.book.trollcave.2=others I have witnessed. The spell must be connected to the toxic storm in some way. Further research to follow...\n\n\u00A78[[Next entry]]\u00A70\n\nSuch supreme weather magic must be the result of an unequaled weather
-twilightforest.book.trollcave.3=magician. Such a person would likely hide themselves in an extreme environment, far away.\n\nBased on my logic, I would expect to find such a person somewhere on the glacier, perhaps in some sort of fortress there...
-twilightforest.book.unknown.1=\u00A78[[This book shows signs of having been copied many times]]\u00A70\n\nI cannot explain the field surrounding this structure, but the magic is powerful.  If this curse is like the others, then the answer to unlocking it lies elsewhere.  Perhaps there is
+twilightforest.book.trollcave.2=others I have witnessed. The spell must be connected to the toxic storm in some way. Further research to follow...\n\n\u00A78[[Next entry]]\u00A70\n\nSuch supreme weather magic must be the result of
+twilightforest.book.trollcave.3=multiple undefeated great evils in this world. My studies contain several clues pointing at a searing swamp, a forest coated in deep darkness, and a realm coated in snow.
+
+twilightforest.book.unknown.1=\u00A78[[This book shows signs of having been copied many times]]\u00A70\n\nI cannot explain the field surrounding this structure, but the magic is powerful. If this curse is like the others, then the answer to unlocking it lies elsewhere. Perhaps there is
 twilightforest.book.unknown.2=something I have left undone, or some monster I have yet to defeat. I will have to turn back. I will return to this place later, to see if anything has changed.
 
-material.nagascale.name=Naga Scale [NYI]
-material.fierymetal.name=Fiery [NYI]
-material.knightmetal.name=Knightmetal [NYI]
+# Fluid
+
+fluid.fierymetal=Molten Fiery
+fluid.knightmetal=Molten Knightmetal
+fluid.fiery_essence=Fiery Essence
+
+# TCon
+
+material.nagascale.name=Naga Scale
+material.steeleaf.name=Steeleaf
+material.fierymetal.name=Fiery
+material.knightmetal.name=Knightly
+material.raven_feather.name=Raven's Feather
+
+modifier.twilit.name=Twilit
+modifier.twilit.desc=§oThe Twilight Forest's illuminating blessing.§r\nSpeedier in the Twilight Forest.\nMore damage outside the Twilight Forest.
+modifier.twilit.extra.speed=Mining Speed in Twilight Forest: +%s
+modifier.twilit.extra.damage=Damage outside the Twilight Forest: +%s
+modifier.precipitate.name=Precipitate
+modifier.precipitate.desc=§oThe last standing escape plan.§r\nThe less health you have, the speedier it is!
+modifier.synergy.name=Synergy
+modifier.synergy.desc=§oLook ma, no moss!§r\nWill repair itself if you have Steeleaves in your hotbar.
+modifier.stalwart.name=Stalwart
+modifier.stalwart.desc=§oThe Brave and Bold.§r\nHitting an entity can make you feel emboldened.
+modifier.veiled.name=Veiled
+modifier.veiled.desc=§oLike a Specter!§r\nProjectile will be invisible.

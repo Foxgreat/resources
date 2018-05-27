@@ -1,0 +1,161 @@
+﻿
+//Keys
+key.stellarsky=Stellar Sky
+key.stellarsky.viewmod.description=시각 표시 모드 바꾸기
+
+//HUD Texts
+hud.text.year=제 %1$s년
+hud.text.day=#%1$s일 (/%2$s)
+hud.text.tick=#%1$s틱 (/%2$s)
+hud.text.time=%1$s시 %2$s분(/%3$s:%4$s) (1 시간=%5$s 분)
+
+
+//Client Configs
+config.category.client=클라이언트 컨피그
+config.category.client.tooltip=클라이언트 수정 관련 컨피그로서, 대부분 시각적인 효과에 관련되어 있습니다.
+
+config.property.client.maglimit=한계등급
+config.property.client.maglimit.tooltip=맨눈으로 볼 수 있는 등급의 한계입니다. FPS를 증가시키고 싶으면, 한계등급을 낮추세요. 실제로는 6.5, 기본값은 4.0이며, 더 작게 세팅할수록 더 적은 별이 보이지만 FPS는 기하급수적으로 좋아집니다!
+
+config.property.client.milkywaybrightness=은하수의 밝기
+config.property.client.milkywaybrightness.tooltip=은하수의 밝기로서, 실제 세계에서는 1.0이거나 더 작지만 기본값은 멋진 효과를 위해 1.5로 설정되어 있습니다.
+
+config.property.client.turbulance=별의 반짝임(대기 교란)
+config.property.client.turbulance.tooltip=별의 반짝임 효과의 정도를 나타내며, 별의 반짝임을 일으키는 대기의 교란이 얼마나 심할 것인가를 결정합니다.
+
+config.property.client.moonfrac=달의 조각 개수
+config.property.client.moonfrac.tooltip=달은 여러 조각으로 나뉘어 그려지게 됩니다. 조각 개수를 줄임으로서 FPS를 증가시킬 수 있지만, 그렇게 하면 달은 불완전하게 보일 것입니다.
+
+config.property.client.milkywayfrac=은하수의 조각 개수
+config.property.client.milkywayfrac.tooltip=은하수는 여러 조각으로 나뉘어 그려지게 됩니다. 조각 개수를 줄임으로서 FPS를 증가시킬 수 있지만, 그렇게 하면 은하수는 불완전하게 보일 것입니다.
+
+config.property.client.minutelength=1분의 길이
+config.property.client.minutelength.tooltip=1분이 몇틱(Tick)인지를 결정합니다. 현재 시간은 시간:분의 형식으로 HUD에 보여질 것입니다.
+
+config.property.client.hourlength=1시간의 길이
+config.property.client.hourlength.tooltip=1시간이 몇분인지를 결정합니다. 현재 시간은 시간:분의 형식으로 HUD에 보여질 것입니다.
+
+config.property.client.modeview=HUD 시간 표시 모드
+config.property.client.modeview.tooltip=HUD에 시간이 어떻게 표시될지를 결정합니다. 'empty'(HUD 없음), 'hhmm'(시간:분), 'tick'(틱 표시) 중에 고르실 수 있습니다. 플레이 중에도 지정된 키를 눌러 바꿀 수 있습니다.
+
+config.property.client.brcontrast=밝기 대조
+config.property.client.brcontrast.tooltip=이 속성은 밝은 별들과 어두운 별들 사이의 밝기 차이를 결정하며, 값이 클수록 밝기 차이가 작게 됩니다. 실제 세계는 1.0값을 갖지만, 기본값은 멋진 효과를 위해 1.75로 설정되어 있습니다.
+
+config.property.client.lockbtnpos=잠금 버튼의 위치
+config.property.client.lockbtnpos.tooltip=잠금 버튼의 위치로서, 현재 upright(오른쪽 위)와 downleft(왼쪽 위)가 있습니다.
+
+///Optics
+config.category.optics=광학 설정
+config.category.optics.tooltip=광학 설정 관련 컨피그입니다.
+
+
+//Server Configs
+config.category.server=서버(일반[Common]) 컨피그
+config.category.server.tooltip=서버 수정 관련 컨피그입니다.
+
+config.property.server.serverenabled=서버 수정 허용 여부
+config.property.server.serverenabled.tooltip=서버에서의 하늘의 변화를 허용합니다.
+
+config.property.server.daylength=하루의 길이
+config.property.server.daylength.tooltip=Tick 단위로 나타낸 하루의 길이입니다.
+
+config.property.server.yearlength=1년의 길이
+config.property.server.yearlength.tooltip=하루 단위로 나타낸 1년의 길이입니다.
+
+config.property.server.yearoffset=연 단위 오프셋
+config.property.server.yearoffset.tooltip=월드 시작 시각의 연도를 나타냅니다.
+
+config.property.server.dayoffset=하루 단위 오프셋
+config.property.server.dayoffset.tooltip=월드 시작 시각이 1년 중 며칠째인지를 나타냅니다.
+
+config.property.server.tickoffset=Tick 단위 오프셋
+config.property.server.tickoffset.tooltip=월드 시작 시각이 하루 중 몇틱(Tick)째인지를 나타냅니다.
+
+config.property.server.axialtilt=궤도경사각
+config.property.server.axialtilt.tooltip=도 단위로 나타낸 궤도경사각입니다. 서버 수정이 금지되어 있을 때에는 언제나 0.0이 됩니다.
+
+config.property.server.precession=세차운동 각속도
+config.property.server.precession.tooltip==도/년 단위로 나타낸 세차운동 각속도입니다.
+
+
+///Solar System
+config.category.solarsystem=태양계 컨피그
+config.category.solarsystem.tooltip=태양계 관련 컨피그입니다.
+
+config.property.server.moonsize=달의 크기
+config.property.server.moonsize.tooltip=달의 크기를 나타냅니다. (기본값은 1.0입니다)
+
+config.property.server.moonbrightness=달의 밝기
+config.property.server.moonbrightness.tooltip=달의 밝기를 나타냅니다. (기본값은 1.0입니다)
+
+
+///Milky Way
+config.category.milkyway=은하수 컨피그
+config.category.milkyway.tooltip=은하수 관련 컨피그입니다.
+
+
+///Dimension
+config.category.dimension=월드 컨피그
+config.category.dimension.tooltip=월드의 세팅에 대한 컨피그입니다.
+
+config.property.dimension.applied=적용 월드 목록
+config.property.dimension.applied.tooltip=stellar sky의 설정과 렌더링이 적용되는 월드들을 정합니다. 각각의 디멘션들의 설정값들을 변화시키려면 modlist 페이지로 돌아간 후 다시 config버튼을 눌러 컨피그 gui로 돌아오면 됩니다.
+
+config.property.dimension.patchprovider=월드 패치 여부
+config.property.dimension.patchprovider.tooltip=월드를 패치하여 경도/위도 등의 설정을 바꿉니다. false로 설정되어 있으면 위도와 경도를 바꿀 수 없습니다.
+
+config.property.dimension.skyrenderertype=하늘의 유형
+config.property.dimension.skyrenderertype.tooltip=이 월드에 대한 하늘 렌더링 유형입니다. 기본적으로 오버월드(Overworld Sky) 와 엔더월드(End Sky) 유형이 있습니다.
+
+config.property.dimension.latitude=위도
+config.property.dimension.latitude.tooltip=도 단위로 나타낸 이 월드의 위도입니다.
+
+config.property.dimension.longitude=경도
+config.property.dimension.longitude.tooltip=도 단위로 나타낸 이 월드의 경도로 동경이 +, 서경이 -입니다.
+
+config.property.dimension.hidehorizonobj=지평선 아래의 천체 숨기기
+config.property.dimension.hidehorizonobj.tooltip=지평선 아래의 천체를 숨길지를 결정합니다.
+
+config.property.dimension.allowrefraction=대기 굴절 여부
+config.property.dimension.allowrefraction.tooltip=천체의 위치가 대기 굴절로 인하여 변경되는지를 결정합니다.
+
+config.property.dimension.sunlightmultiplier=태양빛의 상대적 밝기
+config.property.dimension.sunlightmultiplier.tooltip=이 월드에서의 태양빛의 상대적인 밝기로서, 0.0으로 설정하면 이곳은 매우 어두운 세상이 될 것입니다.
+
+
+config.property.dimension.skydispersionrate=하늘 산란의 정도
+config.property.dimension.skydispersionrate.tooltip=이 월드에서 나타나는 하늘 산란의 정도입니다. 태양빛의 상대적 밝기와 클라이언트에선 유사한 효과를 갖지만, 서버(특히 빛 레벨)에선 보통 효과를 갖지 않으며, 예를 들어 이를 0.0으로 설정하면 낮이 매우 어둡지만 몹이 스폰되지 않습니다.
+
+config.property.dimension.lightpollutionrate=광공해의 정도
+config.property.dimension.lightpollutionrate.tooltip=상대적인 광공해의 정도로서, 하늘의 색깔과 별/은하수가 보이는지 여부에만 영향을 줍니다.
+
+////Dimension Resources
+config.category.dimension.perdimresource=월드별 리소스 컨피그
+config.category.dimension.perdimresource.tooltip=각각의 월드에 고유한 리소스를 부여할 수 있는 컨피그입니다.
+
+config.property.dimension.perdimresource.tooltip='default' 로 설정되어 있지 않은 경우, 이 리소스는 지정된 위치의 리소스로 대체됩니다. 이때 리소스 위치는 '(모드 ID):(실제 위치)' 의 형태입니다.
+
+///Wake
+config.category.server.wake=기상 조건 컨피그
+config.category.server.wake.tooltip=기상(잠에서 깨어 일어나는 것) 시스템에 대한 컨피그입니다.
+
+config.property.server.wakemode=기상 모드
+config.property.server.wakemode.tooltip=가능한 기상 조건 중 가장 빠른[earliest] 혹은 가장 늦은[latest] 것을 선택하십시오.
+
+config.property.server.enablewake=기상 조건 활성화
+config.property.server.enablewake.tooltip=기상 조건 활성화/비활성화
+
+config.property.server.wakeangle=기상시 태양의 고도
+config.property.server.wakeangle.tooltip=일어날 때 태양이 위치할 고도를 나타냅니다. 도 단위로 나타내어집니다.
+
+config.property.server.waketime=자정으로부터의 기상 시간
+config.property.server.waketime.tooltip=알람 형태의 기상 시간으로 자정으로부터의 시간(틱 단위)로 나타냅니다.
+
+
+//Commands
+stellarsky.command.lock.usage=/locksky [잠금=true]
+
+
+//GUIs
+stellarsky.gui.lock=하늘 설정 잠그기 (바로 잠기니 숙고하세요)
+stellarsky.gui.unlock=하늘 설정 잠금 풀기 (바로 풀립니다)

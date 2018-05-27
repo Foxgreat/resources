@@ -1,0 +1,99 @@
+item.inventorypets_ghast_pet.name=Ghast Przyjaciel
+item.inventorypets_wither_pet.name=Przyjaciel Wither
+item.inventorypets_creeper_pet.name=Przyjaciel Creeper
+item.inventorypets_enderman_pet.name=Pryjaciel z Kresu
+item.inventorypets_iron_golem_pet.name=Przyjaciel żelazny Golem
+item.inventorypets_snow_golem_pet.name=Przyjaciel śnieżny Golem
+item.inventorypets_spider_pet.name=Przyjaciel Pająk
+item.inventorypets_magma_cube_pet.name=Przyjaciel Kostka Magmowa
+item.inventorypets_blaze_pet.name=Przyjaciel Blaze
+
+item.inventorypets_sheep_pet.name=Przyjaciel Owca
+item.inventorypets_cow_pet.name=Przyjaciel Krowa
+item.inventorypets_chicken_pet.name=Przyjaciel Kurczak
+item.inventorypets_pig_pet.name=Przyjaciel świnia
+item.inventorypets_squid_pet.name=Przyjaciel Kałamarnica
+item.inventorypets_ocelot_pet.name=Przyjaciel Kot
+
+item.inventorypets_furnace_pet.name=Kieszonkowy Piecyk
+item.inventorypets_enchanting_table_pet.name=Kieszonkowy Magiczny Stół
+item.inventorypets_chest_pet.name=Kieszonkowa Skrzynia
+item.inventorypets_double_chest_pet.name=Podwójna Kieszonkowa Skrzynia
+item.inventorypets_bed_pet.name=Kieszonkowe łóżko
+item.inventorypets_jukebox_pet.name=Kieszonkowy Jukebox
+item.inventorypets_anvil_pet.name=Kieszonkowe Kowadło
+item.inventorypets_brewing_stand_pet.name=Kieszonkowa Stacja do Warzenia
+item.inventorypets_nether_portal_pet.name=Kieszonkowy Portal do Nether'u
+
+item.inventorypets_pingot_pet.name=Sonarsztabka
+item.inventorypets_mickerson_pet.name=Mickerson
+item.inventorypets_purplicious_cow_pet.name=Krowa Purplicious
+item.inventorypets_qcm_pet.name=Quantyczny Kryształowy Stwórek
+item.inventorypets_banana_pet.name=Banan
+
+item.inventorypets_cloud_pet.name=Chmureczka
+item.inventorypets_black_hole_pet.name=Oswojona Czarna Dziura
+item.inventorypets_pufferfish_pet.name=Kieszonkowa Rozdymka
+item.inventorypets_slime_pet.name=Śluzik
+
+item.inventorypets_shield_pet.name=Tarcza
+item.inventorypets_moon_pet.name=Mały Księżyc
+item.inventorypets_heart_pet.name=Kieszonkowe serce
+item.inventorypets_dubstep_pet.name=Dubstepowiec
+item.inventorypets_sponge_pet.name=Gąbka Kieszonkowa
+item.inventorypets_ender_chest_pet.name=Kieszonkowa Skrzynia Kresu
+
+item.pingot.finds=Sonarsztabka znalazła 
+
+item.inventorypets_nugget_diamond.name=Fragment diamentu
+item.inventorypets_nugget_obsidian.name=Fragment Obsydianu
+item.inventorypets_nugget_coal.name=Fragment Węgla
+item.inventorypets_nugget_emerald.name=Fragment Szmaragdu
+item.inventorypets_nugget_iron.name=Fragment Żelaza
+item.inventorypets_nugget_ender.name=Fragment Kresowy
+item.inventorypets_nugget_lapis.name=Fragment Lapisu Lazuli
+
+tile.inventorypets_cloud.name=Chmura
+tile.inventorypets_cloudspawn.name=Chmurowy Spawner
+tile.inventorypets_sand.name=Piasek
+tile.inventorypets_sandspawn.name=Piaskowy Spawner
+tile.inventorypets_stone.name=Kamień
+tile.inventorypets_stonespawn.name=Kamienny Spawner
+tile.bed.notHere=Nie możesz tu spać
+
+entity.inventorypets.MiniQuantumBlaze.name=Mini Quantowy Blaze
+entity.inventorypets.MiniQuantumEnderman.name=Mini Quantowy Enderman
+
+container.petnamer=Nazywanie
+gui.accept=Akceptuj
+
+item.inventorypets_candy_cane.name=Laska cukrowa
+item.inventorypets_mug_egg_nog.name=Kubek "Egg Nog"
+item.inventorypets_holiday_cookie.name=Świątowe Ciastko
+item.inventorypets_item_gift.name=Prezent
+item.inventorypets_solstice_helmet.name=Przesilieniowy Hełm
+item.inventorypets_solstice_chestplate.name=Przesilieniowy Napierśnik
+item.inventorypets_solstice_leggings.name=Przesilieniowe Spodnie
+item.inventorypets_solstice_boots.name=Przesilieniowe Buty
+item.inventorypets_solstice_sword.name=Przesilieniowy Miecz
+inventorypets.solstice.recipes=["Czas na 12 Dni Petmas! Zabawa zaczyna się 14 Grudnia. Aby zagrać, zcraftuj Świątecznego Przyjaciela: [",{"text":"Recipes Here","color":"aqua","hoverEvent":{"action":"show_text","value":{"text":"Click to see the Holiday Pet recipes","color":"dark_aqua"}},"clickEvent":{"action":"open_url","value":"http://www.creeptech.net/images/ip/recipes/holiday_rec.png"}},"]"]
+inventorypets.aprilfool.info=["Jest kwiecień! Przez cały miesiąc używaj Przyjaciela Prima Aprilis, ale uwarzaj, jest bardzo nieprzewidalnie! [",{"text":"Recipe Here","color":"aqua","hoverEvent":{"action":"show_text","value":{"text":"Click to see April Fool Pet recipe","color":"dark_aqua"}},"clickEvent":{"action":"open_url","value":"http://www.creeptech.net/images/ip/recipes/aprilfool_rec.png"}},"]"]
+item.inventorypets_christmas_tree_pet.name=Kieszonkowe Drzewko Gwiazdkowe
+item.inventorypets_menorah_pet.name=Kieszonkowe Menorah
+item.inventorypets_mishumaa_saba_pet.name=Przyjaciel Mishumaa Saba
+item.inventorypets_politically_correct_pet.name=Politycznie Poprawny Przyjaciel
+item.gift.notholiday=świąteczny Przyjaciel działa tylko podczas Petmas (14-25 Grudnia)
+item.fool.notholiday=Przyjaciel Pryma Aprilis działa tylko w kwiecień
+item.gift.taken=Już dostałeś prezent dzisiaj!
+item.gift.dates=Prezenty tylko działają w Grudniu 14-25
+pet.holiday.dates=Spróbuj ponownie podczas Petmas (14-25 Grudnia)
+pet.fool.dates=Spróbuj ponownie w kwietniu
+pet.fool.disabled=Prima aprilis jest wyłączone... :(
+item.wolf.false=Wilczy alarm wyłączony
+item.wolf.true=Wilczy alarm włączony
+item.loot.noenchants=Loot Pet nie działa z Fortune, Looting, lub Silk Touch.
+
+item.netherportal.noreturn=Niemożna zaleść punktu wejścia, wracanie do ostatniego punktu Spawnu
+item.chestpet.toomany=Nie można używać więcej niż jednej kieszonkowej skrzyni naraz
+item.doublechestpet.toomany=Nie można używać więcej niż jednej podwójnej kieszonkowej skrzyni naraz
+inventorypets.update.download=["Update to the latest version at [",{"text":"CurseForge","color":"gold","hoverEvent":{"action":"show_text","value":{"text":"Click to show latest files","color":"gold"}},"clickEvent":{"action":"open_url","value":"http://minecraft.curseforge.com/mc-mods/229380-inventory-pets/files"}},"]"]

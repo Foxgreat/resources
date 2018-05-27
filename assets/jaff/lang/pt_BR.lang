@@ -1,0 +1,28 @@
+itemGroup.jaff=Just a Few Fish
+
+tile.tank.name=Aquário
+
+item.iron_hook.name=Anzol de Ferro
+item.fish_bones.name=Espinha de Peixe
+item.wooden_fishing_rod.name=Vara de Pescar de Madeira
+item.iron_fishing_rod.name=Vara de Pescar de Ferro
+item.golden_fishing_rod.name=Vara de Pescar de Ouro
+item.diamond_fishing_rod.name=Vara de Pescar de Diamante
+
+item.fish_bucket_cod.name=Balde com Bacalhau
+item.fish_bucket_salmon.name=Balde com Salmão
+item.fish_bucket_clownfish.name=Balde com Palhaço
+item.fish_bucket_pufferfish.name=Balde com Baiacu
+
+bait.seeds.name=Sementes
+bait.worms.name=Minhocas
+
+entity.cod.name=Bacalhau
+entity.salmon.name=Salmão
+entity.clownfish.name=Peixe-Palhaço
+entity.pufferfish.name=Baiacu
+entity.iron_fish_hook.name=Anzol de Ferro
+
+rod.info.bait=Isca: %1$s de %2$s
+
+enchantment.fireFishingRod=Assador

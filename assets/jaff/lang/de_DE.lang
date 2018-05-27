@@ -1,0 +1,30 @@
+itemGroup.jaff=Just a Few Fish
+
+tile.tank.name=Aquarium
+
+item.iron_hook.name=Eisenangelhaken
+item.fish_bones.name=Gräten
+item.wooden_fishing_rod.name=Holzangel
+item.iron_fishing_rod.name=Eisenangel
+item.golden_fishing_rod.name=Goldangel
+item.diamond_fishing_rod.name=Diamantangel
+
+item.fish_bucket_cod.name=Eimer mit Kablejau
+item.fish_bucket_salmon.name=Eimer mit Lachs
+item.fish_bucket_clownfish.name=Eimer mit Clownfisch
+item.fish_bucket_pufferfish.name=Eimer mit Dugelfisch
+
+bait.seeds.name=Saat
+bait.worms.name=Würmer
+
+entity.cod.name=Kabeljau
+entity.salmon.name=Lachs
+entity.clownfish.name=Clownfisch
+entity.pufferfish.name=Kugelfisch
+entity.iron_fish_hook.name=Eisenangelhaken
+
+rod.info.bait=Köder: %1$s von %2$s
+
+enchantment.fireFishingRod=Braten
+
+subtitles.item.rod.reel=Angelrollen

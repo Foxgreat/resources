@@ -1,0 +1,120 @@
+item.inventorypets_ghast.name=Улюбленець Гаст
+item.inventorypets_wither_pet.nameУлюбленець Висушувач
+item.inventorypets_creeper_pet.nameУлюбленець Кріпер
+item.inventorypets_enderman_pet.nameУлюбленець Ендермен
+item.inventorypets_iron_golem_pet.nameУлюбленець Залізний Голем
+item.inventorypets_snow_golem_pet.nameУлюбленець Сніговик
+item.inventorypets_spider_pet.nameУлюбленець Павук
+item.inventorypets_magma_cube_pet.nameУлюбленець Магмокуб
+item.inventorypets_blaze_pet.nameУлюбленець Блейз
+item.inventorypets_sheep_pet.nameУлюбленець Вівця
+item.inventorypets_cow_pet.nameУлюбленець Корова
+item.inventorypets_chicken_pet.nameУлюбленець Курка
+item.inventorypets_pig_pet.nameУлюбленець Свиня
+item.inventorypets_squid_pet.nameУлюбленець Кальмар
+item.inventorypets_ocelot_pet.nameУлюбленець Оцелот
+item.inventorypets_furnace_pet.nameУлюбленець Піч
+item.inventorypets_enchanting_table_pet.nameУлюбленець Стіл Зачарування
+item.inventorypets_crafting_table_pet.nameУлюбленець Верстак
+item.inventorypets_chest_pet.nameУлюбленець Скриня
+item.inventorypets_double_chest_pet.nameУлюбленець Подвійна Скриня
+item.inventorypets_bed_pet.nameУлюбленець Ліжко
+item.inventorypets_jukebox_pet.nameУлюбленець Програвач
+item.inventorypets_anvil_pet.nameУлюблениць Ковадло
+item.inventorypets_brewing_stand_pet.nameУлюбленець Зіллєварка
+item.inventorypets_nether_portal_pet.nameУлюбленець Портал в Пекло
+item.inventorypets_pingot_pet.nameУлюбленець Гудоліт
+item.inventorypets_mickerson_pet.nameМікерсон
+item.inventorypets_purplicious_cow_pet.nameУлюбленець Фіолетова Корова
+item.inventorypets_qcm_pet.nameУлюбленець Квантово-Кришталевий Монстр
+item.inventorypets_banana_pet.nameУлюбленець Банан
+item.inventorypets_cloud_pet.nameУлюбленець Хмара
+item.inventorypets_black_hole_pet.nameУлюбленець Чорна Діра
+item.inventorypets_pufferfish_pet.nameУлюбленець Риба Фугу
+item.inventorypets_slime_pet.nameУлюбленець Слимак
+item.inventorypets_shield_pet.nameУлюбленець Щит
+item.inventorypets_moon_pet.nameУлюбленець Місяць
+item.inventorypets_heart_pet.nameУлюбленець Серце
+item.inventorypets_dubstep_pet.nameДапстеп Улюбленець
+item.inventorypets_sponge_pet.nameУлюбленець Губка
+item.inventorypets_banana_pet.nameУлюбленець Банан
+item.inventorypets_blaze_pet.nameУлюбленець Блейз
+item.inventorypets_ender_chest_pet.nameУлюбленець Ендерскриня
+item.inventorypets_mooshroom_pet.nameУлюбленець Мууухомор
+item.inventorypets_loot_pet.nameЛут-Улюбленець
+item.inventorypets_illuminati_pet.nameУлюбленець Іллюмінат
+item.inventorypets_juggernaut_pet.nameУлюбленець Джаґґернаут
+item.inventorypets_grave_pet.nameУлюбленець Могила
+item.inventorypets_pacman_pet.nameУлюбленець ПакМен
+item.inventorypets_quiver_pet.nameУлюбленець Колчан
+item.inventorypets_april_fool_pet.nameПершоквітневий Улюбленець
+item.inventorypets_cheetah_pet.nameУлюбленець Гепард
+item.inventorypets_house_pet.nameУлюбленець Дім
+item.inventorypets_silverfish_pet.nameУлюбленець Лусківниця
+item.inventorypets_wolf_pet.nameУлюбленець Вовк
+item.inventorypets_apple_pet.nameУлюбленець Яблуко
+item.inventorypets_xerox_parc_gui.name=Xerox PARC GUI
+item.inventorypets_windows_31.name=Віндоес 3.1
+item.inventorypets_blue_screen_of_death.name=Синій Екран Смерті
+item.inventorypets_windows_me.name=Віндоес ME
+item.inventorypets_windows_xp.name=Віндоес XP
+item.inventorypets_windows_mojave.name=Віндоес Mojave
+item.inventorypets_windows_7.name=Віндоес 7
+item.inventorypets_windows_8.name=Віндоес 8
+item.inventorypets_start_button.name=Кнопка «Старт»
+item.inventorypets_easter_egg.name=Великоднє Яйце
+item.inventorypets_rock_candy.name=Кам'яна Цукерка
+item.inventorypets_pingot.finds=Гудоліт знайшов
+item.inventorypets_petHouse.spawnpoint=Точка відродження поставлена на координатах
+item.inventorypets_custom_pet.nameВласний улюбленець
+item.inventorypets_diamond_nugget.name=Алмазний самородок
+item.inventorypets_obsidian_nugget.name=Обсідіановий самородок
+item.inventorypets_coal_nugget.name=Вугільний самородок
+item.inventorypets_emerald_nugget.name=Смарагдовий самородок
+item.inventorypets_iron_nugget.name=Залізний самородок
+item.inventorypets_ender_nugget.name=Ендер-самородок
+item.inventorypets_lapis_nugget.name=Лазуритний самородок
+item.inventorypets_feed_bag.name=Мішечок з кормом
+item.inventorypets_candy_cane.name=Льодяник
+item.inventorypets_mug_egg_nog.name=Чашка Еґногу
+item.inventorypets_holiday_cookie.name=Святкове Печиво
+item.inventorypets_item_gift.name=Подарунок
+item.inventorypets_solstice_helmet.name=Шолом Сонцестояння
+item.inventorypets_solstice_chestplate.name=Нагрудник Сонцестояння
+item.inventorypets_solstice_leggings.name=Наголінники Сонцестояння
+item.inventorypets_solstice_boots.name=Чоботи Сонцестояння
+item.inventorypets_solstice_sword.name=Меч Сонцестояння
+inventorypets.solstice.recipes=["Час 12 днів Різдва! Веселощі починаються 14 грудня. Щоб грати, просто створи Святкового Улюбленця: [",{"text":"Рецепти Тут","color":"aqua","hoverEvent":{"action":"show_text","value":{"text":"Нажми щоб побачити рецепт Святкового Улюбленця!","color":"dark_aqua"}},"clickEvent":{"action":"open_url","value":"http://www.creeptech.net/images/ip/recipes/holiday_rec.png"}},"]"]
+item.inventorypets_christmas_tree_pet.name=Улюбленець Ялинка
+item.inventorypets_menorah_pet.name=Улюбленець Підсвічник
+item.inventorypets_mishumaa_saba_pet.name=Улюбленець Свічка Саба
+item.inventorypets_politically_correct_pet.name=Політично Коректний Улюбленець
+item.inventorypets_gift.notholiday=Святковий Улюбленець працює тільки на протязі Різдва, між 14 та 25 грудня.
+item.inventorypets_fool.notholiday=Першоквітневий Улюбленець працює тільки в квітні.
+item.inventorypets_gift.taken=Ви вже отримали свій подарунок за сьогодні!
+item.inventorypets_gift.dates=Подарунки діють тільки між 14 та 25 грудня!
+pet.holiday.dates=Спробуй ще раз на протязі Різдва, між 14 та 25 грудня!
+pet.fool.dates=Спробуй ще раз в квітні!
+item.wolf.false=Вовча сигналізація вимкнена
+item.wolf.true=Вовча сигналізація ввімкнена
+tile.inventorypets_cloud.name=Блок хмари
+tile.inventorypets_cloud_spawn.name=Хмара-спавнер
+tile.inventorypets_sand.name=Блок піску
+tile.inventorypets_sand_spawn.name=Пісок-спавнер
+tile.inventorypets_stone.name=Блок каменю
+tile.inventorypets_stone_spawn.name=Камінь-спавнер
+tile.bed.notHere=Ви не можете тут спати
+tile.bed.allPlayersNotSleeping=Всі гравці повинні спати
+entity.inventorypets.MiniQuantumBlaze.name=Маленький Квантовий Блейз
+entity.inventorypets.MiniQuantumEnderman.name=Маленький Квантовий Ендермен
+entity.inventorypets.BillGates.name=Білл Гейтс
+entity.inventorypets.SteveBallmer.name=Стів Боллмер
+entity.inventorypets.SatyaNadella.name=Сатя Наделла
+key.inventorypets.category=Інвентарні Улюбленці
+key.categories.naming=Називач Улюбленців
+container.petnamer=Pet Namer
+gui.accept=Accept
+item.netherportal.noreturn=Портал в Пекло не може знайти останню точку повернення, повертаємо на останню відому точку відродження.
+item.netherportal.patience=Будь ласка, зачекайте поки Портал в Пекло шукає безпечну точку
+item.juggernaut.cooldown=Улюбленець Джаґґернаут перезаряжається. Залишилось часу:
+inventorypets.update.download=["Нажміть: [",{"text":"Скачати","color":"gold","hoverEvent":{"action":"show_text","value":{"text":"Нажміть щоб побачити останні файли на 1.7.10 доступні для скачування","color":"gold"}},"clickEvent":{"action":"open_url","value":"http://minecraft.curseforge.com/mc-mods/229380-inventory-pets/files?filter-game-version=2020709689%3A4449&filter-status=1"}},"]"]

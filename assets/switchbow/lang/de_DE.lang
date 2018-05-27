@@ -1,0 +1,71 @@
+﻿itemGroup.tabCreativTabSwitchbow=Switch-Bow
+
+tile.ArrowDispenser.name=Pfeil-Werfer
+tile.Podest.name=Podest
+
+item.SwitchBow.name=Switch-Bogen
+item.SwitchCrossbow.name=Switch-Armbrust
+item.Quiver.name=Köcher
+item.MagicQuiver.name=Großer Köcher
+
+item.LovePotion.name=Liebestrank
+
+item.ArrowLightningBolt.name=Blitz-Pfeil
+item.ArrowTNT.name=TNT-Pfeil
+item.ArrowFrost.name=Frost-Pfeil
+item.ArrowAir.name=Luft-Pfeil
+item.ArrowEnderperle.name=Teleport-Pfeil
+item.ArrowVampier.name=Vampir-Pfeil
+item.ArrowWither.name=Wither-Pfeil
+item.ArrowTorch.name=Fackel-Pfeil
+item.ArrowSplit.name=Splitter-Pfeil
+item.ArrowUnderwater.name=Unterwasser-Pfeil
+item.ArrowDiamond.name=Verstärkter Pfeil
+item.ArrowLove.name=Liebespfeil
+item.ArrowFire.name=Feuer-Pfeil
+item.ArrowBone.name=Knochen-Pfeil
+item.ArrowFirework.name=Raketen-Pfeil
+item.ArrowSplitLove.name=Liebespfeil (AOE)
+item.ArrowLuck.name=Glückspfeil
+item.ArrowRedstone.name=Redstone-Pfeil
+item.ArrowBurial.name=Beerdigungspfeil
+item.ArrowChorus.name=Chorus-Pfeil
+item.ArrowSprinkler.name=Sprinkler-Pfeil
+item.ArrowDragonBreath.name=Drachenpfeil
+item.ArrowTriple.name=Dreifach-Pfeil
+item.ArrowProtector.name=Beschützer-Pfeil
+item.ArrowKnockback.name=Rückstoß-Pfeil
+item.ArrowBouncy.name=Flummi-Pfeil
+item.ArrowoftheSearcher.name=Pfeil des Suchenden
+
+item.ArrowLightningBoltStorm.name=Gewitter-Pfeil
+item.ArrowBoneAOE.name=Knochen-Pfeil(AOE)
+item.ArrowSplitUpgrade.name=Transformierter Splitter-Pfeil
+item.ArrowBurialAOE.name=Beerdigungspfeil(AOE)
+item.ArrowFireUpgrade.name=Feuersturm-Pfeil
+item.ArrowLuckUpgrade.name=Transformierter Glückspfeil
+item.ArrowAirUpgrade.name=Luft-Pfeil(AOE)
+item.ArrowSplitLoveUpgrade.name=Transformierter Liebespfeil(AOE)
+
+enchantment.pullSpeed=Zuggeschwindigkeit
+enchantment.activeScope=Zielvorrichtung
+enchantment.cooldownReduce=Reduzierte Nachladezeit
+
+Potion.Freeze=Eingefroren
+Potion.Love=Verliebt
+
+tooltips.inv^entory=Inhalt:
+
+category.switchbow=Switch-Bow
+key.switchbow.switchup=nächster Pfeil
+key.switchbow.switchdown=vorheriger Pfeil
+
+achievement.startswitchbow=Switch-Bogen
+achievement.startswitchbow.desc=Ein mystisches Pulsieren umgibt den Bogen.
+
+achievement.firstlove=Erste Liebe
+achievement.firstlove.desc=Du verfällst in deine erste Liebe.
+
+TEMC.shootangle=Schusswinkel
+TEMC.range=Schussweite
+TEMC.count=Schussmenge

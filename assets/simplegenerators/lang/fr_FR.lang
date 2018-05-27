@@ -1,0 +1,13 @@
+
+itemGroup.simplegenerators.creative_tab=Générateurs simples
+itemgroup.simplegenerators.creative_tab=Générateurs simples
+
+gui.simplegenerators.energy=Energie
+gui.simplegenerators.stored=En réserve
+gui.simplegenerators.capacity=Capacité
+
+tile.simplegenerators.combustion_simple.name=Générateur à combustion
+tile.simplegenerators.culinary_simple.name=Générateur culinaire
+tile.simplegenerators.ender_simple.name=Générateur de l'Ender
+tile.simplegenerators.nether_simple.name=Générateur du Nether
+tile.simplegenerators.geothermal_simple.name=Générateur géothermique

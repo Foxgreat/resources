@@ -503,7 +503,7 @@ fluid.betterwithmods:hellfire.name=Расплавленный адский ог�
 material.soulforged_steel.name=Сталь душ
 material.hellfire.name=Адский огонь
 modifier.mending.name=Починка
-modifier.mending.desc=??oKillsteal!??r\nAbsorbs experience to repair the tool.
+modifier.mending.desc=??oKillsteal!??r Absorbs experience to repair the tool.
 
 entity.entity_sheared_creeper.name=Обезвреженный крипер
 entity.bwm_jungle_spider.name=Тропический паук

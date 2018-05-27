@@ -93,6 +93,7 @@ gui.SC2:optionInvisibility=Невидимость
 gui.SC2:optionChunk=Загрузка чанков
 gui.SC2:optionCageAuto=Автоматически ловить в клетку
 gui.SC2:optionCage=Ловить в клетку
+gui.SC2:optionRemover=Track removing
 gui.SC2:settingDisabled=Выключено
 gui.SC2:settingOrange=Оранжевое направление
 gui.SC2:settingBlue=Синее направление
