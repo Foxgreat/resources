@@ -1,284 +1,285 @@
-#ru_RU.lang file [Thaumcraft-1.12.2-6.1.BETA13]. Translated by TimeConqueror, groting, Daddy Lappy & DCV_Hacker
+#ru_RU.lang file [Thaumcraft-1.12.2-6.1.BETA15]. Translated by TimeConqueror, groting, Daddy Lappy, DCV_Hacker & Foxgreat team
 # Items
 ###################################
 #
 # Curios
 #
 item.thaumonomicon.normal.name=Таумономикон
-item.thaumonomicon.cheat.name=Cheater's Thaumonomicon
-item.curio.arcane.name=Arcane Curiosity
-item.curio.preserved.name=Preserved Curiosity
-item.curio.eldritch.name=Eldritch Curiosity
-item.curio.ancient.name=Ancient Curiosity
-item.curio.twisted.name=Twisted Curiosity
-item.curio.knowledge.name=Illuminating Curiosity
-item.curio.rites.name=Crimson Rites
-item.curio.text=What knowledge does this hold?
-item.loot_bag.common.name=Common Treasure
-item.loot_bag.uncommon.name=Uncommon Treasure
-item.loot_bag.rare.name=Rare Treasure
-tc.lootbag=Click to open or keep to trade
-item.primordial_pearl.mote.name=Primordial Mote
-item.primordial_pearl.nodule.name=Primordial Nodule
-item.primordial_pearl.pearl.name=Primordial Pearl
-item.pech_wand.name=Pech Wand
-item.celestial_notes.name=Заметки о небесах
+item.thaumonomicon.cheat.name=Таумономикон Читера
+item.curio.arcane.name=Мистические Исследования
+item.curio.preserved.name=Сохранившиеся Исследования
+item.curio.eldritch.name=Ужасные Исследования
+item.curio.ancient.name=Древние Исследования
+item.curio.twisted.name=Искажённые Исследования
+item.curio.knowledge.name=Освещённые Исследования
+item.curio.rites.name=Багровые Ритуалы
+item.curio.text=Какие познания здесь хранятся?
+item.loot_bag.common.name=Обычное Сокровище
+item.loot_bag.uncommon.name=Необычное Сокровище
+item.loot_bag.rare.name=Редкое Сокровище
+tc.lootbag=Щелкните, чтобы открыть, либо удерживайте, чтобы торговать
+item.primordial_pearl.mote.name=Первичная пыль
+item.primordial_pearl.nodule.name=Первичный сгусток
+item.primordial_pearl.pearl.name=Первичная жемчужина
+item.pech_wand.name=Палочка Гнома
+item.celestial_notes.name=Наблюдения за небом
 item.celestial_notes.sun.text=Солнце
-item.celestial_notes.stars_1.text=Звезды, Северный квадрант
-item.celestial_notes.stars_2.text=Звезды, Южный квадрант
-item.celestial_notes.stars_3.text=Звезды, Западный квадрант
-item.celestial_notes.stars_4.text=Звезды, Восточный квадрант
-item.celestial_notes.moon_1.text=Луна, Полная
-item.celestial_notes.moon_2.text=Луна, Молодая
-item.celestial_notes.moon_3.text=Луна, Первая четверть
-item.celestial_notes.moon_4.text=Луна, Прибывающая
-item.celestial_notes.moon_5.text=Луна, Новая
-item.celestial_notes.moon_6.text=Луна, Убывающая
-item.celestial_notes.moon_7.text=Луна, Третья четверть
-item.celestial_notes.moon_8.text=Луна, Старая
+item.celestial_notes.stars_1.text=Созвездия, Северный Квадрант
+item.celestial_notes.stars_2.text=Созвездия, Южный Квадрант
+item.celestial_notes.stars_3.text=Созвездия, Западный Квадрант
+item.celestial_notes.stars_4.text=Созвездия, Восточный Квадрант
+item.celestial_notes.moon_1.text=Луна, Полнолуние
+item.celestial_notes.moon_2.text=Луна, Молодая Луна
+item.celestial_notes.moon_3.text=Луна, Первая Четверть
+item.celestial_notes.moon_4.text=Луна, Прибывающая Луна
+item.celestial_notes.moon_5.text=Луна, Новолуние
+item.celestial_notes.moon_6.text=Луна, Убывающая луна
+item.celestial_notes.moon_7.text=Луна, Последняя Четверть
+item.celestial_notes.moon_8.text=Луна, Старая Луна
 #
 # Resources
 #
 item.amber.name=Янтарь
 item.quicksilver.name=Ртуть
-item.crystal_essence.name=Вис-кристалл
-item.ingot.thaumium.name=Thaumium Ingot
-item.ingot.void.name=Void Metal Ingot
-item.ingot.brass.name=Alchemical Brass Ingot
-item.nugget.iron.name=Iron Nugget
-item.nugget.copper.name=Copper Nugget
-item.nugget.tin.name=Tin Nugget
-item.nugget.silver.name=Silver Nugget
-item.nugget.lead.name=Lead Nugget
-item.nugget.quicksilver.name=Капля ртути
-item.nugget.thaumium.name=Thaumium Nugget
-item.nugget.void.name=Void Metal Nugget
-item.nugget.brass.name=Alchemical Brass Nugget
-item.nugget.quartz.name=Quartz Sliver
-item.nugget.rareearth.name=Rare Earths
-item.cluster.iron.name=Native Iron Cluster
-item.cluster.copper.name=Native Copper Cluster
-item.cluster.tin.name=Native Tin Cluster
-item.cluster.silver.name=Native Silver Cluster
-item.cluster.lead.name=Native Lead Cluster
-item.cluster.cinnabar.name=Native Cinnabar Cluster   
-item.cluster.gold.name=Native Gold Cluster
-item.cluster.quartz.name=Native Quartz Cluster
-item.filter.name=Essentia Filter
-item.morphic_resonator.name=Morphic Resonator
-item.tallow.name=Magic Tallow
-item.void_seed.name=Void Seed
-item.salis_mundus.name=Salis Mundus
-item.primal_charm.name=Primal Charm
-item.mirrored_glass.name=Mirrored Glass
-item.plate.brass.name=Brass Plate
-item.plate.iron.name=Железная пластина
-item.plate.thaumium.name=Thaumium Plate
-item.plate.void.name=Void Metal Plate
-item.mechanism_simple.name=Simple Arcane Mechanism
-item.mechanism_complex.name=Complex Arcane Mechanism
-item.fabric.name=Заколдованная ткань
-item.mind.clockwork.name=Clockwork Mind
-item.mind.biothaumic.name=Biothaumic Mind
+item.crystal_essence.name=Вис Кристалл
+item.ingot.thaumium.name=Слиток Таумиума
+item.ingot.void.name=Слиток Пустотного Металла
+item.ingot.brass.name=Слиток Алхимической Латуни
+item.nugget.iron.name=Железный самородок
+item.nugget.copper.name=Медный самородок
+item.nugget.tin.name=Оловянный самородок
+item.nugget.silver.name=Серебрянный самородок
+item.nugget.lead.name=Свинцовый самородок
+item.nugget.quicksilver.name=Капля Ртути
+item.nugget.thaumium.name=Кусочек Таумиума
+item.nugget.void.name=Самородок Пустотного Металла
+item.nugget.brass.name=Кусочек Алхимической Латуни
+item.nugget.quartz.name=Осколок Кварца
+item.nugget.rareearth.name=Редкий Грунт
+item.cluster.iron.name=Самородный кластер железа
+item.cluster.copper.name=Самородный кластер меди
+item.cluster.tin.name=Самородный кластер олова
+item.cluster.silver.name=Самородный кластер серебра
+item.cluster.lead.name=Самородный кластер свинца
+item.cluster.cinnabar.name=Самородный кластер киноваря
+item.cluster.gold.name=Самородный кластер золота
+item.cluster.quartz.name=Самородный кластер кварца
+item.filter.name=Фильтр Эссенций
+item.morphic_resonator.name=Преобразующий резонатор
+item.tallow.name=Магический жир
+item.void_seed.name=Пустотное семя
+item.salis_mundus.name=Соль Мира
+item.primal_charm.name=Базовое Зачарование
+item.mirrored_glass.name=Зеркальное стекло
+item.plate.brass.name=Латунная Пластина
+item.plate.iron.name=Железная Пластина
+item.plate.thaumium.name=Таумиумная Пластина
+item.plate.void.name=Пластина из пустотного металла
+item.mechanism_simple.name=Простой Мистический Механизм
+item.mechanism_complex.name=Сложный Мистический Механизм
+item.fabric.name=Зачарованная ткань
+item.mind.clockwork.name=Часовой Ум
+item.mind.biothaumic.name=Биотаумический Ум
 item.vis_resonator.name=Вис-резонатор
 #
 # Consumables
 #
-item.alumentum.name=Alumentum
-item.chunk.chicken.name=Chicken Nugget
-item.chunk.beef.name=Beef Nugget
-item.chunk.pork.name=Pork Nugget
-item.chunk.fish.name=Fish Nugget
-item.chunk.rabbit.name=Rabbit Nugget
-item.chunk.mutton.name=Mutton Nugget
-item.brain.name=Мозг зомби
-item.triple_meat_treat.name=Triple Meat Treat
-item.phial.empty.name=Glass Phial
-item.phial.filled.name=Phial of Essentia
-item.label.blank.name=Blank Label
-item.label.filled.name=Marked Label
-item.jar_brace.name=Brass Lid Brace
-item.bath_salts.name=Purifying Bath Salts
-item.bucket_death.name=Bucket of Liquid Death
-item.bucket_pure.name=Bucket of Purifying Fluid
-item.bottle_taint.name=Bottle of Taint
-item.sanity_soap.name=Sanitizing Soap
+item.alumentum.name=Алюментум
+item.chunk.chicken.name=Куриный Наггетс
+item.chunk.beef.name=Говяжий Кусочек
+item.chunk.pork.name=Свиной Кусочек
+item.chunk.fish.name=Рыбный Кусочек
+item.chunk.rabbit.name=Кроличий Кусочек
+item.chunk.mutton.name=Бараний Кусочек
+item.brain.name=Мозги Зомби
+item.triple_meat_treat.name=Тройное мясное блюдо
+item.phial.empty.name=Стеклянная пиала
+item.phial.filled.name=Пиала с эссенцией
+item.label.blank.name=Пустая Бирка
+item.label.filled.name=Отмеченная Бирка
+item.jar_brace.name=Латунная крышка 
+item.bath_salts.name=Очищающие соли для ванн
+item.bucket_death.name=Ведро жидкой смерти
+item.bucket_pure.name=Ведро очищающей жидкости
+item.bottle_taint.name=Бутылка с Порчей
+item.sanity_soap.name=Санизирующее мыло
 #
 # Armor
 #
 item.goggles.name=Очки откровения
-item.fortress_helm.name=Thaumium Fortress Helm
-item.fortress_helm.mask.0=Grinning Devil
-item.fortress_helm.mask.1=Angry Ghost
-item.fortress_helm.mask.2=Sipping Fiend
-item.fortress_chest.name=Thaumium Fortress Cuirass
-item.fortress_legs.name=Thaumium Fortress Thigh Guards
-item.thaumium_helm.name=Thaumium Helm
-item.thaumium_chest.name=Thaumium Chestplate
-item.thaumium_legs.name=Thaumium Leggings
-item.thaumium_boots.name=Thaumium Boots
-item.cloth_chest.name=Мантия тауматурга
+item.fortress_helm.name=Укреплённый Таумический Шлем
+item.fortress_helm.mask.0=Усмехающийся Дьявол
+item.fortress_helm.mask.1=Злой Призрак
+item.fortress_helm.mask.2=Иссушающий Демон
+item.fortress_chest.name=Укреплённая Таумическая Кираса
+item.fortress_legs.name=Укреплённые Таумические Наколенники
+item.thaumium_helm.name=Таумический Шлем
+item.thaumium_chest.name=Таумический Нагрудник
+item.thaumium_legs.name=Таумические Поножи
+item.thaumium_boots.name=Таумические Ботинки
+item.cloth_chest.name=Роба Тауматурга
 item.cloth_legs.name=Поножи тауматурга
-item.cloth_boots.name=Ботинки тауматурга
-item.void_helm.name=Void Helm
-item.void_chest.name=Void Chestplate
-item.void_legs.name=Void Leggings
-item.void_boots.name=Void Boots
-item.void_robe_helm.name=Void Thaumaturge Hood
-item.void_robe_chest.name=Void Thaumaturge Robe
-item.void_robe_legs.name=Void Thaumaturge Leggings
-item.crimson_boots.name=Crimson Cult Boots
-item.crimson_robe_helm.name=Crimson Cult Hood
-item.crimson_robe_chest.name=Crimson Cult Robe
-item.crimson_robe_legs.name=Crimson Cult Leggings
-item.crimson_plate_helm.name=Crimson Cult Helm
-item.crimson_plate_chest.name=Crimson Cult Chestplate
-item.crimson_plate_legs.name=Crimson Cult Greaves
-item.crimson_praetor_helm.name=Crimson Praetor Helm
-item.crimson_praetor_chest.name=Crimson Praetor Chestplate
-item.crimson_praetor_legs.name=Crimson Praetor Greaves
+item.cloth_boots.name=Ботинки Тауматурга
+item.void_helm.name=Пустотный Шлем
+item.void_chest.name=Пустотный Нагрудник
+item.void_legs.name=Пустотные Поножи
+item.void_boots.name=Пустотные Ботинки
+item.void_robe_helm.name=Капюшон Пустотного Тауматурга
+item.void_robe_chest.name=Роба Пустотного Тауматурга
+item.void_robe_legs.name=Штаны Пустотного Тауматурга
+item.crimson_boots.name=Ботинки Багрового Культиста
+item.crimson_robe_helm.name=Капюшон Багрового Культиста
+item.crimson_robe_chest.name=Роба Багрового Культиста
+item.crimson_robe_legs.name=Штаны Багрового Культиста
+item.crimson_plate_helm.name=Шлем Багрового Культиста
+item.crimson_plate_chest.name=Нагрудник Багрового Культиста
+item.crimson_plate_legs.name=Поножи Багрового Культиста
+item.crimson_praetor_helm.name=Шлем Багрового Вождя
+item.crimson_praetor_chest.name=Нагрудник Багрового Вождя
+item.crimson_praetor_legs.name=Поножи Багрового Вождя
 item.thaumostatic_harness.name=Thaumostatic Harness
-item.traveller_boots.name=Boots of the Traveller
+item.traveller_boots.name=Сапоги Скороходы
 #
 # Tools
 #
-item.scribing_tools.name=Письменные принадлежности
-item.thaumium_shovel.name=Thaumium Shovel
-item.thaumium_axe.name=Thaumium Axe
-item.thaumium_sword.name=Thaumium Sword
-item.thaumium_pick.name=Thaumium Pickaxe
-item.thaumium_hoe.name=Thaumium Hoe
-item.elemental_shovel.name=Shovel of the Earthmover
-item.elemental_pick.name=Pickaxe of the Core
-item.elemental_axe.name=Axe of the Stream
-item.elemental_hoe.name=Hoe of Growth
-item.elemental_sword.name=Sword of the Zephyr
-item.void_shovel.name=Void Shovel
-item.void_axe.name=Void Axe
-item.void_sword.name=Void Sword
-item.void_pick.name=Void Pickaxe
-item.void_hoe.name=Void Hoe
-item.crimson_blade.name=Crimson Blade
+item.scribing_tools.name=Письменные Принадлежности
+item.thaumium_shovel.name=Тамиумная Лопата
+item.thaumium_axe.name=Тамиумный Топор
+item.thaumium_sword.name=Тамиумный Меч
+item.thaumium_pick.name=Тамиумная Кирка
+item.thaumium_hoe.name=Тамиумная Мотыга
+item.elemental_shovel.name=Лопата Землероя
+item.elemental_pick.name=Кирка Огня
+item.elemental_axe.name=Топор Потока
+item.elemental_hoe.name=Мотыга Проращивания
+item.elemental_sword.name=Меч Зефира
+item.void_shovel.name=Пустотная Лопата
+item.void_axe.name=Пустотный Топор
+item.void_sword.name=Пустотный Меч
+item.void_pick.name=Пустотная Кирка
+item.void_hoe.name=Пустотная Мотыга
+item.crimson_blade.name=Багровый Клинок
 item.primal_crusher.name=Primal Crusher
-item.hand_mirror.name=Magic Hand Mirror
+item.hand_mirror.name = Волшебное ручное зеркало
 item.thaumometer.name=Таумометр
 item.sanity_checker.name=Счётчик рассудка
-item.resonator.name=Essentia Resonator
-item.grapple_gun.name=Arcane Grappler
-item.grapple_gun_tip.name=Grappler Head
-item.grapple_gun_spool.name=Grappler Spool
+item.resonator.name=Резонатор Эссенции
+item.grapple_gun.name=Мистический Манипулятор
+item.grapple_gun_tip.name=Головка Манипулятора
+item.grapple_gun_spool.name=Катушка Манипулятора
 #
 # Baubles
 #
-item.baubles.amulet_mundane.name=Mundane Amulet
-item.baubles.ring_mundane.name=Mundane Ring
-item.baubles.girdle_mundane.name=Mundane Belt
-item.baubles.ring_apprentice.name=Apprentice's Ring
-item.baubles.amulet_fancy.name=Fancy Amulet
-item.baubles.ring_fancy.name=Fancy Ring
-item.baubles.girdle_fancy.name=Fancy Belt
-item.amulet_vis.text=Recharges armor, baubles & hotbar items
-item.amulet_vis.found.name=Vis Stone
-item.amulet_vis.crafted.name=Amulet of Vis
-item.girdle_hover.name=Thaumostatic Girdle
-item.verdant_charm.name=Verdant Heart Charm
-item.verdant_charm.life.text=Lifegiver
-item.verdant_charm.sustain.text=Sustainer
-item.voidseer_charm.name=Voidseer's Pearl
-item.voidseer_charm.text=You peer into the inky blackness... you could swear you saw something staring back...
-item.curiosity_band.name=Headband of Curiosity
-item.cloud_ring.name=Cloudstepper Ring
-item.charm_undying.name=Charm of Undying
+item.baubles.amulet_mundane.name=Потрёпанный Амулет
+item.baubles.ring_mundane.name=Потрёпанное Кольцо
+item.baubles.girdle_mundane.name=Потрёпанный Пояс
+item.baubles.ring_apprentice.name=Кольцо Ученика
+item.baubles.amulet_fancy.name=Стильный Амулет
+item.baubles.ring_fancy.name=Стильное Кольцо
+item.baubles.girdle_fancy.name=Стильный Пояс
+item.amulet_vis.text=Перезаряжает броню, амулеты и вещи на поясе.
+item.amulet_vis.found.name=Вис Камень
+item.amulet_vis.crafted.name=Амулет Вис
+item.girdle_hover.name=Таумостатическое Сито
+item.verdant_charm.name=Амулет Зелёного Сердца
+item.verdant_charm.life.text=Жизнодатель
+item.verdant_charm.sustain.text=Укрепитель
+item.voidseer_charm.name=Жемчужина Пустотного наблюдателя
+item.voidseer_charm.text=Вы вглядываетесь в непроглядную тьму... и готовы поклясться, что увидели нечто в её глубине... 
+item.curiosity_band.name=Бандана Исследователя
+item.cloud_ring.name=Кольцо Облачной Поступи
+item.charm_undying.name=Амулет Бессмертия
 #
 # Casters & Foci
 #
 item.caster_basic.name=Перчатка заклинателя
-item.focus_1.name=Blank Lesser Focus
-item.focus_2.name=Blank Advanced Focus
-item.focus_3.name=Blank Greater Focus
-item.Focus.cost1=Vis per cast
-item.focus_pouch.name=Focus Pouch
+item.focus_1.name=Пустой Малый Набалдашник
+item.focus_2.name=Пустой Продвинутый Набалдашник
+item.focus_3.name=Пустой Мощный Набалдашник
+item.Focus.cost1=Вис на Заклинание
+item.focus_pouch.name=Сумка для Набалдашников
 #
 #
 # Misc
 #
-item.creative_flux_sponge.name=Flux Sponge
-item.turret.basic.name=Automated Crossbow
-item.turret.advanced.name=Advanced Automated Crossbow
-item.turret.bore.name=Arcane Bore
-item.enchanted_placeholder.name=Any enchanted item
+item.creative_flux_sponge.name=Губка для Выбросов
+item.turret.basic.name = Автоматический арбалет
+item.turret.advanced.name = Продвинутый автоматический арбалет
+item.turret.bore.name=Мистическое дуло
+item.enchanted_placeholder.name=Любой зачарованный предмет
 item.enchanted_placeholder.text=Must have at least these enchantments:
 #
 # Golem
-item.module.vision.name=Vision Module
-item.module.aggression.name=Aggression Module
-item.golem_bell.name=Golemancer's Bell
-item.golem.name=Golem
-item.seal.blank.name=Blank Seal
-item.seal.pickup.name=Control Seal: Collect
-item.seal.pickup_advanced.name=Advanced Control Seal: Collect
-item.seal.fill.name=Control Seal: Store
-item.seal.fill_advanced.name=Advanced Control Seal: Store
-item.seal.empty.name=Control Seal: Empty
-item.seal.empty_advanced.name=Advanced Control Seal: Empty
-item.seal.harvest.name=Control Seal: Harvest
-item.seal.butcher.name=Control Seal: Butcher
-item.seal.guard.name=Control Seal: Guard
-item.seal.guard_advanced.name=Advanced Control Seal: Guard
-item.seal.lumber.name=Control Seal: Lumberjack
-item.seal.breaker.name=Control Seal: Block Breaker
-item.seal.use.name=Control Seal: Use
-item.seal.provider.name=Control Seal: Provide
+item.module.vision.name=Модуль Зрения
+item.module.aggression.name=Модуль Аггрессивности
+item.golem_bell.name=Колокольчик Големансера
+item.golem.name=Голем
+item.seal.blank.name=Пустая Печать
+item.seal.pickup.name=Печать Контроля: Сбор
+item.seal.pickup_advanced.name=Продвинутая Печать Контроля: Сбор
+item.seal.fill.name=Печать Контроля: Хранение
+item.seal.fill_advanced.name=Продвинутая Печать Контроля: Хранение
+item.seal.empty.name=Печать Контроля: Опустошение
+item.seal.empty_advanced.name=Продвинутая Печать Контроля: Опустошение
+item.seal.harvest.name=Печать Контроля: Жатва
+item.seal.butcher.name=Печать Контроля: Забивание
+item.seal.guard.name=Печать Контроля: Охрана
+item.seal.guard_advanced.name=Продвинутая Печать Контроля: Охрана
+item.seal.lumber.name=Печать Контроля: Дровосек
+item.seal.breaker.name=Печать Контроля: Разрушение
+item.seal.use.name=Печать Контроля: Использование
+item.seal.provider.name=Печать Контроля: Заготовка
+item.seal.stock.name=Control Seal: Stock
 #
 # Blocks
 ###################################
 #
 # World
 #
-tile.ore_amber.name=Янтароносный камень
-tile.ore_cinnabar.name=Киноварь
-tile.ore_quartz.name=Кварцевая руда
-tile.crystal_aer.name=Кристалл воздуха
-tile.crystal_ignis.name=Кристалл огня
-tile.crystal_aqua.name=Кристалл воды
-tile.crystal_terra.name=Кристалл земли
-tile.crystal_ordo.name=Кристалл порядка
-tile.crystal_perditio.name=Кристалл энтропии
-tile.crystal_vitium.name=Flux Crystal
-tile.log_greatwood.name=Бревно великого дерева
-tile.log_silverwood.name=Бревно серебряного дерева
-tile.leaves_greatwood.name=Листья великого дерева
-tile.leaves_silverwood.name=Листья серебряного дерева
-tile.taint_log.name=Taintwood Log
-tile.sapling_greatwood.name=Саженец великого дерева
-tile.sapling_silverwood.name=Саженец серебряного дерева
-tile.plank_greatwood.name=Доски из великого дерева
-tile.plank_silverwood.name=Доски из серебряного дерева
-tile.stairs_greatwood.name=Ступеньки из великого дерева
-tile.stairs_silverwood.name=Ступеньки из серебряного дерева
-tile.stone_arcane.name=Arcane Stone
-tile.stone_arcane_brick.name=Arcane Stone Brick
-tile.stone_ancient.name=Ancient Stone
-tile.stone_ancient_rock.name=Ancient Rock
-tile.stone_eldritch_tile.name=Eldritch Stone
-tile.stone_ancient_tile.name=Ancient Stone Tile
-tile.stone_ancient_doorway.name=Ancient Barrier
-tile.stone_ancient_glyphed.name=Glyphed Stone
+tile.ore_amber.name=Янтарный Несущий Камень
+tile.ore_cinnabar.name=Киноварная Руда
+tile.ore_quartz.name=Кварцевая Руда
+tile.crystal_aer.name=Кристалл Воздуха
+tile.crystal_ignis.name=Кристалл Огня
+tile.crystal_aqua.name=Кристалл Воды
+tile.crystal_terra.name=Кристалл Земли
+tile.crystal_ordo.name=Кристалл Порядка
+tile.crystal_perditio.name=Кристалл Энтропии
+tile.crystal_vitium.name=Изменчивый Кристалл
+tile.log_greatwood.name=Бревно Великого дерева
+tile.log_silverwood.name=Бревно Серебрянного дерева
+tile.leaves_greatwood.name=Листья Великого дерева
+tile.leaves_silverwood.name=Листья Серебрянного дерева
+tile.taint_log.name=Бревно Заражённого дерева
+tile.sapling_greatwood.name=Саженец Великого дерева
+tile.sapling_silverwood.name=Саженец Серебрянного дерева
+tile.plank_greatwood.name=Доски из Великого дерева
+tile.plank_silverwood.name=Доски из Серебрянного дерева
+tile.stairs_greatwood.name=Ступеньки из Великого дерева
+tile.stairs_silverwood.name=Ступеньки из Серебрянного дерева
+tile.stone_arcane.name=Мистический Камень
+tile.stone_arcane_brick.name=Кирпич из Мистического Камня
+tile.stone_ancient.name=Древний Камень
+tile.stone_ancient_rock.name=Древний Булыжник
+tile.stone_eldritch_tile.name=Плитка из Ужасающего Камня
+tile.stone_ancient_tile.name=Плитка из Древнего Камня
+tile.stone_ancient_doorway.name = Древний Барьер
+tile.stone_ancient_glyphed.name=Рунный Камень
 tile.stone_porous.name=Porous Stone
-tile.stairs_arcane.name=Arcane Stone Stairs
-tile.stairs_arcane_brick.name=Arcane Brick Stairs
-tile.stairs_ancient.name=Ancient Stone Stairs
-tile.amber_block.name=Янтарный блок
-tile.amber_brick.name=Янтарные кирпичи
-tile.empty.name=Empty Space
+tile.stairs_arcane.name=Ступеньки из Мистического Камня
+tile.stairs_arcane_brick.name=Ступеньки из Мистического Кирпича
+tile.stairs_ancient.name=Ступеньки из Древнего Камня
+tile.amber_block.name=Янтарный Блок
+tile.amber_brick.name=Янтарные Кирпичи
+tile.empty.name=Пустое Пространство
 tile.slab_greatwood.name=Плита из великого дерева
 tile.slab_silverwood.name=Плита из серебряного дерева
-tile.slab_arcane_stone.name=Arcane Stone Slab
-tile.slab_arcane_brick.name=Arcane Brick Slab
-tile.slab_ancient.name=Ancient Stone Slab
-tile.slab_eldritch.name=Eldritch Stone Slab
+tile.slab_arcane_stone.name=Плита Arcane Stone Slab
+tile.slab_arcane_brick.name=Плита Arcane Brick Slab
+tile.slab_ancient.name=Плита Ancient Stone Slab
+tile.slab_eldritch.name=Плита Eldritch Stone Slab
 tile.shimmerleaf.name=Мерцающий лист
-tile.cinderpearl.name=Тлеющая жемчужина
+tile.cinderpearl.name=Огнежемчуг
 tile.vishroom.name=Висомор
 tile.grass_ambient.name=Ambient Grass Block
 tile.loot_urn_common.name=Common Urn
@@ -315,7 +316,7 @@ tile.arcane_ear_toggle.name=Arcane Ear (Toggle)
 tile.levitator.name=Arcane Levitator
 tile.everfull_urn.name=Everfull Urn
 tile.lamp_arcane.name=Arcane Lamp
-tile.lamp_growth.name=Lamp of Growth  
+tile.lamp_growth.name=Lamp of Growth
 tile.lamp_fertility.name=Lamp of Fertility
 tile.jar_normal.name=Warded Jar
 tile.jar_void.name=Void Jar
@@ -342,6 +343,8 @@ tile.essentia_input.name=Filling Essentia Transfuser
 tile.essentia_output.name=Emptying Essentia Transfuser
 tile.activator_rail.name=Arcane Activator Rail
 tile.potion_sprayer.name=Potion Sprayer
+tile.vis_generator.name=Vis Generator
+tile.stabilizer.name=Stabilizer
 #
 # Doodads
 tile.matrix_speed.name=Infusion Speed Stone
@@ -351,7 +354,7 @@ tile.table_wood.name=Деревянный стол
 tile.candle_white.name=White Tallow Candle
 tile.candle_orange.name=Orange Tallow Candle
 tile.candle_magenta.name=Magenta Tallow Candle
-tile.candle_light_blue.name=Light Blue Tallow Candle
+tile.candle_lightblue.name=Light Blue Tallow Candle
 tile.candle_yellow.name=Yellow Tallow Candle
 tile.candle_lime.name=Lime Tallow Candle
 tile.candle_pink.name=Pink Tallow Candle
@@ -387,7 +390,7 @@ tile.banner_black.name=Black Banner
 tile.nitor_white.name=Белый нитор
 tile.nitor_orange.name=Оранжевый нитор
 tile.nitor_magenta.name=Пурпурный нитор
-tile.nitor_light_blue.name=Голубой нитор
+tile.nitor_lightblue.name=Голубой нитор
 tile.nitor_yellow.name=Жёлтый нитор
 tile.nitor_lime.name=Лаймовый нитор
 tile.nitor_pink.name=Розовый нитор
@@ -412,6 +415,7 @@ tile.centrifuge.name=Essentia Centrifuge
 tile.mirror.name=Magic Mirror
 tile.mirror_essentia.name=Essentia Mirror
 tile.golem_builder.name=Golem Press
+tile.vis_battery.name=Vis Battery
 #
 # Misc
 tile.effect_shock.name=Static Field
@@ -468,7 +472,7 @@ warp.text.5=The light suddenly becomes overwhelmingly bright and burns your skin
 warp.text.6=A thick fog appears from nowhere. Something stirs in its depths.
 warp.text.7=They're everywhere! Run!
 warp.text.8=Surely there must be a way to stop these headaches?
-warp.text.9=You suddenly feel reluctant to break things. 
+warp.text.9=You suddenly feel reluctant to break things.
 warp.text.10=Your perception suddenly expands.
 warp.text.11=What was that noise? Something is behind you.
 warp.text.12=Something is following you.
@@ -514,7 +518,7 @@ entity.TravelingTrunk.name=Traveling Trunk
 entity.trunk.guiname=%s's Trunk
 entity.trunk.move=The trunk will now follow you
 entity.trunk.stay=The trunk will stay where it is
-entity.thaumcraft.MindSpider.name=Mind Sentity.MindSpider.name=Mind Spider
+entity.MindSpider.name=Mind Spider
 entity.EldritchGuardian.name=Eldritch Guardian
 entity.EldritchWarden.name=Eldritch Warden
 entity.EldritchWarden.name.custom=%s the %d
@@ -608,8 +612,12 @@ item.runic.charge=Runic shield
 item.warping=Warping
 item.capacity.text=Capacity
 item.chargebonus.text=Charge
+stability.VERY_STABLE=Very Stable
+stability.STABLE=Stable
+stability.UNSTABLE=Unstable
+stability.VERY_UNSTABLE=Dangerously Unstable
 #
-# Golems 
+# Golems
 ########################
 # Traits
 golem.trait.deft=Deft
@@ -647,11 +655,11 @@ golem.trait.text.breaker=The golem is capable of destroying most blocks with eas
 golem.trait.hauler=Hauler
 golem.trait.text.hauler=Allows the golem to carry two stack of items instead of one.
 golem.trait.ranged=Ranged
-golem.trait.text.ranged=The golem can attack targets at range. 
+golem.trait.text.ranged=The golem can attack targets at range.
 golem.trait.blastproof=Blastproof
 golem.trait.text.blastproof=The golem is highly resistant to explosion damage.
 #
-# Props 
+# Props
 golem.material.wood=Greatwood
 golem.material.text.wood=The golem is crafted from greatwood. It is light and agile, but not particularly sturdy.
 golem.material.iron=Iron
@@ -668,28 +676,28 @@ golem.material.text.void=The golem is crafted from void metal. Slightly softer t
 golem.head.basic=Clockwork head
 golem.head.text.basic=The default golem head. No particular strengths or weaknesses.
 golem.head.smart=Smart head
-golem.head.text.smart=This head contains an advanced biothaumic brain, giving the golem greater capabilities and the ability to learn. 
+golem.head.text.smart=This head contains an advanced biothaumic brain, giving the golem greater capabilities and the ability to learn.
 golem.head.smart_armored=Armored smart head
 golem.head.text.smart_armored=The smart head enhanced with additional armor and padding.
 golem.head.scout=Perceptive head
-golem.head.text.scout=The basic clockwork head enhanced with improved biothaumic eyes. 
+golem.head.text.scout=The basic clockwork head enhanced with improved biothaumic eyes.
 golem.head.smart_scout=Biothaumic head
-golem.head.text.smart_scout=Using both biothaumic eyes and brain, this head is the pinnacle of the biothaumic art. 
+golem.head.text.smart_scout=Using both biothaumic eyes and brain, this head is the pinnacle of the biothaumic art.
 #
 golem.arm.basic=Basic arms
 golem.arm.text.basic=The default golem arms and hands. No particular strengths or weaknesses.
 golem.arm.fine=Fine manipulators
-golem.arm.text.fine=These arms end in delicate and dexterous hands. 
+golem.arm.text.fine=These arms end in delicate and dexterous hands.
 golem.arm.claws=Claw arms
 golem.arm.text.claws=These arms end in a terrifying pair of razor sharp metal pincers. Comes with a built-in aggression module.
 golem.arm.breakers=Breaker arms
-golem.arm.text.breakers=These arms end in a pair of pneumatic, diamond tipped grinders. 
+golem.arm.text.breakers=These arms end in a pair of pneumatic, diamond tipped grinders.
 golem.arm.darts=Dart launchers
 golem.arm.text.darts=These arms end in a pair of pneumatic dart launchers. The darts are magically created as they are needed. Comes with a built-in aggression module.
 #
 golem.leg.walker=Basic legs
 golem.leg.text.walker=A pair of simple legs. No particular strengths or weaknesses.
-golem.leg.roller=Uni-wheel 
+golem.leg.roller=Uni-wheel
 golem.leg.text.roller=A single wheel. Quite fast, but incapable of jumping or going up steep hills.
 golem.leg.climber=Climbing legs
 golem.leg.text.climber=A pair of simple legs enhanced with crampons and other devices allowing for vertical ascent.
@@ -717,9 +725,9 @@ fluid.liquid_death=Liquid Death
 thaumcraft.AIR.name=Air
 thaumcraft.AIR.text=Creates a blast of air that knocks things back, but causes only minor damage.
 thaumcraft.EARTH.name=Earth
-thaumcraft.EARTH.text=Hurls a blast of earthen shrapnel that causes significant damage and may break weaker blocks.  
+thaumcraft.EARTH.text=Hurls a blast of earthen shrapnel that causes significant damage and may break weaker blocks.
 thaumcraft.FIRE.name=Fire
-thaumcraft.FIRE.text=Hurls flame at your target and sets it alight. 
+thaumcraft.FIRE.text=Hurls flame at your target and sets it alight.
 thaumcraft.FROST.name=Frost
 thaumcraft.FROST.text=Throws chilling cold at your target, causing damage and freezing it. Freezes water and will slow down creatures.
 thaumcraft.BREAK.name=Break
@@ -828,7 +836,7 @@ golem.prop.meta=Use metadata
 golem.prop.nbt=Use NBT data
 golem.prop.ore=Use Ore Dictionary
 golem.prop.mod=Use from same mod
-golem.prop.mob=Target Mobs 
+golem.prop.mob=Target Mobs
 golem.prop.animal=Target Animals
 golem.prop.player=Target Players
 golem.prop.left=Left click
@@ -882,8 +890,8 @@ color.green=Зелёный
 color.red=Красный
 color.black=Чёрный
 #
-button.up=Scroll up
-button.down=Scroll down
+button.up=Вверх
+button.down=Вниз
 #
 key.categories.thaumcraft=Thaumcraft
 #
@@ -898,7 +906,7 @@ card.reject.name=Отбросить категорию %1$s
 card.reject.text=Вы осознали, что категория %1$s не существенна для Вашего текущего исследования. Вы больше не будете получать прогресс в категории %1$s или доставать связанные с ней карты. Вы не потеряете свой текущий прогресс.
 #
 card.experimentation.name=Экспериментирование
-card.experimentation.text=Вы проводите ряд случайных экспериментов, чтобы узнать, сможете ли Вы что-нибудь обнаружить. Вы получаете от 10 до 25 очков прогресса в совершенно случайной категории.
+card.experimentation.text=Вы проводите ряд случайных экспериментов, чтобы узнать, сможете ли Вы что-нибудь обнаружить. Вы получаете от 15 до 30 очков прогресса в совершенно случайной категории.
 #
 card.analyze.name=Анализ категории %1$s
 card.analyze.text=Тщательно проанализировав сделанные Вами наблюдения в категории %1$s, Вы могли бы составить теорию, основанную на собранных данных. Вы теряете 1 наблюдение в категории %1$s, но получаете от 25 до 50 очков прогресса в категории %1$s и 5 очков прогресса в категории %2$s.
@@ -922,10 +930,10 @@ card.inspired.name=Вдохновение
 card.inspired.text=Вдохновленный таким успехом, Ваш разум открывает пути, о которых Вы раньше и не задумывались. Вы получаете %1$s очков прогресса в категории %2$s.
 #
 card.enchantment.name=Изучить зачарование
-card.enchantment.text=Вы изучаете обычное зачарование, чтобы понять, как оно работает на фундаментальном уровне. Вы уверены, что оно имеет много общего с методами зачарования, используемыми в Изобретениях или Инфузии. Вы теряете 5 уровней опыта, но получаете от 15 до 20 очков прогресса в Ауромантии и Инфузии. 
+card.enchantment.text=Вы изучаете обычное зачарование, чтобы понять, как оно работает на фундаментальном уровне. Вы уверены, что оно имеет много общего с методами зачарования, используемыми в Изобретениях или Инфузии. Вы теряете 5 уровней опыта, но получаете от 15 до 20 очков прогресса в Ауромантии и Инфузии.
 #
 card.beacon.name=Влияние ауры
-card.beacon.text=Вы думаете, что маяк каким-то образом взаимодействует с магической аурой. Вы внимательно изучаете его, и хотя в этот раз у Вас и не получается прийти к чему-то конкретному, Вы чувствуете себя воодушевленным. Вы восстанавливаете 2 очка вдохновения и берете дополнительную карту, а также дополнительная категория получит полный бонус по завершении исследования. 
+card.beacon.text=Вы думаете, что маяк каким-то образом взаимодействует с магической аурой. Вы внимательно изучаете его, и хотя в этот раз у Вас и не получается прийти к чему-то конкретному, Вы чувствуете себя воодушевленным. Вы восстанавливаете 2 очка вдохновения и берете дополнительную карту, а также дополнительная категория получит полный бонус по завершении исследования.
 #
 card.dragonegg.name=Учения Дракона
 card.dragonegg.text=Аура вокруг яйца пропитана странной и хаотической энергией. Иногда Вы замечаете непривычный порядок в этом хаосе.
@@ -958,7 +966,7 @@ card.calibrate.name=Калибровка
 card.calibrate.text=Вы тратите некоторое время на то, чтобы как следует откалибровать свои инструменты. Вы получаете 15 очков прогресса в Изобретениях и берете дополнительную карту.
 #
 card.mindmatter.name=Усилием воли
-card.mindmatter.text=Вы тщательно осматриваете и разбираете несколько базовых компонентов в надежде найти новые пути, позволяющие собрать из них более сложные творения. Вы получаете %1$s очков прогресса в Изобретениях. 
+card.mindmatter.text=Вы тщательно осматриваете и разбираете несколько базовых компонентов в надежде найти новые пути, позволяющие собрать из них более сложные творения. Вы получаете %1$s очков прогресса в Изобретениях.
 #
 card.tinker.name=Умелец
 card.tinker.text=Вы начинаете возиться с несколькими устройствами, чтобы найти новые способы, позволяющие включить их в свои магические творения. Вы получаете от %1$s до %2$s очков прогресса в Изобретениях.
@@ -978,7 +986,7 @@ card.sculpting.name=Лепка
 card.sculpting.text=Ненадолго оживляя простые фигурки, Вы можете оттачивать свои знания. Вы получаете 20 очков прогресса в Големостроении и берете дополнительную карту.
 #
 card.scripting.name=Начертание
-card.scripting.text=Большая часть работы в Големостроении состоит в написании сложных магических текстов для контроля ваших созданий. Создав несколько пробных текстов, Вы сможете лучше понять ее. Вы получаете 25 очков прогресса в Големостроении. На это будут израсходованы дополнительные листы бумаги и чернила со стола исследований. 
+card.scripting.text=Большая часть работы в Големостроении состоит в написании сложных магических текстов для контроля ваших созданий. Создав несколько пробных текстов, Вы сможете лучше понять ее. Вы получаете 25 очков прогресса в Големостроении. На это будут израсходованы дополнительные листы бумаги и чернила со стола исследований.
 #
 card.synergy.name=Синергия
 card.synergy.text=В основе Големостроения лежит смесь Алхимии, Изобретений и Наполнения. Только полное понимание того, как взаимодействуют эти три направления, поможет Вам овладеть Големостроением. Вы потеряете 15 очков прогресса, разделенных поровну между Алхимией, Изобретениями и Инфузией, но получите 30 очков прогресса в Големостроении. Дополнительная категория получит полный бонус по завершении исследования.
@@ -1013,7 +1021,7 @@ got.crystals=Когда Вы держите кристалл в руках, Ва
 got.dream=Вы просыпаетесь после странного сна и быстро записываете всё в книгу, пока воспоминания о нём не угасли в Вашей памяти.
 false.start=Такое чувство, будто это должно работать, но чего-то не хватает...
 book.start.title=Странные сны
-book.start.1="Вчера ночью мне приснился самый странный сон на свете.\n\nВо сне я взял три из тех странных кристаллов, которые находил ранее, и, добавив горстку редстоуна, измельчил их в миске при помощи кремня." 
+book.start.1="Вчера ночью мне приснился самый странный сон на свете.\n\nВо сне я взял три из тех странных кристаллов, которые находил ранее, и, добавив горстку редстоуна, измельчил их в миске при помощи кремня."
 book.start.2="Кристаллы обязательно должны были быть разных типов. Сделав все правильно, я в результате получил странную светящуюся пыль. После я посыпал ею книжную полку, но сон закончился прежде, чем я увидел, что произошло."
 book.start.3="Меня терзают сомнения... Стоит ли делать то, что я увидел во сне?\n\nУ меня складывается такое впечатление, будто пыль собиралась показать нечто удивительное, но при этом опасное."
 #
@@ -1076,7 +1084,7 @@ tc.discount=discount
 tc.visdiscount=Vis discount
 tc.vis.cost=Vis cost:
 tc.charge=Vis charge:
-tc.inst=Instability: 
+tc.inst=Instability:
 tc.inst.0=§1Negligible§0
 tc.inst.1=§9Minor§0
 tc.inst.2=§5Moderate§0
@@ -1085,7 +1093,7 @@ tc.inst.4=§6Very High§0
 tc.inst.5=§4Dangerous§0
 tc.adv=Advanced
 tc.resonator1=§9Contains %1$s %2$s essentia§0
-tc.resonator2=§5Suction %1$s %2$s §0 
+tc.resonator2=§5Suction %1$s %2$s §0
 tc.resonator3=Untyped
 tc.search=Search
 tc.search.more=...too many results found. Refine your search
@@ -1110,7 +1118,7 @@ tc.primalcharm.trigger=For a moment strange energies surround the primal charm. 
 tc.break.fly=Something disrupts your ability to fly.
 tc.boss.enrage=is enraged by your powerful blows.
 tc.levitator=Range set to %s blocks. (%d vis/minute)
-tc.dioptra.1=Showing %s levels in the aura. 
+tc.dioptra.1=Showing %s levels in the aura.
 tc.dioptra.2=Showing highest aura levels.
 tc.dioptra.3=Showing aura level ratios.
 tc.notowned=This does not belong to you.
@@ -1167,7 +1175,7 @@ tc.aspect.vinculum=Ловушка, Заключение
 tc.aspect.permutatio=Обмен, Бартер
 tc.aspect.praecantatio=Структурированная магия, Заклинания, Зачарование
 tc.aspect.alkimia=Алхимия, Химия
-#  
+#
 # Research categories
 tc.research_category.BASICS=Основы
 tc.research_category.AUROMANCY=Ауромантия
@@ -1176,11 +1184,11 @@ tc.research_category.ARTIFICE=Изобретения
 tc.research_category.INFUSION=Наполнение
 tc.research_category.GOLEMANCY=Големостроение
 tc.research_category.ELDRITCH=Потустороннее
-#  
+#
 # Knowledge Types
 tc.type.theory=Теория
 tc.type.observation=Наблюдение
-#  
+#
 # Special formatting codes:
 # <BR> or <BR/>         Paragraph break (<BR/> is included for people using XML for their localization)
 # <LINE> or <LINE/>     Insert a fancy centered linebreak between sections of text.
@@ -1193,28 +1201,28 @@ tc.type.observation=Наблюдение
 #                    - y location of sub-image in png
 #                    - x size of sub-image (255 if full x size of png must be used)
 #                    - y size of sub-image (255 if full y size of png must be used)
-#                    - scaling - 1.0 for normal 256x256 images, or smaller for proportionately smaller .png files (a 16x16 image will be 0.0625)   
-#               Examples: 
+#                    - scaling - 1.0 for normal 256x256 images, or smaller for proportionately smaller .png files (a 16x16 image will be 0.0625)
+#               Examples:
 #                   <IMG>thaumcraft:textures/gui/gui_researchbook.png:24:184:96:4:1.0</IMG>   <-- line break image as used in <LINE> above
 #                   <IMG>thaumcraft:textures/items/alumentum.png:0:0:255:255:0.0625</IMG>     <-- alumentum item icon
 ##########################################
 # BASICS
 ##########################################
 #
-research.Pech.title=The Pech
-research.Pech.stage.1=These strange humanoids can be found wherever the veil between worlds is at its thinnest. They seem drawn to the magical energies that abound in such places.<IMG>thaumcraft:textures/research/research5.png:128:136:108:117:.75</IMG>Don't let their small stature fool you. They have incredible strength and can carry many times their own bodyweight.<BR>Pech are normally not aggressive, but when riled up they will band together and hunt down their attacker. Under normal conditions they avoid people at all costs.<BR>Pechs are notoriously avaricious, and will loot anything not nailed down, though they prefer precious things. It is said that if you feed this desire for material wealth it could be possible to befriend one.<BR>Once befriended they often carry wondrous objects that they might be willing to part with.<BR>It should be noted that such 'friendships' seldom last long.
+research.Pech.title=Гномы
+research.Pech.stage.1=Этих странных существ можно найти там, где грань между мирами найболее тонкая. Кажется, их привлекает магическая энергия, которой в этих местах в изобилии.<IMG>thaumcraft:textures/research/research5.png:128:136:108:117:.75</IMG>Не позволяйте их маленькому росту одурачить вас. Они невероятно сильны и поднимают вес, многократно превышающий их собственный.<BR>Гномы обычно не агрессивны, но, когда их раздражают, они объединяются и выслеживают противника. В обычных условиях, они всеми возможными способами избегают людей.<BR>Как известно, гномы жадны и будут красть всё, что не прибито, хотя предпочитают более драгоценные вещи. Говорят, если потакать их тяге к материальным богатствам, можно с ними подружиться.<BR>Подружившись однажды, они, возможно, будут преподносить вам прекрасные вещи, которыми они готовы поделиться.<BR>Стоит отметить, что такие "дружеские" отношения редко бывают длительными.
 #
-research.Wisp.stage.1=These strange creatures appear to be floating points of light and are often found near high concentrations of vis. Honestly I am not sure if they are creatures at all - they move randomly and do not appear to exhibit the normal characteristics of a living organism. They do however react to being attacked and occasionally become aggressive for no apparent reason.<BR>My initial thoughts are they might be a form of proto-life made up of vis instead of normal matter, but that cannot be the whole picture as I am detecting strange dimensional energies at their core.
+research.Wisp.stage.1=Эти странные существа, по-видимому, являются плавающими точками света и часто встречаются вблизи высоких концентраций вис. Честно говоря, я не уверен, являются ли они вообще существами - они перемещаются случайным образом и не проявляют типичных характеристик живого организма. Тем не менее, они реагируют на нападение и иногда становятся агрессивными, безо всякой видимой причины. <BR> Моей первоначальной мыслью было то, что они могут быть формой прото-жизни, состоящей из вис, вместо обычной материи, но это не полная картина, поскольку я обнаружил странные пространственные энергии в их ядре.
 #
-research.ThaumSlime.stage.1=Эти фиолетовые слизни - ни что иное, как странный подвид своих зеленых собратьев. Обычные слизни формируются из органического мусора, который время от времени накапливается в пещерах, а Таум-слизни, в отличие от них, формируются из частичек фиолетовой прото-материи, которая остается после магических неудач.<BR>Если не брать в расчёт их странное происхождение, то они по большей части похожи на своих зеленых сородичей. Они имеют возможность разделяться по своему желанию, зачастую выбрасывая малую часть себя в тех, кто подошёл слишком близко. Если поблизости никого нет, разделённые слизни будут пытаться слиться обратно, чтобы вновь сформировать более крупный организм. 
+research.ThaumSlime.stage.1=Эти фиолетовые слизни - ни что иное, как странный подвид своих зеленых собратьев. Обычные слизни формируются из органического мусора, который время от времени накапливается в пещерах, а Таум-слизни, в отличие от них, формируются из частичек фиолетовой прото-материи, которая остается после магических неудач.<BR>Если не брать в расчёт их странное происхождение, то они по большей части похожи на своих зеленых сородичей. Они имеют возможность разделяться по своему желанию, зачастую выбрасывая малую часть себя в тех, кто подошёл слишком близко. Если поблизости никого нет, разделённые слизни будут пытаться слиться обратно, чтобы вновь сформировать более крупный организм.
 #
-research.Firebat.stage.1=Fire bats, or Hellbats are usually found in the Nether. Engulfed in flame and unreasonably aggressive they are perfectly suited to the environment they live in. They also have the alarming tendency to explode when attacking.<BR>One wonders what possible evolutionary advantage exploding gives them as a species, but the same can be asked of creepers. 
+research.Firebat.stage.1=Огненных летучих мышей или Адских летучих мышей обычно можно найти в Нижнем мире. Облаченные пламенем и беспричинно агрессивные, они прекрасно уживаются в окружающей среде. Атакуя, они применяют пугающий навык взрываться.<BR>Интересно, какое возможное эволюционное преимущество им даёт способность взрываться. То же самое, впрочем, относится и к криперам.
 #
-research.BrainyZombie.stage.1=Я заметил, что некоторые зомби ведут себя гораздо более осмысленно, чем их шумные собратья. В их глазах пылает разумная злоба, и это заставляет меня поверить в то, что после смерти они сохранили гораздо больше интеллекта, чем должны были. Они, определённо, более агрессивны и опасны, чем обычные зомби.<BR>Они послужат отличным источником мозгов в моих экспериментах. 
+research.BrainyZombie.stage.1=Я заметил, что некоторые зомби ведут себя гораздо более осмысленно, чем их шумные собратья. В их глазах пылает разумная злоба, и это заставляет меня поверить в то, что после смерти они сохранили гораздо больше интеллекта, чем должны были. Они, определённо, более агрессивны и опасны, чем обычные зомби.<BR>Они послужат отличным источником мозгов в моих экспериментах.
 #
-research.EldritchGuardian.stage.1=These ghost-like figures are a dangerous menace. They can be found wherever the walls of reality are at their thinnest. I believe they act as guardians of such places, protecting those weak spots from trespassers.<BR>Their form is held together by dimensional energies from some other place making them much weaker in our world. I would hate having to confront them in whatever place they call home.<BR>Their touch is deadly and they are able to hurl entropic dimensional energy at those too far to reach. 
+research.EldritchGuardian.stage.1=Эти, подобные призракам, фигуры - опасные противники. Их можно найти везде, где грани реальности найболее тонкие. Я считаю, что они выступают в качестве хранителей таких мест, защищая их от нарушителей.<BR>Их форма удерживается единой благодаря пространственным энергиям из какого-то другого места, делая их слабее в нашем мире. Мне бы не очень хотелось противостоять им в месте, которое они называют домом.<BR>Их прикосновение смертельно, и они могут бросить энтропийную пространственную энергию в тех, до кого тяжело достать.
 #
-research.EldritchCrab.stage.1=Eldritch Crabs or Helmed Crabs are a most unusual and unnatural creature. I am convinced these creatures are the result of magical tinkering.<BR>A pair of powerful claws make them dangerous to face in combat, but it is how they use those claws that make them horrific. They leap at their foes heads in an attempt to decapitate them. If successful they are somehow able to burrow into the victims body and take control of what remains. Their abdomen looks much like a helmed head allowing them to disguise the true nature of the husk they now control.<BR>These husks are not much more powerful than a normal zombie so the reason why they do this eludes me - they are much more of a threat without their 'mount'. Possibly they were created as weapons of terror by some demented inventor?   
+research.EldritchCrab.stage.1=Eldritch Crabs or Helmed Crabs are a most unusual and unnatural creature. I am convinced these creatures are the result of magical tinkering.<BR>A pair of powerful claws make them dangerous to face in combat, but it is how they use those claws that make them horrific. They leap at their foes heads in an attempt to decapitate them. If successful they are somehow able to burrow into the victims body and take control of what remains. Their abdomen looks much like a helmed head allowing them to disguise the true nature of the husk they now control.<BR>These husks are not much more powerful than a normal zombie so the reason why they do this eludes me - they are much more of a threat without their 'mount'. Possibly they were created as weapons of terror by some demented inventor?
 #
 research.CrimsonCultist.title=The Crimson Cult
 research.CrimsonCultist.stage.1=These red-robed cultists have been popping up of late. Their goals are unknown to me and they seem unwilling to talk. Beyond that there is something... wrong about them. Their grip on sanity seems tenuous at best, but the wrongness goes much deeper than that. It is hard to describe.<BR>My presence seems to enrage them and I believe it might have something to do with my capacity for thaumaturgy.<BR>Their clerics are also capable of wielding magic and I can sense that they are drawing it from the aura, but the magic itself does not seem to be thaumaturgy. Whatever it is, it makes my skin crawl and I can feel the aura buckling and tearing every time they draw upon it.<BR>Some of them seem to carry a book around. I should try and get my hand on one of those, maybe it will tell me more about this strange cult. I should be careful though, some knowledge can be dangerous.
@@ -1228,13 +1236,13 @@ research.Taintacle.stage.1=Эти опасные образования выгл
 #
 research.TaintSwarm.stage.1=Иногда в Заражённой местности на остатках деревьев формируются фиолетовые образования, похожие на ульи. Из них будут появляться тучи крошечных кусачих существ, летающих вокруг агрессивными роями.<BR>Они быстро движутся, их трудно избежать и ещё сложнее ударить. К счастью, одиночные существа не особенно сильны, поэтому правильно подготовленный путешественник должен без труда разделаться с ними.
 #
-research.TaintSeed.stage.1=Изредка могут формироваться плотные узлы из Заражённых усиков. Такое "семя" извергает грязный инфицированный воздух, который служит основой для роста новых Заражённых образований.<BR>Эти семена могут наброситься, чтобы защитить себя, но надо пойти на определённый риск, если Вы хотите избавиться от заражённой области.<BR>Без грязного воздуха, что они порождают, заражённые образования засохнут и умрут. 
-#	
+research.TaintSeed.stage.1=Изредка могут формироваться плотные узлы из Заражённых усиков. Такое "семя" извергает грязный инфицированный воздух, который служит основой для роста новых Заражённых образований.<BR>Эти семена могут наброситься, чтобы защитить себя, но надо пойти на определённый риск, если Вы хотите избавиться от заражённой области.<BR>Без грязного воздуха, что они порождают, заражённые образования засохнут и умрут.
+#
 research.PRIMPEARL.title=Primordial Pearls
 research.PRIMPEARL.stage.1=For the first time I find myself with a puzzle that I do not think can be solved.<BR>This object contains pure primal aspects, but they possess properties unlike what I consider normal, everyday primal aspects. I have a few theories why this could be:<BR>Firstly this "pearl" could be the remnants of primal matter that was created at the dawn of reality - elementary magic that existed before it mingled and merged into compound aspects.<BR>Alternatively it could be primal matter from a place that does not conform to the known rules of magic as you have come to understand it. I'm not sure which explanation is more worrying.<BR>Either way, the pearl is a potent artifact containing vast magical power and nearly unlimited potential.<BR>It is fairly rare to find a whole one though. Often they have degenerated into nodules or even motes. Even a mote is valuable though.
 #
 research.FIRSTSTEPS.title=Первые шаги
-research.FIRSTSTEPS.stage.1=Кто бы мог подумать, что небольшая горсть пыли сможет создать эту чудесную книгу? Она по большей части пуста, но уже намекает на новую мощную форму магии: Тауматургию.<BR>Для начала нужно изучить тот магический мир, что был показан мне. И для этого понадобится особый инструмент - Таумометр, так он зовется в книге.<BR>На обычном верстаке невозможно сделать подобные предметы, поскольку магические силы, которые я должен направлять во время их создания, требуют осторожного обращения. Но, если посыпать обычный верстак пылью Salis Mundus, это решит проблему. Книга научила меня подходящему заклинанию, поэтому это не должно составить особого труда.<BR>Чтобы отслеживать свой прогресс, я буду записывать список всех требований, которые необходимо выполнить на первой странице каждой новой записи. 
+research.FIRSTSTEPS.stage.1=Кто бы мог подумать, что небольшая горсть пыли сможет создать эту чудесную книгу? Она по большей части пуста, но уже намекает на новую мощную форму магии: Тауматургию.<BR>Для начала нужно изучить тот магический мир, что был показан мне. И для этого понадобится особый инструмент - Таумометр, так он зовется в книге.<BR>На обычном верстаке невозможно сделать подобные предметы, поскольку магические силы, которые я должен направлять во время их создания, требуют осторожного обращения. Но, если посыпать обычный верстак пылью Salis Mundus, это решит проблему. Книга научила меня подходящему заклинанию, поэтому это не должно составить особого труда.<BR>Чтобы отслеживать свой прогресс, я буду записывать список всех требований, которые необходимо выполнить на первой странице каждой новой записи.
 research.FIRSTSTEPS.stage.2=Прогресс! Теперь в моем распоряжении есть Магический верстак. Он очень похож на своего обычного собрата и даже может использоваться как таковой, однако у него есть несколько значимых отличий.<BR>Во-первых, большинство магических рецептов будет требовать использования тех кристаллов, что я находил в последнее время. Они нужны для фокусировки магической энергии, которую необходимо направить в создаваемые предметы. Вис - так называет эту энергию книга.<BR>По идее, она должна быть везде, но пока я не могу распознать ее или измерить.<BR>Пора мне создать Таумометр и использовать его для изучения окружающего меня мира. Он должен помечать те вещи, которые мне нужно изучить.<BR>Справа я поместил закладку с его рецептом.
 research.FIRSTSTEPS.stage.3=Какие удивительные чудеса открываются мне! Сквозь линзу Таумометра я вижу мир, что охвачен магией, энергией Вис, как называет ее книга.<BR>По сути эта энергия есть чистый океан магии, имеющий свои приливы и отливы; она пронизывает все вокруг, как одушевленные, так и неодушевленные предметы. Подобное состояние Вис книга называет Эссенцией. В то время как энергия Вис является бесформенной и чистой, Эссенция по своей природе более осязаема. Существует большое количество типов Эссенции, многие из которых можно смешать с другими, чтобы в итоге образовать более сложные типы Эссенции.<BR>Трудно сказать, влияет ли материя на принадлежность Эссенции к какой-либо природе, или же сама природа материи зависит от содержащейся в ней Эссенции. Здесь требуется дальнейшее изучение.<BR>Я буду вести учет всех обнаруженных типов эссенции. В закладке слева будут показаны все мои знания о них на текущий момент.<BR>А пока, мне нужно направить свои силы в другое русло. Изучение эссенций может быть неплохой отправной точкой.
 #
@@ -1247,7 +1255,7 @@ research.THEORYRESEARCH.stage.2=Теперь, когда у меня есть р
 #
 research.UNLOCKAUROMANCY.title=Открытие Ауромантии
 research.UNLOCKAUROMANCY.stage.1=Создание объектов при помощи Вис открыло передо мной совершенно новый мир, но все же я не доволен. Должен быть способ воздействовать на ауру напрямую. Способ извлекать Вис из самого воздуха и преобразовывать его по своему желанию.<BR>Я должен изучить окружающий меня мир и отправиться к его границам. Там я узнаю, что мне необходимо.<BR>Иногда я чувствую, будто меня движут силы, лежащие за пределами моего понимания - незнакомые голоса, что подталкивают меня на путь к великой силе и знанию.<BR>Придание Вис формы станет еще одним шагом в этом путешествии.
-research.UNLOCKAUROMANCY.stage.2=Медленно, но верно я начинаю понимать природу энергии Вис. Так много всего еще сокрыто от меня, но думаю, что теперь я знаю достаточно, для того чтобы начать менять ее форму по своему желанию. Для этого мне понадобится инструмент. Особый инструмент.<BR>Я наткнулся на несколько пыльных свитков, написанных давно умершим тауматургом. В них описывается, как создавать жезлы, которые нужны для того, чтобы хранить и направлять Вис. Знания, что я подчерпнул из свитков, были полезны, но их применение кажется очень ограниченным. Зачем пленять Вис внутри жезла, когда он есть повсюду? Даже сам жезл кажется мне непрактичным. Если Вам нужно что-то хватать или формировать ауру, то для этого должно быть что-то подходящее. Что-то вроде перчатки.<BR>Какая-нибудь старая перчатка сделать этого не сможет, она должна быть изготовлена из кожи наивысшего качества, а также покрыта материалами, проводящими Вис. Железо - достаточно плохой проводник, но это все, что доступно мне на данном этапе.<BR>К счастью, мне не придется слоняться по магическим лесам и заниматься прочими вещами, для того чтобы хранить Вис, но мне понадобится какой-то способ по выкачиванию его прямо из ауры - Вис-резонатор, если угодно. Я также прикреплю к перчатке простенький таумометр, чтобы следить за местной аурой.<BR>Ну и наконец, я сделаю углубление на задней части перчатки. В свитках упоминается использование специальных кристаллических фокусировщиков для направления потока Вис, хранящегося в жезлах. Их кристаллическая решетка изменяет форму Вис, позволяя создавать всевозможные полезные эффекты. Это гениально. Раздражает то, что я не подумал об этом в первую очередь. К счастью, я уже придумал несколько способов по улучшению дизайна и формы перчатки, что позволит управлять потоком Вис в большей степени, чем это могли делать старые жезлы.  
+research.UNLOCKAUROMANCY.stage.2=Медленно, но верно я начинаю понимать природу энергии Вис. Так много всего еще сокрыто от меня, но думаю, что теперь я знаю достаточно, для того чтобы начать менять ее форму по своему желанию. Для этого мне понадобится инструмент. Особый инструмент.<BR>Я наткнулся на несколько пыльных свитков, написанных давно умершим тауматургом. В них описывается, как создавать жезлы, которые нужны для того, чтобы хранить и направлять Вис. Знания, что я подчерпнул из свитков, были полезны, но их применение кажется очень ограниченным. Зачем пленять Вис внутри жезла, когда он есть повсюду? Даже сам жезл кажется мне непрактичным. Если Вам нужно что-то хватать или формировать ауру, то для этого должно быть что-то подходящее. Что-то вроде перчатки.<BR>Какая-нибудь старая перчатка сделать этого не сможет, она должна быть изготовлена из кожи наивысшего качества, а также покрыта материалами, проводящими Вис. Железо - достаточно плохой проводник, но это все, что доступно мне на данном этапе.<BR>К счастью, мне не придется слоняться по магическим лесам и заниматься прочими вещами, для того чтобы хранить Вис, но мне понадобится какой-то способ по выкачиванию его прямо из ауры - Вис-резонатор, если угодно. Я также прикреплю к перчатке простенький таумометр, чтобы следить за местной аурой.<BR>Ну и наконец, я сделаю углубление на задней части перчатки. В свитках упоминается использование специальных кристаллических фокусировщиков для направления потока Вис, хранящегося в жезлах. Их кристаллическая решетка изменяет форму Вис, позволяя создавать всевозможные полезные эффекты. Это гениально. Раздражает то, что я не подумал об этом в первую очередь. К счастью, я уже придумал несколько способов по улучшению дизайна и формы перчатки, что позволит управлять потоком Вис в большей степени, чем это могли делать старые жезлы.
 research.UNLOCKAUROMANCY.stage.3=Мне удалось создать базовую перчатку заклинателя, и я крайне доволен результатом. Пока что она немного грубовата, но что еще можно ожидать от прототипа. Даже сейчас она окажется крайне полезной, т.к. позволяет мне вносить тонкие корректировки и изменения в тауматургические устройства, а также безопасно управлять ими всеми доступными способами.<BR>Мои первые эксперименты показали, что выкачивать Вис можно только из сравнительно небольшой области вокруг меня. И я должен быть осторожен, чтобы не истощить ауру.<BR>Теперь мой главный камень преткновения - то, что перчатка в своем текущем состоянии имеет немного больше функционала, чем простой магический гаечный ключ. Пока я не раскрою секрет создания фокусировщиков, ее польза будет невелика. Путь, что предстоит мне пройти, очевиден...
 research.m_deepdown.text=Доберитесь до глубочайших недр этого мира.
 research.m_uphigh.text=§bПобывайте на вершинах самых высоких гор, которые только сможете найти.
@@ -1260,20 +1268,20 @@ got.findocean=You have peered into the endless blue abyss.
 #
 research.UNLOCKARTIFICE.title=Открытие Изобретений
 research.UNLOCKARTIFICE.stage.1=Я многому научился и в особенности тому, как много мне еще предстоит учиться. Миры, открытые мне, таинственны и загадочны, они наполнены множеством незримых чудес... и опасностей.<BR>Мне нужен инструмент, который позволит увидеть невидимое и облегчить мое путешествие в мир открытий. В старых текстах, что я прочитал, упоминается комплект очков, который обычно используется тауматургами именно для этих целей.<BR>Увы, но в текстах не упоминается, как именно они работают, поэтому мне придется разрабатывать свои собственные очки с самого начала.
-research.UNLOCKARTIFICE.stage.2=Я разработал несколько проектов, основанных на моих экспериментальных данных и той небольшой информации, которую я смог найти. Время применить теорию на практике.<BR>Мало того, что очки покажут скрытые вещи, они также уменьшат стоимость Вис на некоторые тауматургические задачи.<BR>В заключение, эти очки позволят мне увидеть, сколько эссенции или Вис содержат объекты, расположенные в мире, и я уверен, что это докажет, какую пользу они в себе несут. Однако главное, что я узнал - это то, что используя магию и наполняя предметы магической силой, я могу создавать утонченные механические устройства. 
+research.UNLOCKARTIFICE.stage.2=Я разработал несколько проектов, основанных на моих экспериментальных данных и той небольшой информации, которую я смог найти. Время применить теорию на практике.<BR>Мало того, что очки покажут скрытые вещи, они также уменьшат стоимость Вис на некоторые тауматургические задачи.<BR>В заключение, эти очки позволят мне увидеть, сколько эссенции или Вис содержат объекты, расположенные в мире, и я уверен, что это докажет, какую пользу они в себе несут. Однако главное, что я узнал - это то, что используя магию и наполняя предметы магической силой, я могу создавать утонченные механические устройства.
 #
 research.UNLOCKINFUSION.title=Открытие Наполнения
 research.UNLOCKINFUSION.stage.1=До сих пор я создавал предметы при помощи Вис, считая это как нечто само собой разумеющееся. Простое зачарование, очень похожее на то, что используется в столе зачарований. Однако я думаю, что возможно нечто большее, что §oнаполняя§r объекты эссенцией, я смогу искусственным путём заставить их использовать аспекты и свойства других объектов или же вовсе получить что-то новое.<BR>Любой сможет наложить на объект магию, что поднимет его в воздух, но наполнение должно быть способно насыщать объект самой лёгкостью, сделав её частью его сущности.
-research.UNLOCKINFUSION.stage.2=Мои эксперименты оказались успешными. Я смог наполнить простые предметы эссенцией, но процесс этот был трудным и опасным. Мне нужно найти способ по его упрощению, прежде чем я действительно смогу вникнуть во всё то, на что он способен.<PAGE>В процессе экспериментов мне удалось достичь нескольких конкретных результатов.<BR>Я смог открыть ткань, мягкую, эластичную и легко поддающуюся зачарованию. Я спроектировал несколько моделей для комплекта одежды, сделанного из этой ткани.<BR>Он будет не просто удобным и стильным, но еще и снизит затраты Вис на некоторые тауматургические задачи во время ношения. Одежда должна также легко красится, как кожаная броня.<BR>В целом, я доволен тем, что сделал. 
+research.UNLOCKINFUSION.stage.2=Мои эксперименты оказались успешными. Я смог наполнить простые предметы эссенцией, но процесс этот был трудным и опасным. Мне нужно найти способ по его упрощению, прежде чем я действительно смогу вникнуть во всё то, на что он способен.<PAGE>В процессе экспериментов мне удалось достичь нескольких конкретных результатов.<BR>Я смог открыть ткань, мягкую, эластичную и легко поддающуюся зачарованию. Я спроектировал несколько моделей для комплекта одежды, сделанного из этой ткани.<BR>Он будет не просто удобным и стильным, но еще и снизит затраты Вис на некоторые тауматургические задачи во время ношения. Одежда должна также легко красится, как кожаная броня.<BR>В целом, я доволен тем, что сделал.
 #
 research.UNLOCKALCHEMY.title=Открытие Алхимии
 research.UNLOCKALCHEMY.stage.1=Варка простых зелий, безусловно, имеет свое применение, но истинная алхимия предполагает нечто большее, чем простое смешивание нескольких частей тел монстров.<BR>Мне кажется, Эссенция служит ключом к гораздо более утонченному способу манипулирования материей.<BR>Я должен попытаться побольше узнать об алхимии и о том, какую роль она играет в магическом мире.<BR>Вооружившись этими знаниями и частичкой вдохновения, я уверен, что смогу овладеть Тауматургической алхимией.
 research.UNLOCKALCHEMY.stage.2=Мои недавние открытия позволили мне по-новому взглянуть на то, как устроен мир, и, мне кажется, я знаю, как преобразовывать материю, изменяя ее Эссенцию.<BR>Это потребует экспериментов и чего-то, что может хранить в себе алхимический субстрат. Простая зельеварка здесь не подойдет, мне нужен мистический тигель.<BR>Котел подходит по форме и размеру, но то, что по факту представляет собой большую металлическую миску, никогда не сможет удержать магические силы, которыми я хочу манипулировать.<BR>Как и прежде, использование Salis Mundus на котле должно решить эту проблему.
 research.UNLOCKALCHEMY.stage.3=У меня есть тигель! Теперь мне нужно что-нибудь, с чем можно поэкспериментировать, и так сложилось, что у меня есть для этого идеальный предмет. Я провел множество вечеров в изучении тауматургии, и мерцающий свет факела - не лучший вариант для чтения. Неугасающий магический свет - это именно то, что мне сейчас нужно.<BR>Светокамень хоть и является постоянным источником света, но для освещения мне потребуется большое его количество, да и к тому же ему не хватает... стиля. Я уверен, что смогу преобразовать его во что-то получше.<BR>Тигель должен быть размещен над источником тепла и заполнен водой. Как только вода закипит, я могу начать добавлять в него то, что мне нужно. Я записал рецепт, который, как мне кажется, позволит создать вещество, названное мною Нитором. Небольшое ядро энергизированного светокамня, наделенное энергией, огнем и светом, должно гореть вечно. Оно также должно обладать естественной левитацией, что позволит ставить его там, где я захочу - он даже может парить в воздухе.<BR>Мне просто нужно найти предметы с необходимой эссенцией (здесь может помочь нажатие клавиши Shift после того, как я наведу на предмет мышкой) и кинуть их в тигель.<BR>Тигель растопит их на составляющие эссенции. Возможно, мне не удастся собрать точную комбинацию эссенций, но если тех ее типов, что мне нужны, будет достаточно, все получится.<BR>Как только эссенции будет достаточно, все, что мне нужно сделать, так это бросить катализатор. В моем случае им является горсть светящейся пыли.<BR>Если все пройдет гладко, светящаяся пыль поглотит эссенцию и превратится в нитор.<BR>Не уверен, что произойдет с лишней эссенцией, но могу предположить, что со временем она рассеется без какого-либо вреда.<BR>[По нажатию Shift + ПКМ пустой рукой Вы опустошите тигель. После каждого создания предмета в тигеле будет расходоваться часть воды, поэтому Вам придется доливать ее время от времени.]
 #
-research.UNLOCKGOLEMANCY.title=Discovering Golemancy
-research.UNLOCKGOLEMANCY.stage.1=This book has taught me many things: How to manipulate matter and magic on a fundamental level, how to imbue objects with magical properties and even how to draw magic from the very air around me. Still some things elude me.<BR>There are some very basic, but amazingly magical things almost anyone can do. Just stacking a few blocks together in the right pattern will cause them to transform into semi-sentient animated golems. How is this possible? Why would it even happen. Is the aura somehow responsible for this?<BR>I should study this phenomenon more closely.
-research.UNLOCKGOLEMANCY.stage.2=My findings are confusing to say the least.<BR>The 'natural' golems that can be created are indeed infused with vis, but I do not believe their creation is thaumaturgical in nature. Whatever force animates them seems to come from elsewhere.<BR>Still, my research has at least borne some fruit. I have studied this animating force and I believe I can recreate it using thaumaturgical principles. I should further my studies as soon as possible.
+research.UNLOCKGOLEMANCY.title=Открытие Големостроения
+research.UNLOCKGOLEMANCY.stage.1=Эта книга научила меня многим вещам: как управлять материей и магией на фундаментальном уровне, как наполнять предметы магическими свойствами и даже как извлекать магию из самого воздуха. Тем не менее несколько вещей ускользает от меня.<BR>Есть немного очень простых, но удивительно волшебных штуковин, которые может сделать каждый. Просто поставив несколько блоков по определённому шаблону, я заставлю их превратиться в полуразумных оживлённых големов. Как это возможно? Почему это вообще случилось? Замешана ли в этом аура?<BR>Я должен повнимательнее изучить этот феномен.
+research.UNLOCKGOLEMANCY.stage.2=Мои находки как минимум сбили меня с толку.<BR>Те "естественные" големы, которых можно создать, и впрямь наполнены Вис, но я не думаю, что их создание имеет тауматургическую природу. Независимо от того, какая сила их оживляет, похоже, что она происходит извне.<BR>Тем не менее, мои исследования принесли плоды. Я изучил эту оживляющую силу, и думаю, что смогу воссоздать её, используя законы тауматургии. Я должен продолжить свои исследования как можно скорее.
 research.f_golem.text=Study an animated construct.
 #
 research.FLUX.warn=Кажется, что-то накапливается в ауре. Что-то плохое.
@@ -1304,8 +1312,8 @@ research.CRYSTALFARMER.title=Crystal Farming
 research.CRYSTALFARMER.stage.1=I have observed that vis crystals naturally grow over time, but once I harvest them they seem to lose this ability. I am hoping to discover what exactly is lost and how to reinvigorate the crystals.
 research.CRYSTALFARMER.stage.2=I have found a way to reinvigorate vis crystals in such a way that I can replant them.<BR>I am hoping this means I can grow my own steady supply of primal vis crystals.
 #
-research.CELESTIALSCANNING.title=Наблюдение за небесами
-research.CELESTIALSCANNING.stage.1=Я заметил, что существует связь между фазами Луны и скоростью, с которой восстанавливается аура. Я должен побольше разузнать об этом феномене и даже расширить область своего исследования, чтобы увидеть, влияют ли другие небесные тела на магию.<BR>Несколько небольших поправок в таумометре должны позволить ему исследовать объекты в небе. Мне нужно помнить, что стоит носить с собой письменные принадлежности и немного бумаги, так я смогу делать заметки.<BR>Исследование одного и того же тела или квадранта неба более одного раза в день не даст мне новых идей; мне нужно изучать их постепенно, для того чтобы улавливать изменения их влияния на ауру.<BR>Заметки, которые я собираю, должны пригодиться в создании теорий.
+research.CELESTIALSCANNING.title=Celestial Observation
+research.CELESTIALSCANNING.stage.1=I have noticed a link between the phases of the moon and the speed at which the aura replenishes itself. I should investigate this phenomenon further and even expand my investigation to see if other heavenly bodies influences magic.<BR>A few minor tweaks to my thaumometer should enable it to take measurements from objects in the sky. I should remember to carry some paper and scribing tools with me so I can take notes.<BR>Measuring the same body or quadrant of the sky more than once a day will not give me new insights - I need to study them over time to measure changes in their aural influence.<BR>The notes I gather should come in handy for theorycrafting.
 #
 research.UNLOCKELDRITCH.title=Delving into the Eldritch (UNFINISHED)
 research.UNLOCKELDRITCH.stage.1=Still work in progress. Nothing to see here.
@@ -1315,23 +1323,23 @@ research.UNLOCKELDRITCH.stage.2=Still work in progress. Nothing to see here.
 # ALCHEMY
 ##########################################
 #
-research.BASEALCHEMY.title=Basic Alchemy
-research.BASEALCHEMY.stage.1=Crucible crafting guide<BR>1) Place crucible over heat source (fire, lava, nitor or something similar).<BR>2) Add water and wait till it boils.<BR>3) Add ingredients with the essentia you require, either by dropping them in or clicking with the item on the crucible's top face<BR>4) Throw in catalyst.<PAGE>Things to note<BR>- Shift-right clicking with an empty hand will empty a crucible.<BR>- Each crafting operation will consume some of the water so I will have to replenish it now and again. Piping mechanics can be used for this.<BR>- I can craft multiple items at once by adding sufficient essentia and using multiple catalysts.<BR>- Essentia does dissolve over time so I shouldn't wait too long before starting to craft. I wonder what the purple puffs of smoke means when this happens? Probably nothing to worry about.<LINE>§oCrafting Crystals§r<BR>Essentia crystals should be fairly easy to craft. All I need to do is break down a quartz crystal into smaller shards to act as a growth medium.<BR>Simply dipping a shard into the crucible should soak up some of the essentia it contains and cause the crystal to grow.<BR>This won't be a particularly efficient way of doing things - it will probably cost at least twice the essentia that the crystal will end up containing and there is the net loss of quartz which is not always the easiest thing to find.
+research.BASEALCHEMY.title=Основы алхимии
+research.BASEALCHEMY.stage.1=Руководство по созданию предметов при помощи тигеля: <BR>1) Поставьте тигель над источником тепла (огонь, лава, нитор или что-то подобное).<BR>2) Добавьте воды и подождите, пока она закипит.<BR>3) Добавьте ингредиенты с необходимой Вам эссенцией, либо просто бросив их, либо кликнув предметом по верхней стороне тигеля.<BR>4) Бросьте катализатор.<PAGE>Следует отметить, что: <BR>- Нажав Shift + ПКМ пустой рукой, я опустошу тигель.<BR>- Каждое создание будет потреблять некоторую часть воды, поэтому мне придётся пополнять её снова и снова. Для этого можно также использовать механику труб.<BR>- Я могу создавать сразу несколько предметов, добавив достаточное количество эссенции и используя несколько катализаторов.<BR>-Эссенция со временем испаряется, поэтому я не должен затягивать с тем, чтобы начать создание. Интересно, что означают фиолетовые клубы дыма, появляющиеся, когда это происходит? Наверное, беспокоиться не о чем.<LINE>§oСоздание кристаллов§r<BR>Кристаллы с эссенцией должны быть достаточно просты в изготовлении. Всё, что мне нужно сделать, это разбить кварцевый кристалл на более мелкие осколки для того, чтобы сделать из них среду для выращивания.<BR>Погрузившись в тигель, осколок должен впитать часть эссенции, которую содержит котёл, что заставит кристалл расти.<BR>Не очень эффективный способ создания вещей, поскольку стоить это будет, по меньшей мере, в два раза больше, чем будут содержать в конечном итоге кристаллы, к тому же это постоянные потери кварца, который не всегда так просто найти.
 #
 research.ALUMENTUM.title=Alumentum
 research.ALUMENTUM.stage.1=Nitor is a useful substance. It provides heat, light and is aesthetically pleasing. Unfortunately it provides only slightly more heat than a torch - enough to slowly heat some water or keep you warm at night, but not enough for practical purposes like smelting ore.<BR>I need something more... reactive.<BR>I should take some time to collect my thoughts and study the elements. Maybe there is a way to improve coal like I did glowstone.
 research.ALUMENTUM.stage.2=I was right! I should be able to take a lump of coal and add more of the essentia it already contains... and possibly a little bit of perditio for extra kick.<BR>If my calculations are correct the resulting substance, which I have called Alumentum, should burn three times longer than normal coal.<BR>My calculations also show that the substance will be quite energetic and I should take care not to chuck it about... not unless I have good reason to, that is.
 #
-research.METALLURGY.title=Alchemical Metallurgy
-research.METALLURGY.stage.1=Brass is a sturdy, low friction metal perfectly suited to craft intricate mechanical devices.<BR>Unfortunately it is not always possible to get hold of it due to the morphic properties of the universe I may find myself in.<BR>There should be a way of crafting it via alchemical transmutation. I simply need to find it.
-research.METALLURGY.stage.2=Metals have proven to be quite easy to manipulate via thaumaturgical principles. My first experiments has led to the discovery of Alchemical Brass, but it was a simple matter to create something that already exists. It is time to create something new.<BR>I have theorized that by infusing a base metal like iron with magical energy should result in something with very interesting properties.<BR> It should be harder than iron with the ability to accept enchantments beyond that which iron is normally capable of.<BR>A metal such as this should have many applications in the crafting of more advanced thaumaturgical devices.
+research.METALLURGY.title=Алхимическая металлургия
+research.METALLURGY.stage.1=Латунь - это прочный металл с низким коэффициентом трения, который идеально подходит для создания сложных механических устройств.<BR>К сожалению, её не всегда можно достать из-за изменчивых свойств вселенной, в которой я нахожусь.<BR>Должен быть способ создать её при помощи алхимической трансмутации. Нужно просто его найти.
+research.METALLURGY.stage.2=Металлы уже доказали, что ими очень лёгко манипулировать, используя законы тауматургии. Мои первые эксперименты привели меня к открытию Алхимической латуни, но это несложно - создать что-то, что уже существует. Пришло время создать нечто новое.<BR>Предполагаю, что если наполнить базовый металл, такой как железо, магической энергией, то это должно привести к чему-то, что может обладать очень интересными свойствами.<BR>Этот металл должен быть прочнее железа, а также он должен обладать возможностью принимать больше зачарований, чем способно железо.<BR>Металл, подобный этому, должен иметь множество применений при разработке более совершенных тауматургических устройств.
 research.METALLURGY.stage.3=I am sure I am on the edge of a breakthrough here, but I have no idea how to proceed. There is something missing, some vital piece of information I lack.<BR>I should proceed carefully however. Somehow I sense the areas of knowledge I am delving into now could be dangerous.
 research.METALLURGY.stage.4=My hand shakes as I write this. The strange substances I have investigated has opened strange new vistas in my mind.<BR>Before me I have formulas for creating a mysterious new metal, yet I do not remember writing them, nor does the handwriting look quite like mine.<BR>The metal they describe is a mass of contradictions. It is hard and unyielding, yet at the same time soft and easy to work. It will feel warm to the touch, almost alive and like living things it will slowly heal itself if damaged.<BR>Crafting mere physical tools from this seems almost... wrong.
 research.METALLURGY.stage.5=For now my studies are complete, but who knows what other wondrous discoveries I will make in the future?
 research.voidstuff.text=A strange metal
 #
-research.METALPURIFICATION.title=Metal Purification
-research.METALPURIFICATION.stage.1=Native clusters are rare concentrations of metals in its purest form. When smelted these clusters produces twice the normal amount of ingots.<BR>If I can find a way of producing native clusters alchemically it would greatly reduce my need to constantly go mining.
+research.METALPURIFICATION.title=Очищение металлов
+research.METALPURIFICATION.stage.1=Самородные кластеры представляют собой редкие скопления чистых металлов. При переплавке эти кластеры дают вдвое больше слитков.<BR>Если я смогу найти способ их создания при помощи алхимии, это значительно снизит потребность в постоянной добыче ресурсов.
 #
 research.HEDGEALCHEMY.title=Hedge Alchemy
 research.HEDGEALCHEMY.stage.1=It should be a fairly simple process to apply the alchemical principles I've learned to creating common materials.<BR>It will hardly be a challenge for me, but the practice should do me good.<BR>I realised that I have gathered an alarmingly large stock of rotten flesh for who knows what reason. Maybe it is time I put it to use and render it into tallow. It should be handy for crafting candles if nothing else.<BR>I should also be able to turn it into leather with a little bit of magical elbow grease.
@@ -1344,7 +1352,7 @@ research.LIQUIDDEATH.stage.1=Curiosity has taken me down a dark path. I wonder w
 research.LIQUIDDEATH.stage.2=Oh dear, what have I done? This liquid is so dangerously toxic that virtually nothing can prevent it from dissolving flesh, bone and even harder substances. Nothing alive or that even displays the semblance of life can survive it.<BR>Apart from obvious practical applications, this vile substance has another interesting property: Any essentia a dissolved creature possessed form into crystals that can be harvested.
 #
 research.BOTTLETAINT.title=Bottled Taint
-research.BOTTLETAINT.stage.1=I should be able to replicate the Taint causing properties of flux. I am not exactly sure why I would want to, but sometimes progress requires risk.<BR>The process should be fairly simple - I merely need to create a concentrated mixture of flux and it should easily react with almost anything to create Taint. 
+research.BOTTLETAINT.stage.1=I should be able to replicate the Taint causing properties of flux. I am not exactly sure why I would want to, but sometimes progress requires risk.<BR>The process should be fairly simple - I merely need to create a concentrated mixture of flux and it should easily react with almost anything to create Taint.
 #
 research.BATHSALTS.title=Purifying Bath Salts
 research.BATHSALTS.stage.1=Warp is a danger for even the most careful of thaumaturges. For those that have done a bit too much dabbling Warp effects are probably more than just an annoyance.<BR>I should make solving this problem a priority. Even if I am not able to remove Warp, at the very least I should be able to alleviate it's effects.
@@ -1356,20 +1364,20 @@ research.SANESOAP.stage.2=Eureka! I have formulated a recipe for what I have nam
 #
 research.ARCANESPA.title=Arcane Spa
 research.ARCANESPA.stage.1=Pouring bath salts into water is a bit of a chore, but luckily one easily solved with a bit of magic and ingenuity.
-research.ARCANESPA.stage.2=I have created a handy machine that when filled with water and bath salts will automatically mix them and pump the liquid into an area above it. The liquid will fill a 5x5 area above the location where the machine is placed.<BR>Additionally, I have designed it in such a way that it can be used to pump nearly any liquid I can fill it with. It can be filled with with automation, or by clicking on the block with the appropriate container. Applying a redstone signal will disable it.
+research.ARCANESPA.stage.2=I have created a handy machine that when filled with water and bath salts will automatically mix them and pump the liquid into an area above it. The liquid will fill a 5x5 area above the location where the machine is placed.<BR>Additionally, I have designed it in such a way that it can be used to pump nearly any liquid I can fill it with. It can be filled with automation, or by clicking on the block with the appropriate container. Applying a redstone signal will disable it.
 #
 research.WARDEDJARS.title=Warded Jars & labels
 research.WARDEDJARS.stage.1=Essentia can be stored in §lWarded Jars§r.<BR>Warded jars can be placed in the world and is able to store essentia virtually indefinitely. The enchantment placed on the jars also makes adding or extracting essentia a breeze.<BR>Jars can be filled from an alembic by clicking with the jar directly on the alembic. They can also be filled and emptied using phials.<BR>What is more they make an excellent storage medium for jams and preserves.<BR>Shift clicking on jars and alembics with an empty hand will empty them.<PAGE>As long as a jar contains some essentia, you can attach a §lJar Label§r to it.<BR>This label will 'lock' the jar to that type of essentia and it will not be able to accept any other kind of essentia.<BR>You can remove a label by shift clicking with an empty hand on the side of the jar containing the label. Take care not to shift click on any other side as it will empty the jar as normal.<BR>You can place a label in a crafting bench with a phial of essentia to assign an aspect to it and when placed on an empty jar it will automatically lock the jar to that aspect. The essentia used in the recipe is not consumed.<BR>Placing it on a filled jar will change the label to the jar's essentia type.<BR>A label can be made blank again by simply placing it by itself in a crafting grid.<PAGE>You can also craft §lBrass Lid Braces§r. When used on a jar, they will prevent essentia being drawn from or placed into the jar by anything other than tubes.<BR>Picking up the jar will remove the brace and return it as an item.
 #
 research.ESSENTIASMELTER.title=Essentia Smelting
 research.ESSENTIASMELTER.stage.1=I see a time fast approaching where I will need to have ready access to multiple different kinds of essentia. For that I will need a source and the most obvious is the essentia found in, well, everything.<BR>Using alchemical principles should be able to find a way to break down objects and convert them into essentia. Before I can start however I will need to study essentia in the purest form available to me - vis crystals.<BR>By subjecting these crystals to, um, "destructive testing" I should be able to determine how they react in various extremes and the best way to preserve their purity.<BR>I should start with primal Essentia.
-research.ESSENTIASMELTER.stage.2=My experiments are promising if a bit unpredictable. Fortunately the fires were easily quenched and my hair should grow back in a few days.<BR>It seems melting objects down in a special alchemical process is my best option. Unfortunately my tests so far have been on primal crystals. I should also test my finding on crystals containing secondary essentia - that is essentia made up of a combination of two primal aspects.<BR>A third tier known as tertiary essentia also exists. That is essentia made up of a mixture of primal and secondary aspects, or two secondary aspects. 
-research.ESSENTIASMELTER.stage.3=I have managed to break down all my samples of primary and secondary essentia into a liquid state. The process has been slow and tedious however. Until I simplify the process it will never be practical for large scale usage.<BR>Luckily extracting essentia from objects has a lot in common with the smelting of metals. Using a furnace as a base I might be able to create an essentia smeltery that automatically melts down items and separates out individual types of essentia. 
+research.ESSENTIASMELTER.stage.2=My experiments are promising if a bit unpredictable. Fortunately the fires were easily quenched and my hair should grow back in a few days.<BR>It seems melting objects down in a special alchemical process is my best option. Unfortunately my tests so far have been on primal crystals. I should also test my finding on crystals containing secondary essentia - that is essentia made up of a combination of two primal aspects.<BR>A third tier known as tertiary essentia also exists. That is essentia made up of a mixture of primal and secondary aspects, or two secondary aspects.
+research.ESSENTIASMELTER.stage.3=I have managed to break down all my samples of primary and secondary essentia into a liquid state. The process has been slow and tedious however. Until I simplify the process it will never be practical for large scale usage.<BR>Luckily extracting essentia from objects has a lot in common with the smelting of metals. Using a furnace as a base I might be able to create an essentia smeltery that automatically melts down items and separates out individual types of essentia.
 research.ESSENTIASMELTER.stage.4=I have drawn up the plans for an Essentia Smelter. The smelter works much like a normal furnace by burning coal to produce heat, but instead of smelting ore into metal, it breaks down objects into a slurry of raw, unprocessed essentia. This process isn't very efficient and a small amount of essentia is converted into flux roughly 20% of the time.<BR>The next step in the process is to take the essentia slurry and distill it using an Arcane Alembic.<BR>To work, arcane alembics need to be placed on top of a smelter. Multiple alembics can be placed on top of each other to increase storage, but it does not influence processing speed. The essentia slurry will slowly be drawn into the alembic and the individual aspected essentia separated out.<BR>If the smelter is being powered by alumentum, this distillation process is much faster.<BR>The essentia can then be extracted out of an alembic using phials, jars or more complex means.
 research.ESSENTIASMELTER.bellows=Bellows placed on the side of a smelter will greatly increase the heat it generates, allowing items to be broken down into a slurry much quicker.
 #
 research.ESSENTIASMELTERTHAUMIUM.title=Thaumium Essentia Smelter
-research.ESSENTIASMELTERTHAUMIUM.stage.1=The basic essentia smelter is quite crude if I have to be honest with myself. It is extremely inefficient and rather slow. I chalk this up to the low quality of the materials it is crafted from.<BR>I believe Thaumium could prove useful in improving the smelting process. I should run some experiments to see how it effective it would be at containing essentia slurry.<BR>I should probably also improve the plumbing inside the smelter itself. 
+research.ESSENTIASMELTERTHAUMIUM.stage.1=The basic essentia smelter is quite crude if I have to be honest with myself. It is extremely inefficient and rather slow. I chalk this up to the low quality of the materials it is crafted from.<BR>I believe Thaumium could prove useful in improving the smelting process. I should run some experiments to see how it effective it would be at containing essentia slurry.<BR>I should probably also improve the plumbing inside the smelter itself.
 research.ESSENTIASMELTERTHAUMIUM.stage.2=Thaumium has proven to be a good choice, though not quite as effective as I had hoped.<BR>The Thaumium Smeltery works much like the basic smeltery, but it has roughly 85% efficiency instead of 80%. Not nearly the improvement I was hoping for, but better than nothing I suppose.<BR>Its main benefit is that it breaks down essentia slurry at double the normal speed.
 #
 research.ESSENTIASMELTERVOID.title=Void Metal Essentia Smelter
@@ -1381,7 +1389,7 @@ research.THAUMATORIUM.stage.1=Sometimes alchemy can be a hit and miss affair - m
 research.THAUMATORIUM.stage.2=I have invented an automated device I have named the Thaumatorium. Like many multi part devices this one must be created using Salis Mundus.<BR>The Thaumatorium is a marvelous invention that allows a thaumaturge to select which formula to use and what catalysts to add. It then automatically draws essentia from available sources using tubes. As long as there is a supply of catalyst it produces the required object perfectly, every time.<BR>The crucible that forms its base does not require water, but a heat source is still needed.<LINE>When I access the device there are several slots. The top-left slot is where I place the catalyst. Once I have done this, I can choose which recipe I wish to craft with that catalyst from a list of possibilities in the top right slot.<BR>The bottom bar shows the essentia required in the order they will be required. It will also display progress bars once the machine is in operation.<BR>The created object is ejected out the front of the device or into an inventory placed in front of the ejection port.<LINE>Normally a Thaumatorium can only have one active formula, but by attaching a Mnemonic Matrix to its side I can increase the number of formulas it can keep track of.<BR>Each matrix increases the number of formulas by 2.
 #
 research.ESSENTIATRANSPORT.title=Advanced Essentia Transport
-research.ESSENTIATRANSPORT.stage.1=During the infusion crafting process essentia is drawn directly from jars and floats through the air to the infusion matrix. The magic of the matrix keeps it stable enough for the infusion process, but normally the essentia is changed in such a way that it becomes unusable for anything else.<BR>If only I can find a way to draw essentia through the air outside of the infusion process and still keep it stable. 
+research.ESSENTIATRANSPORT.stage.1=During the infusion crafting process essentia is drawn directly from jars and floats through the air to the infusion matrix. The magic of the matrix keeps it stable enough for the infusion process, but normally the essentia is changed in such a way that it becomes unusable for anything else.<BR>If only I can find a way to draw essentia through the air outside of the infusion process and still keep it stable.
 research.ESSENTIATRANSPORT.stage.2=I have cracked the method of keeping aerated essentia stable outside of infusion.<BR>I have drawn up plans for two devices. The Filling Essentia Transfuser can take essentia directly from a pipe network or other essentia source and transport it to jars within 16 blocks of the direction it is facing.<BR>The Emptying Essentia Transfuser does the opposite - drawing essentia from jars within range and placing it within tubes or devices requiring essentia of a specific type.
 #
 research.CENTRIFUGE.title=Essentia Centrifuge
@@ -1417,8 +1425,13 @@ research.BASEINFUSION.stage.1=I am now ready to begin crafting enchanted objects
 #
 research.INFUSION.title=Infusion
 research.INFUSION.stage.1=Arcane crafting and alchemy can go only so far. Something better is needed to create truly powerful mystical objects.<BR>You believe that it should be possible to infuse objects with essentia directly. You could, for example, infuse a stone with §6Aer§0 vis and a feather and it would result in a very light stone.<BR>At least, that is my theory.
-research.INFUSION.stage.2=Unsurprisingly, infusion crafting is proving to be a lot more complex than I expected. Simply trying to infuse aspects into something does not work. I will need a relatively complex system to stabilize the entire process. I have drawn up plans for a Runic Matrix that will allow me to do this. 
+research.INFUSION.stage.2=Unsurprisingly, infusion crafting is proving to be a lot more complex than I expected. Simply trying to infuse aspects into something does not work. I will need a relatively complex system to stabilize the entire process. I have drawn up plans for a Runic Matrix that will allow me to do this.
 research.INFUSION.stage.3=To even get started with infusion crafting there are several things I will need: The Runic Matrix (which I now have), arcane pedestals and a ready supply of magic in the form of essentia.<BR>Once you have your Runic Matrix properly placed into a structure commonly known as an Infusion Altar, you can begin to craft. The altar is crafted with the use of Salis Mundus like most other mystical structures. Once the pillars have formed the runic matrix can be activated using a casting tool.<BR>The central pedestal located under the matrix is where the item you wish to infuse will go. You will also need several more pedestals placed around the altar where you can place the blocks and items you wish to infuse into the target object. Lastly you will need warded jars or similar essentia containers holding the requisite amount of vis.<BR>Once all this is gathered you can click on the Runic Matrix with a casting tool to start the crafting process.<BR>During the first stage of crafting essentia will be drained from nearby sources. Crafting will stall if there is insufficient essentia available - something that you do not want as will be explained on following pages.<BR>Once all the required essentia has been infused into the target object, the other objects will have their essential essence drained. Only when this is done will the crafting process complete.<LINE>Infusion crafting is not without risks. The entire process involves forcing vast energies into a single object. Unpredictable things tend to happen.<BR>Usually one of the fusion objects get knocked off a pedestal, or flux gets generated, but more catastrophic events are not unheard of.<BR>The longer crafting continues due to unresolved problems like lack of vis or dropped items, the greater the chance of something bad happening.<BR>These effects can be reduced by various means. Firstly you wish to keep the entire fusion structure as symmetrical as possible - take careful note of where you place pedestals and make sure they are balanced with other pedestals on the opposite side of the altar. When placing fusion items into them you may wish to keep them balanced as well. Lastly you can place occult paraphernalia around the altar in symmetrical formations (things like candles, skulls, etc.). These will have the effect of reducing instability.<IMG>thaumcraft:textures/research/research5.png:128:0:128:136:1</IMG>
+#
+research.INFUSIONSTABLE.title=Infusion Stabilization
+research.INFUSIONSTABLE.stage.1=Infusion has proven to be much more unstable than I expected. Placing occult paraphernalia does mitigate the effect somewhat, but much less than the texts suggested.<BR>I need to find more effective way of reducing instability. Strangely enough, I think mundane technology might have the answer.<BR>It is well known that mundane power sources like redstone interferes with thaumaturgy. Of course, throwing redstone into the mix of an already unstable infusion is not the answer, but maybe there is some way to harness the interference.
+research.INFUSIONSTABLE.stage.2=I have put together a device I am calling, appropriately enough, a Stabilizer. It accepts energy in the form of RF or FE which it uses to creat an interference pattern that serves to 'smooth' out the interaction between magical objects and the local aura. The effect is highly localized so the Stabilizer needs to be pointed at what you want to stabilize. It has a range of 8 blocks.<BR>The Stabilizer has obvious benefits when used on an infusion matrix, but I believe many more uses will reveal themselves. For instance I wonder effect it might have on natural aura instability like that caused by flux?
+got.instability=I should study infusion instability further.
 #
 research.INFUSIONBOOST.title=Infusion Boosting
 research.INFUSIONBOOST.stage.1=There should be a way to improve the function of the Infusion Altar. I should investigate this.
@@ -1466,14 +1479,14 @@ research.FORTRESSMASK.stage.2=I have drawn up designs for several magical masks 
 #
 research.CLOUDRING.title=Cloudstepper Ring
 research.CLOUDRING.stage.1=I should get my feet wet by creating a simple bauble. After some thought I decided to create a ring that will reduce falling damage and possibly help my mobility.<BR>It should be fairly simple to draw up plans for something like that.
-research.CLOUDRING.stage.2=I have made plans for a bauble I am calling the Cloudstepper Ring. It makes the wearer lighter greatly reducing falling damage. Additionally it can create a momentary puff of air below the wearer when they jump, allowing them to perform a second jump in mid-air. 
+research.CLOUDRING.stage.2=I have made plans for a bauble I am calling the Cloudstepper Ring. It makes the wearer lighter greatly reducing falling damage. Additionally it can create a momentary puff of air below the wearer when they jump, allowing them to perform a second jump in mid-air.
 #
 research.CURIOSITYBAND.title=Headband of Curiosity
 research.CURIOSITYBAND.stage.1=The experience orbs I gather from harvested resources and slain monsters contain both magical energy and packets of knowledge. I am certain that more can be done with them than simple enchanting.
 research.CURIOSITYBAND.stage.2=My theory has proven correct - I have found a way to extract fragments of knowledge from experience orbs. These parcels of knowledge are very small but may provide useful snippets of insight into certain kinds of research.<BR>I have drawn up designs for a headband that when worn will absorb half the experience from any orbs I collect and turn it into research knowledge. The rate of return is very low, but every little bit helps.
 #
 research.VERDANTCHARMS.title=Verdant Charms
-research.VERDANTCHARMS.stage.1=I occasionally find myself being affected with poisons and other nasty afflictions. I should find a way to protect myself. 
+research.VERDANTCHARMS.stage.1=I occasionally find myself being affected with poisons and other nasty afflictions. I should find a way to protect myself.
 research.VERDANTCHARMS.stage.2=I have created designs for a mystical charm that pulses with healing energy that will wash all poisons or similar afflictions from my body. Unfortunately it cannot heal actual wounds.<BR>The ring has an internal store of vis that needs to be charged with a recharge pedestal or similar item - it cannot draw vis from the aura directly.<BR>There is also two specialized enchantments I can apply to the charm to improve its function.<LINE>§nLifegiver§r<BR>This infusion enchantment allows the Verdant Heart Charm to regenerate the health of whomever wears it.<LINE>§nSustainer§r<BR>This infusion enchantment allows the Verdant Heart Charm to slowly feed and sustain whomever wears it. This includes providing breathable air.
 #
 research.CHARMUNDYING.title=Charm of Undying
@@ -1483,8 +1496,8 @@ research.CHARMUNDYING.stage.1=The Totem of Undying is potent magic that even tha
 # ARTIFICE
 ##########################################
 #
-research.BASEARTIFICE.title=Basic Artifice
-research.BASEARTIFICE.stage.1=I am now ready to begin crafting magical mechanisms and intricate arcane devices.
+research.BASEARTIFICE.title=Основы изобретений
+research.BASEARTIFICE.stage.1=Теперь я готов начать создание волшебных механизмов и замысловатых магических устройств.
 #
 research.REDSTONERELAY.title=Redstone Relay
 research.REDSTONERELAY.stage.1=I have always been curious about the seemingly negative reaction between mystical devices and redstone signals. I should study this phenomenon further and find a practical use for its effects.
@@ -1495,20 +1508,20 @@ research.ARCANEEAR.stage.1=I should investigate the creation of arcane sensors t
 research.ARCANEEAR.stage.2=I have succeeded! The Arcane Ear is a device that is capable of detecting the sound emitted from nearby note blocks. If it hears a note it recognises, it will emit a short redstone pulse.<BR>The Arcane Ear needs to be tuned in a manner identical to note blocks, the tone and note it listens for depends on the material it is placed against.<BR>Arcane ears can be placed against any surface.<LINE>I can also craft a version of the arcane ear that toggles on or off when it hears a note instead of sending a pulse.
 #
 research.DIOPTRA.title=Thaumic Dioptra
-research.DIOPTRA.stage.1=While a thaumometer will show me the local aura it would be useful to be able to get a general overview of the aura in a larger area. A device like this should be simple enough to design and make. 
+research.DIOPTRA.stage.1=While a thaumometer will show me the local aura it would be useful to be able to get a general overview of the aura in a larger area. A device like this should be simple enough to design and make.
 research.DIOPTRA.stage.2=As I expected it was not hard to expand on the workings of the thaumometer to design the Thaumic Dioptra.<BR>This device allows a thaumaturge to see the surrounding aura in a simple and clear manner. It will render the aura in a 13 chunk diameter area around it as a simple height map. It can also be switched to show flux instead by simply clicking on it.<BR>A comparator can be connected if you want to monitor the aura or flux level of the chunk in which it is placed.
 #
 research.LEVITATOR.title=Arcane Levitator
-research.LEVITATOR.stage.1=I have always been fascinated by the power of flight. I am sure flying is almost within my grasp, but first I need to learn the fundamentals.<BR>I need to study simple levitation first. 
+research.LEVITATOR.stage.1=I have always been fascinated by the power of flight. I am sure flying is almost within my grasp, but first I need to learn the fundamentals.<BR>I need to study simple levitation first.
 research.LEVITATOR.stage.2=While not true flight, the Arcane Levitator is the next best thing.<BR>When placed the levitator lifts any item or creature above it up to 8 blocks into the air. A sneaking creature or player will be slowly lowered.<BR>While levitating something it consumes 1 vis per second from the aura.<BR>The levitator can be placed in any orientation, and when placed horizontally will push creatures along while keeping them aloft.<BR>A toggle on the back of the device allows you to alter the range at which it operates, but also changes the amount of vis it uses.
 #
 research.INFERNALFURNACE.title=Infernal Furnace
-research.INFERNALFURNACE.stage.1=I have found that a large part of my day tends to be taken up with smelting things in a furnace. Surely there is a way I can make this less of a chore?<BR>Time to go somewhere hot for inspiration. Somewhere really hot. 
+research.INFERNALFURNACE.stage.1=I have found that a large part of my day tends to be taken up with smelting things in a furnace. Surely there is a way I can make this less of a chore?<BR>Time to go somewhere hot for inspiration. Somewhere really hot.
 research.INFERNALFURNACE.stage.2=I took a trip to the nether and was inspired by what I found there. By harnessing raw §cIgnis§0 within a furnace crafted from obsidian, netherbrick and a pinch of Salis Mundus I will be able to make a highly efficient and fuel free furnace. So efficient in fact, that occasionally it will produce bonus materials in the form of nuggets, rare earths or other items.<BR>While this is essentially free, it is also very slow unless the furnace gets a steady supply of vis from the aura.<LINE>Anything dropped into the top of the furnace will be smelted down and spit out the front - if the object is not normally smeltable it will be destroyed.<BR>I can place a chest or other container directly in front of the furnace to have it eject items into it.<PAGE>Cooking meat in the infernal furnace will produce meaty chunks as a byproduct. I can combine three different types of these chunks with sugar for a delicious and invigorating treat.
 research.INFERNALFURNACE.bellows=Attaching an arcane bellows to an Infernal Furnace has shown some interesting results. The elemental infused air not only stokes the flames increasing its smelting speed, but causes them to burn much purer, resulting in a reduction of flux generated and increasing the chance of creating bonus nuggets and other materials when smelting.
 #
 research.MIRROR.title=Mirror Magic
-research.MIRROR.stage.1=My thaumonomicon provides some tantalizing hints that mirrors have many mystical uses. One such use is the ability to link physical locations via mirrors and the use of sympathetic magic.<BR>The books does nothing more than provide hints however - as usual I will have to figure out things myself.
+research.MIRROR.stage.1=My thaumonomicon provides some tantalizing hints that mirrors have many mystical uses. One such use is the ability to link physical locations via mirrors and the use of sympathetic magic.<BR>The book does nothing more than provide hints however - as usual I will have to figure out things myself.
 research.MIRROR.stage.2=I am now able to enchant a pair of magical mirrors that act as doorways to the void between the worlds. Anything shoved (or piped) through one mirror will pass through this strange realm and emerge from the other mirror - even across dimensional boundaries.<BR>Unfortunately this realm is extremely hostile to mortal creatures like myself so using these mirrors to transport living creatures is not yet possible.<BR>To link a pair of these magical mirrors you simply need to place one of them in a desired location. You then right-click with a second mirror on the one you placed, and the pair will become linked. You may then place the second wherever you wish and items thrown into one will be ejected out the other.<BR>Mirrors can only be linked in pairs, so while both are placed in the world and able to transmit items you cannot link them to another mirror. When you pick up a mirror it will remember the last partner it was linked with, allowing you to easily move it without having to relink it. While one of the paired mirrors is picked up, you may easily relink either of them.<BR>Transporting items through mirrors places stress on the magical aura. Every now and again this causes Flux to be generated. The more items you transport, the more flux is generated.
 research.f_TELEPORT.text=Study teleportation
 #
@@ -1523,7 +1536,7 @@ research.MIRRORESSENTIA.stage.2=Essentia mirrors, like their name implies, can t
 research.ARCANELAMP.title=Arcane Lamp
 research.ARCANELAMP.stage.1=My laboratory has seemed quite gloomy of late. I should find a way to light it more effectively.
 research.ARCANELAMP.stage.2=This mystical lamp can be attached to walls, floors or ceilings and will provide strong and steady light.<BR>Additional sources of light may also appear up to 16 blocks away wherever light levels fall below accepted 'safe' levels. Remember: Only YOU can prevent zombie outbreaks.<BR>These secondary sources of light will disappear soon after the lamp has been removed.<BR>The lamp can be turned off by applying a redstone signal.
-research.ARCANELAMP.bore=§nArcane Bore§r<BR>When attached to the base of an arcane bore, the arcane lamp gains an additional ability: It will light up the tunnel that the bore digs.
+# research.ARCANELAMP.bore=§nArcane Bore§r<BR>When attached to the base of an arcane bore, the arcane lamp gains an additional ability: It will light up the tunnel that the bore digs.
 #
 research.LAMPGROWTH.title=Lamp of Growth
 research.LAMPGROWTH.stage.1=My studies of Lux has shown me that light can be used as a medium for other helpful magics.<BR>Light already has a positive effect on plants so if I add some magic to the equation it should only improve things, right?
@@ -1546,15 +1559,23 @@ research.ARCANEBORE.stage.1=I need to work out an automated way of digging out l
 research.ARCANEBORE.stage.2=I have designed a mining device I am calling the Arcane Bore. Once placed and given a redstone signal it will start digging out an area in front of it. The device requires a pickaxe to be placed inside it. Normally inanimate objects cannot use foci, but with a liberal application of sympathetic magic the focus could be 'tricked' into working.<BR>This had a unforeseen benefit as well - the pickaxe is actually being used to dig on metaphysical level and any attributes and enchantments it has are actually applied to the digging process. The pickaxe will wear out however, but much slower than normal - I estimate an average pickaxe will last about 50 times longer.<BR>The size of the area dug is also determined by the material of the pickaxe. The more enchantable the material is, the more efficient the sympathetic magic is, which in turn increases the area that can be dug.<BR>Any blocks dug are ejected at the position of the bore. If there is an inventory adjacent to the bore the items will be placed in there instead.<PAGE>The bore also requires vis to function consuming 1 vis for every 4 blocks dug.<LINE>The bore can be turned to face any direction except down. To change the direction it faces simply left-click on it to make it face towards you.<BR>Like other arcane turrets the bore will also respond to arcane activator rails - passing over an inactive rail will swith it on while an active one will disable it.
 #
 research.GRAPPLEGUN.title=Arcane Grappler
-research.GRAPPLEGUN.stage.1=In my endevours thusfar I have learned an important fact: Mobility is key.<BR>I should create a tool that will allow me to traverse diffucult terrain with ease.<BR>I believe magnets are the answer. Rare earths can be used to create magnets, but they are limited in what they can stick to. If I can enhance their innate magnetic properties with some form of sympathetic magic it should allow them to stick to anything.
+research.GRAPPLEGUN.stage.1=In my endeavours thus far I have learned an important fact: Mobility is key.<BR>I should create a tool that will allow me to traverse difficult terrain with ease.<BR>I believe magnets are the answer. Rare earths can be used to create magnets, but they are limited in what they can stick to. If I can enhance their innate magnetic properties with some form of sympathetic magic, it should allow them to stick to anything.
 research.GRAPPLEGUN.stage.2=By manipulating magnets with vis and a few key enchantments they are able to stick to virtually anything. I am calling this phenomenon Arcanomagnetism. I am sure I will find many uses for this, but for now I have used this knowledge to create an Arcane Grappler.<BR>This launcher fires a brass globe enhanced with arcanomagnets that will attach to any block it comes into contact with. The globe, in turn, is attached to the launcher with a spool of rope that will reel the user towards the globe allowing him access to previously inaccessible locations.<BR>The user can detach the globe at any point by crouching.<BR>I should take care using the grappler as it does not protect me from falling and it is possible to gain impressive speeds if pulled far enough.<LINE>The grappler requires vis to function and will need to be recharged.
+#
+research.ARCANEPATTERNCRAFTER.title=Arcane Pattern Crafter
+research.ARCANEPATTERNCRAFTER.stage.1=Certain objects are very simple to craft - simply place the same type of item in a pattern and you get what you want. For example combining 2 wood planks to make a stick, or a single ingot making 9 nuggets. This process is so simple that I am sure there is a way to automate it. I have some theories I need to try.
+research.ARCANEPATTERNCRAFTER.stage.2=I have designed a device I am calling the Arcane Pattern Crafter. The Arcane Pattern Crafter needs an inventory above and below it. It will search the inventory above it for components and try to combine whatever it finds in the pattern you have selected. If this results in a valid crafting operation it will place the result in the container below it.<BR>You can change the pattern by clicking on the brass dial on the front of the device.<BR>A redstone signal will disable the device.<LINE>Each crafting operation will drain 1 vis from the aura.
+#
+research.VISGENERATOR.title=Vis Powered Generator
+research.VISGENERATOR.stage.1=It is a well known fact that vis does not play well with mundane power sources like redstone, redstone flux or forge energy.<BR>The question is: Can you use vis to generate power? The obvious answer is no, but if I settled for the obvious I do not deserve to call myself a thaumaturge.
+research.VISGENERATOR.stage.2=One more impossible thing to mark off my list and it is not even lunchtime yet.<BR>I have managed to generate mundane power using vis, though I had to cheat a bit to do it. It is a simple matter to turn kinetic energy into power and creating kinetic energy with vis is thaumaturgy 101. Using vis to turn an axle connected to a dynamo did not work as some magical energy would transmit through the axle and cause all kinds of problems.<BR>In the end I designed a special linkage using magnets and some clever engineering. This linkage would transmit the kinetic energy while not allowing the vis and mundage energy to interfere with each other.<BR>Unfortunately the nature of the linkage places some limits on the power that can be generated as some kinetic energy is lost. The generator can only generate 10 FE/RF per tick. It draws vis directly from the aura to do this and a single point produces enough energy for 5 seconds of operation (1000 FE/RF).<BR>A redstone signal will disable the generator.
 #
 ##########################################
 # AUROMANCY
 ##########################################
 #
-research.BASEAUROMANCY.title=Basic Auromancy
-research.BASEAUROMANCY.stage.1=I have the casting glove, but now I need to craft the foci. The old scrolls aren't very clear on how to go about this, so I will need to find my own way.<BR>I have played with the idea of assembling a focus from crystals and then using vis to bind them together. My initial experiments have been failures... explosive failures.<BR>I think the answer I seek lies with an alchemical process.<BR>Using an ordo crystal as a core I might be able to leverage its ordered structure to grow a focus around it. While this is happening it should absorb praecantatio and auram essentia.<BR>The result should hopefully be a crystal focus able to absorb and manipulate vis. 
+research.BASEAUROMANCY.title=Основы Ауромантии
+research.BASEAUROMANCY.stage.1=У меня есть перчатка заклинателя, но ещё мне нужно создать фокусировщики. В старых свитках не очень понятно описано, как их сделать, поэтому мне нужно найти свой собственный способ.<BR>Я пробовал собирать фокусировщик из кристаллов, соединяя их вместе при помощи Вис. Первые мои эксперименты были провальными... взрывающе провальными.<BR>Думаю, что ответ, который я ищу, кроется в алхимическом процессе.<BR>Задействовав кристалл ordo в качестве ядра, я мог бы использовать его упорядоченную структуру, чтобы вырастить из него фокусировщик. Пока это происходит, он должен впитывать эссенцию praecantatio и auram.<BR>Надеюсь, что в результате получится фокусировщик, способный поглощать и управлять энергией Вис.
 research.BASEAUROMANCY.stage.2=Using Alchemy to create the focus was indeed the path to success. The focus is stable and clear - now I simply need to imprint the proper patterns into it. For this I will need a Focal Manipulator<BR>I have already drawn up plans for a Focal Manipulator. The way it functions is similar to an arcane workbench in many ways, but instead of using vis to craft items it instead imprints patterns into the focus crystal.<BR>I must also design the patterns that I will need to imprint. I have and idea for a pattern to create flame, but I need to do some more research.
 research.BASEAUROMANCY.stage.3=I have everything I need. All I need to do is craft my first focus.<BR>By arranging specially prepared vis crystals around the blank focus I can set up patterns that will determine what function the focus will perform. For now I only know the patterns for §nRoot§0, §nTouch§0 and §nFire§0.<BR>The §nRoot§0 node represents me, the caster. In the focal manipulator interface it is shown as an eye icon. The empty node below it is marked with both a target and a trajectory icon. Mediums (like §nTouch§0) require trajectories to determine what they effect - the §nRoot§0 node provides a trajectory that matches where the caster is looking so by linking §nTouch§0 to it I will be able to 'touch' anything I am looking at. Mediums almost always provide a target (in this case whatever has been 'touched') and some can also provide a trajectory. In this case though I require a target so I will be able to link the §nFire§0 effect.<BR>By linking §nRoot§0, §nTouch§0 and §nFire§0 in this way I will be able to create a focus that applies the §nFire§0 effect to whatever I touch.<BR>I could in theory link §nFire§0 directly to §nRoot§0, but since root provides the caster as a target that means I will simply set myself on fire.<BR>I can fine tune exactly what the §nFire§0 effect does by tweaking its damage and burn duration in the bottom right of the interface. Many patterns will allow me to fine tune them in this way.<BR>Creating a focus require three types of resources - the first is the crystals used in the crafting process, the second is vis from the aura, and lastly it also requires some player experience. Every time a focus is used it will also consume a small amount of vis from the aura.<PAGE>§nComplexity§0<BR>The effects I can create now are fairly simple and limited. There is a limit to how many patterns I can attach to a focus. This is measured as the focus Complexity. Each pattern type has a complexity cost and increasing their paramaters (for example the damage of a fire pattern) will increase the complexity further. Using a pattern more than once also incurs a stacking complexity cost increase of 50%.<BR>The complexity of a focus directly determines how much vis it will cost to cast and how long the caster gauntlet needs to cooldown between casts.
 research.f_onfire.text=Examine fire very closely.
@@ -1590,7 +1611,7 @@ got.projectile=You learn some more about projectiles.
 #
 research.FOCUSBOLT.title=Focus Medium: Bolt
 research.FOCUSBOLT.stage.1=Hurling magical projectiles is a chore sometimes. They are hard to aim and take time to travel to the intended target.<BR>Maybe there is a way I can extend the functionality of the the Touch medium.
-research.FOCUSBOLT.stage.2=Who needs projectiles when they can hurl bolts of magical energy. They effect their target instantly and aiming them is a lot easier.<BR>Unfortunately their range is limited. Trying to keep the vis stream coherent beyond 16 blocks has proven difficult. For longer range engagements projectiles are still superior.
+research.FOCUSBOLT.stage.2=Who needs projectiles when they can hurl bolts of magical energy? They affect their target instantly and aiming them is a lot easier.<BR>Unfortunately their range is limited. Trying to keep the vis stream coherent beyond 16 blocks has proven difficult. For longer range engagements, projectiles are still superior.
 #
 research.FOCUSFLUX.title=Focus Effect: Flux
 research.FOCUSFLUX.stage.1=Using the elements as a weapon has its benefits, but raw magic can be just as destructive - most creatures are harmed if exposed to raw, unfiltered vis. Even armor cannot protect you from this energy.
@@ -1620,7 +1641,7 @@ research.FOCUSSCATTER.stage.2=I have managed to split a single medium trajectory
 #
 research.FOCUSSPLIT.title=Focus Modifier: Split
 research.FOCUSSPLIT.stage.1=While the Scatter modifier has proven quite useful, it is technically a failure. I realise now that my original plan was too ambititious.<BR>I should start smaller.
-research.FOCUSSPLIT.stage.2=I have managed to draw up designs for two new focus modifiers. The first splits a single target result into two, allowing me to have two different effects apply to the target.<BR>The second modifier does the same, except it splits trajectories.<BR>The only downside is that the split reduces to power of any effects placed below them, though I mitigate the full impact somewhat.<BR>Much to my suprise I have discovered that these modifiers can be split recursivly allowing for some interesting focal designs. 
+research.FOCUSSPLIT.stage.2=I have managed to draw up designs for two new focus modifiers. The first splits a single target result into two, allowing me to have two different effects apply to the target.<BR>The second modifier does the same, except it splits trajectories.<BR>The only downside is that the split reduces to power of any effects placed below them, though I mitigate the full impact somewhat.<BR>Much to my suprise I have discovered that these modifiers can be split recursivly allowing for some interesting focal designs.
 #
 research.FOCUSMINE.title=Focus Medium: Arcane Mine
 research.FOCUSMINE.stage.1=I have done some studies into creating contructs of pure arcane energy recently. Maybe I can apply what I have learned
@@ -1628,14 +1649,14 @@ research.FOCUSMINE.stage.2=I can now create a quasi-physical construct of vis th
 #
 research.FOCUSCLOUD.title=Focus Medium: Cloud
 research.FOCUSCLOUD.stage.1=Seeing the lingering effects the end dragons breath causes has given me some ideas. I might be able to duplicate the effects as a focus medium.
-research.FOCUSCLOUD.stage.2=Much like lingering potions can be used to create a static effect in the world, the Cloud medium can be used to create a field of energy that periodically applies focus effects to entities and blocks caught within.<BR>The strength of effects linked to this medium will be reduced slightly.
+research.FOCUSCLOUD.stage.2=Much like lingering potions can be used to create a static effect in the world, the Cloud medium can be used to create a field of energy that periodically applies focus effects to entities and blocks caught within.<BR>The strength of effects linked to this medium will be reduced significantly.
 #
 research.RECHARGEPEDESTAL.title=Recharge Pedestal
 research.RECHARGEPEDESTAL.stage.1=I expect that I will soon begin crafting objects that require vis to function, but that cannot easily draw the vis from the aura themselves. I will need a way to recharge them.
 research.RECHARGEPEDESTAL.stage.2=This specially crafted pedestal can recharge vis storing items. Any rechargeable item placed in it will automatically draw vis from the aura to fill itself. Simply click on the pedestal with the item you wish to recharge. Use the pedestal again to retrieve the item.
 #
 research.VISAMULET.title=Vis Amulet
-research.VISAMULET.stage.1=If I wish to recharge my vis storage items I currently need to return to the nearest recharge pedestal or carry one of them around. This is not always convenient however - I must find a portable way to recharge my items. 
+research.VISAMULET.stage.1=If I wish to recharge my vis storage items I currently need to return to the nearest recharge pedestal or carry one of them around. This is not always convenient however - I must find a portable way to recharge my items.
 research.VISAMULET.stage.2=I have crafted an amulet capable of channeling vis from the aura, allowing me to recharge items in the field while it is worn.<BR>The amulet will only recharge items located in your hotbar, baubles or armor slots (in that order). It will only recharge items that can normally be recharged in a recharge pedestal.
 #
 research.WORKBENCHCHARGER.title=Workbench Charger
@@ -1646,7 +1667,10 @@ research.FOCUSPOUCH.title=Focus Pouch
 research.FOCUSPOUCH.stage.1=Once I have gathered a sizable collection of foci it will be quite annoying to carry them all with me. I should find a convenient way to carry them all.
 research.FOCUSPOUCH.stage.2=I have invented a special pouch I can carry with me to store my foci.<BR>Whenever I change the focus in my caster, it will check this pouch first and any foci that get removed will be placed inside it first. I can also right-click the pouch to place or remove foci by hand.<BR>It can also be carried in my belt bauble slot.
 #
-
+research.VISBATTERY.title=Vis Battery
+research.VISBATTERY.stage.1=Natural vis crystals have an interesting ability to act as vis 'batteries'. They absorb vis when the aura is high and discharge it when it is low, but this process is quite slow and unreliable.<BR>By using what I have learned about growing vis crystals I should be able to create a vis battery of my own that is a lot more reliable.
+research.VISBATTERY.stage.2=I have succeeded in creating a vis battery.<BR>If the local aura is above 95% of its normal capacity the battery will absorb vis and if the aura drops below 75% it will discharge.<BR>There are a few drawbacks however. While it is quicker and a lot more reliable than natural vis crystals, the battery still takes some time to react to changes in the local aura. The second drawback is it's capacity. It can only store 10 points of vis. My attemps to increase this has proven disasterous. I guess this just means that I will need to use them in larger numbers.<BR>Applying a redstone signal to the battery will not only prevent it from functioning, but it will rapidly discharge any vis it is holding back into the aura.
+#
 ##########################################
 # GOLEMANCY
 ##########################################
@@ -1672,15 +1696,15 @@ research.f_MATCLAY.text=Examine clay
 #
 research.MATSTUDBRASS.title=Material Studies: Brass
 research.MATSTUDBRASS.stage.1=While brass is softer than iron, it is still quite sturdy and well suited to fine mechanical constructs.<BR>In my opinion it is the best mundane material for golemancy purposes and I would not dream of crafting intricate metals from any other material.<BR>It is quite pleasing to the eye as well.
-research.f_MATBRASS.text=Examine brass 
+research.f_MATBRASS.text=Examine brass
 #
 research.MATSTUDTHAUMIUM.title=Material Studies: Thaumium
 research.MATSTUDTHAUMIUM.stage.1=Thaumium is an arcane metal that sucks up enchantments like a proverbial sponge. It is significantly stronger than iron too. Unfortunately it is slightly heavier than iron and its strength also makes it hard to work.<BR>While it cannot compete with brass when it comes to intricate clockwork, thaumiums strength makes it a useful material to craft mechanisms that require strength over precision.
-research.f_MATTHAUMIUM.text=Examine thaumium 
+research.f_MATTHAUMIUM.text=Examine thaumium
 #
 research.MATSTUDVOID.title=Material Studies: Void Metal
 research.MATSTUDVOID.stage.1=Void metal is relatively light, but quite soft which would normally make it an unsuitable material for mechanisms. Luckily its morphic properties and ability to self-repair opens up interesting possibilities for a thaumaturge willing to think outside the box.
-research.f_MATVOID.text=Examine void metal 
+research.f_MATVOID.text=Examine void metal
 #
 research.MINDCLOCKWORK.title=Clockwork Minds
 research.MINDCLOCKWORK.stage.1=Iron golems, snow golems and similar creations that anyone can throw together all have the same thing in common - they are unpredictable and uncontrollable.<BR>The spirits that animate them are wild and follow their own will. This is a problem.<BR>If I am going to create intelligent magical servants then I will have to give them a mind that is willing to take orders. The simplest solution is a clockwork construct quickened by Thaumaturgy.<BR>Designing one will be no simple feat however.
@@ -1696,15 +1720,15 @@ research.GOLEMDIRECT.stage.2=I can now right click on a golem with the §5Golema
 #
 research.GOLEMLOGISTICS.title=Golem Logistics
 research.GOLEMLOGISTICS.stage.1=Having created the Provider Seal I now have an interesting opportunity. It should be possible for me to directly request items from nearby golems.<BR>Some tweaking of their pathfinding will be required, but it should not be too hard to do.
-research.GOLEMLOGISTICS.stage.2=I can now sneak + right click with the §5Golemancer's Bell§0 to bring up an inventory of all items accessible by provider seals within 64 blocks. I can then request items from this list and a golem will deliver it.<BR>If I clicked on a block the item will be delivered to the block, or placed inside if it is an inventory. The side you clicked on will be taken into account.<BR>If I clicked on empty air the item will be delivered directly to me.<PAGE>Golems are still limited by their range so I must take care where I try and deliver items to.
+research.GOLEMLOGISTICS.stage.2=I can now sneak + right click with the §5Golemancer's Bell§0 to bring up an inventory of all items accessible by provider seals within 32 blocks. I can then request items from this list and a golem will deliver it.<BR>If I clicked on a block the item will be delivered to the block, or placed inside if it is an inventory. The side you clicked on will be taken into account.<BR>If I clicked on empty air the item will be delivered directly to me.<PAGE>Golems are still limited by their range so I must take care where I try and deliver items to.
 #
 research.MINDBIOTHAUMIC.title=Biothaumic Minds
-research.MINDBIOTHAUMIC.stage.1=As predicted the clockwork minds I have created offers very little in the way of abstract reasoning and autonomy. Attempting to create more complex clockworks has met with very little success, so I turning to something I already know will work - living brains.<BR>By studying them I might be able to unlock the secret behind true intelligence and autonomy. 
+research.MINDBIOTHAUMIC.stage.1=As predicted the clockwork minds I have created offers very little in the way of abstract reasoning and autonomy. Attempting to create more complex clockworks has met with very little success, so I turning to something I already know will work - living brains.<BR>By studying them I might be able to unlock the secret behind true intelligence and autonomy.
 research.MINDBIOTHAUMIC.stage.2=Though hesitant at first, I soon overcame any trepidation I felt and delved into Biothaumaturgy - merging flesh, machines and magic into a single whole.<BR>The results are encouraging and I am now able to infuse clockwork minds with salvaged gray matter to form a mind with much greater capabilities.<BR>This has also allowed me to create more complex versions of seals I already know.<BR>Another advantage if this mind is that it will allow a golem to learn. As it completes tasks it will gain experience and rank up. Higher ranks grants a golem additional health, speed and damage.<BR>Golems start at rank 0 and can improve up to rank 10.<BR>Golems will retain their rank if picked up.
 #
-research.SEALCOLLECT.title=Control Seal: Collect 
+research.SEALCOLLECT.title=Control Seal: Collect
 research.SEALCOLLECT.stage.1=This seal will constantly check an area you define for dropped items. If items are found it will instruct any nearby golems to pick up those items.<BR>You can define the exact dimensions of the area as well as filter out certain items using a white- or blacklist.
-research.SEALCOLLECT.stage.ADV=I can now craft an advanced version of the seal that will allow you to filter more items at once and give you greater control over how the items are filtered, though golems need to be much smarter to perform tasks created by this seal.<BR>You can choose to have the seal ignore NBT or damage values when filtering items, use the ore dictionary, or to have it filter items from the same mod as those in the filter.  
+research.SEALCOLLECT.stage.ADV=I can now craft an advanced version of the seal that will allow you to filter more items at once and give you greater control over how the items are filtered, though golems need to be much smarter to perform tasks created by this seal.<BR>You can choose to have the seal ignore NBT or damage values when filtering items, use the ore dictionary, or to have it filter items from the same mod as those in the filter.
 #
 research.SEALSTORE.title=Control Seal: Store
 research.SEALSTORE.stage.1=This seal can be placed on the side of a container. It will designate the container as a possible destination for any items that golems nearby happen to be holding. As long as the container can accept it, the golems will deliver the item.<BR>You can filter out certain items using a white- or blacklist.<BR>For the white list you can alse specify a specific number of items that must be placed in the inventory. By default this number is infinite (marked with a gold star).<BR>If placed against a non-container block the golem will simply drop items at that location.<BR>Like with inventories you can also specify a specific number of items with the white list. Any items located in the world within a 1 block radius of the seal will be counted.
@@ -1724,7 +1748,7 @@ research.SEALHARVEST.stage.1=Farming is a menial task best performed by a golem 
 research.SEALHARVEST.stage.2=This seal will search the designated area for any fully grown crops or other harvestable plants. Once found a golem will be dispatched to harvest the plant.<BR>If required the seal will also attempt to replant the harvested crop as long as seeds (or similar items) are available. If the seed was previously planted on farmland, the golem will also try to till the soil if it has turned into dirt.
 #
 research.SEALGUARD.title=Control Seal: Guard
-research.SEALGUARD.stage.1=research.SEALGUARD.stage.1=Though small, thaumaturgical golems should be perfectly capable of combat.<BR>Combat is quite a complex task however and I will need to carefully test the seal to avoid accidents.
+research.SEALGUARD.stage.1=Though small, thaumaturgical golems should be perfectly capable of combat.<BR>Combat is quite a complex task however and I will need to carefully test the seal to avoid accidents.
 research.SEALGUARD.stage.2=When placed this seal will protect and area from intrusion. Any hostile creatures it detects will be targeted by nearby combat-capable golems and attacked.<BR>If the golem has the §5Deft§0 property, any creatures slain will drop experience orbs as if killed by a player.<BR>§9This research also unlocks additional golem parts§0.
 research.SEALGUARD.stage.ADV=I can now create an advanced version of the seal that will give you greater control over which creatures your golems will target.
 #
@@ -1744,18 +1768,22 @@ research.SEALUSE.title=Control Seal: Use
 research.SEALUSE.stage.1=I should be able to design a seal that allows golems to interact with the world in more complex ways than simply carrying items around or attacking things. There are many objects that require manual operation and maybe I can have golems do that for me.
 research.SEALUSE.stage.2=This seal allows a golem to act like a player and left or right click on the block that you have marked.<BR>It can also click with any items it happens to be holding or specific items you have filtered.<BR>The seal will remain even if the block you placed it on is removed, allowing the seal to target empty air if you wish.<BR>If a whitelist item is specified you can also request it to be §5provisioned§0.
 #
+research.SEALSTOCK.title=Control Seal: Stock
+research.SEALSTOCK.stage.1=I need a seal that will allow me to keep a minimum number of items stocked in a container at all times.
+research.SEALSTOCK.stage.2=This seal is similar to the store seal, except it keeps a certain number of items stocked inside its container at all times. The seal only insures that a minimum number of items are kept in stock - it will not prevent overstocking should it occur by other means.<BR>This seal requires provider seals to know where to get the items.
+#
 research.BASICTURRET.title=Automated Crossbow
-research.BASICTURRET.stage.1=A few attacks from wandering monsters has recently turned my mind towards home defense. I should design some sort of automated device that will defend my home from unwanted intruders. 
+research.BASICTURRET.stage.1=A few attacks from wandering monsters has recently turned my mind towards home defense. I should design some sort of automated device that will defend my home from unwanted intruders.
 research.BASICTURRET.stage.2=I have found a way to give a crossbow a mind of its own turning it into a simple automated turret.<BR>When placed in the world it will automatically fire at any hostile monsters it detects within range. Unfortunately its limited mind does not allow me to fine tune its targets.<BR>It has a very limited internal inventory, but if I place it over an upward facing dispenser it will automatically reload itself from that inventory.<BR>Right clicking on it while sneaking will pick it up.<PAGE>The turrent can ride in a minecart and will reload from a dispenser placed underneath the track.<BR>Passing over an arcane activator rail will change the behaviour of the turrent. If the rail is active it will disable the turret. Passing over an inactive rail will enable it again.
 research.f_DISPENSER.text=Examine something that can launch objects.
 #
 research.ADVANCEDTURRET.title=Advanced Automated Crossbow
-research.ADVANCEDTURRET.stage.1=My recent discovery of advanced artificial minds might allow me to make some much needed improvements to my automated turrets. 
+research.ADVANCEDTURRET.stage.1=My recent discovery of advanced artificial minds might allow me to make some much needed improvements to my automated turrets.
 research.ADVANCEDTURRET.stage.2=The Advanced Automated Crossbow works much like its basic counterpart, with a few significant improvements.<BR>The addition of iron plating makes it much sturdier, and a more complicated loading mechanism gives it a greater rate of fire.<BR>Lastly it is possible to specify the type of targets it can attack.
 #
 research.GOLEMVISION.title=Golem Biothaumic Eyes
 research.GOLEMVISION.stage.1=I should find a way to improve the visual acuity of my golems.
-research.GOLEMVISION.stage.2=By merging flesh and arcane constructs you have crafted a set of highly acute eyes.<BR>Any golem equipped with such a set of peepers will be able to operate at twice the normal range (32 blocks).<BR>§9This research unlocks additional golem parts§0.
+research.GOLEMVISION.stage.2=By merging flesh and arcane constructs you have crafted a set of highly acute eyes.<BR>Any golem equipped with such a set of peepers will be able to operate at 150% the normal range (48 blocks).<BR>§9This research unlocks additional golem parts§0.
 #
 research.GOLEMCLIMBER.title=Golem Mobility: Climbing
 research.GOLEMCLIMBER.stage.1=I should find a way to improve the mobility acuity of my golems. Maybe I could give them the ability to climb walls?
@@ -1775,10 +1803,7 @@ research.GOLEMCOMBATADV.title=Improved Golem Combat
 research.GOLEMCOMBATADV.stage.1=I should design improved weapons and armor for my golems.
 research.GOLEMCOMBATADV.stage.2=You can now craft specialized golem weaponry and armor to make them much more effective in combat.<BR>§9This research unlocks additional golem parts§0.
 #
-research.ARCANEPATTERNCRAFTER.title=Arcane Pattern Crafter
-research.ARCANEPATTERNCRAFTER.stage.1=Certain objects are very simple to craft - simply place the same type of item in a pattern and you get what you want. For example combining 2 wood planks to make a stick, or a single ingot making 9 nuggets. This process is so simple that I am sure there is a way to automate it. I have some theories I need to try.
-research.ARCANEPATTERNCRAFTER.stage.2=I have designed a device I am calling the Arcane Pattern Crafter. The Arcane Pattern Crafter needs an inventory above and below it. It will search the inventory above it for components and try to combine whatever it finds in the pattern you have selected. If this results in a valid crafting operation it will place the result in the container below it.<BR>You can change the pattern by clicking on the brass dial on the front of the device.<BR>A redstone signal will disable the device.<LINE>Each crafting operation will drain 1 vis from the aura.
-#
+
 ##########################################
 # ELDRITCH
 ##########################################
