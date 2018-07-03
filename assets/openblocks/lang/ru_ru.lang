@@ -1,6 +1,6 @@
 achievement.openblocks.droppedBrick=Упс!
 achievement.openblocks.droppedBrick.desc=К сожалению, это только что произошло...
-stat.openblocks.bricksDropped=Кирпичи сброшены
+stat.openblocks.bricksDropped=Кирпичей сброшено
 achievement.openblocks.stackOverflow=Переполнение стека
 achievement.openblocks.stackOverflow.desc=Оно забито звёздами!
 
@@ -349,7 +349,6 @@ item.openblocks.crane_backpack.description=В мире Minecraft "магнит" 
 item.openblocks.crane_control.name=Крановое управление
 item.openblocks.crane_control.description=Этот высокотехнологичный беспроводной пульт используется для управления хранилищами.\n\nПКМ, чтобы поднять, ПКМ, присев, чтобы опустить, ЛКМ, чтобы поднять/отпустить.\nМигающие световые сигналы относятся к магниту.
 
-item.openblocks.wrench.name=Большой металлический ключ
 item.openblocks.wrench.description=This is extremely sophisticated tool used to perform transformations of objects with octahedral symmetry.\n\n\nOr just big, dumb piece of metal you can use to rotate cubes and stuff.\n\nSo yeah, it's yet another wrench. I'm just trying to be original here, ok? ## NEEDS TRANSLATION ##
 
 item.openblocks.stencil.name=Трафарет
@@ -386,7 +385,7 @@ itemGroup.tabOpenBlocks=OpenBlocks
 entity.openblocks.luggage.name=Багаж
 entity.openblocks.cartographer.name=Картограф
 entity.openblocks.block.name=Парящий блок
-entity.openblocks.mini_me.name=Мини-Ми
+entity.openblocks.mini_me.name=Мини-Мы
 
 fluid.openblocks.xp_juice=Жидкий опыт
 

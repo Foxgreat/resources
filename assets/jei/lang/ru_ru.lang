@@ -9,8 +9,14 @@ jei.tooltip.transfer=Перемещение предметов
 jei.tooltip.recipe.ore.dict=Принимает любые: %s
 jei.tooltip.item.colors=Цвета: %s
 jei.tooltip.shapeless.recipe=Бесформенный рецепт
-jei.tooltip.cheat.mode=Режим жульничества
+jei.tooltip.cheat.mode.button.enabled=Режим жульничества
+jei.tooltip.cheat.mode.how.to.disable.hotkey=Нажмите %s для переключения.
+jei.tooltip.cheat.mode.how.to.disable.no.hotkey=Зажмите %s и нажмите здесь, для переключения.
 jei.tooltip.recipe.by=Рецепт из: %s
+jei.tooltip.recipe.id=ID рецепта: %s
+jei.tooltip.not.enough.space=Здесь недостаточно места для отображения списка ингредиентов.
+jei.tooltip.ingredient.list.disabled=Список ингредиентов отключен.
+jei.tooltip.ingredient.list.disabled.how.to.fix=Нажмите %s для включения.
 
 # Error Tooltips
 jei.tooltip.error.recipe.transfer.missing=Отсутствуют предметы
@@ -52,8 +58,6 @@ config.jei.interface=Интерфейс
 config.jei.interface.comment=Настройки интерфейса пользователя.
 config.jei.interface.overlayEnabled=Доступность списка предметов
 config.jei.interface.overlayEnabled.comment=Показывать список предметов рядом с открытым интерфейсом.
-config.jei.interface.recipeAnimationsEnabled=Анимации рецептов
-config.jei.interface.recipeAnimationsEnabled.comment=Показывать анимации рецептов (огонь в печи, индикаторы и т.д)
 
 config.jei.search=Настройки поиска
 config.jei.search.comment=Настройки строки поиска.
@@ -82,25 +86,19 @@ config.jei.advanced.centerSearchBarEnabled=Строка поиска по цен
 config.jei.advanced.centerSearchBarEnabled.comment=Переместить строку поиска JEI в центр нижней части экрана.
 config.jei.advanced.modNameFormat=Формат названия мода
 config.jei.advanced.modNameFormat.comment=Как название мода должно быть отформатировано для подсказок JEI. Оставьте пустым, чтобы отключить.
-config.jei.advanced.maxSubtypes=Мак. кол-во подтипов предмета
-config.jei.advanced.maxSubtypes.comment=Предметы с большим количеством подтипов не будут показаны в JEI.
 config.jei.advanced.maxColumns=Максимальная ширина
 config.jei.advanced.maxColumns.comment=Максимальная ширина списка ингредиентов.
 config.jei.advanced.giveMode=Режим получения предметов
 config.jei.advanced.giveMode.comment=Выберите, должен ли JEI давать предметы напрямую в инвентарь (inventory) или же набирать их мышкой (mouse_pickup).
 
-# Edit Mode
+# Hide Ingredients Mode
 gui.jei.editMode.description=Режим редактирования списка JEI:
 gui.jei.editMode.description.hide=%CTRL+ЛКМ, чтобы скрыть.
-gui.jei.editMode.description.show=Скрыто. %CTRL+ЛКМ, чтобы показать.
 gui.jei.editMode.description.hide.wild=%CTRL+ПКМ, чтобы скрыть по шаблону.
-gui.jei.editMode.description.show.wild=Скрыто по шаблону. %CTRL+ПКМ, чтобы показать.
-gui.jei.editMode.description.hide.mod.id=%CTRL+SHIFT+ЛКМ, чтобы скрыть по ID-мода.
-gui.jei.editMode.description.show.mod.id=Скрыто по ID-мода. %CTRL+SHIFT+ЛКМ, чтобы показать.
 
-#PC/Linux Control Key
+# PC/Linux Control Key
 key.jei.ctrl=CTRL
-#Mac Command Key
+# Mac Command Key
 key.jei.ctrl.mac=CMD
 
 # Recipe Categories
@@ -110,12 +108,11 @@ gui.jei.category.smelting.experience=Опыт: %s
 gui.jei.category.fuel=Топливо
 gui.jei.category.fuel.smeltCount.single=Плавит 1 предмет
 gui.jei.category.fuel.smeltCount=Плавит %s предметов
-gui.jei.category.fuel.burnTime=Время горения: %s
 gui.jei.category.brewing=Варка
 gui.jei.category.brewing.steps=Шаги: %s
 gui.jei.category.itemInformation=Описание
 
 # DEBUG (for debug mode, do not need translation)
-description.jei.wooden.door.1=Деревянные двери разрешают вам блокировать вход монстров в здание.\nТестовые предложения.
-description.jei.wooden.door.2=Нажатие на дверь меняет её положение из открытого в закрытое и обратно.
-description.jei.wooden.door.3=Деревянные двери могут быть открыты\закрыты от редстоун схем.
+description.jei.wooden.door.1=Wooden Doors allow you to block monsters from entering your building.\nTesting sentences.
+description.jei.wooden.door.2=Clicking on a door changes its state from open to closed and visa versa.
+description.jei.wooden.door.3=Wooden Doors can be opened/closed via Redstone Circuits.

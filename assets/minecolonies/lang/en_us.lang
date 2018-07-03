@@ -13,6 +13,7 @@ tile.minecolonies.blockHutMiner.name=Mine
 tile.minecolonies.blockHutStonemason.name=Quarry
 tile.minecolonies.blockHutTownHall.name=Town Hall
 tile.minecolonies.blockSubstitution.name=Placeholderblock
+tile.minecolonies.blockBarracksTowerSubstitution.name=BarracksTower Placeholder
 tile.minecolonies.blockconstructiontape.name=Construction tape
 tile.blockHut.messageNoPermission=You don't have permission to open huts in %s.
 tile.blockHut.messageNoPermissionPlace=You don't have permission to place hutes in %s.
@@ -113,7 +114,7 @@ item.minecolonies.scepterGuard.name=Guard-scepter
 
 com.minecolonies.configgui.title=MineColonies Config
 
-com.minecolonies.coremod.status.herder.goingToHut=Going to Hut
+com.minecolonies.coremod.status.worker.goingToHut=Going to Hut
 com.minecolonies.coremod.status.herder.breeding=Breeding
 com.minecolonies.coremod.status.herder.searching=Searching
 com.minecolonies.coremod.status.herder.goingToAnimal=Going to Animal
@@ -179,6 +180,10 @@ com.minecolonies.coremod.gui.townHall.addPlayer=Add Player:
 com.minecolonies.coremod.gui.townHall.addBlock=Add Block/Position:
 
 com.minecolonies.coremod.gui.warehouse.visitCitizenChests=Visit Citizen Chests:
+com.minecolonies.coremod.gui.workerHuts.mobsList=Mob Attack List
+com.minecolonies.coremod.job.Ranger=Knight
+com.minecolonies.coremod.job.Knight=Ranger
+com.minecolonies.coremod.gui.warehouse.visitCitizenChests=Visit Citizenchests:
 com.minecolonies.coremod.gui.townHall.population.unemployed=Unemployed: %d
 com.minecolonies.coremod.gui.workerHuts.minerNode=Node
 com.minecolonies.coremod.gui.hiring.off=Automatic
@@ -244,6 +249,7 @@ com.minecolonies.coremod.gui.workerHuts.retrieveOff=Off
 com.minecolonies.coremod.gui.workerHuts.retrieveOn=On
 com.minecolonies.coremod.gui.workerHuts.task.guard=Guard
 com.minecolonies.coremod.gui.workerHuts.task.patrol=Patrol
+com.minecolonies.coremod.gui.workerHuts.calculate=Recalculate List
 com.minecolonies.coremod.gui.workerHuts.task.follow=Follow
 com.minecolonies.coremod.gui.workerHuts.targetPatrol=Set patrol positions.
 com.minecolonies.coremod.gui.workerHuts.targetGuard=Set guarding target.
@@ -460,6 +466,9 @@ com.minecolonies.coremod.gui.townHall.housing=Housing assignment mode:
 com.minecolonies.coremod.gui.home.assign=Assign %d citizens
 com.minecolonies.coremod.gui.workerHuts.unassign=Remove citizen
 tile.minecolonies.blockMinecoloniesRack.name=Rack
+tile.minecolonies.blockcactustrapdoordoor.name= Cactus Trapdoor
+tile.minecolonies.blockcactusstair.name= Cactus Stair
+tile.minecolonies.blockcactusslab.name= Cactus Slab
 
 com.minecolonies.coremod.status.waitingForWork=Searching job
 com.minecolonies.coremod.status.deciding=Deciding
@@ -670,6 +679,10 @@ tile.minecolonies.blockTimberFrame_dark_oak_onecrossedrl.name= Dark Oak Left-Rig
 tile.minecolonies.blockTimberFrame_dark_oak_downgated.name= Dark Oak Framed Timber Frame
 tile.minecolonies.blockTimberFrame_dark_oak_horizontalplain.name= Dark Oak Horizontal Timber Frame
 tile.minecolonies.blockTimberFrame_dark_oak_horizontalnocap.name= Dark Oak Horizontal Timber Frame
+tile.minecolonies.blockcactusplank.name=Cactus Plank
+tile.minecolonies.blockcactuspdoor.name=Cactus Trapdoor
+item.minecolonies.cactusdoor.name=Cactus Door
+tile.minecolonies.blockcactusslab_half.name=Cactus Slab
 
 
 com.minecolonies.coremod.request.toolow=Can't mine block %s at %s. Need to upgrade the building to use a tool with higher mining level.
@@ -696,3 +709,11 @@ com.minecolonies.coremod.gui.scanTool.remove=Remove
 com.minecolonies.coremod.gui.scanTool.replace=Replace
 com.minecolonies.coremod.gui.scan.replace.title=Block Replacement GUI
 com.minecolonies.coremod.gui.scanTool.select=Select
+
+com.minecolonies.coremod.gui.townHall.guards=Number of guards:
+com.minecolonies.coremod.gui.townHall.house=Number of houses:
+com.minecolonies.coremod.gui.townHall.saturation=Saturation of citizens:
+com.minecolonies.coremod.gui.workerHuts.happiness=Happiness indices
+
+com.minecolonies.coremod.gui.townHall.population.rangers=Rangers: %d
+com.minecolonies.coremod.gui.townHall.population.knights=Knights: %d
