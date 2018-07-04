@@ -535,7 +535,7 @@ bwm.config.hardcore.tooltip=Hardcore Features
 bwm.config.debug.tooltip=Debug Info for certain features
 bwm.config.vanilla_tweaks.tooltip=Changes to how Vanilla Minecraft works
 bwm.config.pulley.tooltip=Limitations of the platforms of the pulley
-bwm.hcfurnace.cook_time.tooltip=Cook Time: %s ticks
+bwm.hcfurnace.cook_time.tooltip=Cook Time: %s Seconds (%s Items)
 
 bwm.random_output.tooltip=Count: %s-%s
 bwm.chance_output.tooltip=Chance: %d%%
