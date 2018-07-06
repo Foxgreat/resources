@@ -436,10 +436,10 @@ botania.baubletype.belt=Можно надеть в слот &aРемня&7
 botania.baubletooltip=Нажмите &b%s&7, чтобы открыть меню Baubles
 
 # RELIC POEMS
-item.dice.poem0=Он сдает карты , чтобы найти ответ,
-item.dice.poem1=Сакральная геометрия случайности,
-item.dice.poem2=Скрытый закон возможного исхода,
-item.dice.poem3=Цифры привести танец.
+item.dice.poem0=Сдает он карты из расчета,
+item.dice.poem1=найти удачи алгоритм,
+item.dice.poem2=Закон возможного исхода,
+item.dice.poem3=И числа отбивают в ритм.
 
 # DEATH MESSAGES
 death.attack.botania-relic=%s был наказан за использование чужой реликвии
@@ -1545,7 +1545,7 @@ item.botania:temperanceStone.name=Камень воздержания
 item.botania:incenseStick.name=Ароматическая палочка
 item.botania:terraAxe.name=Топор из террастали
 item.botania:manasteelNugget.name=Самородок из манастали
-item.botania:terrasteelNugget.name=Смаородок из террастали
+item.botania:terrasteelNugget.name=Самородок из террастали
 item.botania:elementiumNugget.name=Элементиумный самородок
 item.botania:livingRoot.name=Живой корень
 item.botania:pebble.name=Галька
