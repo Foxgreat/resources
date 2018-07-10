@@ -157,8 +157,8 @@ tile.tconstruct.smeltery_controller.name=Контроллер плавильни
 tile.tconstruct.smeltery_controller.tooltip=Мозги плавильни
 tile.tconstruct.smeltery_io.drain.name=Слив плавильни
 tile.tconstruct.smeltery_io.drain.tooltip=Слив и влив жидкостей плавильни
-tile.tconstruct.casting.table.name=Стол отливок
-tile.tconstruct.casting.basin.name=Резервуар отливок
+tile.tconstruct.casting.table.name=Стол отливки
+tile.tconstruct.casting.basin.name=Резервуар отливки
 tile.tconstruct.casting.tooltip=Отливает предметы жидкостями из плавильни
 tile.tconstruct.faucet.name=Горн
 tile.tconstruct.faucet.tooltip=Сливает жидкости из плавильни и других резервуаров
@@ -863,7 +863,7 @@ tooltip.pattern.cost=Затрат материала: %d
 
 tooltip.chest.has_items=Содержит %d предм.
 tooltip.patternchest.holds_patterns=Содержит %d схем(-ы).
-tooltip.patternchest.holds_casts=Содержит %d отливок.
+tooltip.patternchest.holds_casts=Содержит %d отливки.
 
 tooltip.tank.fluid=%s
 tooltip.tank.amount=%d мВ
@@ -945,7 +945,7 @@ gui.toolstation.noTraits=Ничего :[
 
 # Pattern Chest
 gui.patternchest.name=Ящик для схем
-gui.castchest.name=Ящик для отливок
+gui.castchest.name=Ящик для отливки
 
 # Part Chest
 gui.partchest.name=Ящик для частей
