@@ -2,7 +2,7 @@ itemGroup.advancedRocketry=Advanced Rocketry
 itemGroup.advancedRocketryOres=Руды Advanced Rocketry
 
 death.attack.Vacuum=Вас настигла смерть в вакууме
-death.attack.Vacuum.player=погиб в безвоздушном пространстве
+death.attack.Vacuum.player=Погиб в безвоздушном пространстве
 entity.advancedRocketry.rocket.name=Ракета
 
 tile.landingPad.name=Посадочная площадка
@@ -11,6 +11,7 @@ tile.pad.name=Стартовая площадка
 tile.structuretower.name=Структурная башня
 tile.rocketAssembler.name=Сборщик ракет
 tile.turf.name=Лунный грунт
+tile.turfDark.name=Тёмный лунный грунт
 tile.cuttingMachine.name=Режущий аппарат
 tile.sawBlade.name=Узел циркулярной пилы
 tile.controlComp.name=Компьютер управления миссией
@@ -83,7 +84,6 @@ tile.rfOutput.name=Выход сигнала красного камня (RF)
 tile.microwaveReciever.name=Микроволновый приёмник
 tile.solarPanel.name=Солнечная панель
 tile.suitWorkStation.name=Станция модификации костюма
-tile.orientationControl.name=Контроллер ориентации
 tile.biomeScanner.name=Сканер биомов
 tile.atmoshereTerraformer.name=Терраформер атмосферы
 tile.deployableRocketAssembler.name=Автоматический сборщик ракет-носителей
@@ -107,9 +107,8 @@ tile.pipeSeal.name=Заглушка для трубы
 tile.spaceElevatorController.name=Космический лифт
 tile.beacon.name=Маяк
 tile.thermiteTorch.name=Термитный факел
-
+tile.wirelessTransciever.name=Беспроводной приемопередатчик
 tile.Dilithium.name=Руда дилития
-
 tile.coil.dilithium.name=Дилитевая катушка
 
 item.lens.0.name=Базовая линза
@@ -186,7 +185,6 @@ container.monitoringstation=Станция мониторинга
 container.satelliteMonitor=Спутниковый терминал
 
 enchantment.spaceBreathing=Герметичная изоляция
-
 data.undefined.name=Случайные данные
 data.distance.name=Расстояние
 data.humidity.name=Влажность
@@ -240,8 +238,7 @@ achievement.beerOnTheSun.desc=Чтобы достичь орбиты, потре
 achievement.suitedUp=А вот и одёжка!
 achievement.suitedUp.desc=Наденьте полный скафандр
 
-
-key.controls.advancedrocketry=Advanced Rocketry
+key.controls.advancedRocketry=Advanced Rocketry
 key.openRocketUI=Откройте графический интерфейс ракеты
 key.toggleJetpack=Переключить реактивный ранец
 
@@ -325,7 +322,7 @@ msg.stationaltctrl.maxaltrate=Максимальная скорость изме
 msg.stationaltctrl.tgtalt=Целевая высота:
 msg.stationaltctrl.alt=Высота:
 msg.stationgravctrl.maxaltrate=Максимальная скорость изменения силы тяжести:
-msg.stationgravyctrl.tgtalt=Целевая сила тяжести:
+msg.stationgravctrl.tgtalt=Целевая сила тяжести: 
 msg.stationgravctrl.alt=Искусственная сила тяжести:
 msg.stationorientctrl.alt=Угловая скорость:
 msg.stationorientctrl.tgtalt=целевая угловая скорость:
@@ -356,6 +353,7 @@ msg.rocketbuilder.unscanned=Ракета не просканирована
 msg.rocketbuilder.success_station=Готов!
 msg.rocketbuilder.empty=Тут ничего нет :(
 msg.rocketbuilder.finished=Постройка завершена!
+msg.rocketbuild.invalidblock=Недопустимый блок!
 msg.rocketbuilder.incompletestructure=Неверная структура пусковой площадки!
 msg.rocketbuilder.nosatellitehatch=Отсутствует отсек спутника
 msg.rocketbuilder.nosatellitechip=Отсутствует чип
