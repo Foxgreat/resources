@@ -19,7 +19,7 @@ item.item_alloy_ingot_conductive_iron.name=Проводящий железный
 item.item_alloy_ingot_dark_steel.name=Слиток тёмной стали
 item.item_alloy_ingot_electrical_steel.name=Слиток наэлектризованной стали
 item.item_alloy_ingot_energetic_alloy.name=Слиток энергетического сплава
-item.item_alloy_ingot_pulsating_iron.name=Пульсирующий железный слиток
+item.item_alloy_ingot_pulsating_iron.name=Слиток пульсирующего железа
 item.item_alloy_ingot_redstone_alloy.name=Слиток сплава из красного камня
 item.item_alloy_ingot_soularium.name=Слиток из камня души
 item.item_alloy_ingot_vibrant_alloy.name=Слиток вибрирующего сплава
@@ -29,7 +29,7 @@ item.item_alloy_ball_conductive_iron.name=Шлифовальный шар из �
 item.item_alloy_ball_dark_steel.name=Шлифовальный шар из темной стали
 item.item_alloy_ball_electrical_steel.name=Шлифовальный шар из наэлектризованной стали
 item.item_alloy_ball_energetic_alloy.name=Шлифовальный шар из энергетического сплава
-item.item_alloy_ball_pulsating_iron.name=Шлифовальный шар из пульсирующего железного слитка
+item.item_alloy_ball_pulsating_iron.name=Шлифовальный шар из пульсирующего железа
 item.item_alloy_ball_redstone_alloy.name=Шлифовальный шар из сплава красного камня
 item.item_alloy_ball_soularium.name=Шлифовальный шар из слитка камня души
 item.item_alloy_ball_vibrant_alloy.name=Шлифовальный шар из вибрирующего сплава
@@ -126,7 +126,7 @@ item.item_dark_steel_helmet.name=Темный шлем
 item.item_dark_steel_leggings.name=Темные поножи
 
 item.item_end_steel_boots.name=Ботинки Края
-item.item_end_steel_boots.tooltip.line1=Урон от падения поглощается, если есть питание
+item.item_end_steel_boots.tooltip.line1=Урон от падения поглощается, если есть энергия
 
 item.item_end_steel_chestplate.name=Нагрудник Края
 
@@ -143,7 +143,7 @@ item.item_ender_food.enderios.tooltip.common.line1=Часть сбалансир
 item.item_ender_food.enderios.tooltip.detailed.line1=Не совсем здоровая пища. Содержит 253г сахара, 53г жиров и 394г пыли Края.
 item.item_ender_food.enderios.tooltip.detailed.line2=Побочные эффекты пыли Края: тошнота, головокружение, смятение и случайная телепортация.
 
-item.item_location_printout.name=Location Printout
+item.item_location_printout.name=Распечатка координат
 item.item_location_printout.tooltip.detailed.line1=Created using the Coordinate Selector
 item.item_location_printout.tooltip.detailed.line2=Used to add destinations to a Telepad
 item.item_location_printout.chat.setTarget=Target set to
