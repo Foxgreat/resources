@@ -1,4 +1,4 @@
-#ru_RU.lang file [Thaumcraft-1.12.2-6.1.BETA15]. Translated by TimeConqueror, groting, Daddy Lappy, DCV_Hacker & Foxgreat team
+#
 # Items
 ###################################
 #
@@ -99,8 +99,6 @@ item.label.blank.name=Пустая Бирка
 item.label.filled.name=Отмеченная Бирка
 item.jar_brace.name=Латунная крышка 
 item.bath_salts.name=Очищающие соли для ванн
-item.bucket_death.name=Ведро жидкой смерти
-item.bucket_pure.name=Ведро очищающей жидкости
 item.bottle_taint.name=Бутылка с Порчей
 item.sanity_soap.name=Санизирующее мыло
 #
@@ -160,7 +158,6 @@ item.void_pick.name=Пустотная Кирка
 item.void_hoe.name=Пустотная Мотыга
 item.crimson_blade.name=Багровый Клинок
 item.primal_crusher.name=Primal Crusher
-item.hand_mirror.name = Волшебное ручное зеркало
 item.thaumometer.name=Таумометр
 item.sanity_checker.name=Счётчик рассудка
 item.resonator.name=Резонатор Эссенции
@@ -203,8 +200,6 @@ item.focus_pouch.name=Сумка для Набалдашников
 # Misc
 #
 item.creative_flux_sponge.name=Губка для Выбросов
-item.turret.basic.name = Автоматический арбалет
-item.turret.advanced.name = Продвинутый автоматический арбалет
 item.turret.bore.name=Мистическое дуло
 item.enchanted_placeholder.name=Любой зачарованный предмет
 item.enchanted_placeholder.text=Must have at least these enchantments:
@@ -263,7 +258,7 @@ tile.stone_ancient.name=Древний Камень
 tile.stone_ancient_rock.name=Древний Булыжник
 tile.stone_eldritch_tile.name=Плитка из Ужасающего Камня
 tile.stone_ancient_tile.name=Плитка из Древнего Камня
-tile.stone_ancient_doorway.name = Древний Барьер
+tile.stone_ancient_doorway.name=Древний барьер
 tile.stone_ancient_glyphed.name=Рунный Камень
 tile.stone_porous.name=Porous Stone
 tile.stairs_arcane.name=Ступеньки из Мистического Камня
@@ -502,7 +497,6 @@ entity.BrainyZombie.name=Злобный зомби
 entity.FollowItem.name=Following Item
 entity.SpecialItem.name=Magic Item
 entity.FallingTaint.name=Tainted Crust
-entity.AspectOrb.name=Aspect Orb
 entity.TaintCrawler.name=Заражённый ползун
 entity.Taintacle.name=Заражённое щупальце
 entity.TaintacleTiny.name=Заражённый усик
@@ -514,10 +508,6 @@ entity.Pech.name=Pech Forager
 entity.Pech.1.name=Pech Mage
 entity.Pech.2.name=Pech Stalker
 entity.PrimalOrb.name=Orb of Primal Energy
-entity.TravelingTrunk.name=Traveling Trunk
-entity.trunk.guiname=%s's Trunk
-entity.trunk.move=The trunk will now follow you
-entity.trunk.stay=The trunk will stay where it is
 entity.MindSpider.name=Mind Spider
 entity.EldritchGuardian.name=Eldritch Guardian
 entity.EldritchWarden.name=Eldritch Warden
@@ -562,11 +552,6 @@ tc.boss.taint=An organic rustling comes from the room beyond. The sound of somet
 # Blocks
 ###################################
 # World
-
-
-
-tile.bloom.name=Ethereal Bloom
-
 tile.eldritch.altar.name=Eldritch Altar
 tile.eldritch.obelisk_base.name=Eldritch Obelisk
 tile.eldritch.obelisk_body.name=Eldritch Obelisk
@@ -575,12 +560,6 @@ tile.eldritch.lock.name=Ancient Locking Mechanism
 tile.eldritch.door.name=Ancient Doorway
 tile.eldritch.teleporter.name=Eldritch Portal
 tile.eldritch.crabspawner.name=Crusted Opening
-
-
-
-
-
-
 #
 # Items
 ###################################
@@ -588,23 +567,12 @@ tile.eldritch.crabspawner.name=Crusted Opening
 # Misc
 item.tainted.slime.name=Tainted Goo
 item.tainted.tendril.name=Taint Tendril
-item.coin.name=Gold Coin
-
-item.knowledge_fragment.name=Knowledge Fragment
-item.knowledge_fragment.help=Use to gain experience
 item.eldritch_eye.name=Eldritch Eye
 item.crimson_rites.text.0=The book is filled with strange symbols.
 item.crimson_rites.text.1=Click to study it.
 item.runed_tablet.name=Runed Tablet
 item.runed_tablet.text=It seems to be part of something larger.
-item.research_notes.name=Research Notes
-item.research_notes.discovery.name=Discovery
-item.researchnotes.learn=Right click to learn this discovery
 item.creative_placer.obelisk.name=Obelisk Placer
-
-item.creative_placer.caster.name=Ancient Autocaster Placer
-
-
 #
 # Text
 research.complete=Исследование завершено!
@@ -617,7 +585,7 @@ stability.STABLE=Stable
 stability.UNSTABLE=Unstable
 stability.VERY_UNSTABLE=Dangerously Unstable
 #
-# Golems
+# Golems 
 ########################
 # Traits
 golem.trait.deft=Deft
@@ -659,7 +627,7 @@ golem.trait.text.ranged=The golem can attack targets at range.
 golem.trait.blastproof=Blastproof
 golem.trait.text.blastproof=The golem is highly resistant to explosion damage.
 #
-# Props
+# Props 
 golem.material.wood=Greatwood
 golem.material.text.wood=The golem is crafted from greatwood. It is light and agile, but not particularly sturdy.
 golem.material.iron=Iron
@@ -722,20 +690,20 @@ fluid.liquid_death=Liquid Death
 #
 # Specific Focus Upgrades
 ##############################
-thaumcraft.AIR.name=Air
-thaumcraft.AIR.text=Creates a blast of air that knocks things back, but causes only minor damage.
-thaumcraft.EARTH.name=Earth
-thaumcraft.EARTH.text=Hurls a blast of earthen shrapnel that causes significant damage and may break weaker blocks.
-thaumcraft.FIRE.name=Fire
+thaumcraft.AIR.name=Воздух
+thaumcraft.AIR.text=Создаёт поток воздуха, отбрасывающий вещи, но при этом наносящий лишь незначительный урон.
+thaumcraft.EARTH.name=Земля
+thaumcraft.EARTH.text=Выстреливает земляной шрапнелью, которая наносит значительный урон и может ломать менее прочные блоки.
+thaumcraft.FIRE.name=Огонь
 thaumcraft.FIRE.text=Hurls flame at your target and sets it alight.
-thaumcraft.FROST.name=Frost
-thaumcraft.FROST.text=Throws chilling cold at your target, causing damage and freezing it. Freezes water and will slow down creatures.
+thaumcraft.FROST.name=Мороз
+thaumcraft.FROST.text=Выстреливает в Вашу цель леденящим холодом, нанося урон и сковывая её. Также замораживает воду и замедляет существ.
 thaumcraft.BREAK.name=Break
 thaumcraft.BREAK.text=Summons disruptive energy that breaks down most materials.
 thaumcraft.CURSE.name=Curse
 thaumcraft.CURSE.text=Summons the powers of entropy to harm and disrupt the targeted creature.
-thaumcraft.FLUX.name=Flux
-thaumcraft.FLUX.text=This effect conjures raw, unfocused vis that disrupts living (and dead) creatures. This energy cannot interact with inanimate objects, but this does mean that it bypasses mundane armor.
+thaumcraft.FLUX.name=Выброс
+thaumcraft.FLUX.text=Этот эффект высвобождает грубый, несфокусированный Вис, который убивает живых (и мёртвых) существ. Подобная энергия не может взаимодействовать с неживыми объектами, но она способна проходить сквозь обычные доспехи.
 thaumcraft.RIFT.name=Rift
 thaumcraft.RIFT.text=Shifts matter into an alternate reality, creating temporary 'holes' through which you can travel.
 thaumcraft.EXCHANGE.name=Exchange
@@ -745,10 +713,10 @@ thaumcraft.HEAL.text=This effect heals living creatures and harms undead.
 #
 thaumcraft.TOUCH.name=Touch
 thaumcraft.TOUCH.text=Allows you to affect things you can touch (roughly 4 blocks from the point of origin).
-thaumcraft.PROJECTILE.name=Projectile
-thaumcraft.PROJECTILE.text=Gathers the energy of the focus into a magical orb that you can throw like a projectile. This projectile travels slowly and is affected by gravity.
-thaumcraft.BOLT.name=Bolt
-thaumcraft.BOLT.text=Hurl magic directly at your target as a concentrated bolt of energy. The effect is instantaneous, but the range is limited to 16 blocks.
+thaumcraft.PROJECTILE.name=Снаряд
+thaumcraft.PROJECTILE.text=Собирает энергию линзы в магическую сферу, которой Вы можете выстрелить как снарядом. Движется медленно и подвержена гравитации.
+thaumcraft.BOLT.name=Молния
+thaumcraft.BOLT.text=Метает концентрированный разряд энергии прямо в Вашу цель. Эффект накладывается мгновенно, но дальность действия ограничена 16-тью блоками.
 thaumcraft.PLAN.name=Plan
 thaumcraft.PLAN.text=Allows you to plan exactly which blocks will be affected.
 thaumcraft.CLOUD.name=Cloud
@@ -1042,23 +1010,6 @@ tc.researchexists=You already possess this knowledge.
 tc.discoveryerror=To understand this you need to study %1$s.
 tc.discoveryunknown=Unknown theory
 tc.discoveryprogress=% complete
-tc.portableholeerror=The portable hole does not have enough charge to do that.
-tc.key1=The key has been linked to this arcane door.
-tc.key2=The key has been linked to this arcane pressure plate.
-tc.key3=You can now open this door.
-tc.key4= You can also grant others access.
-tc.key5=You will now trigger this pressure plate as if you were its owner.
-tc.key6= You can also grant others access and change its settings.
-tc.key7=The key is not linked to this.
-tc.key8=You already have access.
-tc.key9=This key grants access to the
-tc.key10=arcane door at
-tc.key11=arcane pressure plate at
-tc.wandnocharge=The casting tool does not have enough charge to do that.
-tc.wandcharge=This casting tool currently holds %s vis
-tc.jaressentia=Holds %s essentia
-tc.jarname=Jar of
-tc.markedloc=marked locations
 tc.addclue=§aYou have discovered something that could aid future research§0
 tc.addaddendum=§aК исследованию "%1$s" добавлено приложение§0
 tc.addendumtext=§oПриложение  %1$s§r
@@ -1095,7 +1046,9 @@ tc.adv=Advanced
 tc.resonator1=§9Contains %1$s %2$s essentia§0
 tc.resonator2=§5Suction %1$s %2$s §0
 tc.resonator3=Untyped
-tc.search=Search
+tc.condenser1=§dСтоит: %1$s эссенции§0
+tc.condenser2=§dВремя: %1$s тиков (%2$s секунд)§0
+tc.search=Поиск
 tc.search.more=...too many results found. Refine your search
 tc.research.stage=Текущая стадия:
 tc.research.begin=Вы еще не начали это исследование
@@ -1109,12 +1062,6 @@ tc.need.research=То, что необходимо открыть
 tc.need.craft=Предметы, которые необходимо создать
 tc.need.obtain=Items that will be consumed
 tc.need.know=Знания, которые необходимо использовать
-tc.primalcharm.0=It seems to be leaking
-tc.primalcharm.1=You think you hear whispering
-tc.primalcharm.2=It is vibrating violently
-tc.primalcharm.3=Its humming is quite soothing
-tc.primalcharm.4=Wait, did it just flash a seventh color?
-tc.primalcharm.trigger=For a moment strange energies surround the primal charm. They dissipate quickly, but you are left strangely inspired...
 tc.break.fly=Something disrupts your ability to fly.
 tc.boss.enrage=is enraged by your powerful blows.
 tc.levitator=Range set to %s blocks. (%d vis/minute)
@@ -1175,7 +1122,7 @@ tc.aspect.vinculum=Ловушка, Заключение
 tc.aspect.permutatio=Обмен, Бартер
 tc.aspect.praecantatio=Структурированная магия, Заклинания, Зачарование
 tc.aspect.alkimia=Алхимия, Химия
-#
+#  
 # Research categories
 tc.research_category.BASICS=Основы
 tc.research_category.AUROMANCY=Ауромантия
@@ -1184,11 +1131,11 @@ tc.research_category.ARTIFICE=Изобретения
 tc.research_category.INFUSION=Наполнение
 tc.research_category.GOLEMANCY=Големостроение
 tc.research_category.ELDRITCH=Потустороннее
-#
+#  
 # Knowledge Types
 tc.type.theory=Теория
 tc.type.observation=Наблюдение
-#
+#  
 # Special formatting codes:
 # <BR> or <BR/>         Paragraph break (<BR/> is included for people using XML for their localization)
 # <LINE> or <LINE/>     Insert a fancy centered linebreak between sections of text.
@@ -1201,8 +1148,8 @@ tc.type.observation=Наблюдение
 #                    - y location of sub-image in png
 #                    - x size of sub-image (255 if full x size of png must be used)
 #                    - y size of sub-image (255 if full y size of png must be used)
-#                    - scaling - 1.0 for normal 256x256 images, or smaller for proportionately smaller .png files (a 16x16 image will be 0.0625)
-#               Examples:
+#                    - scaling - 1.0 for normal 256x256 images, or smaller for proportionately smaller .png files (a 16x16 image will be 0.0625)   
+#               Examples: 
 #                   <IMG>thaumcraft:textures/gui/gui_researchbook.png:24:184:96:4:1.0</IMG>   <-- line break image as used in <LINE> above
 #                   <IMG>thaumcraft:textures/items/alumentum.png:0:0:255:255:0.0625</IMG>     <-- alumentum item icon
 ##########################################
@@ -1319,6 +1266,9 @@ research.UNLOCKELDRITCH.title=Delving into the Eldritch (UNFINISHED)
 research.UNLOCKELDRITCH.stage.1=Still work in progress. Nothing to see here.
 research.UNLOCKELDRITCH.stage.2=Still work in progress. Nothing to see here.
 #
+#
+#
+#
 ##########################################
 # ALCHEMY
 ##########################################
@@ -1351,8 +1301,8 @@ research.LIQUIDDEATH.title=Liquid Death
 research.LIQUIDDEATH.stage.1=Curiosity has taken me down a dark path. I wonder what a liquid made mostly from entropic and death energy would do. Nothing good I imagine.<BR>At the very least it should make a handy weed killer or control pests.
 research.LIQUIDDEATH.stage.2=Oh dear, what have I done? This liquid is so dangerously toxic that virtually nothing can prevent it from dissolving flesh, bone and even harder substances. Nothing alive or that even displays the semblance of life can survive it.<BR>Apart from obvious practical applications, this vile substance has another interesting property: Any essentia a dissolved creature possessed form into crystals that can be harvested.
 #
-research.BOTTLETAINT.title=Bottled Taint
-research.BOTTLETAINT.stage.1=I should be able to replicate the Taint causing properties of flux. I am not exactly sure why I would want to, but sometimes progress requires risk.<BR>The process should be fairly simple - I merely need to create a concentrated mixture of flux and it should easily react with almost anything to create Taint.
+research.BOTTLETAINT.title=Заражение в бутылке
+research.BOTTLETAINT.stage.1=Мне стоит находиться в здравом уме, чтобы копировать Заражение, которое может привести к гибели. Я не совсем уверен, зачем мне это нужно делать, но иногда прогресс требует риска.<BR>Процесс должен быть простым - мне просто нужно создать высококонцентрированную смесь с выбросами и она должна хорошо реагировать со всем поблизости, чтобы создать Заражение.
 #
 research.BATHSALTS.title=Purifying Bath Salts
 research.BATHSALTS.stage.1=Warp is a danger for even the most careful of thaumaturges. For those that have done a bit too much dabbling Warp effects are probably more than just an annoyance.<BR>I should make solving this problem a priority. Even if I am not able to remove Warp, at the very least I should be able to alleviate it's effects.
@@ -1420,30 +1370,30 @@ research.POTIONSPRAYER.stage.2=This has been an effort in frustration, but I hav
 # INFUSION
 ##########################################
 #
-research.BASEINFUSION.title=Basic Infusion
-research.BASEINFUSION.stage.1=I am now ready to begin crafting enchanted objects and tools.<LINE>I have drawn up designs for some banners to decorate my lab. I can apply a phial of essentia to them to have them display that essentia symbol.
+research.BASEINFUSION.title=Основы наполнения
+research.BASEINFUSION.stage.1=Теперь я готов начать создавать зачарованные предметы и инструменты.<LINE>У меня есть несколько вариантов баннеров, чтобы украсить свою лабораторию. Можно использовать на них пузырёк с Эссенцией, чтобы они отображали её эмблему.
 #
-research.INFUSION.title=Infusion
-research.INFUSION.stage.1=Arcane crafting and alchemy can go only so far. Something better is needed to create truly powerful mystical objects.<BR>You believe that it should be possible to infuse objects with essentia directly. You could, for example, infuse a stone with §6Aer§0 vis and a feather and it would result in a very light stone.<BR>At least, that is my theory.
-research.INFUSION.stage.2=Unsurprisingly, infusion crafting is proving to be a lot more complex than I expected. Simply trying to infuse aspects into something does not work. I will need a relatively complex system to stabilize the entire process. I have drawn up plans for a Runic Matrix that will allow me to do this.
-research.INFUSION.stage.3=To even get started with infusion crafting there are several things I will need: The Runic Matrix (which I now have), arcane pedestals and a ready supply of magic in the form of essentia.<BR>Once you have your Runic Matrix properly placed into a structure commonly known as an Infusion Altar, you can begin to craft. The altar is crafted with the use of Salis Mundus like most other mystical structures. Once the pillars have formed the runic matrix can be activated using a casting tool.<BR>The central pedestal located under the matrix is where the item you wish to infuse will go. You will also need several more pedestals placed around the altar where you can place the blocks and items you wish to infuse into the target object. Lastly you will need warded jars or similar essentia containers holding the requisite amount of vis.<BR>Once all this is gathered you can click on the Runic Matrix with a casting tool to start the crafting process.<BR>During the first stage of crafting essentia will be drained from nearby sources. Crafting will stall if there is insufficient essentia available - something that you do not want as will be explained on following pages.<BR>Once all the required essentia has been infused into the target object, the other objects will have their essential essence drained. Only when this is done will the crafting process complete.<LINE>Infusion crafting is not without risks. The entire process involves forcing vast energies into a single object. Unpredictable things tend to happen.<BR>Usually one of the fusion objects get knocked off a pedestal, or flux gets generated, but more catastrophic events are not unheard of.<BR>The longer crafting continues due to unresolved problems like lack of vis or dropped items, the greater the chance of something bad happening.<BR>These effects can be reduced by various means. Firstly you wish to keep the entire fusion structure as symmetrical as possible - take careful note of where you place pedestals and make sure they are balanced with other pedestals on the opposite side of the altar. When placing fusion items into them you may wish to keep them balanced as well. Lastly you can place occult paraphernalia around the altar in symmetrical formations (things like candles, skulls, etc.). These will have the effect of reducing instability.<IMG>thaumcraft:textures/research/research5.png:128:0:128:136:1</IMG>
+research.INFUSION.title=Наполнение
+research.INFUSION.stage.1=Простая магия и алхимия хороши. Но иногда нужно что-то более мощное для создания сильных артефактов.<BR>Наполнение - процесс, нарушающий законы Вселенной. С его помощью простой объект наполняется магией и способностями других предметов. К примеру, Вы можете наполнить камень эссенцией §6Aer§0 и перьями - он станет очень легким.<BR>Это лишь моя теория.
+research.INFUSION.stage.2=Процесс наполнения оказался не так прост, как я думал. Неудивительно, ведь простого вливания аспекта в предмет недостаточно. Для такого необычного способа создания мне нужна комплексная система стабилизации всего процесса наполнения. Я разработал чертёж так называемой Рунической матрицы, одной из составляющей этой системы.
+research.INFUSION.stage.3=Перед тем, как начать процесс наполнения, мне нужно несколько вещей: Руническая Матрица (её я уже создал), мистические пьедесталы и готовую для вливания эссенцию.<BR>После того, как Руническая Матрица правильно размещена в структуре именуемой Алтарём Наполнения, можно приступить к самому процессу. Алтарь создаётся с использованием Salis Mundus, так же, как и другие конструкции. Когда колонны алтаря сформированы, необходимо активировать матрицу с помощью Перчатки заклинателя.<BR>Центральный пьедестал, размещённый под матрицей - место, куда помещается предмет для наполнения. Ещё несколько пьедесталов должны быть размещённы вокруг алтаря, для размещения в них прочих ингредиентов для влияния в целевой объект. И, наконец, эссенция. Она должна быть размещена вблизи алтаря в специальных для её хранения банках в необходимом для слияния количестве.<BR>Собрав все необходимые для крафта предметы, коснитесь матрицы своей Перчаткой заклинателя, чтобы запустить процесс слияния.<BR>......На первом этапе начнётся поглощение необходимой эссенции из ближайших источников. При недостатке какой либо эссенции, процесс слияния будет прерван - наверняка Вы не хотите, чтобы такое произошло.<BR>Когда наполняемый объект поглотит всю нужную эссенцию, остальные предметы тоже начнут разрушаться и поглощаться. Когда наполнение будет завершено, Вы получите создаваемый предмет.<LINE>Слияние не проходит без риска. Весь процесс включает в себя наполнение одного предмета огромным колличеством энергиии. Иногда могут случится непредвиденные моменты.<BR>Предметы могу упасть с пьедестала, или образоваться лужа заражения, но это не самое страшное.<BR>Чем дольше идёт процесс при недостающих ингредиентах, тем выше шанс того, что произойдёт что-то плохое.<BR>Этот шанс может быть понижен несколькими способами. Во-первых, стройте структуру как можно более симметрично - удостоверьтесь, что пьедесталы с одной стороны противоположны пьедесталам на другой. Пытайтесь сохранить баланс и симметрию, кладя предметы на алтари. Так же, снизить нестабильность алтаря вам помогут, симметрично расставленные оккультные принадлежности (вроде свечей, черепов и пр.). Всё это снизит шанс дестабилизации алтаря.<IMG>thaumcraft:textures/research/research5.png:128:0:128:136:1</IMG>
 #
 research.INFUSIONSTABLE.title=Infusion Stabilization
 research.INFUSIONSTABLE.stage.1=Infusion has proven to be much more unstable than I expected. Placing occult paraphernalia does mitigate the effect somewhat, but much less than the texts suggested.<BR>I need to find more effective way of reducing instability. Strangely enough, I think mundane technology might have the answer.<BR>It is well known that mundane power sources like redstone interferes with thaumaturgy. Of course, throwing redstone into the mix of an already unstable infusion is not the answer, but maybe there is some way to harness the interference.
 research.INFUSIONSTABLE.stage.2=I have put together a device I am calling, appropriately enough, a Stabilizer. It accepts energy in the form of RF or FE which it uses to creat an interference pattern that serves to 'smooth' out the interaction between magical objects and the local aura. The effect is highly localized so the Stabilizer needs to be pointed at what you want to stabilize. It has a range of 8 blocks.<BR>The Stabilizer has obvious benefits when used on an infusion matrix, but I believe many more uses will reveal themselves. For instance I wonder effect it might have on natural aura instability like that caused by flux?
 got.instability=I should study infusion instability further.
 #
-research.INFUSIONBOOST.title=Infusion Boosting
-research.INFUSIONBOOST.stage.1=There should be a way to improve the function of the Infusion Altar. I should investigate this.
-research.INFUSIONBOOST.stage.2=I have found a way to improve infusion altars through the use of special blocks placed under one or more of the four altar pillars.<BR>The §5Infusion Speed Stone§0 will increase the speed at which the altar operates, but at a slight increase to costs.<BR>The §5Infusion Cost Stone§0 will decrease infusion costs, but at a slight reduction to operating speed.<BR>These stones must be placed directly under an altar pillar, but they need not be balanced for instability purposes.
+research.INFUSIONBOOST.title=Улучшение наполнения
+research.INFUSIONBOOST.stage.1=Должен быть способ улучшения работы Алтаря Наполнения. Нужно поработать над этим.
+research.INFUSIONBOOST.stage.2=Я нашёл способ повышения производительности алтаря путём размещения специальных блоков под колоннами.<BR>§5Камень Ускорения Наполнения§0 должен повысить скорость слияния в алтаре, хоть и с небольшими затратами.<BR>§5Infusion Cost Stone§0, жертвуя скоростью, понижает стоимость наполнения.<BR>Эти камни должны быть размещены строго под колоннами алтаря. Необязательно расставлять их по симметрии, они никак не влияют на стабильность алтаря.
 #
-research.INFUSIONANCIENT.title=Infusion: Ancient Stone
-research.INFUSIONANCIENT.stage.1=The strange, ancient stone I have found has some interesting mystical properties. I think it might be useful in the infusion process.
-research.INFUSIONANCIENT.stage.2=I believe that when this ancient stone is used to craft the pillars for an infusion altar that it will help reduce the amount of essentia required during infusion crafting and speed up the crafting process by a small amount. It will however increase instability slightly.<BR>If I find pedestals crafted from the same material, each one will also help reduce essentia costs.
+research.INFUSIONANCIENT.title=Наполнение: Древний камень
+research.INFUSIONANCIENT.stage.1=Странный, древний камень, что я нашёл, обладает некоторыми интересными мистическими свойствами. Думаю, он может быть полезен в процессе наполнения.
+research.INFUSIONANCIENT.stage.2=Думаю, будь колонны алтаря изготовлены из этого необычного камня, это бы привело к снижению требуемой эссенции при наполнении и немного ускорило весь процесс. Увы, но в таком случае придётся пожертвовать стабильностью.<BR>Если использовать пьедесталы из этого же камня, то эффект будет аналогичным.
 #
-research.INFUSIONELDRITCH.title=Infusion: Eldritch Stone
-research.INFUSIONELDRITCH.stage.1=The dark, eldritch stone I have discovered has some strange properties. I think it might be useful in the infusion process.
-research.INFUSIONELDRITCH.stage.2=I believe that when this eldritch stone is used to craft the infusion altar pillars it will help reduce instability and speed up the crafting process by a moderate amount. It will unfortunately increase crafting cost slightly.<BR>Pedestals made from the same material it should have the same effect. Caution should be taken to carefully balance them however as unbalanced eldritch pedestals will massively increase your instability.
+research.INFUSIONELDRITCH.title=Наполнение: Потусторонний камень
+research.INFUSIONELDRITCH.stage.1=У тёмного, потустороннего камня, что я нашёл, присутствуют очень странные свойства. Думаю, он может быть полезен в процессе наполнения.
+research.INFUSIONELDRITCH.stage.2=Думаю, использовав его в создании колонн алтаря, я смогу уменьшить нестабильность процесса наполнения и ускорить его протекание. Но при этом немного увеличивается цена процесса.<BR>Пьедесталы, изготовленные из того же материала, имеют идентичный эффект. Неосторожно размещённые пьедесталы оказывают сильное влияние на алтарь, сильно повышая шанс его дестабилизации. Старайтесь размещать пьедесталы как можно более симметрично.
 #
 research.RUNICSHIELDING.title=Runic Shielding
 research.RUNICSHIELDING.stage.1=It has proven simple enough to enchant objects with offensive and utilitarian abilities, but some defensive abilities would be useful as well. I should investigate this.
@@ -1576,8 +1526,8 @@ research.VISGENERATOR.stage.2=One more impossible thing to mark off my list and 
 #
 research.BASEAUROMANCY.title=Основы Ауромантии
 research.BASEAUROMANCY.stage.1=У меня есть перчатка заклинателя, но ещё мне нужно создать фокусировщики. В старых свитках не очень понятно описано, как их сделать, поэтому мне нужно найти свой собственный способ.<BR>Я пробовал собирать фокусировщик из кристаллов, соединяя их вместе при помощи Вис. Первые мои эксперименты были провальными... взрывающе провальными.<BR>Думаю, что ответ, который я ищу, кроется в алхимическом процессе.<BR>Задействовав кристалл ordo в качестве ядра, я мог бы использовать его упорядоченную структуру, чтобы вырастить из него фокусировщик. Пока это происходит, он должен впитывать эссенцию praecantatio и auram.<BR>Надеюсь, что в результате получится фокусировщик, способный поглощать и управлять энергией Вис.
-research.BASEAUROMANCY.stage.2=Using Alchemy to create the focus was indeed the path to success. The focus is stable and clear - now I simply need to imprint the proper patterns into it. For this I will need a Focal Manipulator<BR>I have already drawn up plans for a Focal Manipulator. The way it functions is similar to an arcane workbench in many ways, but instead of using vis to craft items it instead imprints patterns into the focus crystal.<BR>I must also design the patterns that I will need to imprint. I have and idea for a pattern to create flame, but I need to do some more research.
-research.BASEAUROMANCY.stage.3=I have everything I need. All I need to do is craft my first focus.<BR>By arranging specially prepared vis crystals around the blank focus I can set up patterns that will determine what function the focus will perform. For now I only know the patterns for §nRoot§0, §nTouch§0 and §nFire§0.<BR>The §nRoot§0 node represents me, the caster. In the focal manipulator interface it is shown as an eye icon. The empty node below it is marked with both a target and a trajectory icon. Mediums (like §nTouch§0) require trajectories to determine what they effect - the §nRoot§0 node provides a trajectory that matches where the caster is looking so by linking §nTouch§0 to it I will be able to 'touch' anything I am looking at. Mediums almost always provide a target (in this case whatever has been 'touched') and some can also provide a trajectory. In this case though I require a target so I will be able to link the §nFire§0 effect.<BR>By linking §nRoot§0, §nTouch§0 and §nFire§0 in this way I will be able to create a focus that applies the §nFire§0 effect to whatever I touch.<BR>I could in theory link §nFire§0 directly to §nRoot§0, but since root provides the caster as a target that means I will simply set myself on fire.<BR>I can fine tune exactly what the §nFire§0 effect does by tweaking its damage and burn duration in the bottom right of the interface. Many patterns will allow me to fine tune them in this way.<BR>Creating a focus require three types of resources - the first is the crystals used in the crafting process, the second is vis from the aura, and lastly it also requires some player experience. Every time a focus is used it will also consume a small amount of vis from the aura.<PAGE>§nComplexity§0<BR>The effects I can create now are fairly simple and limited. There is a limit to how many patterns I can attach to a focus. This is measured as the focus Complexity. Each pattern type has a complexity cost and increasing their paramaters (for example the damage of a fire pattern) will increase the complexity further. Using a pattern more than once also incurs a stacking complexity cost increase of 50%.<BR>The complexity of a focus directly determines how much vis it will cost to cast and how long the caster gauntlet needs to cooldown between casts.
+research.BASEAUROMANCY.stage.2=Использование алхимии в создании фокусировщика действительно было путём, ведущим к успеху. Он крепок, прозрачен, теперь мне лишь осталось вставить в него подходящую схему-шаблон. Для этого мне понадобится Настраиватель фокусировщиков.<BR>Я уже набросал несколько его чертежей. Принцип его работы очень схож с тем, по которому действует магический верстак, но вместо того, чтобы использовать Вис для изготовления предметов, он будет отпечатывать шаблоны прямо на кристалле фокусировщика.<BR>Мне придётся также разрабатывать те шаблоны, которые нужно будет отпечатать на кристалле. Можно составить такой шаблон, который будет порождать пламя, но для этого мне нужно сделать ещё несколько исследований.
+research.BASEAUROMANCY.stage.3=У меня есть всё, что нужно. Теперь осталось лишь создать свою первую линзу.<BR>Разложив специально подготовленные Вис-кристаллы вокруг ненастроенной линзы, я смогу настроить шаблоны, которые определят, какую функцию она будет выполнять . Пока мне известны только шаблоны §n«Основа»§0, §n«Прикосновение»§0 и §n«Огонь»§0.<BR>Элемент §n«Основа»§0 символизирует меня, заклинателя. В интерфейсе конфигуратора линз он изображён значком с глазом. Пустой элемент под ним отмечен значками: цель и траектория. "Методы" (например, §n«Прикосновение»§0) заставляют траекторию определять, как они будут действовать: элемент §n«Основа»§0 проводит траекторию, которая соответствует направлению взгляда заклинателя, и, если соединить с этим элементом §n«Прикосновение»§0, я смогу "прикасаться" к тому, на что смотрю. "Методы" почти всегда предусматривают какую-то цель (в данном случае это всё, до чего я "коснулся"), а некоторые способны также составлять траекторию. Конкретно в этой ситуации мне всё же цель понадобится, поэтому я могу привязать это всё к эффекту §n«Огонь»§0.<BR>Связав таким образом §n«Основу»§0, §n«Прикосновение»§0 и §n«Огонь»§0, я смогу создать линзу, которая накладывает эффект §n«Огонь»§0 на всё, чего я коснусь.<BR>В теории я бы мог привязать §n«Огонь»§0 непосредственно к §n«Основе»§0, но поскольку Основа представляет в качестве цели меня, это значит, что я просто себя подожгу.<BR>Я могу с точностью настроить то, что делает эффект §n«Огонь»§0, изменяя его урон и длительность горения в правом нижнем углу интерфейса. Подобным образом я смогу настраивать многие шаблоны.<BR>Для создания линзы потребуется три типа ресурсов: первый - это кристаллы, что используются в процессе создания, второй - Вис из ауры, и последний - опыт игрока. Всякий раз, когда используется линза, она потребляет небольшое количество Вис из ауры. <PAGE>§nСложность§0<BR>Эффекты, которые я сейчас могу создать, довольно просты и ограничены. Это ограничение влияет на то, как много шаблонов я могу прикрепить к линзе. Оно определяется Сложностью линзы. Каждый тип шаблона имеет свои затраты сложности, а увеличение его параметров (например, урона для шаблона огня) приведёт к ещё большему её нарастанию. Использование шаблона более одного раза также вызовет увеличение затрат сложности на 50%.<BR>Сложность линзы определяет, как много Вис будет расходоваться, и как долго будет длиться перезарядка между использованиями у перчатки заклинателя.
 research.f_onfire.text=Examine fire very closely.
 #
 research.FOCUSADVANCED.title=Advanced Foci
@@ -1588,9 +1538,9 @@ research.FOCUSGREATER.title=Greater Foci
 research.FOCUSGREATER.stage.1=I have reached a dead end with advanced foci. The crystalline matrix inside them is quite complex, but no amount of tinkering, alchemy or infusion will be able to improve it. There is another option however.<BR>Instead of trying to increase the complexity, I might be able to simply increase the size of the focus itself - instead of trying to squeeze more into the box I should increase the size of the box itself.<BR>Of course, foci are the size they are for a reason and increasing their physical size would be counterproductive. I should instead increase their metaphysical size using dimensional magic. Primal Pearls carry vast amounts of energy in a relatively compact package. I should study them to see how I can replicate their properties.
 research.FOCUSGREATER.stage.2=I have managed to increase the complexity of foci nearly twofold. By infusing an advanced focus with the energy storage capability of a Primal Pearl and the dense internal structure of a Nether Star I have created a focus that is bigger on the inside - magically speaking. Physically it has the same dimensions as a normal focus, though it is noticeably heavier.
 #
-research.FOCUSELEMENTAL.title=Elemental Effects
-research.FOCUSELEMENTAL.stage.1=It should be a simple matter for me to use the fundamentals I have learned to harness other elements.
-research.FOCUSELEMENTAL.stage.2=§nAir§0<BR>This effects creates a blast of air. It does not cause much damage, but it will knock back anything it hits.<PAGE>§nFrost§0<BR>Fire may be destructive, but intense cold can be nearly as harmful with the added benefit of chilling my enemies and slowing them down to a crawl.<PAGE>§nEarth§0<BR>The blast of earth and rock created by this effect packs a significant punch. It is even powerful enough to break blocks made from weaker materials.
+research.FOCUSELEMENTAL.title=Эффекты стихий
+research.FOCUSELEMENTAL.stage.1=Думаю, что несложно будет использовать те основы, которые я изучил, для освоения других элементов.
+research.FOCUSELEMENTAL.stage.2=§nВоздух§0<BR>Этот эффект создаёт порыв ветра. Он не нанесёт много урона, но отбросит всё, во что попадет.<PAGE>§nМороз§0<BR>Огонь может и разрушителен, но сильный холод способен быть настолько же опасным, и помимо прочего способен заморозить врагов и заставить их еле ползти.<PAGE>§nЗемля§0<BR>Снаряд из земли и камней, созданный этим эффектом, наносит значительный удар. Он настолько мощный, что даже способен разрушать блоки из более слабых материалов.
 #
 research.FOCUSCURSE.title=Focus Effect: Curse
 research.FOCUSCURSE.stage.1=The pech wand I discovered is strange and unusable, but its workings bear some striking similarities to thaumaturgical foci.<BR>I should be able to reverse engineer it.
@@ -1600,21 +1550,21 @@ research.FOCUSSPELLBAT.title=Focus Medium: Spellbat
 research.FOCUSSPELLBAT.stage.1=Having observed the strange, elemental infused bats in the nether I believe I should be able to do something similar with foci.
 research.FOCUSSPELLBAT.stage.2=I have created a medium pattern that conjures an arcane bat and infuses it with focus effects. It will hunt down enemies and repeatedly inflict the focus effects on them.<BR>The bats have limited lifespans, are fragile and each time they attack they also lose some of the vis holding them together.<BR>The bat can be set to target friendlies instead of enemies and neutral creatures.
 #
-research.FOCUSPROJECTILE.title=Focus Medium: Projectile
-research.FOCUSPROJECTILE.stage.1=Touching my foe to set them alight is fine and all, but I would much rather hurl magic at them from afar. I need to find a way to extend focal energy beyond my limited reach.
-research.FOCUSPROJECTILE.stage.2=I can now place the energy of the focus into a magical projectile that I can hurl at enemies or blocks. The projectile is slow, but I can increase it's speed by increasing the complexity.<BR>Further research might allow me to refine these projectiles even further. Studying other kinds of projectiles closely should inspire me. This might involve some personal risk...
-research.FOCUSPROJECTILE.stage.3=I have discoverd methods to improve the utility of projectile even further!<LINE>§nBouncy§0<BR>When this projectile hits a solid surface it will bounce off. This projectile cannot effect blocks anymore as it will bounce off any block it contacts.<BR>§nSeek Hostiles§0<BR>Projectiles with this special property will automatically redirect their flight path towards hostile targets ahead of them.<BR>§nSeek Friendlies§0<BR>Similar to Seek Hostiles, this projectile will seek out friendly targets.
-research.f_arrow.text=A normal projectile
-research.f_fireball.text=A firey projectile
-research.f_spit.text=A sticky projectile
-got.projectile=You learn some more about projectiles.
+research.FOCUSPROJECTILE.title=Метод действия линзы: Снаряд
+research.FOCUSPROJECTILE.stage.1=Прикасаться к моему врагу, чтобы его поджечь - это, конечно, прекрасно и всё такое, но было бы лучше, если бы я бросал в него заклинания издалека. Нужно найти способ расширить энергию линзы и вывести её за пределы доступного мне радиуса действия.
+research.FOCUSPROJECTILE.stage.2=Теперь я могу поместить энергию линзы в магический снаряд, который впоследствии я смогу бросить во врагов или блоки. Снаряд этот медленный, но я могу увеличить его скорость, повышая Сложность.<BR>Дальнейшее исследование возможно позволит мне усовершенствовать их ещё больше. Изучение других снарядов вблизи должно вдохновить меня. Возможно придётся в какой-то степени подвергнуть себя опасности...
+research.FOCUSPROJECTILE.stage.3=Я обнаружил методы, которые ещё больше увеличат пользу снаряда!<LINE>§nОтскакивающий§0<BR>Когда этот снаряд ударится об твёрдую поверхность, он отскочит от неё. Он больше не сможет воздействовать на блоки, поскольку едва коснувшись, он будет каждый раз отскакивать от них.<BR>§nПоиск врагов§0<BR>Снаряды с этим особым свойством будут автоматически перенаправлять свою траекторию полёта навстречу враждебным целям, что стоят впереди.<BR>§nПоиск друзей§0<BR>Подобно поиску врагов, этот снаряд будет искать дружественные цели.
+research.f_arrow.text=Обычный снаряд
+research.f_fireball.text=Огненный снаряд
+research.f_spit.text=Липкий снаряд
+got.projectile=Вы немного больше узнаёте о снарядах.
 #
-research.FOCUSBOLT.title=Focus Medium: Bolt
-research.FOCUSBOLT.stage.1=Hurling magical projectiles is a chore sometimes. They are hard to aim and take time to travel to the intended target.<BR>Maybe there is a way I can extend the functionality of the the Touch medium.
-research.FOCUSBOLT.stage.2=Who needs projectiles when they can hurl bolts of magical energy? They affect their target instantly and aiming them is a lot easier.<BR>Unfortunately their range is limited. Trying to keep the vis stream coherent beyond 16 blocks has proven difficult. For longer range engagements, projectiles are still superior.
+research.FOCUSBOLT.title=Метод действия линзы: Молния
+research.FOCUSBOLT.stage.1=Иногда кидать магические снаряды становится довольно скучно. С ними сложно прицелиться, к тому же они требуют некоторое время, чтобы долететь до намеченной цели.<BR>Может быть, есть способ расширить возможности метода "Прикосновение".
+research.FOCUSBOLT.stage.2=Кому нужны снаряды, когда есть возможность метать молнии магической энергии? Они мгновенно долетают до цели, да и нацелить их намного проще.<BR>К сожалению, их дальность ограничена. Попытка держать поток Вис сформированным на расстоянии более 16 блоков оказалась сложной задачей. В более дальнем бою лучшими все ещё остаются снаряды.
 #
-research.FOCUSFLUX.title=Focus Effect: Flux
-research.FOCUSFLUX.stage.1=Using the elements as a weapon has its benefits, but raw magic can be just as destructive - most creatures are harmed if exposed to raw, unfiltered vis. Even armor cannot protect you from this energy.
+research.FOCUSFLUX.title=Эффект линзы: Выброс
+research.FOCUSFLUX.stage.1=Использование элементов в качестве оружия имеет свои преимущества, но грубая магия может быть столь же разрушительной: большинству существ будет наноситься урон, если они подвергнутся воздействию грубого, неотфильтрованного Вис. Даже броня не сможет защитить Вас от этой энергии.
 #
 research.FOCUSHEAL.title=Focus Effect: Heal
 research.FOCUSHEAL.stage.1=Infusing targets with victus is a proven way to heal them. Applying the principle to a focus effect should be simple enough.<BR>The effect should be quite devestating against undead.
