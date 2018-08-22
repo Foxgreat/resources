@@ -1,0 +1,24 @@
+tile.sound_muffler.name=Суперподавитель звуков
+tile.sound_muffler.gui.button.add=Добавить
+tile.sound_muffler.gui.button.remove=Удалить
+tile.sound_muffler.gui.slider.range=Диапазон:
+tile.sound_muffler.add_sound.gui.title=Добавить звук...
+tile.sound_muffler.add_sound.gui.button.add=Добавить
+tile.sound_muffler.add_sound.gui.button.cancel=Отмена
+tile.sound_muffler.add_sound.gui.button.all=Все
+tile.sound_muffler.add_sound.gui.button.recent=Недавние
+tile.sound_muffler.add_sound.gui.search=поиск...
+tile.sound_muffler.gui.button.mode.white_list=Белый список
+tile.sound_muffler.gui.button.mode.black_list=Чёрный список
+#Translated by TimeConqueror
+item.sound_muffler.tooltip.mode.white_list=Режим: §8Белый список
+item.sound_muffler.tooltip.mode.black_list=Режим: §8Чёрный список
+item.sound_muffler.tooltip.sounds.count=Заглушено звуков: §8%d
+item.sound_muffler.tooltip.sound=§8- %s
+item.sound_muffler.tooltip.range=Диапазон: §8%d
+
+item.sound_muffler_bauble.name=Суперподавитель звуков
+item.sound_muffler_bauble.tooltip.header=§8§oВерсия Bauble
+#Translated by TimeConqueror
+jei.tile.sound_muffler=Заглушает звуки поблизости. Можно настроить на заглушение каких-то определённых звуков.
+jei.item.sound_muffler_bauble=Bauble-версия Суперподавителя. По нажатию ПКМ открывается интерфейс по его настройке. Нажав Shift + ПКМ, Вы включите или выключите его эффект.

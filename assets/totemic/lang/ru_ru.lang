@@ -1,0 +1,337 @@
+# Key localizations
+# Item localizations
+item.totemic:totemic_staff.name=Totemic Staff
+item.totemic:totemic_staff.tooltip=A staff for your Totemic needs!
+item.totemic:totem_whittling_knife.name=Нож для вырезания тотемов
+item.totemic:totem_whittling_knife.display=Нож для вырезания тотемов (%s)
+item.totemic:totem_whittling_knife.tooltip1=Нож для всех Ваших нужд по вырезки рисунков
+item.totemic:totem_whittling_knife.tooltip2=Чтобы сменить вырезаемый рисунок, нажмите Shift + ПКМ или прокрутите колёсико мыши
+item.totemic:totem_whittling_knife.tooltip3=Сейчас вырезает: %s
+item.totemic:totempedia.name=Тотемпедия
+item.totemic:flute.name=Flute
+item.totemic:flute.tooltip0=Sneak while playing to use Selector Mode
+item.totemic:infused_flute.name=Pan's Flute
+item.totemic:flute.tooltip1=Irresistible to Animals and Villagers
+item.totemic:cedar_bark.name=Кора красного кедра
+item.totemic:bark_stripper.name=Сдиратель коры
+item.totemic:jingle_dress.name=Звенящее платье
+item.totemic:jingle_dress.tooltip=Has no Selector Mode
+item.totemic:rattle.name=Rattle
+item.totemic:rattle.tooltip=Sneak while playing to use Selector Mode
+item.totemic:eagle_bone_whistle.name=Eagle-Bone Whistle
+item.totemic:eagle_bone_whistle.tooltip=Sneak while playing to use Selector Mode
+item.totemic:tipi.name=Типи
+item.totemic:iron_bells.name=Железные бубенчики
+item.totemic:buffalo_hide.name=Шкура бизона
+item.totemic:buffalo_teeth.name=Зуб бизона
+item.totemic:buffalo_meat.name=Сырое мясо бизона
+item.totemic:cooked_buffalo_meat.name=Приготовленное мясо бизона
+item.totemic:baykok_bow.name=Baykok's Bow
+item.totemic:medicine_bag.name=Medicine Bag
+item.totemic:medicine_bag.display=Medicine Bag (%s)
+item.totemic:medicine_bag.creative.name=Creative Medicine Bag
+item.totemic:medicine_bag.creative.display=Creative Medicine Bag (%s)
+item.totemic:medicine_bag.tooltip=Sneak+Right Click on a Totem Pole to set the effect
+item.totemic:medicine_bag.tooltipClosed=Closed
+item.totemic:medicine_bag.tooltipOpen=Open
+item.totemic:medicine_bag.tooltipEmpty=Empty
+item.totemic:medicine_bag.tooltipCharge=Charge: %d / %d
+item.totemic:ceremony_cheat.name=Creative Ceremony Cheat
+item.totemic:ceremony_cheat.tooltip1=Use on a Totem Base to instantly
+item.totemic:ceremony_cheat.tooltip2=start up the selected Ceremony
+item.totemic:eagle_bone.name=Eagle Bone
+item.totemic:eagle_feather.name=Eagle Feather
+item.totemic:nether_pipe.name=Netherumbrian Pipes
+item.totemic:nether_pipe.tooltip=Sneak while playing to use Selector Mode
+
+# Block localizations
+tile.totemic:cedar_log.name=Древесина красного кедра
+tile.totemic:totem_base.name=Totem Base
+tile.totemic:totem_pole.name=Totem Pole
+tile.totemic:cedar_sapling.name=Саженец красного кедра
+tile.totemic:cedar_leaves.name=Листва красного кедра
+tile.totemic:drum.name=Totemist Drum
+tile.totemic:drum.tooltip=Sneak and hit to use Selector Mode
+tile.totemic:wind_chime.name=Музыкальная подвеска
+tile.totemic:wind_chime.tooltip=Sneak and hit to use Selector Mode
+tile.totemic:totem_torch.name=Totem Torch
+tile.totemic:cedar_plank.name=Доски из красного кедра
+tile.totemic:stripped_cedar_log.name=Stripped Red Cedar Wood
+tile.totemic:tipi.name=Типи
+tile.totemic:totem_pole.noEffect=No effect
+
+#Entity localizations
+entity.totemic:buffalo.name=Бизон
+entity.totemic:baykok.name=Baykok
+entity.totemic:bald_eagle.name=Bald Eagle
+entity.Villager.totemist=Medicine Man
+
+#Potion effect localizations
+totemic.potion.bat=Bat
+totemic.potion.horse=Horse
+totemic.potion.spider=Spider
+
+# Creative Tab localizations
+itemGroup.totemic=Totemic
+
+#Config GUI localizations
+totemic.config.general=Общие
+totemic.config.general.tooltip=
+totemic.config.client=Клиентские
+totemic.config.client.tooltip=Options that have no effects on servers
+
+#Ceremony names
+totemic.ceremony.totemic:warDance=War Dance
+totemic.ceremony.totemic:depths=Symphony of the Depths
+totemic.ceremony.totemic:fertility=Ритуал весны
+totemic.ceremony.totemic:zaphkielWaltz=Вальс Запкиэля
+totemic.ceremony.totemic:buffaloDance=Танец бизона
+totemic.ceremony.totemic:rainDance=Rain Dance
+totemic.ceremony.totemic:drought=Drought Ceremony
+totemic.ceremony.totemic:flute=Serenade for Syrinx
+totemic.ceremony.totemic:eagleDance=Eagle Dance
+totemic.ceremony.totemic:cleansing=Steve's Lullaby
+totemic.ceremony.totemic:baykokSummon=Звон смерти
+totemic.ceremony.totemic:sunDance=Sun Dance
+totemic.ceremony.totemic:danseMacabre=Danse Macabre
+
+#Totem effect names
+totemic.totem.totemic:horse=Лошадь
+totemic.totem.totemic:squid=Спрут
+totemic.totem.totemic:blaze=Всполох
+totemic.totem.totemic:ocelot=Оцелот
+totemic.totem.totemic:bat=Летучая мышь
+totemic.totem.totemic:spider=Паук
+totemic.totem.totemic:cow=Корова
+totemic.totem.totemic:rabbit=Кролик
+totemic.totem.totemic:pig=Свинья
+totemic.totem.totemic:wolf=Волк
+totemic.totem.totemic:buffalo=Бизон
+totemic.totem.totemic:enderman=Эндермен
+
+#Music Instrument names
+totemic.instrument.totemic:flute=Флейта
+totemic.instrument.totemic:drum=Барабан
+totemic.instrument.totemic:windChime=Wind Chime
+totemic.instrument.totemic:jingleDress=Jingle Dress
+totemic.instrument.totemic:rattle=Трещотка
+totemic.instrument.totemic:eagleBoneWhistle=Eagle-Bone Whistle
+
+#Music values
+totemic.musicNeeded.none=No music required рќ„ђ
+
+totemic.musicNeeded.little= в™Є
+
+totemic.musicNeeded.littleMedium= в™Є в™Є
+
+totemic.musicNeeded.medium= в™Є в™Є в™Є
+
+totemic.musicNeeded.mediumLarge=в™Є в™Є в™Є в™Є
+
+totemic.musicNeeded.large=в™Є в™Є в™Є в™Є в™Є
+
+totemic.musicNeeded.crazyLarge=в™Є в™Є в™Є в™Є в™Є в™Є
+
+totemicmisc.musicSelector=Musical Selectors
+totemicmisc.tipi.cantSleep=You cannot sleep in a Tipi without being in the open fields
+totemicmisc.tipi.nether=You cannot sleep in the Nether
+totemicmisc.activeEffect=Active Totem Effect: %s
+totemicmisc.noEffect=None
+totemicmisc.startup=Starting up
+totemicmisc.activeCeremony=Active Ceremony
+totemicmisc.isDoingNoCeremony=The Totem Pole is not doing a Ceremony. Try playing instruments while sneaking to start one.
+totemicmisc.isDoingSelection=The Totem Pole is waiting for a Ceremony to be selected
+totemicmisc.selection=Selection: %s
+totemicmisc.isDoingStartup=The Totem Pole is doing a Ceremony startup
+totemicmisc.isDoingCeremony=The Totem Pole is doing a Ceremony effect
+totemicmisc.effectNotPortable=The effect %s cannot be carried in a Medicine Bag
+
+death.attack.totemic.sunDance=%1$s sacrificed themselves to the Sun God. This is not supposed to happen.
+
+#Waila tooltips
+totemic.waila.ceremonyStartup=Ceremony Startup: %s
+totemic.waila.ceremonyEffect=Ceremony Effect: %s
+
+#Totempedia Localisations
+totemic.gui.lexicon.header=Тотемпедия, руководство по всему Тотемическому.
+
+totemicmisc.clickToAdd=Add bookmark
+totemicmisc.back=Назад
+totemicmisc.clickToSee=Click to go to
+totemicmisc.shiftToRemove=Shift + ЛКМ для удаления
+totemicmisc.nextPage=След. страница
+totemicmisc.prevPage=Пред. страница
+totemicmisc.bookmark=Bookmark
+totemicmisc.clickToIndex=Shift + ЛКМ для возврата на главную
+totemicmisc.clickToRecipe=Shift + ЛКМ для просмотра рецепта
+totemicmisc.shapeless=Shapeless
+totemicmisc.oredict=Ore Dictionary
+totemic.gui.lexicon.wip=Work In Progress
+
+totemic.category.basics=Тотемические основы
+totemic.category.devices=Устройства
+totemic.category.tools=Инструменты
+totemic.category.misc=Разное
+totemic.category.lore=Lore
+totemic.category.totems=Тотемы и эффекты
+totemic.category.ceremonies=Церемонии
+totemic.category.instruments=Музыкальные инструменты
+
+totemic.entry.melody=Мелодия
+totemic.page.melody0=§4Мелодия§0 - это магическая сила, высвобождаемая §4Инструментами§0, на которых Вы сыграли. Каждый §1Инструмент§0 имеет §4Мелодийный предел§0, это означает, что из одного §4Инструмента§0 может быть высвобождено лишь определённое количество §4Мелодии§0 для какого-то конкретного эффекта. Возможно в будущем, эта §4Мелодия§0 будет взаимодействовать и с другими предметами в мире.
+
+totemic.entry.cedarTree=Красный кедр
+totemic.page.cedarTree0=§1Красный кедр§0 - это дерево, от природы обладающее способностями, которые пригодятся в Тотемических целях. Его можно получить, наполнив обычные саженцы музыкальной энергией при помощи церемонии "§4Ритуал весны§0". §1Древесина красного кедра§0 имеет те же свойства и применяется в тех же рецептах, что и стандартная древесина.
+totemic.page.cedarTree1=Кроме того, Вы можете снять с неё кору при помощи §4Сдирателя коры§0, чтобы более эффективно использовать её возможности. <br>Ну и наконец, её можно использовать для создания некоторых инструментов, таких как §1Музыкальная подвеска§0 или §1Звенящее платье§0.
+
+totemic.entry.buffaloBasic=Бизоны
+totemic.page.buffaloBasic0=Могучие бизоны, животные, известные миру за все те ресурсы, которые с них можно получить. Они невероятно сильны и имеют очень большое количество здоровья. Из-за охоты они стали почти вымершим видом, но их всё ещё можно "создать" при помощи церемонии §4Танец бизона§0.
+totemic.page.buffaloBasic1=
+
+totemic.entry.creatingTotems=§oТотемный столб
+totemic.page.creatingTotems0=Создание §4Тотемного столба§0 - задача очень простая. Для начала Вам нужно изготовить §1Нож для вырезания тотемов§0, инструмент, способный создавать §4Тотемные столбы§0 из любого вида древесины. На этих §4столбах§0 он может вырезать различные изображения, каждое из которых даёт какие-то эффекты. Нажав ПКМ или прокрутив колёсико мыши во время удержания
+totemic.page.creatingTotems1=клавиши Shift, Вы измените изображение, которое будет вырезано. Этот нож также нужен для того, чтобы вырезать §1Основу тотема§0. Она должна находиться в самом низу каждого тотемного столба, высота же столба может достигать 6 метров. Тотемные столбы будут автоматически накладывать полезные §4эффекты§0 всем игрокам поблизости. Эффекты зависят от вырезанных на столбе изображений.
+totemic.page.creatingTotems2= На разной высоте столба могут находиться разные изображения.
+
+totemic.entry.totemEffects=Totem Effects
+totemic.page.totemEffects0=These are the different effects you can carve on a Totem pole:<br>В§1BatВ§0: Negates fall damage and lets you jump further when you sneak mid-air<br>В§1BlazeВ§0: Gives you Fire Resistance<br>В§1BuffaloВ§0: Makes you mine faster
+totemic.page.totemEffects1=В§1CowВ§0: Gives you resistance to damage, but also slows you down<br>В§1EndermanВ§0: Gives you night vision<br>В§1HorseВ§0: Gives you a speed boost<br>В§1OcelotВ§0: Prevents Creepers from exploding<br>В§1PigВ§0: Brings you good luck
+totemic.page.totemEffects2=В§1RabbitВ§0: Gives you a jump boost<br>В§1SpiderВ§0: Lets you climb walls like a spider<br>В§1SquidВ§0: Gives you Water Breathing<br>В§1WolfВ§0: Gives you strength
+
+totemic.entry.medicineBag=Medicine Bag
+totemic.page.medicineBag0=The В§1Medicine BagВ§0 allows you to carry a В§4Totem EffectВ§0 with you, so you can use its benefits for a limited time without having to be near a Totem Pole.<br>Once you have crafted your Medicine Bag, Sneak+Right click it on a Totem Pole block carved with the effect you want to have. Then you can right click the bag to open it and release its effect, or to close it.
+totemic.page.medicineBag1=The Medicine Bag will last for a few minutes before it depletes. To charge it, just stand near a В§1Totem PoleВ§0 that has your bag's effect carved into it.
+totemic.page.medicineBag2=
+
+totemic.entry.instruments=В§oInstruments
+totemic.page.instruments0=Instruments are a way to create В§4MelodyВ§0, the life of В§1Totem PolesВ§0. When an instrument is played, their melody will seep into a nearby В§1Totem PolesВ§0. Every instrument produces В§4MelodyВ§0 in different ways. Along that, each instrument has a different amount of В§4MelodyВ§0 that a В§4CeremoniesВ§0 may be able to accept, meaning that many different В§4InstrumentsВ§0 are needed for effective use.
+
+totemic.entry.windChime=Wind Chime
+totemic.page.windChime0=The В§1Wind ChimeВ§0 is an instrument that will wave in the wind and periodically produce В§4MelodyВ§0. The В§1Wind ChimeВ§0 cannot have any blocks below it, and must be hanging from a block above it. While the В§1Wind ChimeВ§0 does not create a large amount of В§4MelodyВ§0, it does not require any intervention by players. It is recommended that only one В§1Wind ChimeВ§0 hangs near a В§1Totem PoleВ§0 at once.
+totemic.page.windChime1=It is not rare to see В§1Wind ChimesВ§0 hanging from the branches of leaves, there have even been rumours that it could make them create more В§4MelodyВ§0. When the В§1Wind ChimeВ§0 is playing, it will shake vigorously and create В§1MelodyВ§0. Because the music from the В§1Wind ChimeВ§0 is so easy to come by, the В§4Melody ThresholdВ§0 is easily reached. Hitting a В§1Wind ChimeВ§0 whilst В§4SneakingВ§0 will make it play in В§4Selector ModeВ§0.
+totemic.page.windChime2=
+
+totemic.entry.drum=Drum
+totemic.page.drum0=The В§1DrumВ§0 is an instrumental block that can be played by simply bashing it with either fist. All В§1TotemistsВ§0 should learn the rhythm which is used when a В§1FluteВ§0 and a В§1DrumВ§0 are being played together, as it may be required for early В§1CeremoniesВ§0.
+totemic.page.drum1=It is recommended to have a few В§1DrumsВ§0 around a В§1Totem PoleВ§0 in order to be able alternatively play them. As with most instruments, В§4sneakingВ§0 when playing it will allow you to select a В§4CeremonyВ§0.
+totemic.page.drum2=
+
+totemic.entry.jingleDress=Jingle Dress
+totemic.page.jingleDress0=The В§1Jingle DressВ§0. One of the most prestigious pieces of clothing available for any В§4TotemistsВ§0. It is a leaf dress adorned with bells. Running will create В§4MelodyВ§0, they say the faster you run the more it creates, and a speed potion increases it even further! Perhaps its effect could be activated by running in between В§1DrumВ§0 beats.
+totemic.page.jingleDress1=Because the effect of this В§1InstrumentВ§0 is fairly passive, it does not create much В§4MelodyВ§0, and its В§4Melody ThresholdВ§0 is easily reached. Interestingly enough, it seems like the В§4Jingle DressВ§0 is one of the few В§4InstrumentsВ§0 that cannot be used as a В§4Ceremony SelectorВ§0.
+totemic.page.jingleDress2=
+totemic.page.jingleDress3=
+
+totemic.entry.flute=Flute
+totemic.page.flute0=Sometimes a В§1FluteВ§0 can be one of the most simple and effective instruments available. Unlike other instruments, the В§1FluteВ§0 simply plays music without any complication. Because of its simplicity, it is not known to be the most melodic instrument, meaning it will not create much В§4MelodyВ§0, and its В§4Melody ThresholdВ§0 will be reached easily. When В§4sneakingВ§0, it can be used to select a В§4CeremonyВ§0 for any nearby В§4Totem PolesВ§0.
+totemic.page.flute1=The В§1FluteВ§0 can be infused in the В§4Serenade for SyrinxВ§0, giving it special properties.
+totemic.page.flute2=
+
+totemic.entry.rattle=Rattle
+totemic.page.rattle0=The В§1Ceremonial RattleВ§0 is an В§4InstrumentВ§0 which is a backbone of any more advanced В§4CeremoniesВ§0. The В§1RattleВ§0 produces В§4MelodyВ§0 whenever it has been shook with the hand.<br>It can be used in dual wield: if you hold the Rattle in your right hand, you can have another instrument in your left hand and play both at the same time by alternatively using the instruments.
+totemic.page.rattle1=Like all В§4InstrumentsВ§0, it can be played while В§4sneakingВ§0 so as to activate В§4CeremoniesВ§0.
+totemic.page.rattle2=
+
+totemic.entry.eagleBoneWhistle=Eagle-Bone Whistle
+totemic.page.eagleBoneWhistle0=The В§1Eagle-Bone WhistleВ§0 is made from the bones of a В§4Bald EagleВ§0, and as such it is very powerful. It is a necessity for more advanced В§4CeremoniesВ§0, and is actually considered more of a ceremonial object than an В§4InstrumentВ§0.
+totemic.page.eagleBoneWhistle1=
+
+totemic.entry.netherPipe=Netherumbrian Pipes
+totemic.page.netherPipe0=The В§1Netherumbrian PipesВ§0 are one of the most curious instruments of them all. Although a truly vile creation, it has many uses for a Totemist. Charging it up like you would a bow makes its bellows draw in air, and after releasing all of its fumes, the В§1Netherumbrian PipesВ§0 will drain the life of all nearby crops. After draining their life, it will release a large amount of В§4MelodyВ§0. What's interesting about these set of is that they will give
+totemic.page.netherPipe1=off their maximum amount of music within a few plays. Do not take that lightly however, as each play creates several times more music than any other instrument. After crafting, an activation is required. To do this, simply take damage from wither effects with the В§1Netherumbrian PipesВ§0 in hand. Interestingly enough, it seems to prefer the life essence of Nether Wart.
+totemic.page.netherPipe2=        Soft and sweet
+
+totemic.entry.basicsCeremonies=В§oBasics of Ceremonies
+totemic.page.basicsCeremonies0=В§4CeremoniesВ§0 are a way for a Totemist to gather strength over a period of time through the power of В§4MelodyВ§0 to release a central burst of energy on both players and the nearby world. The center of a Ceremony is a В§1Totem BaseВ§0 and it also is where the effects of a Ceremony are released from. Ceremonies are powered by the В§4MelodyВ§0 that is released from В§4InstrumentsВ§0 when they are played.
+totemic.page.basicsCeremonies1=There are two main points in a Ceremony, the first being В§4SelectionВ§0, and the second being the В§4Ceremony EffectsВ§0.
+
+totemic.entry.selectingCeremonies=В§oSelecting Ceremonies
+totemic.page.selectingCeremonies0=In order to select which В§4CeremonyВ§0 you wish to activate, a specific task must be complete. Any В§4InstrumentsВ§0 played whilst В§4SneakingВ§0 will play in their В§4Selector ModeВ§0, and will not release any В§4MelodyВ§0 as they would normally. A combination of two В§4InstrumentsВ§0 in В§4Selector ModeВ§0 will start a Ceremony depending on which were played. For example, using the В§1FluteВ§0 in selector mode twice will activate the В§4Serenade of the DepthsВ§0.
+totemic.page.selectingCeremonies1=
+
+totemic.entry.performingCeremonies=В§oPerforming Ceremonies
+totemic.page.performingCeremonies0=Once a В§4CeremonyВ§0 has been selected, the В§4startupВ§0 will initiate. While it is in this stage, the В§1Totem PoleВ§0 will accept any played В§1MelodyВ§0 and store it. In order for a Ceremony effect to activate, a certain amount of В§4MelodyВ§0 is required depending on how difficult the Ceremony is. This difficulty is represented by how many в™Є there are in its entry in this book. When the В§4Melody RequirementВ§0 for the Ceremony is reached, it will activate.
+totemic.page.performingCeremonies1=Each В§4InstrumentВ§0 can only be played up to a certain point, meaning a Ceremony could not be played with just one В§4InstrumentВ§0. This is known as the В§4Melody ThresholdВ§0. Any smoke that emits from the В§1Totem BaseВ§0 will signify that the most recently played В§4InstrumentВ§0 has reached its В§4Melody ThresholdВ§0 for that Ceremony, and the user should stop using that specific В§4InstrumentВ§0 for the rest of the Ceremony.
+totemic.page.performingCeremonies2=Additionally, there is a limited amount of time to complete a Ceremony, meaning playing speed is important. After you have created enough В§4MelodyВ§0, the Ceremony will begin performing its effects. Some Ceremonies have instant effects, others will last over a certain amount of time after the effect initially starts. It should be noted that the effects can only pertain for a certain amount of time, and will stop after that time has elapsed.
+totemic.page.performingCeremonies3=Finally, there should be care taken with the timing between playing В§4InstrumentsВ§0, in order to complete a Ceremony efficiently, a rhythm between instruments may be important. Because of that, it is recommended that a В§4TotemistВ§0 spends some time getting used to the rhythms of certain В§4InstrumentsВ§0.
+
+totemic.entry.warDance=War Dance
+totemic.page.warDance0=The В§4War Dance CeremonyВ§0 is a Ceremony that will heighten your senses for an incoming war and bring the adrenalin to your entire body. After performing it, the В§4CeremonyВ§0 will bring the user Speed and Strength for a long period of time time, allowing them to rush to battle.
+totemic.page.warDance1=В§oA convoluted game of chessВ§r
+
+totemic.entry.depths=Symphony of the Depths
+totemic.page.depths0=The В§4Symphony of the DepthsВ§0, along with the В§4War DanceВ§0 are some of the most basic and mundane В§4CeremoniesВ§0 of all. The effect of this В§4CeremonyВ§0 is as simple as it is to perform, any nearby players will be blessed with a В§4Water BreathingВ§0 effect for a few minutes.
+totemic.page.depths1=В§oMoon RiverВ§r
+
+totemic.entry.fertility=Ритуал весны
+totemic.page.fertility0=§4Ритуал весны§0 - это один из многих ритуалов, связанных с ростом и плодородием, что доступны Тотемисту. После его активации все животные поблизости будут размножаться один за другим. Наряду с этим, все ближайшие саженцы превратятся в §1Саженцы красного кедра§0.
+totemic.page.fertility1=§oЛюбимая, которую не нужно любить§r
+
+totemic.entry.zaphkielWaltz=Вальс Запкиэля
+totemic.page.zaphkielWaltz0=§4Вальс Запкиэля§0 - это §4ритуал§0 роста и плодородия, влияющий на близлежащие посевы. На короткое время все растения поблизости начнут расти гораздо быстрее обычного. Кроме того, из всех §1Яиц§0 в его радиусе с бóльшим шансом будут вылупляться §4КурицыВ§0, чем если бы Вы просто кинули их.
+totemic.page.zaphkielWaltz1=§oГотически изящно§r
+
+totemic.entry.buffaloDance=Танец бизона
+totemic.page.buffaloDance0=Раньше эти звери бродили по земле большими стадами, но задолго до того, как Вы пришли в этот мир, они погибли при загадочных обстоятельствах. Но не всё потеряно. Ритуал §4Танец бизона§0 способен наделить коров поблизости силой и превратить их в бизонов, хоть и слабее тех, что существовали когда-то давно.
+totemic.page.buffaloDance1=§oСтарайтесь не пользоваться красными тряпками§r
+
+totemic.entry.rainDance=Rain Dance Ceremony
+totemic.page.rainDance0=The В§4Rain Dance CeremonyВ§0 is a way for you to bring a torrent of rain into the world. If the rain becomes too much to bare, the В§4Drought CeremonyВ§0 is always available, which will remove all rain. Because the effects of this В§4CeremonyВ§0 are so potent, it may be hard to perform.
+totemic.page.rainDance1=В§oLike a PolitoedВ§r.
+
+totemic.entry.drought=Drought Ceremony
+totemic.page.drought0=The В§4Drought CeremonyВ§0 will clear the sky and end any storms that may be plaguing your world. It is simply the opposite of the В§4Rain Dance CeremonyВ§0.
+totemic.page.drought1=В§oNinetails, Not Kurama!В§r
+
+totemic.entry.fluteInfusion=Serenade for Syrinx
+totemic.page.fluteInfusion0=The В§4Serenade for SyrinxВ§0 is a way to enchant a regular В§1FluteВ§0 with melodic energy, giving it special properties. Nearby flutes in your inventory or on the ground will be infused with Totemic energy, becoming В§1Pan's FluteВ§0. The timbre of her Flute is quite more beautiful than that of a mundane one, meaning it produces more В§4MelodyВ§0 and works better with В§4Totem PolesВ§0.
+totemic.page.fluteInfusion1=In addition, nearby В§1AnimalsВ§0 and В§1VillagersВ§0 will be completely and utterly unable to resist the melody, and will follow you if you play the flute.
+totemic.page.fluteInfusion2=В§oHide in the Sugar CaneВ§r
+
+totemic.entry.eagleDance=Eagle Dance
+totemic.page.eagleDance0=The В§1Bald EagleВ§0 is a sacred bird, some say they are spiritual messengers between humans and gods. Its feathers and bones are important ceremonial items and are used to make the В§1Eagle-Bone WhistleВ§0.<br>Since they have gone almost extinct, they are not found in the wild; similarly to Buffalos they have to be created by the В§4Eagle DanceВ§0 Ceremony. This Ceremony will infuse
+totemic.page.eagleDance1=nearby В§1ParrotsВ§0 and turn them into Bald Eagles. Once transformed, they can be tamed with any kind of raw fish and bred with Salmon.
+totemic.page.eagleDance2=В§oWelcome to 'Murica!В§r
+
+totemic.entry.cleansing=Steve's Lullaby
+totemic.page.cleansing0=В§4Steve's LullabyВ§0 is such a beautiful and cleansing piece that it is able to calm down, and remove the evil properties of a few select monsters in the world. В§4Zombie VillagersВ§0 will become their living counterpart. The same will occur for В§4Zombie PigmenВ§0, becoming regular В§4PigsВ§0. Only a few monsters will be affected per activation, and they need to have been В§4weakenedВ§0 by a potion effect first.
+totemic.page.cleansing1=В§oDon't tell Brahms!В§r
+
+totemic.entry.baykokSummon=Звон смерти
+totemic.page.baykokSummon0=§4Звон смерти§0 - это ритуал, который способен призвать духа, известного как §1Байкок§0. Не пытайтесь проводить этот ритуал до тех пор, пока не будете хорошо экипированы для битвы. §1Байкок§0 - злой дух, что появляется в виде скелетообразного существа. Он безжалостен к врагам и является мастером стрельбы из лука, атакуя противников невидимыми стрелами.
+totemic.page.baykokSummon1=Если Вам удастся победить §1Байкока§0, то помимо прочей добычи Вы получите его лук. Любые §1стрелы§0, выпущенные из §1Лука Байкока§0, будут видимы только владельцу. Кроме того, он намного сильнее обычного лука и имеет большую §4Восприимчивость к зачарованиям§0.
+totemic.page.baykokSummon2=§oТебя ждут тяжёлые времена§r
+
+totemic.entry.sunDance=Sun Dance
+totemic.page.sunDance0=The В§4Sun DanceВ§0 is one of the most sacred Ceremonies, and also the most painful one to perform: You will be faced with a В§1near-death experienceВ§0. If you pull through, you and everyone nearby will be healed and protected from damage for a while.<br>The Sun Dance will not reduce your health below half a heart.
+totemic.page.sunDance1=В§oKneeling, my god is the sunВ§r
+
+totemic.entry.danseMacabre=Danse Macabre
+totemic.page.danseMacabre0=The В§4Danse MacabreВ§0 is probably the most deceptive В§4CeremonyВ§0 of them all. All nearby В§1Rotten FleshВ§0 on the ground will transform into very, very dangerous В§4ZombiesВ§0. Whilst this may seem like a downside, there is a decent chance that the creation will instead be a В§4Zombie VillagersВ§0. Interestingly enough, if performed in the В§1NetherВ§0 it seems like a different monster will spawn in the world instead.
+totemic.page.danseMacabre1=These effects effectively mean that В§1Rotten FleshВ§0 can be converted into В§4Experience PointsВ§0, or if it is combined with В§4Steve's LullabyВ§0, it will be able to create В§4VillagersВ§0.
+totemic.page.danseMacabre2=В§oNovember Spawned a MonsterВ§r
+
+totemic.entry.totemicStaff=Totemic Staff
+totemic.page.totemicStaff0=The В§1Totemic StaffВ§0 can be used to gather information on several blocks by right clicking on them.<br>In addition, holding one whilst left-clicking a Totem Base will cancel ceremonies, and any musical selections on it.
+totemic.page.totemicStaff1=В§oNo resemblance to wrenchesВ§r
+
+totemic.entry.barkStripper=Bark Stripper
+totemic.page.barkStripper0=The В§1Bark StripperВ§0 is a way for you to remove the bark from your В§1Red Cedar LogsВ§0 and reveal stripped wood from the tree. To do so, just hold the В§1Bark StripperВ§0 in your hand, and right click on the log, after a few seconds it will finish stripping the bark from the log, revealing the stripped log.
+totemic.page.barkStripper1=The В§1Red Cedar Stripped LogВ§0 can be crafted into planks at a more efficient rate, and can be put in a furnace to create charcoal.<br>Red Cedar Stripped Logs that are left on grass will slowly regrow their bark after a while.
+totemic.page.barkStripper2=
+
+#TODO
+#totemic.page.barkStripper0=The В§1Bark StripperВ§0 is a way for you to collect the bark from your В§1Red Cedar LogsВ§0 and reveal stripped wood from the tree. To do so, just hold the В§1Bark StripperВ§0 in your hand, and right click on the log, after a few seconds it will finish stripping the bark from the log, revealing the stripped log and creating the bark.
+#totemic.page.barkStripper1=There are many uses for both the bark and the stripped log. The В§1Red Cedar Stripped LogВ§0 can be crafted into planks at a more efficient rate, and can be put in a furnace to create charcoal, while the bark is a crafting component for some blocks and items, usually to reinforce items.
+
+totemic.entry.baykokBow=Baykok's Bow
+totemic.page.baykokBow0=В§1Baykok's BowВ§0 is a powerful bow that can only be obtained by slaying the spirit В§1BaykokВ§0. В§1BaykokВ§0 can be summoned with the В§4Chimes of DeathВ§0 Ceremony.<br>Arrows fired from this bow deal more damage, and non-tipped arrows will become invisible to anyone but you. The bow also has a higher В§4EnchantabilityВ§0, and is more durable than a mundane bow.
+
+totemic.entry.tipi=Tipi
+totemic.page.tipi0=The В§1TipiВ§0 is cone shaped tent which can be used to sleep through the night. It consists of a wooden frame, adorned with a tarp consisting of either Buffalo hide or textile. It can be placed on top of a flat surface of grass or dirt, and requires an open sky to be used.
+totemic.page.tipi1=
+totemic.page.tipi2=
+
+totemic.entry.totemTorch=Totem Torch
+totemic.page.totemTorch0=The В§1Totem TorchВ§0 is simply a larger and more decorative version of a regular torch.
+totemic.page.totemTorch1=

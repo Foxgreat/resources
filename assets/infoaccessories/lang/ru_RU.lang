@@ -1,0 +1,14 @@
+#Items
+item.infoaccessories.info.accessory.stopwatch.name=Секундомер
+item.infoaccessories.info.accessory.sextant.name=Sextant
+item.infoaccessories.info.accessory.depth.meter.name=Измеритель высоты
+item.infoaccessories.info.accessory.debugger.name=Дебаггер
+item.infoaccessories.info.accessory.slimey.compass.name=Slimey Compass
+item.infoaccessories.info.accessory.calendar.name=Календарь
+item.infoaccessories.info.accessory.biomealyzer.name=Анализатор биомов
+item.infoaccessories.info.accessory.chunker.name=Chunker
+item.infoaccessories.info.accessory.dps.monitor.name=DPS Meter [WIP]
+item.infoaccessories.info.accessory.structure.name=Structure [WIP]
+#Translated by TimeConqueror
+#Tooltip
+tooltip.infoaccessories.lack.item=Предмет должен находиться в Вашем инвентаре!

@@ -1,0 +1,9 @@
+enchantment.oreexcavation=Выкапывание
+#Translated by TimeConqueror
+# Items
+item.oeintegration.excavatemodifier.name=Модификатор выкапывания
+
+# modifiers names
+modifier.oreexcavate.name=Выкапывание
+# desc
+modifier.oreexcavate.desc=Позволяет использовать этот инструмент с модом OreExcavation

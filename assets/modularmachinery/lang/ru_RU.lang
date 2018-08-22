@@ -1,0 +1,152 @@
+itemGroup.modularmachinery=Modular Machinery
+#Translated by TimeConqueror
+command.modularmachinery.syntax=/mm-syntax
+command.modularmachinery.hand=/mm-hand
+command.modularmachinery.hand.empty=Please hold an item to get the data from.
+
+gui.controller.blueprint=Найденный чертёж: %s
+gui.controller.blueprint.none=Отсутствует
+gui.controller.structure=Найденная структура: %s
+gui.controller.structure.none=Отсутствует
+gui.controller.status=Статус:
+gui.controller.status.redstone_stopped=Machine stopped by incoming redstone signal
+gui.controller.status.missing_structure=Отсутствует структура
+gui.controller.status.no_recipe=No matching recipe found
+gui.controller.status.no_energy=Missing energy to continue processing
+gui.controller.status.crafting=Processing...
+gui.controller.status.crafting.progress=Прогресс: %s
+
+gui.blueprint.popout.info=Нажмите Shift, чтобы заморозить текущую картинку с блоками и отобразить её в мире.
+gui.blueprint.popout.place=Чтобы прикрепить отображение в мире, нажмите ПКМ. Чтобы его убрать, либо далеко отойдите, либо откройте другое отображение (чертёж).
+
+jei.category.preview=Structure Preview
+
+message.structurebuild.confirmrotation=Controller is facing %s
+message.structurebuild.confirmrotation.rotating=Rotating structure for saving by %s degrees...
+message.structurebuild.empty=You have nothing selected to save.
+message.structurebuild.warndedicated=You're saving the machine on a dedicated server! Be sure to download it from the server!
+message.structurebuild.save=Machine saved as %s in the machinery directory!
+message.structurebuild.fail=Failed to save the machine to a file! Check the log for more information!
+
+tooltip.machinery.empty=Empty
+tooltip.machinery.fuel=Accepts any fuel.
+tooltip.machinery.fuel.item=BurnTime: %s
+tooltip.machinery.fuel.in=Required total Fuel Burntime:
+tooltip.machinery.fuel.in.total=%s ticks.
+tooltip.machinery.blueprint.required=Requires Blueprint
+tooltip.machinery.blueprint.upgrades=Upgrades
+tooltip.machinery.duration=Processing Time: %s ticks
+tooltip.machinery.chance.in=Consumption Chance: %s
+tooltip.machinery.chance.out=Production Chance: %s
+tooltip.machinery.chance.in.never=Doesn't get consumed.
+tooltip.machinery.chance.out.never=Is never produced.
+tooltip.machinery.energy.in=Required Energy:
+tooltip.machinery.energy.in.tick=Per Tick: %s FE/t
+tooltip.machinery.energy.in.total=Total: %s FE
+tooltip.machinery.energy.out=Produced Energy:
+tooltip.machinery.energy.out.tick=Per Tick: %s FE/t
+tooltip.machinery.energy.out.total=Total: %s FE
+
+tooltip.constructtool.creative=Creative Structure-To-JSON Tool
+
+tooltip.itembus.slot=1 Slot
+tooltip.itembus.slots=%s Slots
+
+tooltip.fluidhatch.empty=Empty
+tooltip.fluidhatch.fluid=[Fluid]
+tooltip.fluidhatch.gas=[Gas]
+tooltip.fluidhatch.tank=%smb / %smb
+tooltip.fluidhatch.tank.gas=%s / %s
+tooltip.fluidhatch.tank.info=Can hold %s mb
+tooltip.fluidhatch.tank.mek=Accepts Mekanism Gas
+
+tooltip.energyhatch.charge=%s / %s Energy
+tooltip.energyhatch.storage=Stores %s FE
+tooltip.energyhatch.out.transfer=Transfers %s FE per tick
+tooltip.energyhatch.in.accept=Accepts %s FE per tick
+
+tooltip.energyhatch.ic2.powerrate=EU/t
+tooltip.energyhatch.ic2.any=Any
+tooltip.energyhatch.ic2.out.voltage=Output Voltage: %s
+tooltip.energyhatch.ic2.out.transfer=Output Transfer: %s %s
+tooltip.energyhatch.ic2.in.voltage=Input Voltage: %s
+tooltip.energyhatch.ic2.in.transfer=Input Transfer: %s %s
+
+tooltip.ic2.powertier.0.name=ULV
+tooltip.ic2.powertier.1.name=LV
+tooltip.ic2.powertier.2.name=MV
+tooltip.ic2.powertier.3.name=HV
+tooltip.ic2.powertier.4.name=EV
+tooltip.ic2.powertier.5.name=IV
+tooltip.ic2.powertier.6.name=LuV
+tooltip.ic2.powertier.7.name=ZPM
+tooltip.ic2.powertier.8.name=UV
+tooltip.ic2.powertier.9.name=UHV
+tooltip.ic2.powertier.10.name=UEV
+tooltip.ic2.powertier.11.name=UIV
+tooltip.ic2.powertier.12.name=UXV
+
+item.itemblueprint.name=Чертёж машины
+item.itemmodularium.name=Модуларий
+item.itemconstructtool.name=Construct Selection Tool
+
+tile.blockcontroller.name=Контроллер машины
+
+tile.blockcasing.plain.name=Машинный корпус
+tile.blockcasing.vent.name=Machine Vent
+tile.blockcasing.firebox.name=Firebox Casing
+tile.blockcasing.gearbox.name=Machine Gearbox
+tile.blockcasing.reinforced.name=Укреплённый Machine Casing
+tile.blockcasing.circuitry.name=Machine Circuitry
+
+tile.blockinputbus.tiny.name=Крошечный предметный вход
+tile.blockinputbus.small.name=Маленький предметный вход
+tile.blockinputbus.normal.name=Обычный предметный вход
+tile.blockinputbus.reinforced.name=Укреплённый предметный вход
+tile.blockinputbus.big.name=Большой предметный вход
+tile.blockinputbus.huge.name=Огромный предметный вход
+tile.blockinputbus.ludicrous.name=Абсурдный предметный вход
+
+tile.blockoutputbus.tiny.name=Крошечный предметный выход
+tile.blockoutputbus.small.name=Маленький предметный выход
+tile.blockoutputbus.normal.name=Обычный предметный выход
+tile.blockoutputbus.reinforced.name=Укреплённый предметный выход
+tile.blockoutputbus.big.name=Большой предметный выход
+tile.blockoutputbus.huge.name=Огромный предметный выход
+tile.blockoutputbus.ludicrous.name=Абсурдный предметный выход
+
+tile.blockfluidinputhatch.tiny.name=Крошечный входной шлюз для жидкости
+tile.blockfluidinputhatch.small.name=Маленький входной люк для жидкости
+tile.blockfluidinputhatch.normal.name=Обычный входной люк для жидкости
+tile.blockfluidinputhatch.reinforced.name=Укреплённый входной люк для жидкости
+tile.blockfluidinputhatch.big.name=Большой входной люк для жидкости
+tile.blockfluidinputhatch.huge.name=Огромный входной люк для жидкости
+tile.blockfluidinputhatch.ludicrous.name=Абсурдный входной люк для жидкости
+tile.blockfluidinputhatch.vacuum.name=Вакуумный входной люк для жидкости
+
+tile.blockfluidoutputhatch.tiny.name=Крошечный выходной шлюз для жидкости
+tile.blockfluidoutputhatch.small.name=Маленький выходной шлюз для жидкости
+tile.blockfluidoutputhatch.normal.name=Обычный выходной шлюз для жидкости
+tile.blockfluidoutputhatch.reinforced.name=Укреплённый выходной шлюз для жидкости
+tile.blockfluidoutputhatch.big.name=Большой выходной шлюз для жидкости
+tile.blockfluidoutputhatch.huge.name=Огромный выходной шлюз для жидкости
+tile.blockfluidoutputhatch.ludicrous.name=Абсурдный выходной шлюз для жидкости
+tile.blockfluidoutputhatch.vacuum.name=Вакуумный выходной шлюз для жидкости
+
+tile.blockenergyinputhatch.tiny.name=Крошечный входной энергетический люк
+tile.blockenergyinputhatch.small.name=Маленький входной энергетический люк
+tile.blockenergyinputhatch.normal.name=Обычный входной энергетический люк
+tile.blockenergyinputhatch.reinforced.name=Укреплённый входной энергетический люк
+tile.blockenergyinputhatch.big.name=Big входной энергетический люк
+tile.blockenergyinputhatch.huge.name=Huge входной энергетический люк
+tile.blockenergyinputhatch.ludicrous.name=Абсурдный входной энергетический люк
+tile.blockenergyinputhatch.ultimate.name=Совершенный входной энергетический люк
+#Translated by TimeConqueror
+tile.blockenergyoutputhatch.tiny.name=Крошечный выходной энергетический люк
+tile.blockenergyoutputhatch.small.name=Маленький выходной энергетический люк
+tile.blockenergyoutputhatch.normal.name=Обычный выходной энергетический люк
+tile.blockenergyoutputhatch.reinforced.name=Укреплённый выходной энергетический люк
+tile.blockenergyoutputhatch.big.name=Большой выходной энергетический люк
+tile.blockenergyoutputhatch.huge.name=Огромный выходной энергетический люк
+tile.blockenergyoutputhatch.ludicrous.name=Абсурдный выходной энергетический люк
+tile.blockenergyoutputhatch.ultimate.name=Совершенный выходной энергетический люк

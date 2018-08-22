@@ -1,0 +1,58 @@
+#Blocks (Translated by TimeConqueror)
+tile.primal_tech.clay_kiln.name=Глиняная печь для обжига
+tile.primal_tech.flint_block.name=Блок кремня
+tile.primal_tech.stick_bundle.name=Связка палок
+tile.primal_tech.fibre_torch.name=Незажжённый факел из волокон
+tile.primal_tech.fibre_torch_lit.name=Зажжённый факел из волокон
+tile.primal_tech.charcoal_block.name=Низкосортный древесный уголь
+tile.primal_tech.work_stump.name=Рабочий пенёк
+tile.primal_tech.work_stump_upgraded.name=Рабочий пенёк Mk2
+tile.primal_tech.stone_grill.name=Каменная решётка-гриль
+tile.primal_tech.wooden_hopper.name=Древоронка Mk2 :P
+tile.primal_tech.charcoal_hopper.name=Обжаренная в пламени древоронка
+tile.primal_tech.water_saw.name=Работающая на воде пила
+tile.primal_tech.stone_anvil.name=Каменная наковальня
+tile.primal_tech.leaf_bed.name=Кровать из соломы и листьев
+tile.primal_tech.wooden_basin.name=Деревянный таз
+
+#Items
+item.primal_tech.fire_sticks.name=Строганные палки для розжига
+item.primal_tech.bone_pickaxe.name=Костяная кирка
+item.primal_tech.bone_axe.name=Костяной топор
+item.primal_tech.bone_shovel.name=Костяная лопата
+item.primal_tech.bone_sword.name=Костяной меч
+item.primal_tech.bone_knife.name=Костяной нож
+item.primal_tech.bone_shard.name=Осколок кости
+item.primal_tech.plant_fibres.name=Растительные волокна
+item.primal_tech.twine.name=Бечёвка
+item.primal_tech.bone_shears.name=Костяные ножницы
+item.primal_tech.rock.name=Ремесленный камень
+item.primal_tech.wood_club.name=Деревянная дубинка
+item.primal_tech.stone_club.name=Каменная дубинка
+item.primal_tech.bone_club.name=Костяная дубинка
+item.primal_tech.flint_edged_disc.name=Работающее на воде лезвие пилы
+item.primal_tech.fluid_bladder.name=Мягкий резервуар для жидкости
+item.primal_tech.stone_mallet.name=Каменный молот
+item.primal_tech.leaf_bed.name=Кровать из соломы и листьев
+
+#Creative Tab
+itemGroup.primal_tech=Primal Tech
+
+#Tool Tips
+tooltip.fire_sticks_1=Держите их в обоих руках и кликайте ПКМ по блоку.
+tooltip.fire_sticks_2=Зажигают огонь на блоке, на который Вы смотрите. Одноразовые.
+tooltip.mallet_1=Им нужно бить по Каменной наковальне. Просто очищенный камень на палочке.
+tooltip.clubs=Оригинальный мульти-инструмент. Разрушает блоки и разбивает черепа.
+tooltip.leaf_bed=Разрушится, если Вы попытаетесь сломать её после того, как поставили.
+tooltip.clay_kiln=Необходим блок огня снизу для достижения рабочей температуры. Обжигает блоки по одному.
+tooltip.stick_bundle=Нажимайте по ней обычными палками до воспламенения.
+tooltip.charcoal_block=Будет поддерживать горящий над ним огонь. Может использоваться как топливо.
+tooltip.work_stump=Может хранить один предмет в каждом слоте. Бейте по нему Ремесленным камнем до тех пор, пока не завершится рецепт. Имеет отверстие для хранения Ремесленного камня.
+tooltip.stone_grill=Маленькая печь. Требует снизу блок огня.
+tooltip.wooden_hopper=Воронка с четырьмя слотами, сделанная из дерева.
+tooltip.charcoal_hopper=Можно поставить под Глиняную печь для обжига и Каменную решётку-гриль. Для обеспечения базовой автоматизации работает как источник огня. 
+tooltip.work_stump_mk2=Может хранить стак предметов в каждом слоте. Улучшенная версия обычного Рабочего пенька.
+tooltip.water_saw=Под ней должна находиться текущая вода. Разрезает брёвна в доски.
+tooltip.stone_anvil=Кладите на него предметы. Затем бейте Каменным молотом.
+tooltip.wooden_basin=Заполните ингредиентами, а затем жмите ПКМ, для того чтобы перемешать.
+#Translated by TimeConqueror

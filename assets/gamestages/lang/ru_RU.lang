@@ -1,0 +1,21 @@
+#Commands Translated by TimeConqueror
+commands.gamestage.usage=Список команд для Game Stages
+
+commands.gamestage.add.usage=/gamestage add player stage
+commands.gamestage.add.sender=Этап %s разблокирован для %s!
+commands.gamestage.add.target=Вы разблокировали этап %s!
+
+commands.gamestage.remove.usage=/gamestage remove player stage
+commands.gamestage.remove.sender=Этап %s был удалён у %s!
+commands.gamestage.remove.target=У Вас больше нет доступа к этапу %s!
+
+commands.gamestage.check.usage=/gamestage check player stage
+commands.gamestage.check.failure=У %s нет этапа %s
+commands.gamestage.check.success=У %s есть этап %s
+
+commands.gamestage.info.usage=/gamestage info
+commands.gamestage.info.empty=У Вас нет разблокированных этапов!
+#Translated by TimeConqueror
+commands.gamestage.clear.usage=/gamestage clear player
+commands.gamestage.clear.sender=%d этапов было удалено у %s
+commands.gamestage.clear.target=Вы потеряли %d этапов!

@@ -1,0 +1,66 @@
+itemGroup.TCompGeneral=Tinkers' Complement: Общее
+itemGroup.TCompTools=Tinkers' Complement: Инструменты
+#Translated by TimeConqueror
+################
+#    Blocks    #
+################
+
+tile.tcomplement.porcelain_casting.basin.name=Фарфоровый резервуар для отливки
+tile.tcomplement.porcelain_casting.table.name=Фарфоровый стол для отливки
+tile.tcomplement.porcelain_casting.tooltip=Отливает предметы, используя жидкие металлы внутри плавильной печи
+
+tile.tcomplement.melter.melter.name=Плавильная печь
+tile.tcomplement.melter.melter.tooltip=Уменьшенная версия плавильни.\nМожет плавить металлы, но не умеет создавать сплавы.
+tile.tcomplement.melter.heater.name=Seared Heater
+tile.tcomplement.melter.heater.tooltip=Может нагревать плавильную печь при помощи твёрдого топлива, но имеет более ограниченную температуру.
+
+tile.tcomplement.porcelain_melter.melter.name=Фарфоровая плавильная печь
+tile.tcomplement.porcelain_melter.melter.tooltip=tile.tcomplement.melter.melter.tooltip
+tile.tcomplement.porcelain_melter.heater.name=Фарфоровый нагреватель
+tile.tcomplement.porcelain_melter.heater.tooltip=tile.tcomplement.melter.heater.tooltip
+
+tile.tcomplement.porcelain_tank.tank.name=Фарфоровый резервуар
+tile.tcomplement.porcelain_tank.gauge.name=Мерный фарфоровый резервуар
+tile.tcomplement.porcelain_tank.window.name=Фарфоровое окно
+tile.tcomplement.porcelain_tank.tooltip=Сердце плавильной печи\nЕсли сломать, сохранит жидкость.
+
+
+################
+#    Items     #
+################
+
+item.tcomplement.materials.stone_bucket.name=Каменное ведро
+item.tcomplement.materials.stone_bucket.tooltip=Не работает в качестве ведра, но подойдёт для отливки подобной формы
+
+item.tcomplement.cast.bucket.name=Форма для отливки ведра
+
+item.tcomplement.sledge_head.name=Sledge Hammer Head
+item.tcomplement.sledge_hammer.name=Sledge Hammer
+item.tcomplement.sledge_hammer.desc=Smash blocks into smaller bits, then smash them again.
+
+item.tcomplement.chisel.name=Chisel
+item.tcomplement.chisel.desc=Chisel blocks into other blocks, in world and in hand.\nApply expanders to chisel bigger areas.
+item.tcomplement.chisel_head.name=Chisel Head
+
+item.tcomplement.manyullyn_helmet.name=Manyullyn Helmet
+item.tcomplement.manyullyn_chestplate.name=Manyullyn Chestplate
+item.tcomplement.manyullyn_leggings.name=Manyullyn Leggings
+item.tcomplement.manyullyn_boots.name=Manyullyn Boots
+
+item.tcomplement.knightslime_helmet.name=Knightslime Helmet
+item.tcomplement.knightslime_chestplate.name=Knightslime Chestplate
+item.tcomplement.knightslime_leggings.name=Knightslime Leggings
+item.tcomplement.knightslime_boots.name=Knightslime Boots
+
+
+################
+#     GUI      #
+################
+
+gui.tcomplement.melter.name=Плавильная печь
+gui.tcomplement.melter.progress.no_space=В плавильной печи недостаточно свободного места
+gui.tcomplement.melter.progress.wrong_fluid=Resulting fluid is different than fluid in melter
+gui.tcomplement.melter.solid_fuel=Нагреватель
+gui.tcomplement.melter.solid_fuel.amount=%s единиц
+#Translated by TimeConqueror
+gui.tcomplement.heater.name=Нагреватель

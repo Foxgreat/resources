@@ -1,0 +1,138 @@
+//Цветы
+
+tile.block_cff_flowers.fuchsia.name=Фуксия
+tile.block_cff_flowers.lantana.name=Лантана
+tile.block_cff_flowers.daisypurp.name=Фиолетовая африканская ромашка
+tile.block_cff_flowers.daisywht.name=Африканская ромашка
+tile.block_cff_flowers.bachbutton.name=Василёк
+tile.block_cff_flowers.bleedheart.name=Разбитое сердце
+tile.block_cff_flowers.capoppy.name=Калифорнийский мак
+tile.block_cff_flowers.lilypurp.name=Фиолетовая калла
+tile.block_cff_flowers.cosmos.name=Космея
+tile.block_cff_flowers.crocusmix.name=Смешанные крокусы
+tile.block_cff_flowers.crocuspurp.name=Фиолетовый крокус
+tile.block_cff_flowers.crocusyell.name=Жёлтый крокус
+tile.block_cff_flowers.daffyellow.name=Жёлтый нарцисс
+tile.block_cff_flowers.daffodil.name=Белый нарцисс
+tile.block_cff_flowers.dahlia.name=Георгина
+tile.block_cff_flowers.forget.name=Незабудка
+
+tile.block_cff_flowersb.violet.name=Фиалка
+tile.block_cff_flowersb.daylily.name=Лилейник
+tile.block_cff_flowersb.daylilydiff.name=Другой лилейник
+tile.block_cff_flowersb.echinacea.name=Эхинацея
+tile.block_cff_flowersb.freeorange.name=Оранжевая фрезия
+tile.block_cff_flowersb.freered.name=Красная фрезия
+tile.block_cff_flowersb.freeyellow.name=Жёлтая фрезия
+tile.block_cff_flowersb.hyacinth.name=Мышиный гиацинт
+tile.block_cff_flowersb.lilyvalley.name=Ландыш
+tile.block_cff_flowersb.lupinorange.name=Оранжевый люпин
+tile.block_cff_flowersb.lupinpurp.name=Фиолетовый люпин
+tile.block_cff_flowersb.lupinyell.name=Жёлтый люпин
+tile.block_cff_flowersb.narcissus.name=Нарцисс
+tile.block_cff_flowersb.nasturtium.name=Жеруха
+tile.block_cff_flowersb.pansy.name=Анютины глазки
+tile.block_cff_flowersb.wolfsbane.name=Аконит
+
+tile.block_cff_flowersc.borage.name=Бурачник
+tile.block_cff_flowersc.corydalis.name=Хохлатка
+tile.block_cff_flowersc.gilia.name=Высоты птичьего полета
+tile.block_cff_flowersc.geranium_pink.name=Розовый герань
+tile.block_cff_flowersc.geranium_light.name=Светло-розовый герань
+tile.block_cff_flowersc.geranium_red.name=Красный герань
+tile.block_cff_flowersc.lewisia.name=Левзеи
+tile.block_cff_flowersc.lobelia.name=Королевский синий Лобелия
+tile.block_cff_flowersc.perriwinkle.name=Барвинок
+tile.block_cff_flowersc.perriwinkle_diff.name=Еще один Барвинок
+tile.block_cff_flowersc.petticoat.name=Розовый юбка
+tile.block_cff_flowersc.pitcher.name=Плотоядное растение
+tile.block_cff_flowersc.redclover.name=Красный клевер
+tile.block_cff_flowersc.redclover_diff.name=Пурпурный клевер
+tile.block_cff_flowersc.redclover_mid.name=Розовый клевер
+tile.block_cff_flowersc.sticky_monkey.name=Липкая обезьяна
+
+tile.block_cff_flowersd.mallow.name=Бордовые Мальвы
+tile.block_cff_flowersd.parrot.name=Цветок-Попугай
+tile.block_cff_flowersd.poppy.name=Красный мак
+tile.block_cff_flowersd.cosmos_mix.name=Космос Микс
+tile.block_cff_flowersd.cosmos_orange.name=Оранжевый космос
+tile.block_cff_flowersd.cosmos_yellow.name=Желтый космос
+tile.block_cff_flowersd.lily_wht.name=Калла
+tile.block_cff_flowersd.chrys.name=Хризантема
+tile.block_cff_flowersd.orchid.name=Орхидея
+tile.block_cff_flowersd.salvia.name=Шалфей
+
+tile.block_cff_desert.albuca.name=Albuca Namaquensis
+tile.block_cff_desert.sturt_pea.name=Стёртый пустынный горох
+tile.block_cff_desert.tumble_weed.name=Сушильный Сорняк
+tile.block_cff_desert.yellows.name=Желтые оттенки
+tile.block_cff_desert.flame_pea.name=Австралийский пламя гороха
+tile.block_cff_desert.flame_pea_diff.name=Оранжевый австралийский огненный горох
+tile.block_cff_desert.verbena.name=Desert Sand Verbena
+tile.block_cff_desert.verbena_diff.name=Розовый Desert Sand Verbena
+tile.block_cff_desert.cornflower.name=Австралийский Василек
+tile.block_cff_desert.tinsel.name=Синяя мишура Лилия
+tile.block_cff_desert.tinsel_wht.name=Белый цветок мишуры
+tile.block_cff_desert.clover.name=Сова клевер
+tile.block_cff_desert.flag.name=Фиолетовый флаг
+tile.block_cff_desert.paintbrush.name=Пустынный Paintbrush
+tile.block_cff_desert.yucca.name=Юкка
+tile.block_cff_desert.notch.name=Сорняк скорпиона листьев выемки
+
+tile.block_cff_ouch.cactus.name=Кактус
+tile.block_cff_ouch.parodia.name=Parodia Muricata
+tile.block_cff_ouch.hedgehog.name=Ежиковый Кактус Энгельмана
+
+
+tile.block_cff_doubles.cosmos.name=Высокий космос
+tile.block_cff_doubles.larkspur.name=Живокость
+tile.block_cff_doubles.iris.name=Радужная оболочка
+tile.block_cff_doubles.manzanita.name=Куст манзаниты
+tile.block_cff_doubles.gloriosa.name=Глориоза Лилия
+tile.block_cff_doubles.lupin.name=Высокий Ландыш
+
+tile.block_cff_doublesb.lily_tall.name=Высокие Каллы
+tile.block_cff_doublesb.mendo.name=Мендосинский мак
+tile.block_cff_doublesb.cherry.name=Декоративная вишня
+tile.block_cff_doublesb.quince.name=Айва
+tile.block_cff_doublesb.hawthorne.name=Хоторн
+tile.block_cff_doublesb.gladiola_red.name=Малиновый Гладиолус
+
+tile.block_cff_doublesc.gladiola.name=Гладиолус
+tile.block_cff_doublesc.gladiola_peach.name=Персик Гладиола
+tile.block_cff_doublesc.gladiola_orange.name=Оранжевый Гладиолус
+tile.block_cff_doublesc.cosmos_orange.name=Высокий оранжевый космос
+tile.block_cff_doublesc.datura.name=Дурман
+tile.block_cff_doublesc.poppy_blue.name=Гималайский синий мак
+
+tile.block_cff_doublesd.yucca_tall.name=Юкка цветок
+tile.block_cff_doublesd.cactus_flower.name=Высокий кактус
+tile.block_cff_doublesd.ocotillo.name=Окотильо
+tile.block_cff_doublesd.indigo.name=Mojave Индиго Буш
+tile.block_cff_doublesd.dry.name=Сухой корм
+tile.block_cff_doublesd.aloe.name=Мыс Алоэ
+
+
+tile.block_cobble_light.name=Свечащийся Булыжник
+tile.block_dirt_light.name=Свечащийся Земля
+tile.block_gravel_light.name=Свечащийся Гравий
+tile.block_log_light.name=Свечащийся Дуб
+tile.block_metal_light.name=Свечащийся Железный блок
+tile.block_plank_light.name=Свечащийся дубовая доска
+tile.block_sand_light.name=Свечащийся песок
+tile.block_stonebrick_light.name=Свечащийся Каменный керпичный блок
+tile.block_stone_light.name=Свечащийся каменный блок
+
+tile.block_birthday.name=Праздничный торт
+tile.block_cff_dark.venus.name=Венера, Летающая ловушка
+tile.block_cff_dark.osto.name=Darkosto Traposto
+
+//Items
+
+item.item_test.name=Я голубой
+
+
+//Creative Tabs
+
+itemGroup.CFFBlocks=Свечащийся блоки
+itemGroup.CFFFlowers=Цветы Ferdinand's
