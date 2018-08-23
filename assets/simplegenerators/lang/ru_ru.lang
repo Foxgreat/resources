@@ -1,0 +1,37 @@
+itemGroup.simplegenerators.creative_tab=Simple Generators
+itemgroup.simplegenerators.creative_tab=Simple Generators
+
+gui.simplegenerators.energy=Энергия
+gui.simplegenerators.stored=Хранится
+gui.simplegenerators.capacity=Вместимость
+gui.simplegenerators.fuelbuffer=Топливный буфер
+
+tile.simplegenerators.combustion_simple.name=Простой генератор горения
+tile.simplegenerators.culinary_simple.name=Простой кулинарный генератор
+tile.simplegenerators.ender_simple.name=Простой генератор Края
+tile.simplegenerators.nether_simple.name=Простой генератор Нижнего мира
+tile.simplegenerators.geothermal_simple.name=Простой геотермальный генератор
+
+tile.simplegenerators.combustion_upgradable.name=Модернизированный генератор горения
+tile.simplegenerators.culinary_upgradable.name=Модернизированный кулинарный генератор
+tile.simplegenerators.ender_upgradable.name=Модернизированный генератор Края
+tile.simplegenerators.nether_upgradable.name=Модернизированный генератор Нижнего мира
+tile.simplegenerators.geothermal_upgradable.name=Модернизированный геотермальный генератор
+
+guide.simplegenerators.buttontitle=Простые генераторы
+guide.simplegenerators.buttontooltip=Руководство по Простым генераторам
+
+guide.simplegenerators.combustion.page.title=Генераторы горения
+guide.simplegenerators.combustion.button.title=Генераторы горения
+
+guide.simplegenerators.culinary.page.title=Кулинарные генераторы
+guide.simplegenerators.culinary.button.title=Кулинарные генераторы
+
+guide.simplegenerators.ender.page.title=Генераторы Края
+guide.simplegenerators.ender.button.title=Генераторы Края
+
+guide.simplegenerators.nether.page.title=Генераторы Нижнего мира
+guide.simplegenerators.nether.button.title=Генераторы Нижнего мира
+
+guide.simplegenerators.geothermal.page.title=Геотермальные генераторы
+guide.simplegenerators.geothermal.button.title=Геотермальные генераторы
