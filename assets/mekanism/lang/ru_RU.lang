@@ -87,7 +87,7 @@ tile.BasicBlock.RefinedObsidian.name=Очищенный обсидиан
 tile.BasicBlock.CharcoalBlock.name=Древесноугольный блок
 tile.BasicBlock.RefinedGlowstone.name=Очищенный светокамень
 tile.BasicBlock.SteelBlock.name=Стальной блок
-tile.BasicBlock.BinBasic.name=Базовый ящик
+tile.BasicBlock.BinBasic.name=Основной ящик
 tile.BasicBlock.BinAdvanced.name=Продвинутый ящик
 tile.BasicBlock.BinElite.name=Элитный ящик
 tile.BasicBlock.BinUltimate.name=Совершенный ящик
@@ -159,7 +159,7 @@ tile.MachineBlock2.LaserTractorBeam.name=Лазерный притягивате
 tile.MachineBlock3.QuantumEntangloporter.name=Квантовый телепорт
 tile.MachineBlock3.SolarNeutronActivator.name=Солнечный активатор нейтронов
 tile.MachineBlock3.Oredictionificator.name=Унификатор словаря руд
-tile.MachineBlock3.ResistiveHeater.name=Резистивный нагреватель
+tile.MachineBlock3.ResistiveHeater.name=Устойчивый нагреватель
 tile.MachineBlock3.FormulaicAssemblicator.name=Формульный сборщик
 tile.MachineBlock3.FuelwoodHeater.name=Твердотопливный нагреватель
 
@@ -199,10 +199,10 @@ tile.Transmitter.BasicMechanicalPipe.name=Базовая механическа�
 tile.Transmitter.AdvancedMechanicalPipe.name=Продвинутая механическая труба
 tile.Transmitter.EliteMechanicalPipe.name=Элитная механическая труба
 tile.Transmitter.UltimateMechanicalPipe.name=Совершенная механическая труба
-tile.Transmitter.BasicLogisticalTransporter.name=Базовый транспортер для предметов
-tile.Transmitter.AdvancedLogisticalTransporter.name=Продвинутый транспортер для предметов
-tile.Transmitter.EliteLogisticalTransporter.name=Элитный транспортер для предметов
-tile.Transmitter.UltimateLogisticalTransporter.name=Совершенный транспортер для предметов
+tile.Transmitter.BasicLogisticalTransporter.name=Базовый логистический транспортер
+tile.Transmitter.AdvancedLogisticalTransporter.name=Продвинутый логистический транспортер
+tile.Transmitter.EliteLogisticalTransporter.name=Элитный логистический транспортер
+tile.Transmitter.UltimateLogisticalTransporter.name=Совершенный логистический транспортер
 tile.Transmitter.RestrictiveTransporter.name=Ограничительный транспортер
 tile.Transmitter.DiversionTransporter.name=Отклоняющий транспортер
 tile.Transmitter.BasicThermodynamicConductor.name=Базовый теплопровод
@@ -214,14 +214,14 @@ tile.Transmitter.UltimateThermodynamicConductor.name=Совершенный те
 tile.GlowPanel.name=Cветящийся полублок
 
 # Energy Cubes
-tile.EnergyCubeBasic.name=Базовый энергетический куб
+tile.EnergyCubeBasic.name=Основной энергетический куб
 tile.EnergyCubeAdvanced.name=Продвинутый энергетический куб
 tile.EnergyCubeElite.name=Элитный энергетический куб
 tile.EnergyCubeUltimate.name=Совершенный энергетический куб
 tile.EnergyCubeCreative.name=Творческий энергетический куб
 
 # Tier Installers
-item.basicTierInstaller.name=Установщик базового уровня
+item.basicTierInstaller.name=Установщик основного уровня
 item.advancedTierInstaller.name=Установщик продвинутого уровня
 item.eliteTierInstaller.name=Установщик элитного уровня
 item.ultimateTierInstaller.name=Установщик совершенного уровня
@@ -393,9 +393,9 @@ upgrade.speed.desc=Увеличивает скорость механизмов.
 upgrade.filter=Фильтр
 upgrade.filter.desc=Фильтр, который отделяет тяжёлую воду от обычной воды.
 upgrade.gas=Газ
-upgrade.gas.desc=Увеличивает эффективность механизмов, использующих газ.
+upgrade.gas.desc=Увеличивает эффективность газоиспользующих механизмов.
 upgrade.muffling=Шум
-upgrade.muffling.desc=Снижает шум от механизмов.
+upgrade.muffling.desc=Уменьшает громкость механизмов.
 upgrade.anchor=Якорь
 upgrade.anchor.desc=Сохраняет чанк с машиной загруженным.
 
@@ -407,7 +407,7 @@ key.voice=Голос
 
 # Entities
 entity.Robit.name=Робит
-entity.BabySkeleton.name=Мелкий скелет-пакостник
+entity.BabySkeleton.name=Скелет-ребёнок
 
 # Config Gui
 mekanism.configgui.ctgy.general=Общие настройки
@@ -444,7 +444,7 @@ gui.material=Материал
 gui.out=Выход
 gui.noFluid=Нет жидкости
 gui.empty=Пусто
-gui.volume=Объем
+gui.volume=Звук
 gui.start=Запуск
 gui.stop=Стоп
 gui.config=Настройка
@@ -553,7 +553,7 @@ gui.maxWater=Макс. воды
 gui.maxSteam=Макс. пара
 gui.heatTransfer=Передача тепла
 gui.superheaters=Сверхмощные нагреватели
-gui.boilCapacity=Мощность нагрева
+gui.boilCapacity=Вместимость нагрева
 gui.encodeFormula=Записать формулу
 gui.autoModeToggle=Авто-режим
 gui.craftSingle=Создать 1 предмет
@@ -581,7 +581,7 @@ gui.stockControl=Складской учет
 gui.allowDefault=Разрешить по умолчанию
 gui.sizeMode=Режим размера
 
-gui.reactor.injectionRate=Скорость закачки
+gui.reactor.injectionRate=Скорость инъекции
 
 gui.upgrades=Улучшения
 gui.upgrades.supported=Работает с
@@ -592,7 +592,7 @@ gui.upgrades.effect=Эффект
 
 gui.chemicalInfuser.short=Хим. наполнитель
 gui.chemicalDissolutionChamber.short=Хим. камера растворения
-gui.thermalEvaporationController.short=Контроллер теплоиспарителя
+gui.thermalEvaporationController.short=Контроллер Т. испарителя
 
 gui.dictionary.noKey=Нет ключа.
 
@@ -779,7 +779,7 @@ tooltip.heat=Нагрев
 tooltip.itemAmount=Кол-во предметов
 tooltip.invalid=Неверный
 tooltip.encoded=Закодировано
-tooltip.ingredients=Ингредиенты
+tooltip.ingredients=Ингридиенты
 tooltip.conduction=Проводимость
 tooltip.insulation=Изоляция
 tooltip.heatCapacity=Теплоемкость
@@ -1023,7 +1023,7 @@ gui.electrolyticSeparator.dump=Сброс
 gui.passive=Воздушное охлаждение
 gui.active=Водяное охлаждение
 
-gui.minInject=Мин. скорость закачки
+gui.minInject=Мин. скорость инъекции
 gui.ignition=Температура воспламенения
 gui.maxPlasma=Макс. темп. плазмы
 gui.maxCasing=Макс. темп. корпуса

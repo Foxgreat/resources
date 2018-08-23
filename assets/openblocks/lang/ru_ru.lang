@@ -349,7 +349,8 @@ item.openblocks.crane_backpack.description=В мире Minecraft "магнит" 
 item.openblocks.crane_control.name=Крановое управление
 item.openblocks.crane_control.description=Этот высокотехнологичный беспроводной пульт используется для управления хранилищами.\n\nПКМ, чтобы поднять, ПКМ, присев, чтобы опустить, ЛКМ, чтобы поднять/отпустить.\nМигающие световые сигналы относятся к магниту.
 
-item.openblocks.wrench.description=This is extremely sophisticated tool used to perform transformations of objects with octahedral symmetry.\n\n\nOr just big, dumb piece of metal you can use to rotate cubes and stuff.\n\nSo yeah, it's yet another wrench. I'm just trying to be original here, ok? ## NEEDS TRANSLATION ##
+#item.openblocks.wrench.name=Big Metal Bar ## NEEDS TRANSLATION ##
+#item.openblocks.wrench.description=This is extremely sophisticated tool used to perform transformations of objects with octahedral symmetry.\n\n\nOr just big, dumb piece of metal you can use to rotate cubes and stuff.\n\nSo yeah, it's yet another wrench. I'm just trying to be original here, ok? ## NEEDS TRANSLATION ##
 
 item.openblocks.stencil.name=Трафарет
 item.openblocks.crayon.name=Магический цветной карандаш

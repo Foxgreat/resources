@@ -16,6 +16,24 @@ item.pt.magnet.name=Магнит
 item.pt.nightvision_goggles.name=Очки ночного видения
 item.pt.nightvision_goggles_c.name=Сжатые очки ночного видения
 item.pt.mortar_and_pestle.name=Ступка и пестик
+item.pt.repair_kit.name=ремонтный комплект
+
+item.pt.dye_powder_white.name=Порошок белой краски
+item.pt.dye_powder_orange.name=Порошок оранжевой краски
+item.pt.dye_powder_magenta.name=Порошок фиолетовой краски
+item.pt.dye_powder_lightBlue.name=Порошок светло-синей краски
+item.pt.dye_powder_yellow.name=Порошок желтой краски
+item.pt.dye_powder_lime.name=Порошок лаймовой краски
+item.pt.dye_powder_pink.name=Порошок розовой краски
+item.pt.dye_powder_gray.name=Порошок серой краски
+item.pt.dye_powder_silver.name=Порошок светло-серой краски
+item.pt.dye_powder_cyan.name=Порошок голубой краски
+item.pt.dye_powder_purple.name=Порошок пурпурной краски
+item.pt.dye_powder_blue.name=Порошок синей краски
+item.pt.dye_powder_brown.name=Порошок коричневой краски
+item.pt.dye_powder_green.name=Порошок зеленой краски
+item.pt.dye_powder_red.name=Порошок красной краски
+item.pt.dye_powder_black.name=Порошок черной краски
 
 item.pt.wooden_paxel.name=Деревянный паксел
 item.pt.stone_paxel.name=Каменный паксел
