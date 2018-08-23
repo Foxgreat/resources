@@ -32,6 +32,7 @@ chat.new_update_1=It is available for download, version
 chat.new_update_2=of JJ Skill
 chat.drop_item=You are not able to use this item
 chat.press_in_use=Wait for the process to finish
+chat.press_no_active=Press not active
 chat.resetskill_success=Your skills have been successfully reset
 chat.resetexp_success=Your experience has been successfully canceled
 chat.resetskill_error=Error, your skills have not been reset

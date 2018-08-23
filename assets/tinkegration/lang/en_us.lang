@@ -1,0 +1,26 @@
+item.ingotalumiteaaa.name=Alumite Ingot
+
+fluid.alumite.name=Molten Alumite
+
+material.alumite.name=Alumite
+material.gold.name=Gold
+material.invar.name=Invar
+material.platinum.name=Platinum
+material.lumium.name=Lumium
+material.signalum.name=Signalum
+material.enderium.name=Enderium
+
+modifier.tgenergized.name=Energized
+modifier.tgenergized.desc=§oUncomfortably energetic!§r\nYour tool is faster when you are less hungry.
+modifier.tgfancy.name=Fancy
+modifier.tgfancy.desc=§oYou're rich!§r\nYour tool occasionally gets extra items from blocks and mobs, but it also wears down faster.
+modifier.tgilluminating.name=Illuminating
+modifier.tgilluminating.desc=§oSolar powered?§r\nYour tool is stronger and faster when it is bright.
+modifier.tgprecise.name=Precise
+modifier.tgprecise.desc=International Prototype!§r\nThere is a chance that each strike is a critical hit.
+modifier.tgresonant.name=Resonant
+modifier.tgresonant.desc=Sharing is caring!§r\nKilling a mob will damage other nearby mobs as well.
+modifier.tgtempered.name=Tempered
+modifier.tgtempered.desc=§oSturdy!§r\nThere is a chance that your tool will not lose any durability each time it is used.
+modifier.tgvorpal.name=Vorpal
+modifier.tgvorpal.desc=§oSharpen frequently!§r\nDamage is much higher at max durability, but it goes down quickly.

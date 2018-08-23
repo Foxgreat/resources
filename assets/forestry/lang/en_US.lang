@@ -1642,49 +1642,39 @@ for.gui.filter.forestry.lepidopterology.cocoon=Cocoon
 ####################
 # MODULES
 ####################
-for.module.core.description=Core mechanics for Forestry. Required by all other modules.
-for.module.fluids.description=Adds fluids, fluid blocks, and fluid containers.
 for.module.apiculture.description=Adds bees, beekeeping and bee products. Affects world generation.
 for.module.arboriculture.description=Adds additional tree species and products.
+for.module.backpacks.description=Adds backpacks.
+for.module.book.description=Adds a guide book that contains information about all other modules.
 for.module.charcoal.description=Adds wood piles, loam and a charcoal production.
+for.module.core.description=Core mechanics for Forestry. Required by all other modules.
+for.module.crates.description=Adds crates.
+for.module.cultivation.description=Adds automatic farms for a wide variety of products.
+for.module.database.description=Adds a new storage block for bees / trees and butterflies.
 for.module.energy.description=Adds several RF engines.
 for.module.factory.description=Adds a wide variety of machines to craft, produce and process products.
-for.module.worktable.description=Adds a crafting table that can save 8 recipes.
 for.module.farming.description=Adds automatic multiblock farm for a wide variety of products.
+for.module.fluids.description=Adds fluids, fluid blocks, and fluid containers.
 for.module.food.description=Adds food.
+for.module.greenhouse.description=Adds a greenhouse multiblock.
 for.module.lepidopterology.description=Butterflies. Shiny.
 for.module.mail.description=Adds Forestry's mail and trade system.
-for.module.backpacks.description=Adds backpacks.
-for.module.crates.description=Adds crates.
-for.module.greenhouse.description=Adds a greenhouse multiblock.
-for.module.database.description=Adds a new storage block for bees / trees and butterflies.
-for.module.cultivation.description=Adds automatic farms for a wide variety of products.
-for.module.book.description=Adds a guide book that contains information about all other modules.
+for.module.sorting.description=Adds a filter for sorting items with genetic material
+for.module.worktable.description=Adds a crafting table that can save 8 recipes.
 
-for.module.buildcraft6.description=Compatibility module for BuildCraft 6.
-for.module.pipes.description=Adds the apiarist's pipe for beekeeping if apiculture is enabled and BuildCraft 6 is present.
-for.module.ic2.description=Compatibility module for IC2. Adds electrical engine and generator for power conversion.
-for.module.natura.description=Compatibility module for Natura. Enables farming Natura saplings.
-for.module.ee2.description=Compatibility module for Equivalent Exchange 2. Enables the Omega branch of bees. Requires Apiculture to be enabled.
-for.module.ee3.description=Compatibility module for Equivalent Exchange 3.
-for.module.farmcraftory.description=Enables compatibility with FarmCraftory. Adds crops and vegetables to farms.
+for.module.actuallyadditions.description=Compatibility module for Actually Additions.
+for.module.betterwithmods.description=Compatibility module for Better With Mods. Enables farming hemp.
+for.module.buildcraft6.description=Compatibility module for BuildCraft. Currently version 7.99.
 for.module.biomesoplenty.description=Compatibility module for Biomes O Plenty. Enables farming BoP saplings.
+for.module.enderIO.description=Compatibility module for EnderIO.
 for.module.extrautilities.description=Compatibility module for Extra Utilities. Enables farming ender lilies and red orchid.
 for.module.harvestcraft.description=Compatibility module for HarvestCraft. Enables farming HarvestCraft plants and trees.
-for.module.magicalcrops.description=Compatibility module for Magical Crops.
-for.module.chisel.description=Compatibility module for Chisel. Adds worldgen blocks to Backpacks.
-for.module.plantmegapack.description=Compatibility module for Plant Mega Pack.
-for.module.witchery.description=Compatibility module for Witchery.
-for.module.agricraft.description=Compatibility module for AgriCraft.
-for.module.enderIO.description=Compatibility module for EnderIO.
+for.module.ic2.description=Compatibility module for IC2. Adds electrical engine and generator for power conversion.
 for.module.immersiveengineering.description=Compatibility module for Immersive Engineering.
-for.module.growthcraft.description=Compatibility module for GrowthCraft.
-for.module.erebus.description=Compatibility module for Erebus.
-for.module.rotarycraft.description=Compatibility module for RotaryCraft.
-for.module.actuallyadditions.description=Compatibility module for Actually Additions.
+for.module.mysticalagriculture.description=Compatibility module for Mystical Agriculture. Enables farming Mystical Agriculture crops.
+for.module.natura.description=Compatibility module for Natura. Enables farming Natura saplings.
 for.module.roots.description=Compatibility module for Roots.
 for.module.rustic.description=Compatibility module for Rustic.
-for.module.mysticalagriculture.description=Compatibility module for Mystical Agriculture. Enables farming Mystical Agriculture crops.
 for.module.techreborn.description=Compatibility module for Tech reborn. Enables harvesting rubber from rubber trees.
 
 ####################
@@ -1725,6 +1715,7 @@ for.config.world.generate.villagers=Generate Villagers
 for.config.world.generate.villagers.comment=Generates Forestry villagers and their houses.
 
 for.config.world.generate.trees=Whether forestry should generate forestry trees in the world.
+for.config.world.generate.trees.comment=This applies to all dimensions.
 for.config.world.generate.trees.dimBlacklist=Tree Generation Dimension Blacklist
 for.config.world.generate.trees.dimBlacklist.comment=Disables the generation of all trees in the specified dimensions. Enter one dimension id per line.
 for.config.world.generate.trees.treeFrequency=Tree Generation Frequency
@@ -1804,7 +1795,8 @@ for.config.tweaks.book.spawn.comment=Players who enter the world for the first t
 for.config.genetics=Genetics
 for.config.genetics.pollinate.vanilla.trees=Pollinate Vanilla Trees
 for.config.genetics.pollinate.vanilla.trees.comment=Allow bees to pollinate vanilla tree leaves. When disabled, vanilla trees must be analyzed before they can be pollinated.
-for.config.genetics.analyzerblock.energy.use=Energy use of Analyzer Block per work cycle.
+for.config.genetics.analyzerblock.energy.use=Analyzer Block Energy Usage
+for.config.genetics.analyzerblock.energy.use.comment=Energy use of Analyzer Block per work cycle.
 for.config.genetics.research.boost.multiplier=Research Mutation Multiplier
 for.config.genetics.research.boost.multiplier.comment=Multiplies the chance of a mutation when it has been discovered in the Escritoire.
 for.config.genetics.research.boost.max.percent=Research Mutation Max
@@ -1858,12 +1850,23 @@ for.config.species.blacklist.comment=Add species to blacklist identified by thei
 for.config.butterfly.alleles.rarity=Get the butterfly spawn rarity by their uid, one per line.
 for.config.butterfly.entities.spawn.limit=Butterfly Spawn Limit
 for.config.butterfly.entities.spawn.limit.comment=Butterflies will stop natural spawning once this limit is reached.
+for.config.butterfly.entities.spawn.leaves=Spawn Butterflies From Leaves
+for.config.butterfly.entities.spawn.leaves.comment=Whether butterflies should spawn from the leaves of trees.
 for.config.butterfly.entities.maximum=Butterfly Maximum
 for.config.butterfly.entities.maximum.comment=New butterflies will stay in item form and will not take flight once this limit is reached.
 for.config.butterfly.entities.maxDistance=Maximum Distance To Home
 for.config.butterfly.entities.maxDistance.comment=Butterflies will fly home if they are too far away from it.
 for.config.butterfly.entities.pollination=Butterfly Pollination
 for.config.butterfly.entities.pollination.comment=Allow butterflies to pollinate leaves.
+for.config.butterfly.cocoons.generate=Generate Butterfly Cocoons
+for.config.butterfly.cocoons.generate.comment=Whether cocoons containing butterfiles should generate in the world
+for.config.butterfly.cocoons.amount=Butterfly Cocoon Frequency
+for.config.butterfly.cocoons.amount.comment=How often butterfly cocoons should generate
+for.config.butterfly.cocoons.serum=Serum Drop Chance
+for.config.butterfly.cocoons.serum.comment=How often cocoons should drop a serum
+for.config.butterfly.cocoons.second.serum=Second Serum Drop Chance
+for.config.butterfly.cocoons.second.serum.comment=How often cocoons should drop a second serum
+for.config.butterfly.alleles.loot=Loot drops from cocoons. Format is modid:name:meta;chance
 
 for.config.backpacks.item.stacks.format=Add itemStacks for the %s's backpack here in the format 'modid:name:meta'. For wildcard metadata the format is 'modid:name'.
 for.config.backpacks.ore.dict.format=Add ore dictionary names for the %s's backpack here in the format 'oreDictName'. Regular expressions may also be used.
@@ -1919,6 +1922,10 @@ for.config.power.types.tesla=Tesla
 for.config.power.types.tesla.comment=Enable Tesla power support.
 for.config.power.display.mode=Power Display Mode
 for.config.power.display.mode.comment=The format power will be displayed in in engine/machine interfaces.
+
+for.config.machines.enabled=Enabled machines.
+for.config.machines.enabled.comment=List of enabled machines. Note that some things may be impossible to do if you change this!
+
 
 ###################################
 # CUSTOM BEE AND TREE SPECIES NAMES
@@ -2031,6 +2038,10 @@ for.jei.rainmaker.causes.rain=Causes Rain
 for.jei.rainmaker.stops.rain=Stops Rain
 for.jei.rainmaker.speed=Speed: %s
 for.jei.rainmaker.duration=Duration: %s ticks
-tile.for.charcoal.pile.wall.name=Charcoal Pile
+for.jei.farming.name=Farming
+for.jei.farming.soil=Soil
+for.jei.farming.germlings=Germlings
+for.jei.farming.products=Products
+for.jei.charcoal.pile.name=Charcoal Pile
 for.jei.chance=Chance: %s
 for.jei.fortune=The amount of this item is affected by the fortune enchantment.

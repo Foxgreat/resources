@@ -90,6 +90,7 @@ item.matteroverdrive.portable_decomposer.details=Decomposes picked up items into
 item.matteroverdrive.record.matteroverdrive.transformation.desc=BoxCat Games - Trace Route
 item.matteroverdrive.trilithium_crystal.name=Pure Trilithium Crystal
 item.matteroverdrive.artifact.name=Unknown Artifact
+item.matteroverdrive.quantum_fold_manipulator.name=Quantum Fold Manipulator
 
 #///////////// Upgrades ////////////
 item.matteroverdrive.upgrade.speed.name=Speed Upgrade
@@ -107,6 +108,7 @@ item.matteroverdrive.weapon_module_barrel.fire.name=Incendiary Filter
 item.matteroverdrive.weapon_module_barrel.explosion.name=Burst Inductive Drum
 item.matteroverdrive.weapon_module_barrel.heal.name=Regenerative Converter
 item.matteroverdrive.weapon_module_barrel.doomsday.name=Degenerative Explosive Focusing Matrix (Doomsday)
+item.matteroverdrive.weapon_module_barrel.block.name=Voxel Exaggerating Nullification Obliteration Matrix (VENOM)
 item.matteroverdrive.weapon_module_ricochet.name=Shot Rebound Module
 item.matteroverdrive.sniper_scope.name=Sniper Scope
 
@@ -333,12 +335,10 @@ dialog.mad_scientist.trade_route_quest.1.line=What do you mean? It's nothing rea
 ##########################################################################################################
 # Creative Panels
 
-itemGroup.tabMO=MatterOverdrive
-itemGroup.tabMO_modules=MatterOverdrive Modules
-itemGroup.tabMO_upgrades=MatterOverdrive Upgrades
-itemGroup.tabMO_food=MatterOverdrive Food
-itemGroup.tabMO_decorative=MatterOverdrive Decoration
-itemGroup.tabMO_androidParts=MatterOverdrive Android Parts
+itemGroup.tabMO=Matter Overdrive
+itemGroup.tabMO_modules=Matter Overdrive Modules
+itemGroup.tabMO_androidParts=Matter Overdrive Android Parts
+itemGroup.tabMO_contracts=Matter Overdrive Contracts
 
 ##########################################################################################################
 # Upgrade Types
@@ -354,15 +354,19 @@ upgradetype.MatterUsage.name=Matter Usage
 
 ##########################################################################################################
 # Weapon Stats
-weaponstat.0.name=Damage
-weaponstat.1.name=Ammo
-weaponstat.2.name=Effect
-weaponstat.3.name=Range
-weaponstat.4.name=Fire Damage
-weaponstat.5.name=Block Damage
-weaponstat.6.name=Explosion Damage
-weaponstat.7.name=Fire Rate
-weaponstat.8.name=Heal
+weaponstat.damage.name=Damage
+weaponstat.ammo.name=Ammo
+weaponstat.effect.name=Effect
+weaponstat.range.name=Range
+weaponstat.fire_damage.name=Fire Damage
+weaponstat.block_damage.name=Block Damage
+weaponstat.explosion_damage.name=Explosion Damage
+weaponstat.fire_rate.name=Fire Rate
+weaponstat.heal.name=Heal
+weaponstat.range.name=Range
+weaponstat.ricochet.name=Ricochet
+weaponstat.max_heat.name=Max Heat
+weaponstat.accuracy.name=Accuracy
 
 ##########################################################################################################
 # GUI
@@ -473,6 +477,12 @@ module.color.grey=Gray
 module.barrel.name=Barrel Module
 module.sights.name=Sights Module
 module.other.name=Other Module
+moduleslot.-1.name=Slot not set, please report to module author
+moduleslot.0.name=Applicable to Battery slot
+moduleslot.1.name=Applicable to Color slot
+moduleslot.2.name=Applicable to Barrel slot
+moduleslot.3.name=Applicable to Sights slot
+moduleslot.4.name=Applicable to Misc slot
 
 ##########################################################################################################
 # Bioparts
