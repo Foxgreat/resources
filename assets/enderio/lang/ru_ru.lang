@@ -202,12 +202,12 @@ item.item_material.skull_skeletal_contractor.name=Череп скелета-по
 item.item_material.skull_zombie_controller.name=Зомби-контроллер
 item.item_material.skull_zombie_electrode.name=Зомби-электрод
 item.item_material.skull_zombie_frankenstien.name=Зомби Фрэнк
-item.item_material.skull_guardian_diode.name=Guardian Diode
+
 item.item_material.vibrant_crystal.name=Вибрирующий кристалл
 item.item_material.vibrant_powder.name=Зерна вибрации
-item.item_material.weather_crystal.name=Кристалл погоды
+item.item_material.weather_crystal.name=Погодный кристалл
 item.item_material.organic_green_dye.name=Органическая зеленая краска
-item.item_material.powder_photovoltaic.name=Фотогальваническая пыль
+item.item_material.powder_photovoltaic.name=Фотогальванический композит
 item.item_material.plate_photovoltaic.name=Фотогальваническая пластина
 item.item_material.organic_green_dye.tooltip.detailed.line1=Промышленно обработанное растительное вещество с "естественным" размытым цветом.
 item.item_material.organic_green_dye.tooltip.detailed.line2=§7Несъедобные. Избегайте контакта с глазами. При попадании в глаза немедленно промыть большим количеством воды и обратиться к врачу.
@@ -638,9 +638,9 @@ enderio.power.format.name=Микро бесконечность (%s)
 enderio.power.format.details=Единица энергии
 
 enderio.fluid.millibucket.format=%s mB
-enderio.fluid.millibucket.format.name=%s mB of %s
+enderio.fluid.millibucket.format.name=%s mB из %s
 enderio.fluid.millibucket.format.of=%s / %s mB
-enderio.fluid.millibucket.format.ofname=%s / %s mB of %s
+enderio.fluid.millibucket.format.ofname=%s / %s mB из %s
 enderio.fluid.millibucket.format.tickper=%s t/mB
 
 enderio.fuel.tooltip.heading=Информация о топливе
