@@ -243,7 +243,7 @@ entity.EntityCrystal.name=Кристалл
 entity.EntityFlare.name=Вспышка
 
 item.itemcraftingcomponent.aquamarine.name=Аквамарин
-item.itemcraftingcomponent.starmetal_ingot.name=Слиток Звёздного металла
+item.itemcraftingcomponent.starmetal_ingot.name=Слиток звёздного металла
 item.itemcraftingcomponent.stardust.name=Звёздная пыль
 item.itemcraftingcomponent.glass_lens.name=Стеклянная линза
 item.itemcraftingcomponent.reso_gem.name=Резонирующий самоцвет
@@ -255,7 +255,7 @@ item.itemtunedrockcrystal.name=Настроенный горный криста�
 item.itemtunedcelestialcrystal.name=Настроенный небесный кристалл
 item.itemcelestialcrystal.name=Небесный кристалл
 item.itemlinkingtool.name=Инструмент связывания
-item.itemjournal.name=Журнал Знаний
+item.itemjournal.name=Большая звёздная книга
 item.itemwand.name=Резонирующий жезл
 item.itemcrystalpickaxe.name=Кристальная кирка
 item.itemcrystalshovel.name=Кристальная лопата
@@ -286,7 +286,7 @@ inventory.altar.2=Небезный алтарь
 inventory.altar.3=[NoName-Тёмный] Алтарь
 inventory.altar.4=[NoName-Конец] Алтарь
 
-fluid.astralsorcery.liquidStarlight=Жидкий звездный свет
+fluid.astralsorcery.liquidStarlight=Жидкий звёздный свет
 
 tile.blockcustomore.rock_crystal.name=Горная кристальная руда
 tile.blockcustomore.starmetal.name=Руда Звёздного металла
@@ -417,3 +417,9 @@ perk.TRV_LPROT=Копаем прямо вниз
 perk.TRV_LPROT.info=Защищает от лавы в течение короткого времени
 
 constellation.noInformation=Здесь ничего нет.
+
+
+tile.blockgeolosyssamplecluster.name=Образец горного кристалла
+item.itemusabledust.illumination.name=Освещающий порошок
+item.itemusabledust.nocturnal.name=Порошок ночи
+item.itemskyresonator.starlight.name=Резонатор света

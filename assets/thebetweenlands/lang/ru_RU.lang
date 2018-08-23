@@ -36,7 +36,7 @@ tile.thebetweenlands.swamp_double_tallgrass.name=Двойная болотная
 tile.thebetweenlands.moss.name=Мох
 tile.thebetweenlands.cave_moss.name=Пещерный мох
 tile.thebetweenlands.weedwood_bush.name=Куст сорного дерева
-tile.thebetweenlands.dead_weedwood_bush.name=Мертвый куст сорного дерева
+tile.thebetweenlands.dead_weedwood_bush.name=Мёртвый куст сорного дерева
 tile.thebetweenlands.swamp_tallgrass.name=Болотная трава
 tile.thebetweenlands.tall_cattail.name=Высокий рогоз
 tile.thebetweenlands.thorns.name=Колючки
@@ -346,7 +346,7 @@ item.thebetweenlands.between_you_and_me.name=Пластинка туземца
 item.thebetweenlands.black_hat_mushroom_item.name=Гриб с черной шляпкой
 item.thebetweenlands.blood_snail_shell.name=Багровая раковина улитки
 item.thebetweenlands.blue_eyed_grass_flowers.name=Цветки голубоглазки
-item.thebetweenlands.blue_iris_petal.name=Лепесток синего ириса
+item.thebetweenlands.blue_iris_petal.name=Лепестки синего ириса
 item.thebetweenlands.bog_bean_flower_item.name=Цветок водяного трилистника
 item.thebetweenlands.bone_axe.name=Костяной топор
 item.thebetweenlands.bladderwort_flower_item.name=Цветок пузырчатки
@@ -367,12 +367,12 @@ item.thebetweenlands.bulb_capped_mushroom_item.name=Луковичные гри�
 item.thebetweenlands.button_bush_flowers.name=Цветки цветоголовника
 item.thebetweenlands.candy_blue.name=Синяя конфета
 item.thebetweenlands.candy_red.name=Красная конфета
-item.thebetweenlands.candy_yellow.name=Желтая конфета
+item.thebetweenlands.candy_yellow.name=Жёлтая конфета
 item.thebetweenlands.cardinal_flower_petals.name=Лепестки кардинальской лобелии
 item.thebetweenlands.cattail_head.name=Початок рогоза
 item.thebetweenlands.cave_grass_blades.name=Стебельки пещерной травы
 item.thebetweenlands.cave_moss_item.name=Пещерный мох
-item.thebetweenlands.chiromaw_wing.name=Крыло рукокрыла
+item.thebetweenlands.chiromaw_wing.name=Крыло кусохвата
 item.thebetweenlands.christmas_on_the_marsh.name=Ледяной диск
 item.thebetweenlands.compost.name=Компост
 item.thebetweenlands.copper_iris_petals.name=Лепестки медного ириса
@@ -422,7 +422,7 @@ item.thebetweenlands.ground_marsh_mallow.name=Молотая болотная м
 item.thebetweenlands.ground_marsh_marigold.name=Молотая болотная календула
 item.thebetweenlands.ground_milkweed.name=Молотый ваточник
 item.thebetweenlands.ground_mire_coral.name=Молотый болотный коралл
-item.thebetweenlands.ground_mire_snail_shell.name=Молотая бледно-желтая раковина улитки
+item.thebetweenlands.ground_mire_snail_shell.name=Молотая бледно-жёлтая раковина улитки
 item.thebetweenlands.ground_moss.name=Молотый мох
 item.thebetweenlands.ground_nettle.name=Молотая крапива
 item.thebetweenlands.ground_phragmites.name=Молотый тростник
@@ -467,14 +467,14 @@ item.thebetweenlands.middle_fruit_jello.name=Желе из белой груши
 item.thebetweenlands.milkweed_item.name=Цветок ваточника
 item.thebetweenlands.mince_pie.name=Сладкий пирожок
 item.thebetweenlands.mire_coral_item.name=Болотный коралл
-item.thebetweenlands.mire_snail_shell.name=Бледно-желтая раковина улитки
+item.thebetweenlands.mire_snail_shell.name=Бледно-жёлтая раковина улитки
 item.thebetweenlands.moss_item.name=Мох
 item.thebetweenlands.mud_brick.name=Грязевой кирпич
 item.thebetweenlands.mysterious_record.name=Таинственная пластинка
 item.thebetweenlands.nettle_leaf.name=Лист крапивы
 item.thebetweenlands.nettle_soup.name=Суп из крапивы
-item.thebetweenlands.mire_scramble.name=Болотная похлебка
-item.thebetweenlands.weeping_blue_petal_salad.name=Салат из голубых лепестков
+item.thebetweenlands.mire_scramble.name=Омлет из улитки
+item.thebetweenlands.weeping_blue_petal_salad.name=Салат из лепестков плачущей синьки
 item.thebetweenlands.octine_axe.name=Октиновый топор
 item.thebetweenlands.octine_ingot.name=Октиновый слиток
 item.thebetweenlands.octine_pickaxe.name=Октиновая кирка
@@ -518,7 +518,7 @@ item.thebetweenlands.sulfur.name=Сера
 item.thebetweenlands.sundew_head.name=Лист-ловушка росянки
 item.thebetweenlands.swamp_kelp_item.name=Болотная ламинария
 item.thebetweenlands.swamp_reed_item.name=Болотный тростник
-item.thebetweenlands.swamp_reed_rope.name=Веревка из тростника
+item.thebetweenlands.swamp_reed_rope.name=верёвка из тростника
 item.thebetweenlands.swamp_talisman_0.name=Болотный талисман
 item.thebetweenlands.swamp_talisman_1.name=Часть болотного талисмана
 item.thebetweenlands.swamp_talisman_2.name=Часть болотного талисмана
@@ -566,7 +566,7 @@ item.thebetweenlands.weedwood_stick.name=Палка из сорного дере
 item.thebetweenlands.weedwood_sword.name=Меч из сорного дерева
 item.thebetweenlands.weeping_blue_petal.name=Лепесток плачущей синьки
 item.thebetweenlands.wight_heart.name=Сердце призрака
-item.thebetweenlands.yellow_dotted_fungus.name=Гриб с желтыми пятнами
+item.thebetweenlands.yellow_dotted_fungus.name=Гриб с жёлтыми пятнами
 item.thebetweenlands.weedwood_door_item.name=Дверь из сорного дерева
 item.thebetweenlands.syrmorite_door_item.name=Сирморитовая дверь
 item.thebetweenlands.rubber_tree_plank_door_item.name=Дверь из досок каучукового дерева
@@ -588,8 +588,8 @@ item.thebetweenlands.ring_of_summoning.name=Кольцо призыва
 item.thebetweenlands.ring_of_recruitment.name=Кольцо вербовки
 item.thebetweenlands.ring_of_flight.name=Кольцо левитации
 item.thebetweenlands.ring_of_power.name=Кольцо силы
-item.thebetweenlands.rope_item.name=Веревка для скалолазания
-item.thebetweenlands.caving_rope.name=Веревка для исследования пещер
+item.thebetweenlands.rope_item.name=Верёвка для скалолазания
+item.thebetweenlands.caving_rope.name=Верёвка спелеотуриста
 item.thebetweenlands.amulet_slot.name=Слот для амулета
 item.thebetweenlands.lurker_skin_pouch.name=Сумка из шкуры луркера
 item.thebetweenlands.amulet.name=Амулет
@@ -625,9 +625,9 @@ item.thebetweenlands.voodoo_doll.name=Кукла вуду
 item.thebetweenlands.weedwood_sign_item.name=Табличка из сорного дерева
 item.thebetweenlands.scroll.name=Предметный свиток
 item.thebetweenlands.explorers_hat.name=Шляпа исследователя
-item.thebetweenlands.rotten_food.name=Гниющая еда (%s)
+item.thebetweenlands.rotten_food.name=Сгнившая еда (%s)
 item.thebetweenlands.rotten_food_empty.name=Сгнившая еда
-item.thebetweenlands.tainted_potion.name=Портящаяся зелье (%s)
+item.thebetweenlands.tainted_potion.name=Испорченное зелье (%s)
 item.thebetweenlands.tainted_potion_empty.name=Испорченное зелье
 item.thebetweenlands.mummy_bait.name=Приманка для мумий
 item.thebetweenlands.middle_fruit_bush_seeds.name=Семена белой груши
@@ -757,7 +757,7 @@ tooltip.octine_shield=Поджигает врагов
 tooltip.syrmorite_shield=Hold '%1$s' + '%2$s' to charge\nup and then let go of '%1$s' to charge\nat enemies
 tooltip.valonite_shield=Hold '%1$s' + '%2$s' to charge\nup and then let go of '%1$s' to charge\nat enemies. Reflects projectiles
 tooltip.dentrothyst_shield=Blocks splash potion effects
-tooltip.caving_rope=Press '%s' to connect or disconnect\nto/from a nearby caving rope
+tooltip.caving_rope=Press '%s' to connect or disconnect\nto/from a nearby caving rope.\n§6The caving rope will despawn after\n§6%s minutes if not connected to\n§6a player.
 tooltip.hearthgrove_log=This dense log is excellent as fuel.\nCan be tarred
 tooltip.decay_food=Лечит гниение
 tooltip.swamp_talisman_linked=Linked to portal\nX: %s\nY: %s\nZ: %s
@@ -831,7 +831,7 @@ chat.foodSickness.half.13=Мне не очень хорошо, есть еще �
 chat.foodSickness.half.14=Эта еда мягкая, мне нужно еще немного разнообразия
 chat.foodSickness.half.15=Едим одно и то же все время,это не может быть хорошо для меня
 chat.foodSickness.sick.0=Больше не могу это есть
-chat.foodSickness.sick.1=Я чувствую себя ужасно, я не могу есть это
+chat.foodSickness.sick.1=Я ужасно себя чувствую, я не могу это есть
 chat.foodSickness.sick.2=Фу, я такое не ем
 chat.foodSickness.sick.3=Я не ем больше
 chat.foodSickness.sick.4=Мне надоело это есть, мне нужно найти что-то еще
@@ -848,7 +848,7 @@ chat.foodSickness.sick.15=Я не могу заставить себя есть 
 
 chat.aspect.discovery.book.none=У Вас нет книги для записи своих открытий
 chat.aspect.discovery.gecko.none=Вы не можете провести этот эксперимент без геккона
-chat.aspect.discovery.gecko.recovering=Геккон все еще восстанавливается после последнего эксперимента
+chat.aspect.discovery.gecko.recovering=Геккон еще не отошел от последнего эксперимента
 chat.aspect.discovery.none=Кажется, этот предмет не имеет никаких аспектов
 chat.aspect.discovery.more=Кажется, этот предмет имеет другие, еще неоткрытые аспекты
 chat.aspect.discovery.end=Вы уже открыли все аспекты, находящиеся в этом предмете
@@ -993,7 +993,7 @@ entity.thebetweenlands.fortress_boss_projectile.name=Снаряд Первозд
 entity.thebetweenlands.fortress_boss_blockade.name=Треугольник Первозданной злобы
 entity.thebetweenlands.fortress_boss_spawner.name=Спаунер Первозданной злобы
 entity.thebetweenlands.fortress_boss_teleporter.name=Телепортер Первозданной злобы
-entity.thebetweenlands.chiromaw.name=Рукокрыл
+entity.thebetweenlands.chiromaw.name=Кусохват
 entity.thebetweenlands.pyrad.name=Пирада
 entity.thebetweenlands.pyrad_flame.name=Пламя пирады
 entity.thebetweenlands.shockwave_block.name=Блок ударной волны
@@ -1056,10 +1056,10 @@ command.blevent.success.alloff=Все события закончились
 command.blevent.success.enable=События включены
 command.blevent.success.disable=События выключены
 
-command.blevent.usage=/blevent <toggle|on|off|list|enable|disable>
-command.blevent.usage.toggle=/blevent toggle <название события>
-command.blevent.usage.on=/blevent on <название события>
-command.blevent.usage.off=/blevent off <название события>
+command.blevent.usage=Usage: /blevent <toggle|on|off|list|enable|disable>
+command.blevent.usage.toggle=Usage: /blevent toggle <название события>
+command.blevent.usage.on=Usage: /blevent on <название события>
+command.blevent.usage.off=Usage: /blevent off <название события>
 
 command.blevent.failure.unknown=Неизвестное событие '%s'
 command.blevent.failure.wrongdimension=Вы должны находиться в мире Betweenlands для переключения события
@@ -1096,7 +1096,7 @@ key.openPouch=Открыть сумку из кожи луркера
 key.radialmenu=Open Equipment Menu
 key.return_scout=Return Scout (NYI)
 key.send_scout=Send Scout (NYI)
-key.useRing=Use Ring
+key.use_ring=Use Ring
 key.connect_caving_rope=Connect/Disconnect Caving Rope
 
 #Manual
@@ -1147,7 +1147,7 @@ manual.item.thebetweenlands.ground_boneset.description=Посконник - эт
 manual.item.thebetweenlands.ground_bottle_brush_grass.description=Раскидистая шероховатка - это небольшое растение, растущее в биоме "Топь" (Marsh).
 manual.item.thebetweenlands.ground_broom_sedge.description=Виргинский бородач - это высокое растение, которое можно встретить в биоме "Топь" (Marsh).
 manual.item.thebetweenlands.ground_button_bush.description=Цветоголовники - это маленькие растения, растущие в биоме "Топь" (Marsh).
-manual.item.thebetweenlands.ground_cattail.description=Рогоз - очень распространенное растение, растущее от всех биомов за исключением Глубоководья и Грязевых равнин (Deep Waters & Sludge Plains).
+manual.item.thebetweenlands.ground_cattail.description=Рогоз - очень распространенное растение, растущее в биомах Заболоченных земель (Swamplands), на Разбросанных (Patchy Islands) и Больших островах (Coarse Islands).
 manual.item.thebetweenlands.ground_cave_grass.description=Пещерная трава растет глубоко под землей на уровне камней бездны, вдали от света.
 manual.item.thebetweenlands.ground_cave_moss.description=Пещерный мох растет в пещерах, сверху вниз.
 manual.item.thebetweenlands.ground_copper_iris.description=Одна из двух разновидностей ириса, Медный ирис растет в биоме "Большие острова" (Coarse Islands).
@@ -1227,150 +1227,150 @@ manual.item.thebetweenlands.bl.elixir.strength.description=<scale:0.75>This poti
 
 # Adventures
 advancements.thebetweenlands.adventurer.root.title=Искатель приключений
-advancements.thebetweenlands.adventurer.root.description=Начало приключений Betweenlands
-advancements.thebetweenlands.adventurer.give_me_that.title=Дай Мне Это!
-advancements.thebetweenlands.adventurer.give_me_that.description=Болотный талисман
-advancements.thebetweenlands.adventurer.dank_world.title=Промозглый Мир
-advancements.thebetweenlands.adventurer.dank_world.description=Шаг через портальное дерево!
-advancements.thebetweenlands.adventurer.pothead.title=Горшок!
-advancements.thebetweenlands.adventurer.pothead.description=Разбить 10 горшков случайности
-advancements.thebetweenlands.adventurer.enter_the_stronghold.title=Войти в крепость
-advancements.thebetweenlands.adventurer.enter_the_stronghold.description=Найти призрачную крепость
-advancements.thebetweenlands.adventurer.big_wood.title=Это какая-то большая древесина
-advancements.thebetweenlands.adventurer.big_wood.description=Найти гигантское сорное дерево
-advancements.thebetweenlands.adventurer.ruined_it.title=Рузруши это
-advancements.thebetweenlands.adventurer.ruined_it.description=Откройте для себя руины
-advancements.thebetweenlands.adventurer.idolised.title=Идол
-advancements.thebetweenlands.adventurer.idolised.description=Откройте для себя голову идола
-advancements.thebetweenlands.adventurer.tall_tough.title=Высокий,жестокий
-advancements.thebetweenlands.adventurer.tall_tough.description=Найти скальную башню
-advancements.thebetweenlands.adventurer.cookie_crumbles.title=Крошится как печенье
-advancements.thebetweenlands.adventurer.cookie_crumbles.description=Пройденая скальная башня
-advancements.thebetweenlands.adventurer.environmentalist.title=Эколог
-advancements.thebetweenlands.adventurer.environmentalist.description=Не бей деревья...
-advancements.thebetweenlands.adventurer.rule_them_all.title=Управлять Ими Всеми
-advancements.thebetweenlands.adventurer.rule_them_all.description=Получить все кольца
-advancements.thebetweenlands.adventurer.3spoopy5me.title=3spoopy5me
-advancements.thebetweenlands.adventurer.3spoopy5me.description=Испытайте ужасное событие
-advancements.thebetweenlands.adventurer.winter_is_coming.title=Зима приближается
-advancements.thebetweenlands.adventurer.winter_is_coming.description=Почувствуйте зимнее событие
-advancements.thebetweenlands.adventurer.santa_wight.title=Привидение Санты
-advancements.thebetweenlands.adventurer.santa_wight.description=Разорвать подарок
+advancements.thebetweenlands.adventurer.root.description=Начало приключений в Междуземье
+advancements.thebetweenlands.adventurer.give_me_that.title=Дай сюда
+advancements.thebetweenlands.adventurer.give_me_that.description=Получите болотный талисман
+advancements.thebetweenlands.adventurer.dank_world.title=Мир, пробирающий до костей
+advancements.thebetweenlands.adventurer.dank_world.description=Шагните сквозь портальное дерево
+advancements.thebetweenlands.adventurer.pothead.title=Горшкоголовый
+advancements.thebetweenlands.adventurer.pothead.description=Разбейте 10 Горшочков удачи
+advancements.thebetweenlands.adventurer.enter_the_stronghold.title=Вход в цитадель
+advancements.thebetweenlands.adventurer.enter_the_stronghold.description=Найдите призрачную крепость
+advancements.thebetweenlands.adventurer.big_wood.title=Какое-то большое дерево
+advancements.thebetweenlands.adventurer.big_wood.description=Найдите гигантское сорное дерево
+advancements.thebetweenlands.adventurer.ruined_it.title=Разрушенное
+advancements.thebetweenlands.adventurer.ruined_it.description=Найдите какие-нибудь руины
+advancements.thebetweenlands.adventurer.idolised.title=Поклоняющийся
+advancements.thebetweenlands.adventurer.idolised.description=Найдите голову идола
+advancements.thebetweenlands.adventurer.tall_tough.title=Высокая и крепкая
+advancements.thebetweenlands.adventurer.tall_tough.description=Найдите башню из скалистого камня
+advancements.thebetweenlands.adventurer.cookie_crumbles.title=Вот такие пироги
+advancements.thebetweenlands.adventurer.cookie_crumbles.description=Пройдите Башню из скалистого камня
+advancements.thebetweenlands.adventurer.environmentalist.title=Защитник природы
+advancements.thebetweenlands.adventurer.environmentalist.description=Разозлите пираду, ломая её дерево
+advancements.thebetweenlands.adventurer.rule_them_all.title=И ни одно не сможет править всеми
+advancements.thebetweenlands.adventurer.rule_them_all.description=Завладейте всеми кольцами
+advancements.thebetweenlands.adventurer.3spoopy5me.title=Слишком ж-ж-жутко для м-м-меня
+advancements.thebetweenlands.adventurer.3spoopy5me.description=Испытайте на себе Жуткое событие
+advancements.thebetweenlands.adventurer.winter_is_coming.title=Зима близко
+advancements.thebetweenlands.adventurer.winter_is_coming.description=Испытайте на себе Зимнее событие
+advancements.thebetweenlands.adventurer.santa_wight.title=Санта-призрак
+advancements.thebetweenlands.adventurer.santa_wight.description=Сломайте подарок
 
 # Fighter
 advancements.thebetweenlands.fighter.root.title=Боец
-advancements.thebetweenlands.fighter.root.description=Борьба и защита себя на болотах
-advancements.thebetweenlands.fighter.serious_business.title=Серьезный бизнес!
-advancements.thebetweenlands.fighter.serious_business.description=Меч из болот!
-advancements.thebetweenlands.fighter.shield_wall.title=Защитная стена
-advancements.thebetweenlands.fighter.shield_wall.description=Оборудуйте себя болотным щитом
-advancements.thebetweenlands.fighter.chopping_boy.title=Измельчитель
+advancements.thebetweenlands.fighter.root.description=Сражайся и защищай себя на этих болотах
+advancements.thebetweenlands.fighter.serious_business.title=Серьёзное дело
+advancements.thebetweenlands.fighter.serious_business.description=Получите меч из мира Междуземье
+advancements.thebetweenlands.fighter.shield_wall.title=Глухая оборона
+advancements.thebetweenlands.fighter.shield_wall.description=Снарядите себя щитом из мира Междуземье
+advancements.thebetweenlands.fighter.chopping_boy.title=Крепыш
 advancements.thebetweenlands.fighter.chopping_boy.description=Убейте врага мечом
-advancements.thebetweenlands.fighter.arrow_arsenal.title=Арсенал Стрелка
-advancements.thebetweenlands.fighter.arrow_arsenal.description=Использовать все типы стрелл
-advancements.thebetweenlands.fighter.fashionable_warrior.title=Модный Воин
-advancements.thebetweenlands.fighter.fashionable_warrior.description=Модернизируйте оружие или броню с помощью самоцветов
+advancements.thebetweenlands.fighter.arrow_arsenal.title=Арсенал из стрел
+advancements.thebetweenlands.fighter.arrow_arsenal.description=Используйте все типы стрел
+advancements.thebetweenlands.fighter.fashionable_warrior.title=Воин-модник
+advancements.thebetweenlands.fighter.fashionable_warrior.description=Улучшите оружие или часть брони Срединным самоцветом
 advancements.thebetweenlands.fighter.crowd_control.title=Сдерживание толпы
-advancements.thebetweenlands.fighter.crowd_control.description=Отбросить назад три болотных нежити сырморитным щитом
-advancements.thebetweenlands.fighter.cling_bling.title=Цепляйся За Это
-advancements.thebetweenlands.fighter.cling_bling.description=Носите амулет!
-advancements.thebetweenlands.fighter.fearless_fighter.title=Бесстрашный Боец
-advancements.thebetweenlands.fighter.fearless_fighter.description=Убейте болотную нежить,приведение,смоляного зверя,муть и торфяную мумию
-advancements.thebetweenlands.fighter.beating_dead_meat.title=Бьющеесе мертвое мясо
-advancements.thebetweenlands.fighter.beating_dead_meat.description=Поражение ужасной мумии
-advancements.thebetweenlands.fighter.hag_hater.title=Ненавистник нежити
-advancements.thebetweenlands.fighter.hag_hater.description=Взломщик!
+advancements.thebetweenlands.fighter.crowd_control.description=Отбросьте Сирморитовым щитом три Кикиморы в ряд
+advancements.thebetweenlands.fighter.cling_bling.title=Прилипнуть к этим камушкам
+advancements.thebetweenlands.fighter.cling_bling.description=Наденьте амулет
+advancements.thebetweenlands.fighter.fearless_fighter.title=Бесстрашный боец
+advancements.thebetweenlands.fighter.fearless_fighter.description=Убейте Кикимору, Призрака, Смоляное чудовище, Грязевика и Торфяную мумию
+advancements.thebetweenlands.fighter.beating_dead_meat.title=Избиение мёртвого мяса
+advancements.thebetweenlands.fighter.beating_dead_meat.description=Победите Ужасную торфяную мумию
+advancements.thebetweenlands.fighter.hag_hater.title=Кикиморо-ненавистник
+advancements.thebetweenlands.fighter.hag_hater.description=Убейте кикимору Разрубателем ведьм
 advancements.thebetweenlands.fighter.critical_hit.title=Критический удар
-advancements.thebetweenlands.fighter.critical_hit.description=Критический хруст
-advancements.thebetweenlands.fighter.whhyyy.title=Чтоооо?
-advancements.thebetweenlands.fighter.whhyyy.description=Бей костью!
-advancements.thebetweenlands.fighter.sticky_situation.title=Неловкая ситуация
-advancements.thebetweenlands.fighter.sticky_situation.description=Муть-ножом.
-advancements.thebetweenlands.fighter.glorified_toothpick.title=Прославленный зубочист
-advancements.thebetweenlands.fighter.glorified_toothpick.description=Получите ударный меч
-advancements.thebetweenlands.fighter.do_the_wave.title=Сделайте Волну!
-advancements.thebetweenlands.fighter.do_the_wave.description=Убейте трех врагов, используя ударную волну
+advancements.thebetweenlands.fighter.critical_hit.description=Убейте маленькое существо Сокрушителем насекомых
+advancements.thebetweenlands.fighter.whhyyy.title=Почеемууу?
+advancements.thebetweenlands.fighter.whhyyy.description=Убейте призрака Погибелью призраков
+advancements.thebetweenlands.fighter.sticky_situation.title=Неловкая ситуация... и липкая
+advancements.thebetweenlands.fighter.sticky_situation.description=Убейте грязевика Разрезателем грязи
+advancements.thebetweenlands.fighter.glorified_toothpick.title=Превознесённая зубочистка
+advancements.thebetweenlands.fighter.glorified_toothpick.description=Заполучите Меч ударной волны
+advancements.thebetweenlands.fighter.do_the_wave.title=Делай волну!
+advancements.thebetweenlands.fighter.do_the_wave.description=Убейте трёх врагов, используя ударную волну
 advancements.thebetweenlands.fighter.staring_contest.title=Конкурс красоты
-advancements.thebetweenlands.fighter.staring_contest.description=Подавление энергии
+advancements.thebetweenlands.fighter.staring_contest.description=Победите Первозданную злобу
 
 # Farmer
 advancements.thebetweenlands.farmer.root.title=Фермер
-advancements.thebetweenlands.farmer.root.description=Пережить голод
-advancements.thebetweenlands.farmer.mr_compost.title=Мистер компост :)
-advancements.thebetweenlands.farmer.mr_compost.description=Компост вашей почвы
-advancements.thebetweenlands.farmer.now_kiss.title=Теперь поцелуй!
-advancements.thebetweenlands.farmer.now_kiss.description=Свести двух болотных улиток
-advancements.thebetweenlands.farmer.baby_murderer.title=Убийство детей!
-advancements.thebetweenlands.farmer.baby_murderer.description=Сварите яйцо улитки и сражайтесь!
-advancements.thebetweenlands.farmer.necrofarmer.title=Некро-фермер
-advancements.thebetweenlands.farmer.necrofarmer.description=Удобрите ваши разлагающиеся культуры растительным тоником
-advancements.thebetweenlands.farmer.sporadically_radical.title=Спорадически радикальный
-advancements.thebetweenlands.farmer.sporadically_radical.description=Выращивание и сбор желтых пятнистых грибов
-advancements.thebetweenlands.farmer.lively_crops.title=Живые культуры!
-advancements.thebetweenlands.farmer.lively_crops.description=Споры..
-advancements.thebetweenlands.farmer.mushroom_master.title=Мастер грибов
+advancements.thebetweenlands.farmer.root.description=Не умрите с голоду
+advancements.thebetweenlands.farmer.mr_compost.title=Мистер Компост
+advancements.thebetweenlands.farmer.mr_compost.description=Удобрите свою почву компостом
+advancements.thebetweenlands.farmer.now_kiss.title=А теперь - поцелуйтесь!
+advancements.thebetweenlands.farmer.now_kiss.description=Сведите пару Болотных улиток
+advancements.thebetweenlands.farmer.baby_murderer.title=Убийца детей
+advancements.thebetweenlands.farmer.baby_murderer.description=Приготовьте яйцо болотной улитки, а затем взболтайте его
+advancements.thebetweenlands.farmer.necrofarmer.title=Некрофермер
+advancements.thebetweenlands.farmer.necrofarmer.description=Покормите свои сгнивающие растения укрепляющим средством
+advancements.thebetweenlands.farmer.sporadically_radical.title=Спорадический корень
+advancements.thebetweenlands.farmer.sporadically_radical.description=Вырастите и соберите споры Гриба с жёлтыми пятнами
+advancements.thebetweenlands.farmer.lively_crops.title=Живой урожай
+advancements.thebetweenlands.farmer.lively_crops.description=Позвольте Спорлингу родиться из ваших растений
+advancements.thebetweenlands.farmer.mushroom_master.title=Грибных дел мастер
 advancements.thebetweenlands.farmer.mushroom_master.description=Соберите все грибы
-advancements.thebetweenlands.farmer.a_vine_bush.title=Буквенный бург
-advancements.thebetweenlands.farmer.a_vine_bush.description=Соберите и посадите Семена Белой Груши
-advancements.thebetweenlands.farmer.flower_power.title=Цветочная сила.
-advancements.thebetweenlands.farmer.flower_power.description=Растите цветы на ферме!
+advancements.thebetweenlands.farmer.a_vine_bush.title=Стелющийся куст
+advancements.thebetweenlands.farmer.a_vine_bush.description=Соберите и посадите Семена белой груши
+advancements.thebetweenlands.farmer.flower_power.title=Сила цветов
+advancements.thebetweenlands.farmer.flower_power.description=Вырастите на своей ферме несколько цветов
 advancements.thebetweenlands.farmer.pure_and_dirty.title=Чистый и грязный
-advancements.thebetweenlands.farmer.pure_and_dirty.description=Используйте очищенную болотную грязь для вашей фермы!
+advancements.thebetweenlands.farmer.pure_and_dirty.description=Используйте очищенную болотную землю в фермерстве
 
 # Herbalist
-advancements.thebetweenlands.herbalist.root.title=Травник
-advancements.thebetweenlands.herbalist.root.description=Травяные испытания
-advancements.thebetweenlands.herbalist.im_a_druid.title=Я друид!
-advancements.thebetweenlands.herbalist.im_a_druid.description=Убирайте ингредиенты, используя свой серп
-advancements.thebetweenlands.herbalist.screw_peta.title=Винт PETA
-advancements.thebetweenlands.herbalist.screw_peta.description=Проверьте ингредиент на гекконе!
-advancements.thebetweenlands.herbalist.a_kind_heart.title=Доброе сердце
-advancements.thebetweenlands.herbalist.a_kind_heart.description=Освободить тест-Гекко!
-advancements.thebetweenlands.herbalist.bookworms.title=Книжные черви
-advancements.thebetweenlands.herbalist.bookworms.description=Получите книгу травяных знаний
-advancements.thebetweenlands.herbalist.fully_booked.title=Полностью забронированы
-advancements.thebetweenlands.herbalist.fully_booked.description=Полностью заполнить книгу травяных знаний
+advancements.thebetweenlands.herbalist.root.title=Знаток трав
+advancements.thebetweenlands.herbalist.root.description=Испытания на растениях
+advancements.thebetweenlands.herbalist.im_a_druid.title=Я друид
+advancements.thebetweenlands.herbalist.im_a_druid.description=Добудьте ингредиенты, используя Серп
+advancements.thebetweenlands.herbalist.screw_peta.title=Защитники животных? А? Что?
+advancements.thebetweenlands.herbalist.screw_peta.description=Протестируйте ингредиент на запертом гекконе
+advancements.thebetweenlands.herbalist.a_kind_heart.title=И всё-таки доброе сердце...
+advancements.thebetweenlands.herbalist.a_kind_heart.description=Выпустите геккона, участвующего в экспериментах
+advancements.thebetweenlands.herbalist.bookworms.title=Книголюб
+advancements.thebetweenlands.herbalist.bookworms.description=Заполучите Книгу травоведения
+advancements.thebetweenlands.herbalist.fully_booked.title=Исписана полностью
+advancements.thebetweenlands.herbalist.fully_booked.description=Полностью заполните Книгу травоведения
 
 # Survivalist
 advancements.thebetweenlands.survivalist.root.title=Выживальщик
-advancements.thebetweenlands.survivalist.root.description=Жизнь в болоте
-advancements.thebetweenlands.survivalist.a_cure.title=Лекарство!
-advancements.thebetweenlands.survivalist.a_cure.description=Собирайте шарики сока..
-advancements.thebetweenlands.survivalist.say_nay_to_decay.title=Скажите «нет» разложению
-advancements.thebetweenlands.survivalist.say_nay_to_decay.description=Соберите плачущие синие лепестки
-advancements.thebetweenlands.survivalist.you_are_what_you_eat.title=Ты то, что ты ешь.
-advancements.thebetweenlands.survivalist.you_are_what_you_eat.description=Потребить гнилую пищу
-advancements.thebetweenlands.survivalist.hardcore_munchies.title=Сложно..
-advancements.thebetweenlands.survivalist.hardcore_munchies.description=Попробовать его крыло.
-advancements.thebetweenlands.survivalist.diwitted.title=Недалекий
-advancements.thebetweenlands.survivalist.diwitted.description=Использовать обычный Факел в Betweenlands
-advancements.thebetweenlands.survivalist.pyromaniac.title=Пироман!
-advancements.thebetweenlands.survivalist.pyromaniac.description=Мох на огонь.
-advancements.thebetweenlands.survivalist.quest_for_fire.title=Квест огня
-advancements.thebetweenlands.survivalist.quest_for_fire.description=Установите торф на огонь
-advancements.thebetweenlands.survivalist.fetch.title=Привести
-advancements.thebetweenlands.survivalist.fetch.description=Отвлеките торфяную мумию с помощью мерцающиего камня
-advancements.thebetweenlands.survivalist.hardware_laundry.title=Аппаратное обеспечение
+advancements.thebetweenlands.survivalist.root.description=Жизнь на болоте
+advancements.thebetweenlands.survivalist.a_cure.title=Лекарство
+advancements.thebetweenlands.survivalist.a_cure.description=Соберите шарики живицы
+advancements.thebetweenlands.survivalist.say_nay_to_decay.title=Скажи разложению «нет»!
+advancements.thebetweenlands.survivalist.say_nay_to_decay.description=Соберите лепестки плачущей синьки
+advancements.thebetweenlands.survivalist.you_are_what_you_eat.title=Ты то, что ты ешь
+advancements.thebetweenlands.survivalist.you_are_what_you_eat.description=Съешьте гнилую пищу
+advancements.thebetweenlands.survivalist.hardcore_munchies.title=Ужасная закуска
+advancements.thebetweenlands.survivalist.hardcore_munchies.description=Съешьте немного крыльев Кусохвата
+advancements.thebetweenlands.survivalist.diwitted.title=Глупышка
+advancements.thebetweenlands.survivalist.diwitted.description=Используйте обычный факел в Междуземье
+advancements.thebetweenlands.survivalist.pyromaniac.title=Пироманьяк
+advancements.thebetweenlands.survivalist.pyromaniac.description=Подожгите мох Октиновым слитком
+advancements.thebetweenlands.survivalist.quest_for_fire.title=Борьба за огонь
+advancements.thebetweenlands.survivalist.quest_for_fire.description=Подожгите торф
+advancements.thebetweenlands.survivalist.fetch.title=Уловка
+advancements.thebetweenlands.survivalist.fetch.description=Отвлеките торфяную мумию при помощи Блестящего камня
+advancements.thebetweenlands.survivalist.hardware_laundry.title=Стирка инструментов
 advancements.thebetweenlands.survivalist.hardware_laundry.description=Очистите свои инструменты
-advancements.thebetweenlands.survivalist.onions_have_layers.title=Луки имеют слои, инструменты похожи..
-advancements.thebetweenlands.survivalist.onions_have_layers.description=Ваши инструменты против коррозии!
+advancements.thebetweenlands.survivalist.onions_have_layers.title=Инструменты, как луковицы... многослойные
+advancements.thebetweenlands.survivalist.onions_have_layers.description=Покройте свои инструменты коррозией
 
 # Craftsman
 advancements.thebetweenlands.craftsman.root.title=Ремесленник
 advancements.thebetweenlands.craftsman.root.description=Создание мира
-advancements.thebetweenlands.craftsman.getting_harder_wood.title=Получение более твердого дерева
-advancements.thebetweenlands.craftsman.getting_harder_wood.description=Соберите древесину
-advancements.thebetweenlands.craftsman.all_over_again.title=Все снова..
-advancements.thebetweenlands.craftsman.all_over_again.description=Создайте верстак!
-advancements.thebetweenlands.craftsman.efficiency.title=Эффективно
+advancements.thebetweenlands.craftsman.getting_harder_wood.title=Добыча более твёрдого дерева
+advancements.thebetweenlands.craftsman.getting_harder_wood.description=Соберите древесину в Междуземье
+advancements.thebetweenlands.craftsman.all_over_again.title=И всё сначала
+advancements.thebetweenlands.craftsman.all_over_again.description=Создайте Верстак из сорного дерева
+advancements.thebetweenlands.craftsman.efficiency.title=Эффективность
 advancements.thebetweenlands.craftsman.efficiency.description=Создайте двойную серную печь
 advancements.thebetweenlands.craftsman.freebies.title=Халява!
-advancements.thebetweenlands.craftsman.freebies.description=Получите дополнительные слитки с использованием известнякового флюса
+advancements.thebetweenlands.craftsman.freebies.description=Получите дополнительные слитки, используя Очищенный известняк
 
 # Miner
-advancements.thebetweenlands.miner.root.title=Шахтер
-advancements.thebetweenlands.miner.root.description=Идти глубже..
-advancements.thebetweenlands.miner.advanced_darkness.title=Продвинутая тьма..
+advancements.thebetweenlands.miner.root.title=Шахтёр
+advancements.thebetweenlands.miner.root.description=Ещё глубже
+advancements.thebetweenlands.miner.advanced_darkness.title=Продвинутая тьма
 advancements.thebetweenlands.miner.advanced_darkness.description=Войдите в пещеру
 advancements.thebetweenlands.miner.new_shinies.title=Что-то новое!
 advancements.thebetweenlands.miner.new_shinies.description=Получить сырморит или октиновый слиток
@@ -1381,74 +1381,70 @@ advancements.thebetweenlands.miner.rock_bottom.description=Войдите в п�
 advancements.thebetweenlands.miner.get_schwifty.title=Что-то быстрое.
 advancements.thebetweenlands.miner.get_schwifty.description=Очень быстрое.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Config
+config.thebetweenlands.world_and_dimension=World And Dimension
+config.thebetweenlands.dimension_id=The Betweenlands Dimension ID
+config.thebetweenlands.druid_circle_frequency=Frequency of Druid Circles
+config.thebetweenlands.dimension_brightness=Dimension brightness
+config.thebetweenlands.enable_seasonal_events=Enable Seasonal Events
+config.thebetweenlands.portal_dimension_whitelist=Portal dimensions whitelist
+config.thebetweenlands.portal_default_return_dimension=Default portal return dimension
+config.thebetweenlands.portal_max_link_dist=Maximum portal link distance
+config.thebetweenlands.activate_rift_on_first_join=Activate Rift on first join
+config.thebetweenlands.activate_rift_on_first_join_duration=Activate Rift on first join duration
+config.thebetweenlands.start_in_betweenlands=Start in Betweenlands
+config.thebetweenlands.start_in_portal=Start in Portal
+
+config.thebetweenlands.rendering=Rendering
+config.thebetweenlands.wisp_quality=Wisp Rendering Quality
+config.thebetweenlands.use_shader=Use shaders for rendering
+config.thebetweenlands.dimension_shader_only=Shaders in dimension only
+config.thebetweenlands.sky_texture_resolution=Sky texture resolution
+config.thebetweenlands.fullbright_blocks=Full brightness blocks
+config.thebetweenlands.sky_rift_clouds=Sky rift clouds
+
+config.thebetweenlands.general=General
+config.thebetweenlands.bl_main_menu=Betweenlands Main Menu
+config.thebetweenlands.rowboat_view=Rowboat view
+config.thebetweenlands.use_food_sickness=Food Sickness
+config.thebetweenlands.caving_rope_indicator=Caving Rope Indicator
+config.thebetweenlands.override_conflicting_vanilla_recipes=Override Conflicting Vanilla Oredict Recipes
+config.thebetweenlands.override_any_conflicting_recipes=Override Any Conflicting Oredict Recipes
+config.thebetweenlands.use_rotten_food=Rotten Food
+config.thebetweenlands.reverse_rotten_food=Reverse Rotten Food
+config.thebetweenlands.rotten_food_whitelist=Rotten Food Whitelist
+config.thebetweenlands.rotten_food_blacklist=Rotten Food Blacklist
+config.thebetweenlands.tainting_whitelist=Potion Tainting Whitelist
+config.thebetweenlands.tainting_blacklist=Potion Tainting Blacklist
+config.thebetweenlands.fire_tool_whitelist=Fire Tool Whitelist
+config.thebetweenlands.fire_tool_blacklist=Fire Tool Blacklist
+config.thebetweenlands.fertilizer_whitelist=Fertilizer Whitelist
+config.thebetweenlands.fertilizer_blacklist=Fertilizer Blacklist
+config.thebetweenlands.tool_weakness_whitelist=Tool Weakness Whitelist
+config.thebetweenlands.tool_weakness_blacklist=Tool Weakness Blacklist
+config.thebetweenlands.torch_whitelist=Torch Whitelist
+config.thebetweenlands.torch_blacklist=Torch Blacklist
+config.thebetweenlands.caving_rope_despawn_time=Caving Rope Despawn Time
+
+config.thebetweenlands.mob_spawning=Mob Spawning
+config.thebetweenlands.max_entities_per_loaded_area=Max. entities per loaded area
+config.thebetweenlands.hard_entity_limit=Max. entities per world
+
+config.thebetweenlands.compatibility=Compatibility
+config.thebetweenlands.show_non_bl_fluids=Show Non BL Fluid Buckets
+config.thebetweenlands.show_non_bl_gem_recipes=JEI - Show Non BL Gem Recipes
+
+config.thebetweenlands.online_event_overrides=Online Environment Event Overrides
+config.thebetweenlands.online_event_overrides_enabled=Enabled
+config.thebetweenlands.check_interval=Check Interval
+config.thebetweenlands.failed_recheck_interval=Failed Recheck Interval
+config.thebetweenlands.failed_recheck_count=Failed Recheck Count
+config.thebetweenlands.default_remote_reset_time=Default Remote Reset Time
+
+config.thebetweenlands.debug=Debug
+config.thebetweenlands.debug_mode=Debug mode
+config.thebetweenlands.debug_model_loader=Model loader debug
+config.thebetweenlands.debug_recipe_overrides=Recipe overrides debug
+
+# Damage sources
+death.attack.bl.shockwave=%1$s was killed by a shockwave

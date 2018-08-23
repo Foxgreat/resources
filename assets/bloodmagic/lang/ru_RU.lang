@@ -206,9 +206,9 @@ tile.bloodmagic.dimensionalPortal.name=Пространственный порт
 tile.bloodmagic.bloodTank.name=Резервуар крови
 
 # Tooltips
-tooltip.bloodmagic.orb.desc=Хранит жизненную эссенцию
+tooltip.bloodmagic.orb.desc=Хранит необработанную Жизненную эссенцию
 tooltip.bloodmagic.orb.owner=Создан: %s
-tooltip.bloodmagic.currentOwner=Владелец: %s
+tooltip.bloodmagic.currentOwner=Текущий владелец: %s
 tooltip.bloodmagic.currentTier=Уровень: %d
 tooltip.bloodmagic.config.disabled=Запрещено настройками
 
@@ -256,7 +256,7 @@ tooltip.bloodmagic.bound.pickaxe.desc=&oБезжалостное уничтож�
 tooltip.bloodmagic.bound.axe.desc=&oДемоническая вырубка
 tooltip.bloodmagic.bound.shovel.desc=&oОчистим пол от грязи
 
-tooltip.bloodmagic.sacrificialDagger.desc=Небольшой надрез на пальце...
+tooltip.bloodmagic.sacrificialDagger.desc=Достаточно лишь уколоть палец...
 tooltip.bloodmagic.slate.desc=Камень, наполненный в кровавом алтаре
 tooltip.bloodmagic.inscriber.desc=Надписи на стене...
 
@@ -383,7 +383,6 @@ jei.bloodmagic.recipe.minimumSouls=Минимум: %1$,.2f энергии
 jei.bloodmagic.recipe.soulsDrained=Затраты: %1$,.2f энергии
 
 jei.bloodmagic.desc.altarBuilder=A creative-only item for use in debugging and testing.\n\nShift + Right click to change the tier to build. Right click an Altar to initiate the build.\n\nBreak an Altar while holding to dismantle it.
-jei.bloodmagic.desc.demonicWill=An imprint of a demonic entity attached to a creature.\n\nCan be obtained by killing a mob with a sentient weapon or by throwing a snare at a mob and killing it while it has white particles.
 
 # WAILA
 waila.bloodmagic.sneak=&oSneak for Information
@@ -402,3 +401,9 @@ tc.research_category.BLOODMAGIC=Sanguine Arcana
 bloodmagic.research_name.BLOODMAGIC=Blood Magic
 bloodmagic.research_text.BLOODMAGIC=Sanguine Arcana
 bloodmagic.research_page.BLOODMAGIC.1=The realm of the Blood Magics has always appeared to be a more solitary and "individual" art with blood mages being notoriously reclusive and a bit insane at times. However, the powers of self-sacrifice and life essence have uses even beyond a normal blood mage's sight, in fact, it is quite apparent that it may have some uses in thaumaturgy after all!
+
+item.bloodmagic.sacrificial_dagger.normal.name=Жертвенный кинжал
+item.bloodmagic.sacrificial_dagger.creative.name=Творческий жертвенный кинжал
+item.bloodmagic.monster_soul.raw.name=Демоническая энергия
+item.bloodmagic.soulSnare.base.name=Простой силок
+jei.bloodmagic.desc.demonicWill=Отпечаток демонической сущности, привязанный к существу.\n\nЕго можно получить, убив существо разумным оружием или кинув в него силок и убив тогда, когда оно начнёт испускать белые частицы.

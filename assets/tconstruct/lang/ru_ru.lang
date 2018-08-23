@@ -7,13 +7,13 @@ tile.tconstruct.tooltables.stenciltable.name=Стол для вырезки сх
 tile.tconstruct.tooltables.partbuilder.name=Стол для вырезки частей
 tile.tconstruct.tooltables.toolstation.name=Инженерная станция
 tile.tconstruct.tooltables.patternchest.name=Ящик для схем
-tile.tconstruct.tooltables.patternchest.tooltip=Можно хранить схемы и отливки
+tile.tconstruct.tooltables.patternchest.tooltip=Можно хранить схемы и формы для отливки
 tile.tconstruct.tooltables.partchest.name=Ящик для частей
 tile.tconstruct.tooltables.partchest.tooltip=Можно хранить много частей инструментов
 tile.tconstruct.toolforge.name=Кузня
 
 tile.tconstruct.soil.grout.name=Цемент
-tile.tconstruct.soil.grout.tooltip=Я - Грут!
+tile.tconstruct.soil.grout.tooltip=Я есть Гру... то есть цемент!
 tile.tconstruct.soil.slimy_mud_green.name=Конгломерат зелёной слизи
 tile.tconstruct.soil.slimy_mud_green.tooltip=Замедляет, но на нём можно высоко прыгать
 tile.tconstruct.soil.slimy_mud_blue.name=Конгломерат синей слизи
@@ -32,11 +32,11 @@ tile.tconstruct.mudbrick_stairs.name=Грязевые ступеньки
 tile.tconstruct.ore.cobalt.name=Кобальтовая руда
 tile.tconstruct.ore.ardite.name=Ардитовая руда
 
-tile.tconstruct.metal.cobalt.name=Блок кобальта
-tile.tconstruct.metal.ardite.name=Блок ардита
-tile.tconstruct.metal.manyullyn.name=Блок маньюлина
+tile.tconstruct.metal.cobalt.name=Кобальтовый блок
+tile.tconstruct.metal.ardite.name=Ардитовый блок
+tile.tconstruct.metal.manyullyn.name=Мануллиновый блок
 tile.tconstruct.metal.knightslime.name=Блок слизестали
-tile.tconstruct.metal.pigiron.name=Блок свинстали
+tile.tconstruct.metal.pigiron.name=Блок свиностали
 tile.tconstruct.metal.alubrass.name=Блок алюминиевой латуни
 tile.tconstruct.metal.silky_jewel.name=Шёлковый блок
 
@@ -113,60 +113,60 @@ tile.tconstruct.slime_vine_purple.name=Лоза фиолетовой слизи
 tile.tconstruct.slime_vine_purple_mid.name=Лоза фиолетовой слизи
 tile.tconstruct.slime_vine_purple_end.name=Лоза фиолетовой слизи
 
-tile.tconstruct.seared.stone.name=Сушёный камень
-tile.tconstruct.seared.cobble.name=Сушёный булыжник
-tile.tconstruct.seared.paver.name=Сушёная плитка
-tile.tconstruct.seared.brick.name=Сушёная кладка
-tile.tconstruct.seared.brick_cracked.name=Сушёная кладка (трещины)
-tile.tconstruct.seared.brick_fancy.name=Сушёная кладка (орнамент)
-tile.tconstruct.seared.brick_square.name=Сушёная кладка (узор)
-tile.tconstruct.seared.brick_triangle.name=Сушёная кладка (треугольник)
-tile.tconstruct.seared.brick_small.name=Сушёная кладка (малая)
-tile.tconstruct.seared.road.name=Сушёная дорога
-tile.tconstruct.seared.tile.name=Сушёные мини-плитки
-tile.tconstruct.seared.creeper.name=Сушёная кладка (крипер)
+tile.tconstruct.seared.stone.name=Высушенный камень
+tile.tconstruct.seared.cobble.name=Высушенный булыжник
+tile.tconstruct.seared.paver.name=Высушенная плитка
+tile.tconstruct.seared.brick.name=Высушенная кладка
+tile.tconstruct.seared.brick_cracked.name=Высушенная кладка (трещины)
+tile.tconstruct.seared.brick_fancy.name=Высушенная кладка (орнамент)
+tile.tconstruct.seared.brick_square.name=Высушенная кладка (узор)
+tile.tconstruct.seared.brick_triangle.name=Высушенная кладка (треугольник)
+tile.tconstruct.seared.brick_small.name=Высушенная кладка (малая)
+tile.tconstruct.seared.road.name=Высушенная дорога
+tile.tconstruct.seared.tile.name=Высушенные мини-плитки
+tile.tconstruct.seared.creeper.name=Высушенная кладка (крипер)
 tile.tconstruct.seared.tooltip=Часть плавильни. Подходят для декораций
 
-tile.tconstruct.seared_slab.stone.name=Сушёная плита (камень)
-tile.tconstruct.seared_slab.cobble.name=Сушёная плита (булыжник)
-tile.tconstruct.seared_slab.paver.name=Сушёная плита (плитка)
-tile.tconstruct.seared_slab.brick.name=Сушёная плита (кладка)
-tile.tconstruct.seared_slab.brick_cracked.name=Сушёная плита (кладка-трещины)
-tile.tconstruct.seared_slab.brick_fancy.name=Сушёная плита (кладка-орнамент)
-tile.tconstruct.seared_slab.brick_square.name=Сушёная плита (кладка-узор)
-tile.tconstruct.seared_slab.road.name=Сушёная плита (дорога)
-tile.tconstruct.seared_slab2.creeper.name=Сушёная плита (кладка-крипер)
-tile.tconstruct.seared_slab2.brick_triangle.name=Сушёная плита (кладка-треугольник)
-tile.tconstruct.seared_slab2.brick_small.name=Сушёная плита (малая кладка)
-tile.tconstruct.seared_slab2.tile.name=Сушёная плита (мини-плитка)
+tile.tconstruct.seared_slab.stone.name=Высушенная плита (камень)
+tile.tconstruct.seared_slab.cobble.name=Высушенная плита (булыжник)
+tile.tconstruct.seared_slab.paver.name=Высушенная плита (плитка)
+tile.tconstruct.seared_slab.brick.name=Высушенная плита (кладка)
+tile.tconstruct.seared_slab.brick_cracked.name=Высушенная плита (кладка-трещины)
+tile.tconstruct.seared_slab.brick_fancy.name=Высушенная плита (кладка-орнамент)
+tile.tconstruct.seared_slab.brick_square.name=Высушенная плита (кладка-узор)
+tile.tconstruct.seared_slab.road.name=Высушенная плита (дорога)
+tile.tconstruct.seared_slab2.creeper.name=Высушенная плита (кладка-крипер)
+tile.tconstruct.seared_slab2.brick_triangle.name=Высушенная плита (кладка-треугольник)
+tile.tconstruct.seared_slab2.brick_small.name=Высушенная плита (малая кладка)
+tile.tconstruct.seared_slab2.tile.name=Высушенная плита (мини-плитка)
 
-tile.tconstruct.seared_stairs_stone.name=Сушёные ступеньки (камень)
-tile.tconstruct.seared_stairs_cobble.name=Сушёные ступеньки (булыжник)
-tile.tconstruct.seared_stairs_paver.name=Сушёные ступеньки (плитка)
-tile.tconstruct.seared_stairs_brick.name=Сушёные ступеньки (кладка)
-tile.tconstruct.seared_stairs_brick_cracked.name=Сушёные ступеньки (кладка-трещины)
-tile.tconstruct.seared_stairs_brick_fancy.name=Сушёные ступеньки (кладка-орнамент)
-tile.tconstruct.seared_stairs_brick_square.name=Сушёные ступеньки (кладка-узор)
-tile.tconstruct.seared_stairs_brick_triangle.name=Сушёные ступеньки (кладка-треугольник)
-tile.tconstruct.seared_stairs_brick_small.name=Сушёные ступеньки (малая кладка)
-tile.tconstruct.seared_stairs_road.name=Сушёные ступеньки (дорога)
-tile.tconstruct.seared_stairs_tile.name=Сушёные ступеньки (мини-плитка)
-tile.tconstruct.seared_stairs_creeper.name=Сушёные ступеньки (кладка-крипер)
+tile.tconstruct.seared_stairs_stone.name=Высушенные ступеньки (камень)
+tile.tconstruct.seared_stairs_cobble.name=Высушенные ступеньки (булыжник)
+tile.tconstruct.seared_stairs_paver.name=Высушенные ступеньки (плитка)
+tile.tconstruct.seared_stairs_brick.name=Высушенные ступеньки (кладка)
+tile.tconstruct.seared_stairs_brick_cracked.name=Высушенные ступеньки (кладка-трещины)
+tile.tconstruct.seared_stairs_brick_fancy.name=Высушенные ступеньки (кладка-орнамент)
+tile.tconstruct.seared_stairs_brick_square.name=Высушенные ступеньки (кладка-узор)
+tile.tconstruct.seared_stairs_brick_triangle.name=Высушенные ступеньки (кладка-треугольник)
+tile.tconstruct.seared_stairs_brick_small.name=Высушенные ступеньки (малая кладка)
+tile.tconstruct.seared_stairs_road.name=Высушенные ступеньки (дорога)
+tile.tconstruct.seared_stairs_tile.name=Высушенные ступеньки (мини-плитка)
+tile.tconstruct.seared_stairs_creeper.name=Высушенные ступеньки (кладка-крипер)
 
 tile.tconstruct.smeltery_controller.name=Контроллер плавильни
 tile.tconstruct.smeltery_controller.tooltip=Мозги плавильни
 tile.tconstruct.smeltery_io.drain.name=Слив плавильни
 tile.tconstruct.smeltery_io.drain.tooltip=Слив и влив жидкостей плавильни
-tile.tconstruct.casting.table.name=Стол отливки
-tile.tconstruct.casting.basin.name=Резервуар отливки
+tile.tconstruct.casting.table.name=Стол для отливки
+tile.tconstruct.casting.basin.name=Резервуар для отливки
 tile.tconstruct.casting.tooltip=Отливает предметы жидкостями из плавильни
 tile.tconstruct.faucet.name=Горн
 tile.tconstruct.faucet.tooltip=Сливает жидкости из плавильни и других резервуаров
-tile.tconstruct.seared_tank.tank.name=Сушёный резервуар
-tile.tconstruct.seared_tank.gauge.name=Сушёный мерный резервуар
-tile.tconstruct.seared_tank.window.name=Сушёное окно
+tile.tconstruct.seared_tank.tank.name=Высушенный резервуар
+tile.tconstruct.seared_tank.gauge.name=Высушенный мерный резервуар
+tile.tconstruct.seared_tank.window.name=Высушенное окно
 tile.tconstruct.seared_tank.tooltip=Сердце плавильни\nСохраняет жидкости при снятии.
-tile.tconstruct.seared_glass.glass.name=Сушёное стекло
+tile.tconstruct.seared_glass.glass.name=Высушенное стекло
 tile.tconstruct.seared_glass.glass.tooltip=Часть плавильни. Подходит для декорации.\nНе вмещает жидкости.
 
 tile.tconstruct.seared_furnace_controller.name=Контроллер печи
@@ -268,7 +268,7 @@ item.tconstruct.edible.slimedrop_purple.name=Засохшая фиолетова
 item.tconstruct.edible.slimedrop_blood.name=Засохшая капля крови
 item.tconstruct.edible.slimedrop_magma.name=Засохшая огненная слизь
 
-item.tconstruct.materials.seared_brick.name=Сушёный кирпич
+item.tconstruct.materials.seared_brick.name=Высушенный кирпич
 item.tconstruct.materials.mud_brick.name=Грязевой кирпич
 item.tconstruct.materials.mud_brick.tooltip=Строительные блоки для стара и млада
 item.tconstruct.materials.dried_brick.name=Кирпич сушёной глины
@@ -305,23 +305,23 @@ item.tconstruct.ingots.pigiron.name=Слиток свиностали
 item.tconstruct.ingots.pigiron.tooltip=Хрю!
 item.tconstruct.ingots.alubrass.name=Слиток алюминиевой латуни
 
-item.tconstruct.nuggets.cobalt.name=Кобальтовый самородок
-item.tconstruct.nuggets.ardite.name=Ардитовый самородок
-item.tconstruct.nuggets.manyullyn.name=Маньюлиновый самородок
-item.tconstruct.nuggets.knightslime.name=Слизестальный самородок
-item.tconstruct.nuggets.pigiron.name=Самородок свиностали
-item.tconstruct.nuggets.alubrass.name=Самородок алюминиевой латуни
+item.tconstruct.nuggets.cobalt.name=Кобальтовый кусочек
+item.tconstruct.nuggets.ardite.name=Ардитовый кусочек
+item.tconstruct.nuggets.manyullyn.name=Маньюлиновый кусочек
+item.tconstruct.nuggets.knightslime.name=Слизестальный кусочек
+item.tconstruct.nuggets.pigiron.name=Кусочек свиностали
+item.tconstruct.nuggets.alubrass.name=Кусочек алюминиевой латуни
 
 item.tconstruct.pattern.blank=Пустая схема
 item.tconstruct.pattern.name=Схема - %s
-item.tconstruct.cast.blank=Пустая отливка
-item.tconstruct.cast.name=Отливка - %s
-item.tconstruct.clay_cast.name=Глиняная отливка - %s
-item.tconstruct.cast_custom.ingot.name=Отливка слитка
-item.tconstruct.cast_custom.nugget.name=Отливка самородка
-item.tconstruct.cast_custom.gem.name=Отливка камня
-item.tconstruct.cast_custom.plate.name=Отливка пластины
-item.tconstruct.cast_custom.gear.name=Отливка шестерни
+item.tconstruct.cast.blank=Пустая форма для отливки
+item.tconstruct.cast.name=Форма для отливки - %s
+item.tconstruct.clay_cast.name=Глиняная форма для отливки - %s
+item.tconstruct.cast_custom.ingot.name=Форма для отливки слитка
+item.tconstruct.cast_custom.nugget.name=Форма для отливки кусочка
+item.tconstruct.cast_custom.gem.name=Форма для отливки камня
+item.tconstruct.cast_custom.plate.name=Форма для отливки пластины
+item.tconstruct.cast_custom.gear.name=Форма для отливки шестерни
 
 item.tconstruct.sharpening_kit.name=оселок
 item.tconstruct.sharpening_kit.tooltip=Объедините с кремнем и инструментом\nдля увеличения до уровня добычи этого материала.
@@ -420,9 +420,9 @@ item.tconstruct.stone_stick.name=Каменный стержень
 
 item.tconstruct.fancy_frame.jewel.name=Красивая рамка
 item.tconstruct.fancy_frame.alubrass.name=Рамка из алюминиевой латуни
-item.tconstruct.fancy_frame.cobalt.name=Рамка из кобальта
-item.tconstruct.fancy_frame.ardite.name=Рамка из ардита
-item.tconstruct.fancy_frame.manyullyn.name=Рамка из маньюлина
+item.tconstruct.fancy_frame.cobalt.name=Кобальтовая рамка
+item.tconstruct.fancy_frame.ardite.name=Ардитовая рамка
+item.tconstruct.fancy_frame.manyullyn.name=Мануллиновая рамка
 item.tconstruct.fancy_frame.gold.name=Золотая рамка
 item.tconstruct.fancy_frame.clear.name=Стеклянная рамка
 
@@ -474,7 +474,7 @@ fluid.tconstruct.gold.name=Расплавленное золото
 fluid.tconstruct.pigiron.name=Расплавленная свиносталь
 fluid.tconstruct.cobalt.name=Расплавленный кобальт
 fluid.tconstruct.ardite.name=Расплавленный ардит
-fluid.tconstruct.manyullyn.name=Расплавленный маньюлин
+fluid.tconstruct.manyullyn.name=Расплавленный мануллин
 fluid.tconstruct.knightslime.name=Расплавленная слизесталь
 fluid.tconstruct.emerald.name=Жидкий изумруд
 fluid.tconstruct.glass.name=Жидкое стекло
@@ -857,13 +857,13 @@ tooltip.tool.holdCtrl=Зажмите §e§bCtrl§r§7 для информаци�
 tooltip.part.material_added_by=Материал добавлен %s
 tooltip.part.missing_material=Не хватает материала: %s
 tooltip.part.missing_stats=Материалу не хватает характеристик:\n%s
-tooltip.part.missing_info=У части нет инфорамции
+tooltip.part.missing_info=У части нет информации
 
 tooltip.pattern.cost=Затрат материала: %d
 
 tooltip.chest.has_items=Содержит %d предм.
 tooltip.patternchest.holds_patterns=Содержит %d схем(-ы).
-tooltip.patternchest.holds_casts=Содержит %d отливки.
+tooltip.patternchest.holds_casts=Содержит %d форм.
 
 tooltip.tank.fluid=%s
 tooltip.tank.amount=%d мВ
@@ -900,11 +900,11 @@ gui.error.wrong_material_part=Одна или несколько частей н
 gui.error.not_enough_durability=Недостаточно прочности для смены частей!\n%d требует больше прочности.
 # GUI Errors from modifiers
 gui.error.not_enough_modifiers=Недостаточно слотов улучшения. (надо %d)
-gui.error.single_modifier=%s можно применять единоразово.
+gui.error.single_modifier=%s можно применять один раз.
 gui.error.max_level_modifier=Максимальный уровень для черты %s достигнут.
 gui.error.no_modifier_for_item=Не найдены улучшения для %s.
 gui.error.incompatible_modifiers=Улучшения %s и %s нельзя накладывать одновременно
-gui.error.incompatible_trait=Улучшение %s cнесовместимо с %s
+gui.error.incompatible_trait=Улучшение %s несовместимо с %s
 gui.error.incompatible_enchantments=Улучшение %s несовместимо с зачарованием %s
 
 ################
@@ -945,7 +945,7 @@ gui.toolstation.noTraits=Ничего :[
 
 # Pattern Chest
 gui.patternchest.name=Ящик для схем
-gui.castchest.name=Ящик для отливки
+gui.castchest.name=Ящик для форм
 
 # Part Chest
 gui.partchest.name=Ящик для частей
@@ -964,7 +964,7 @@ gui.smeltery.liquid.kilobucket=кВ
 gui.smeltery.liquid.bucket=В
 gui.smeltery.liquid.millibucket=мВ
 gui.smeltery.liquid.ingot=Слитк.
-gui.smeltery.liquid.nugget=Самородк.
+gui.smeltery.liquid.nugget=Кусочков
 gui.smeltery.liquid.block=Блок.
 gui.smeltery.liquid.gem=Камн.
 

@@ -35,7 +35,7 @@ item.immersivepetroleum.upgrades.tank.name=Расширенный топливн
 item.immersivepetroleum.upgrades.rudders.name=Маневровый руль
 item.immersivepetroleum.upgrades.paddles.name=Вёсла
 
-item.immersivepetroleum.schematic.name=%s Проектор
+item.immersivepetroleum.schematic.name=Проектор %s
 
 item.immersivepetroleum.speedboat.name=Моторная лодка
 

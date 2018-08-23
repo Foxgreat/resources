@@ -578,3 +578,45 @@ embers.commands.fill.failed=Missing ember data at chunk [%d, %d] (at x %d, z %d)
 embers.commands.fill.added=Added %d to the ember level (now %d) in the chunk [%d, %d] (at x %d, z %d)
 embers.commands.fill.set=Added the ember level to %d in the chunk [%d, %d] (at x %d, z %d)
 embers.commands.fill.query=Ember level is %d in the chunk [%d, %d] (at x %d, z %d)
+
+itemGroup.emberroot=EmberRoot Zoo
+
+entity.rainbow_golem.name=Голем
+entity.rainbow_golem.blue.name=Ледяной голем
+entity.rainbow_golem.green.name=Природный голем
+entity.rainbow_golem.yellow.name=Позолоченный голем
+entity.rainbow_golem.orange.name=Пламенный голем
+entity.rainbow_golem.purple.name=Самоцветный голем
+entity.rainbow_golem.red.name=Магмовый голем
+
+entity.rainbowslime.name=Радужный слизень
+entity.rainbowslime.blue.name=Водяной слизень
+entity.rainbowslime.clay.name=Глиняный слизень
+entity.rainbowslime.white.name=Снежный слизень
+entity.rainbowslime.purple.name=Ядовитый слизень
+entity.deers.name=Дикий олень
+entity.sprouts.name=Радужный росток
+entity.fairies.name=Радужная фея 
+
+entity.hero.name=Падший герой
+entity.enderminy.name=Мини-эндермен
+entity.dire_wolf.name=Ужасный волк
+entity.fallenmount.name=Падший скакун
+entity.knight_fallen.name=Падший рыцарь
+entity.witherwitch.name=Отравляющая ведьма
+entity.withercat.name=Демоническая кошка
+entity.slime.name=Слизнеблок
+entity.owl.name=Дикая сова
+entity.skeleton_frozen.name=Замороженный скелет
+
+entity.timberwolf.name=Волк
+entity.rootsonespriteboss.name=Страж духов
+entity.rootsonespritegreater.name=Большой дух
+entity.rootsonesprite.name=Дух
+entity.rootsonespriteling.name=Маленький дух
+
+entity.creeper.name=Проклятый крипер
+
+
+item.owl_egg.name=Яйцо совы
+

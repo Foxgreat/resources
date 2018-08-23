@@ -1,73 +1,59 @@
+#PARSE_ESCAPES
+#Translated by TimeConqueror
 itemGroup.storagedrawers=Storage Drawers
 itemGroup.storagedrawersSorting=Storage Drawers - Сортировка
 
 storagedrawers.container.drawers=Ящики
-storagedrawers.container.compDrawers=Уплотняющие Ящики
+storagedrawers.container.compDrawers=Сжимающие ящики
 storagedrawers.container.upgrades=Улучшения
-storagedrawers.container.drawer_controller=Контроллер Ящика
-storagedrawers.container.unboundSlave=Непривязанный Подчинённый
-storagedrawers.container.framingTable=Стол Обрамления
+storagedrawers.container.drawer_controller=Контроллер ящиков
+storagedrawers.container.unboundSlave=Unbound Slave
+storagedrawers.container.framingTable=Обрамляющий стол
 
 storagedrawers.msg.maxUpgrades=Этот ящик не может принимать дополнительные улучшения.
+storagedrawers.msg.cannotAddUpgrade=Данное улучшение невозможно вставить в этот ящик.
 
 # Items
-item.storagedrawers.upgradeTemplate.name=Шаблон Улучшения
-item.storagedrawers.upgradeStorage.obsidian.name=Улучшение Хранилища (I)
-item.storagedrawers.upgradeStorage.iron.name=Улучшение Хранилища (II)
-item.storagedrawers.upgradeStorage.gold.name=Улучшение Хранилища (III)
-item.storagedrawers.upgradeStorage.diamond.name=Улучшение Хранилища (IV)
-item.storagedrawers.upgradeStorage.emerald.name=Улучшение Хранилища (V)
+item.storagedrawers.upgradeTemplate.name=Шаблон улучшения
+item.storagedrawers.upgradeStorage.obsidian.name=Улучшение хранилища (I)
+item.storagedrawers.upgradeStorage.iron.name=Улучшение хранилища (II)
+item.storagedrawers.upgradeStorage.gold.name=Улучшение хранилища (III)
+item.storagedrawers.upgradeStorage.diamond.name=Улучшение хранилища (IV)
+item.storagedrawers.upgradeStorage.emerald.name=Улучшение хранилища (V)
+item.storagedrawers.upgradeOneStack.name=Уменьшение хранилища
+item.storagedrawers.upgradeOneStack.description=Уменьшает базовую вместимость хранилища до одного стака
 item.storagedrawers.upgradeStatus.level1.name=Улучшение «Индикатор» (I)
-item.storagedrawers.upgradeStatus.level1.description=Показывает, когда ящик заполнен
+item.storagedrawers.upgradeStatus.level1.description=Показывает, когда ящик полностью заполнен
 item.storagedrawers.upgradeStatus.level2.name=Улучшение «Индикатор» (II)
 item.storagedrawers.upgradeStatus.level2.description=Показывает уровень заполнения
-item.storagedrawers.upgradeVoid.name=Пустотное Улучшение
+item.storagedrawers.upgradeVoid.name=Пустотное улучшение
 item.storagedrawers.upgradeVoid.description=Уничтожает лишние предметы
-item.storagedrawers.upgradeCreative.store.name=Творческое Улучшение Хранилища
+item.storagedrawers.upgradeConversion.name=Улучшение «Конвертация»
+item.storagedrawers.upgradeConversion.description=Автоматически конвертирует совместимые предметы
+item.storagedrawers.upgradeCreative.store.name=Творческое улучшение хранилища
 item.storagedrawers.upgradeCreative.store.description=Почти бесконечное хранилище
-item.storagedrawers.upgradeCreative.vend.name=Творческое Торговое Улучшение
-item.storagedrawers.upgradeCreative.vend.description=Неограниченный вывод предмета
-item.storagedrawers.upgradeRedstone.combined.name=Редстоун Улучшение
-item.storagedrawers.upgradeRedstone.combined.description=Испускает сигнал для всего хранения.
-item.storagedrawers.upgradeRedstone.max.name=Редстоун Макс. Улучшение
+item.storagedrawers.upgradeCreative.vend.name=Творческое улучшение продажи
+item.storagedrawers.upgradeCreative.vend.description=Неограниченный вывод предметов
+item.storagedrawers.upgradeRedstone.combined.name=Редстоуновое улучшение
+item.storagedrawers.upgradeRedstone.combined.description=Выдаёт сигнал, исходя из общей заполненности.
+item.storagedrawers.upgradeRedstone.max.name=Редстоуновое улучшение «Максимум»
 item.storagedrawers.upgradeRedstone.max.description=Излучает сигнал наиболее полного слота.
-item.storagedrawers.upgradeRedstone.min.name=Редстоун Мин. Улучшение
+item.storagedrawers.upgradeRedstone.min.name=Редстоуновое улучшение «Минимум»
 item.storagedrawers.upgradeRedstone.min.description=Излучает сигнал наименее полного слота.
 item.storagedrawers.upgradeSorting.name=Сортирующее Улучшение
 item.storagedrawers.upgradeSorting.description=Для модификации Refined Relocation
-item.storagedrawers.drawerKey.name=Ключ Ящика
-item.storagedrawers.drawerKey.description=Блокировка и разблокировка ящика
-item.storagedrawers.shroudKey.name=Ключ Сокрытия
-item.storagedrawers.shroudKey.description=Отображение или скрытие элементов этикетки
-item.storagedrawers.personalKey.name=Персональный Ключ
-item.storagedrawers.personalKey.description=Защищает доступ для других игроков
-item.storagedrawers.tape.name=Лента Для Упаковки
-item.storagedrawers.tape.description=Уплотнение ящикам при переезде
+item.storagedrawers.drawerKey.name=Ключ от ящика
+item.storagedrawers.drawerKey.description=Запирает и отпирает ящики\nДержите в неведущей руке, чтобы запирать устанавливаемые ящики
+item.storagedrawers.shroudKey.name=Прячущий ключ
+item.storagedrawers.shroudKey.description=Показывает или прячет изображения предметов в ящике
+item.storagedrawers.quantifyKey.name=Ключ показа количества
+item.storagedrawers.quantifyKey.description=Показывает или прячет изображение хранимого количества предметов
+item.storagedrawers.personalKey.name=Персональный ключ
+item.storagedrawers.personalKey.description=Запрещает доступ другим игрокам
+item.storagedrawers.tape.name=Упаковочная лента
+item.storagedrawers.tape.description=Заклеивает ящики для их перемещения
 
 # Blocks
-tile.storagedrawers.basicDrawers.fulldrawers1.name=Основной Ящик
-tile.storagedrawers.basicDrawers.fulldrawers2.name=Основной Ящик 1x2
-tile.storagedrawers.basicDrawers.fulldrawers4.name=Основной Ящик 2x2
-tile.storagedrawers.basicDrawers.halfdrawers2.name=Половина Ящика 1x2
-tile.storagedrawers.basicDrawers.halfdrawers4.name=Половина Ящика 2x2
-
-tile.storagedrawers.customDrawers.fulldrawers1.name=Обрамлённый Ящик
-tile.storagedrawers.customDrawers.fulldrawers2.name=Обрамлённый Ящик 1x2
-tile.storagedrawers.customDrawers.fulldrawers4.name=Обрамлённый Ящик 2x2
-tile.storagedrawers.customDrawers.halfdrawers2.name=Обрамлённый Половинный Ящик 1x2
-tile.storagedrawers.customDrawers.halfdrawers4.name=Обрамлённый Половинный Ящик 2x2
-
-tile.storagedrawers.fullCustom1.name=Обрамлённый Ящик
-tile.storagedrawers.fullCustom2.name=Обрамлённый Ящик 1x2
-tile.storagedrawers.fullCustom4.name=Обрамлённый Ящик 2x2
-tile.storagedrawers.halfCustom2.name=Обрамлённый Ящик 1x2
-tile.storagedrawers.halfCustom4.name=Обрамлённый Ящик 2x2
-tile.storagedrawers.customTrim.name=Оформлен Отделкой
-
-tile.storagedrawers.compDrawers.name=Уплотняющие Ящики
-tile.storagedrawers.controller.name=Контроллер Ящика
-tile.storagedrawers.controllerSlave.name=Подчиненный Контроллера
-tile.storagedrawers.framingTable.name=Стол Обрамления
 
 tile.storagedrawers.trim.oak.name=Отделка из Дуба
 tile.storagedrawers.trim.spruce.name=Отделка из Ели
@@ -81,6 +67,36 @@ storagedrawers.drawers.sealed=Содержимое запечатано внут
 storagedrawers.upgrade.description=Увеличивает хранилище в %d раз по сравнению с обычным
 storagedrawers.controller.description=Взаимодействует с несколькими соединёнными ящиками
 storagedrawers.controllerSlave.description=Дополнительно присоединить точки для контроллеров
+tile.storagedrawers.basicDrawers.fulldrawers1.name=Базовый ящик
+tile.storagedrawers.basicDrawers.fulldrawers2.name=Базовые ящики 1x2
+tile.storagedrawers.basicDrawers.fulldrawers4.name=Базовые ящики 2x2
+tile.storagedrawers.basicDrawers.halfdrawers2.name=Половинные ящики 1x2
+tile.storagedrawers.basicDrawers.halfdrawers4.name=Половинные ящики 2x2
+
+tile.storagedrawers.customDrawers.fulldrawers1.name=Обрамлённый ящик
+tile.storagedrawers.customDrawers.fulldrawers2.name=Обрамлённые ящики 1x2
+tile.storagedrawers.customDrawers.fulldrawers4.name=Обрамлённые ящики 2x2
+tile.storagedrawers.customDrawers.halfdrawers2.name=Обрамлённые половинные ящики 1x2
+tile.storagedrawers.customDrawers.halfdrawers4.name=Обрамлённые половинные ящики 2x2
+
+tile.storagedrawers.fullCustom1.name=Обрамлённый ящик
+tile.storagedrawers.fullCustom2.name=Обрамлённые ящики 1x2
+tile.storagedrawers.fullCustom4.name=Обрамлённые ящики 2x2
+tile.storagedrawers.halfCustom2.name=Обрамлённые ящики 1x2
+tile.storagedrawers.halfCustom4.name=Обрамлённые ящики 2x2
+tile.storagedrawers.customTrim.name=Обрамлённая отделка
+
+tile.storagedrawers.compDrawers.name=Сжимающий ящик
+tile.storagedrawers.controller.name=Контроллер ящиков
+tile.storagedrawers.controllerSlave.name=Вспомогательное устройство контроллера
+tile.storagedrawers.framingTable.name=Обрамляющий стол
+
+tile.storagedrawers.trim.oak.name=Дубовая отделка
+tile.storagedrawers.trim.spruce.name=Еловая отделка
+tile.storagedrawers.trim.birch.name=Берёзовая отделка
+tile.storagedrawers.trim.jungle.name=Отделка из тропического дерева
+tile.storagedrawers.trim.acacia.name=Акациевая отделка
+tile.storagedrawers.trim.big_oak.name=Отделка из тёмного дуба
 
 # Material
 storagedrawers.material=Материал: %s
