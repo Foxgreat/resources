@@ -11,7 +11,7 @@ commands.aov.success.reset=Reset Success
 
 # Death
 death.attack.aov.destruction=%s has been destroyed
-death.attack.aov.nimbusRay=%s has been irradiated
+death.attack.aov.nimbusray=%s has been irradiated
 death.attack.aov.cosmic=%s has fallen fate to the stars
 
 # Potion
@@ -33,6 +33,7 @@ tile.aov.blockangelic.name=Angelic Statue
 
 # KeyBinds
 key.categories.aov=Angel of Vengeance
+key.aov.target=Lock-On Targetting
 key.aov.bartoggle=Toggle Spell Bar
 key.aov.bar.0=Activate Spell Slot 1
 key.aov.bar.1=Activate Spell Slot 2
