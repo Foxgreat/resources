@@ -84,6 +84,7 @@ tile.rfOutput.name=Выход сигнала красного камня (RF)
 tile.microwaveReciever.name=Микроволновый приёмник
 tile.solarPanel.name=Солнечная панель
 tile.suitWorkStation.name=Станция модификации костюма
+tile.orientationControl.name=Контроллер ориентации
 tile.biomeScanner.name=Сканер биомов
 tile.atmoshereTerraformer.name=Терраформер атмосферы
 tile.deployableRocketAssembler.name=Автоматический сборщик ракет-носителей
@@ -108,7 +109,9 @@ tile.spaceElevatorController.name=Космический лифт
 tile.beacon.name=Маяк
 tile.thermiteTorch.name=Термитный факел
 tile.wirelessTransciever.name=Беспроводной приемопередатчик
+
 tile.Dilithium.name=Руда дилития
+
 tile.coil.dilithium.name=Дилитевая катушка
 
 item.lens.0.name=Базовая линза
@@ -185,6 +188,7 @@ container.monitoringstation=Станция мониторинга
 container.satelliteMonitor=Спутниковый терминал
 
 enchantment.spaceBreathing=Герметичная изоляция
+
 data.undefined.name=Случайные данные
 data.distance.name=Расстояние
 data.humidity.name=Влажность
@@ -237,6 +241,8 @@ achievement.beerOnTheSun=На Солнце пьют по-взрослому
 achievement.beerOnTheSun.desc=Чтобы достичь орбиты, потребуется больше ТНТ
 achievement.suitedUp=А вот и одёжка!
 achievement.suitedUp.desc=Наденьте полный скафандр
+
+
 
 key.controls.advancedRocketry=Advanced Rocketry
 key.openRocketUI=Откройте графический интерфейс ракеты
@@ -302,7 +308,6 @@ msg.terraformer.pressure=Давление
 msg.biomescanner.gas=И чё, вроде пахнет газом?
 msg.gravitycontroller.radius=Радиус:
 msg.gravitycontroller.targetgrav=Целевая сила тяжести:
-msg.gravitycontroller.none
 msg.gravitycontroller.activeset=Active: задать
 msg.gravitycontroller.activeadd=Active: добавить
 msg.gravitycontroller.targetdir.1=Цель ->
@@ -322,7 +327,7 @@ msg.stationaltctrl.maxaltrate=Максимальная скорость изме
 msg.stationaltctrl.tgtalt=Целевая высота:
 msg.stationaltctrl.alt=Высота:
 msg.stationgravctrl.maxaltrate=Максимальная скорость изменения силы тяжести:
-msg.stationgravctrl.tgtalt=Целевая сила тяжести: 
+msg.stationgravctrl.tgtalt=Сила тяжести цели:
 msg.stationgravctrl.alt=Искусственная сила тяжести:
 msg.stationorientctrl.alt=Угловая скорость:
 msg.stationorientctrl.tgtalt=целевая угловая скорость:
@@ -376,6 +381,7 @@ msg.biomechanger.numBiome=Количество отсканированных б
 msg.itemorescanner.nosat=Спутник еще не запущен
 msg.itemorescanner.maxzoom=Максимальное увеличение:
 msg.itemorescanner.filter=Может фильтровать руду:
+msg.itemorescanner.value=Расход:
 msg.itemplanetidchip.planetname=Название планеты:
 msg.itemplanetidchip.stationid=id станции:
 msg.itemplanetidchip.artifacts=Артефакты:
@@ -410,6 +416,7 @@ msg.entity.rocket.disass=Разборка
 msg.entity.rocket.seldst=Выбрать пункт назначения
 msg.entity.rocket.clear=Очистить
 msg.entity.rocket.none=Ракета не выбрана
+msg.wirelessTransciever.extract=Разгрузить
 
 msg.entityDeployedRocket.notGasGiant=Тут нет газа
 msg.powerunit.rfpertick=RF/t
@@ -427,3 +434,4 @@ msg.unprogrammed=Убрана программа
 msg.programfail=Ошибка программирования
 msg.modules=модулей
 msg.na=Н/Д
+msg.entityDeployedRocket.notGasGiant=Тут нет газа
