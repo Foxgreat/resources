@@ -9,7 +9,6 @@ awconfig.automation_config=Настройки модуля автоматиза�
 awconfig.automation_config.tooltip=Клиентские настройки для модуля автоматизации
 awconfig.npc_config=Настройки модуля НПС
 awconfig.npc_config.tooltip=Клиентские настройки для модуля НПС
-awconfig.keybind.toggle_workbounds_render=Переключение рендера рабочих панелей
 
 #items
 itemGroup.tabs.awcore=Ancient Warfare основной модуль
@@ -36,6 +35,7 @@ item.backpack.1.name=Рюкзак путешественника
 item.backpack.2.name=Средний рюкзак
 item.backpack.3.name=Большой рюкзак
 item.steel_ingot.name=Стальной слиток
+item.info_tool.name=Инфо-инструмент
 #component (shared)
 item.component.0.name=Комплект деревянных шестерен
 item.component.1.name=Комплект железных шестерен
@@ -58,6 +58,7 @@ item.construction_tool_lakes.name=Создание озера
 item.block_info_clicker.name=Инструмент информации о блоке
 item.town_builder.name=Инструмент мгновенной постройки города
 item.structure_builder_world_gen.name=Конструктор зданий
+item.loot_chest_placer.name=Установщик сундука с добычей
 #automation
 item.worksite_upgrade.0.name=Улучшение - средняя ферма
 item.worksite_upgrade.1.name=Улучшение - большая ферма
@@ -90,22 +91,23 @@ item.bard_instrument.lute.name=Лютня
 item.bard_instrument.flute.name=Флейта
 item.bard_instrument.harp.name=Арфа
 item.bard_instrument.drum.name=Барабан
-entity.AncientWarfareNpc.courier.name=Курьер
-entity.AncientWarfareNpc.trader.name=Торговец
-entity.AncientWarfareNpc.priest.name=Жрец
-entity.AncientWarfareNpc.bard.name=Бард
-entity.AncientWarfareNpc.worker.name=Рабочий
-entity.AncientWarfareNpc.worker.farmer.name=Фермер
-entity.AncientWarfareNpc.worker.lumberjack.name=Дровосек
-entity.AncientWarfareNpc.worker.miner.name=Шахтёр
-entity.AncientWarfareNpc.worker.researcher.name=Исследователь
-entity.AncientWarfareNpc.worker.craftsman.name=Ремесленник
-entity.AncientWarfareNpc.combat.name=Боевой НПС
-entity.AncientWarfareNpc.combat.soldier.name=Воин
-entity.AncientWarfareNpc.combat.archer.name=Лучник
-entity.AncientWarfareNpc.combat.medic.name=Лекарь
-entity.AncientWarfareNpc.combat.engineer.name=Инженер
-entity.AncientWarfareNpc.combat.commander.name=Командир
+entity.ancientwarfarenpc.courier.name=Курьер
+entity.ancientwarfarenpc.trader.name=Торговец
+entity.ancientwarfarenpc.priest.name=Жрец
+entity.ancientwarfarenpc.bard.name=Бард
+entity.ancientwarfarenpc.worker.name=Работник
+entity.ancientwarfarenpc.worker.farmer.name=Фермер
+entity.ancientwarfarenpc.worker.lumberjack.name=Лесник
+entity.ancientwarfarenpc.worker.miner.name=Шахтёр
+entity.ancientwarfarenpc.worker.researcher.name=Исследователь
+entity.ancientwarfarenpc.worker.craftsman.name=Крафтер
+entity.ancientwarfarenpc.combat.name=Боевой НПЦ
+entity.ancientwarfarenpc.combat.soldier.name=Солдат
+entity.ancientwarfarenpc.combat.archer.name=Лучник
+entity.ancientwarfarenpc.combat.medic.name=Медик
+entity.ancientwarfarenpc.combat.engineer.name=Инженер
+entity.ancientwarfarenpc.combat.commander.name=Командир
+entity.ancientwarfarenpc.siege_engineer.name=Инженер-механик
 
 #vehicle
 
@@ -118,6 +120,7 @@ tile.auto_crafting.0.name=Автоматический верстак
 tile.quarry.name=Каменоломня
 tile.tree_farm.name=Лесопилка
 tile.crop_farm.name=Ферма семян
+tile.fruit_farm.name=Ферма фруктов
 tile.mushroom_farm.name=Грибная ферма
 tile.animal_farm.name=Ферма животных
 tile.fish_farm.name=Рыбная ферма
@@ -152,12 +155,14 @@ tile.chunk_loader_simple.name=Простой загрузчик чанков
 tile.chunk_loader_deluxe.name=Продвинутый загрузчик чанков
 tile.windmill_generator.0.name=Регулятор ветряной мельницы
 tile.windmill_blade.name=Лопасть ветряной мельницы
-tile.sound_block.name=Продвинутый нотный блок
 #structure
 tile.advanced_spawner.name=Продвинутый спаунер существ
 tile.drafting_station.name=Чертёжная станция
 tile.structure_builder_ticked.name=Конструктор зданий
+tile.sound_block.name=Продвинутый нотный блок
 tile.gate_proxy.name=Gate Proxy Block
+tile.structure_scanner_block.name=Сканер структур
+tile.advanced_loot_chest.name=Улучшенный сундук с добычей
 #npc
 tile.town_hall.name=Ратуша
 tile.recruiting_station.name=Станция вербовки
@@ -169,6 +174,8 @@ tile.teleport_hub.tooltip.3=между пользвательскими штаб
 #vehicle
 
 #guistrings
+guistrings.bounds_on=Границы ВКЛ.
+guistrings.bounds_off=Границы ВЫКЛ.
 guistrings.volume=Громкость
 guistrings.length=Длительность
 guistrings.random=Случайно
@@ -214,6 +221,7 @@ guistrings.invalid_name=Неверное название
 guistrings.please_select_valid_name=Выберите действительное название
 guistrings.input_name=Введите название
 guistrings.export=Экспорт
+guistrings.restore=Восстановить
 guistrings.include_immediately=Включить в игру сразу ?
 guistrings.validation_type=Текущий тип параметров: 
 guistrings.setup_validation=Изменение параметров
@@ -221,11 +229,11 @@ guistrings.select_dimensions=Выбрать измерения
 guistrings.current_selection=Текущий выбор:
 guistrings.none=Не выбрано
 guistrings.corrupt_item=НЕВЕРНЫЙ ПРЕДМЕТ, НЕПРАВИЛЬНЫЕ ДАННЫЕ NBT
+guistrings.loot_rolls=Голосование за добычу
 guistrings.selected_mob=Выбранное существо:
 guistrings.next=След.
 guistrings.previous=Пред.
 guistrings.remove=Удалить
-guistrings.delete=Удалить
 guistrings.add=Добавить
 guistrings.for=Для
 guistrings.min=Мин.
@@ -258,10 +266,10 @@ guistrings.spawner.spawn_count=Количество существ
 guistrings.spawner.max_nearby_entities=Макс. кол-во существ рядом
 guistrings.spawner.mob_range=Расстояние обнаружения существ
 guistrings.required_player_range=Треб. расст. до игрока
-guistrings.redstone=Красная пыль
 guistrings.spawner.spawn_range=Дальность спауна
 guistrings.spawner.warning_1=ВНИМАНИЕ!! Некоторые существа из других модов могут ломать игру
 guistrings.spawner.warning_2=Проверьте / настройте существ перед началом игры
+guistrings.spawner.entity_set=Сохранённые настройки для призыва объекта %1$s 
 guistrings.spawner.noblock=Рассадник монстров не может найти блок для установки
 guistrings.spawner.nodata=Рассадник монстров не содержит существа
 guistrings.spawner.group_count=Всего групп существ
@@ -527,116 +535,26 @@ guistrings.research.researched_items=Исследованные предметы
 guistrings.research.research_needed=Требуемые исследования
 
 #npc
-entity.AncientWarfareNpc.aw_npc_worker.name=Рабочий
-entity.AncientWarfareNpc.aw_npc_combat.name=Воин
-entity.AncientWarfareNpc.aw_npc_courier.name=Курьер
-entity.AncientWarfareNpc.aw_npc_trader.name=Торговец
-entity.AncientWarfareNpc.aw_npc_priest.name=Жрец
-entity.AncientWarfareNpc.aw_npc_bard.name=Бард
-entity.AncientWarfareNpc.bandit.archer.name=Бандит-лучник
-entity.AncientWarfareNpc.bandit.archer.elite.name=Элитный бандит-лучник
-entity.AncientWarfareNpc.bandit.soldier.name=Бандит-воин
-entity.AncientWarfareNpc.bandit.soldier.elite.name=Элитный бандит-воин
-entity.AncientWarfareNpc.bandit.cavalry.name=Бандит-кавалерист
-entity.AncientWarfareNpc.bandit.mounted_archer.name=Бандит-конный лучник
-entity.AncientWarfareNpc.bandit.trader.name=Бандит-торговец
-entity.AncientWarfareNpc.bandit.priest.name=Бандит-жрец
-entity.AncientWarfareNpc.bandit.leader.name=Бандит-командир
-entity.AncientWarfareNpc.bandit.leader.elite.name=Элитный бандит-командир
-entity.AncientWarfareNpc.bandit.civilian.male.name=Бандит-житель ( мужчина )
-entity.AncientWarfareNpc.bandit.civilian.female.name=Бандит-житель ( женщина )
-entity.AncientWarfareNpc.bandit.bard.name=Бандит-бард
-entity.AncientWarfareNpc.desert.archer.name=Пустынный лучник
-entity.AncientWarfareNpc.desert.archer.elite.name=Элитный пустынный лучник
-entity.AncientWarfareNpc.desert.soldier.name=Пустынный солдат
-entity.AncientWarfareNpc.desert.soldier.elite.name=Элитный пустынный солдат
-entity.AncientWarfareNpc.desert.cavalry.name=Пустынный кавалерист
-entity.AncientWarfareNpc.desert.mounted_archer.name=Пустынный конный лучник
-entity.AncientWarfareNpc.desert.trader.name=Пустынный торговец
-entity.AncientWarfareNpc.desert.priest.name=Пустынный жрец
-entity.AncientWarfareNpc.desert.leader.name=Пустынный командир
-entity.AncientWarfareNpc.desert.leader.elite.name=Элитный пустынный командир
-entity.AncientWarfareNpc.desert.civilian.male.name=Житель пустыни ( мужчина )
-entity.AncientWarfareNpc.desert.civilian.female.name=Житель пустыни ( женщина )
-entity.AncientWarfareNpc.desert.bard.name=Пустынный бард
-entity.AncientWarfareNpc.native.archer.name=Лучник джунглей
-entity.AncientWarfareNpc.native.archer.elite.name=Элитный лучник джунглей
-entity.AncientWarfareNpc.native.soldier.name=Воин джунглей
-entity.AncientWarfareNpc.native.soldier.elite.name=Элитный воин джунглей
-entity.AncientWarfareNpc.native.cavalry.name=Кавалерист джунглей
-entity.AncientWarfareNpc.native.mounted_archer.name=Конный лучник джунглей
-entity.AncientWarfareNpc.native.trader.name=Торговец джунглей
-entity.AncientWarfareNpc.native.priest.name=Жрец джунглей
-entity.AncientWarfareNpc.native.leader.name=Командир джунглей
-entity.AncientWarfareNpc.native.leader.elite.name=Элитный командир джунглей
-entity.AncientWarfareNpc.native.civilian.male.name=Житель джунглей ( мужчина )
-entity.AncientWarfareNpc.native.civilian.female.name=Житель джунглей ( женщина )
-entity.AncientWarfareNpc.native.bard.name=Бард джунглей
-entity.AncientWarfareNpc.pirate.archer.name=Пират-лучник
-entity.AncientWarfareNpc.pirate.archer.elite.name=Элитный пират-лучник
-entity.AncientWarfareNpc.pirate.soldier.name=Пират-воин
-entity.AncientWarfareNpc.pirate.soldier.elite.name=Элитный пират-воин
-entity.AncientWarfareNpc.pirate.cavalry.name=Пират-кавалерист
-entity.AncientWarfareNpc.pirate.mounted_archer.name=Пират конный лучник
-entity.AncientWarfareNpc.pirate.trader.name=Пират-торговец
-entity.AncientWarfareNpc.pirate.priest.name=Пират-жрец
-entity.AncientWarfareNpc.pirate.leader.name=Пират-командир
-entity.AncientWarfareNpc.pirate.leader.elite.name=Элитный пират-командир
-entity.AncientWarfareNpc.pirate.civilian.male.name=Пират-житель ( мужчина )
-entity.AncientWarfareNpc.pirate.civilian.female.name=Пират-житель ( женщина )
-entity.AncientWarfareNpc.pirate.bard.name=Пират-бард
-entity.AncientWarfareNpc.viking.archer.name=Викинг-лучник
-entity.AncientWarfareNpc.viking.archer.elite.name=Элитный викинг-лучник
-entity.AncientWarfareNpc.viking.soldier.name=Викинг-воин
-entity.AncientWarfareNpc.viking.soldier.elite.name=Элитный викинг-воин
-entity.AncientWarfareNpc.viking.cavalry.name=Викинг-кавалерист
-entity.AncientWarfareNpc.viking.mounted_archer.name=Викинг-конный лучник
-entity.AncientWarfareNpc.viking.trader.name=Викинг-торговец
-entity.AncientWarfareNpc.viking.priest.name=Викинг-жрец
-entity.AncientWarfareNpc.viking.leader.name=Викинг-командир
-entity.AncientWarfareNpc.viking.leader.elite.name=Элитный викинг-командир
-entity.AncientWarfareNpc.viking.civilian.male.name=Викинг-житель ( мужчина )
-entity.AncientWarfareNpc.viking.civilian.female.name=Викинг-житель ( женщина )
-entity.AncientWarfareNpc.viking.bard.name=Викинг-бард
-entity.AncientWarfareNpc.custom_1.soldier.name=1 польз. солдат
-entity.AncientWarfareNpc.custom_1.soldier.elite.name=1 польз. элитный солдат
-entity.AncientWarfareNpc.custom_1.cavalry.name=1 польз. кавалерист
-entity.AncientWarfareNpc.custom_1.archer.name=1 польз. лучник
-entity.AncientWarfareNpc.custom_1.archer.elite.name=1 польз. элитный лучник
-entity.AncientWarfareNpc.custom_1.mounted_archer.name=1 польз. конный лучник
-entity.AncientWarfareNpc.custom_1.leader.name=1 польз. командир
-entity.AncientWarfareNpc.custom_1.leader.elite.name=1 польз. элитный командир
-entity.AncientWarfareNpc.custom_1.priest.name=1 польз. жрец
-entity.AncientWarfareNpc.custom_1.trader.name=1 польз. торговец
-entity.AncientWarfareNpc.custom_1.civilian.male.name=1 польз. ( мужчина )
-entity.AncientWarfareNpc.custom_1.civilian.female.name=1 польз. ( женщина )
-entity.AncientWarfareNpc.custom_1.bard.name=1 польз. бард
-entity.AncientWarfareNpc.custom_2.soldier.name=2 польз. солдат
-entity.AncientWarfareNpc.custom_2.soldier.elite.name=2 польз. элитный солдат
-entity.AncientWarfareNpc.custom_2.cavalry.name=2 польз. кавалерист
-entity.AncientWarfareNpc.custom_2.archer.name=2 польз. лучник
-entity.AncientWarfareNpc.custom_2.archer.elite.name=2 польз. элитный лучник
-entity.AncientWarfareNpc.custom_2.mounted_archer.name=2 польз. конный лучник
-entity.AncientWarfareNpc.custom_2.leader.name=2 польз. командир
-entity.AncientWarfareNpc.custom_2.leader.elite.name=2 польз. элитный командир
-entity.AncientWarfareNpc.custom_2.priest.name=2 польз. жрец
-entity.AncientWarfareNpc.custom_2.trader.name=2 польз. торговец
-entity.AncientWarfareNpc.custom_2.civilian.male.name=2 польз. ( мужчина )
-entity.AncientWarfareNpc.custom_2.civilian.female.name=2 польз. ( женщина )
-entity.AncientWarfareNpc.custom_2.bard.name=2 польз. бард
-entity.AncientWarfareNpc.custom_3.soldier.name=Йомен-пехотинец
-entity.AncientWarfareNpc.custom_3.soldier.elite.name=Имперский церковный рыцарь
-entity.AncientWarfareNpc.custom_3.cavalry.name=Имперский рыцарь
-entity.AncientWarfareNpc.custom_3.archer.name=Крестьянский лучник
-entity.AncientWarfareNpc.custom_3.archer.elite.name=Йомен-лучник
-entity.AncientWarfareNpc.custom_3.mounted_archer.name=Имперский йомен
-entity.AncientWarfareNpc.custom_3.leader.name=Имперский чемпион
-entity.AncientWarfareNpc.custom_3.leader.elite.name=Имперская знать
-entity.AncientWarfareNpc.custom_3.priest.name=Имперский жрец
-entity.AncientWarfareNpc.custom_3.trader.name=Имперский торговец
-entity.AncientWarfareNpc.custom_3.civilian.male.name=Имперский мужчина
-entity.AncientWarfareNpc.custom_3.civilian.female.name=Имперская женщина
-entity.AncientWarfareNpc.custom_3.bard.name=Имперский бард
+entity.ancientwarfarenpc.aw_npc_worker.name=Работник
+entity.ancientwarfarenpc.aw_npc_combat.name=Солдат
+entity.ancientwarfarenpc.aw_npc_courier.name=Курьер
+entity.ancientwarfarenpc.aw_npc_trader.name=Торговец
+entity.ancientwarfarenpc.aw_npc_priest.name=Жрец
+entity.ancientwarfarenpc.aw_npc_bard.name=Бард
+entity.ancientwarfarenpc.bandit.archer.name=Бандит - лучник
+entity.ancientwarfarenpc.bandit.archer.elite.name=Элитный бандит - лучник
+entity.ancientwarfarenpc.bandit.soldier.name=Бандит - солдат
+entity.ancientwarfarenpc.bandit.soldier.elite.name=Элитный бандит - солдат
+entity.ancientwarfarenpc.bandit.cavalry.name=Бандит - Кавалерия
+entity.ancientwarfarenpc.bandit.mounted_archer.name=Бандит - Лучник-наездник
+entity.ancientwarfarenpc.bandit.trader.name=Бандит - торговец
+entity.ancientwarfarenpc.bandit.priest.name=Бандит - жрец
+entity.ancientwarfarenpc.bandit.leader.name=Лидер бандитов
+entity.ancientwarfarenpc.bandit.leader.elite.name=Элитный лидер бандитов
+entity.ancientwarfarenpc.bandit.civilian.male.name=Бандит - гражданский
+entity.ancientwarfarenpc.bandit.civilian.female.name=Бандит - гражданская
+entity.ancientwarfarenpc.bandit.bard.name=Бандит - бард
+entity.ancientwarfarenpc.bandit.siege_engineer.name=Бандит - инженер-механик
 
 #commands
 command.aw.structure.usage=/awstructure save [названиеШаблона] ИЛИ /awstructure delete <названиеШаблона> [true для удаления файла конфигурации] ИЛИ /awstructure build <названиеШаблона> <x> <y> <z> [север:восток:юг:запад]
@@ -721,7 +639,7 @@ item.gateDoubleWood.name=Деревянные врата (двустор. отк
 item.gateSingleIron.name=Железные врата (гориз. открытие)
 item.gateSingleWood.name=Деревянные врата (гориз. открытие)
 item.gateDrawbridge.name=Подъемный мост
-entity.AncientWarfareStructure.aw_gate.name=Врата
+entity.aw_gate.name=Ворота
 
 #ftbu_interop_notifications
 ftbu_aw2.notification.townhall_lost=Ратуша потеряна!
@@ -758,3 +676,36 @@ ftbu_aw2.notification.townhall_hqmissing.tooltip.3=Просто поставьт
 
 #jei
 jei.recipe.research_recipe=Рецепт исследования
+jei.recipe.shapeless_research_recipe=Бесформенный рецепт исследования
+jei.tooltip.error.recipe.transfer.no.research_book=Нет книги исследований в слоте
+jei.tooltip.error.recipe.transfer.missing.research=Отсутствует необходимое исследование
+
+#vehicle spawner items
+
+# vehicle ammo
+item.ammo_torpedo_10.name=Торпеда 10кг
+item.ammo_torpedo_15.name=Торпеда 15кг
+item.ammo_torpedo_30.name=Торпеда 30кг
+item.ammo_torpedo_45.name=Торпеда 45кг
+item.ammo_stone_shot_10.tooltip=10кг Камня
+item.ammo_stone_shot_15.tooltip=15кг Камня
+item.ammo_stone_shot_30.tooltip=30кг Камня
+item.ammo_stone_shot_45.tooltip=45кг Камня
+item.ammo_flame_shot_10.tooltip=10кг Воспламеняемого масла
+item.ammo_flame_shot_15.tooltip=15кг Воспламеняемого масла
+item.ammo_flame_shot_30.tooltip=30кг Воспламеняемого масла
+item.ammo_flame_shot_45.tooltip=45кг Воспламеняемого масла
+
+# tooltips used for vehicle items
+
+# components
+
+# vehicle upgrades
+
+# vehicle armor items
+
+#core input keybinds
+
+#automation input keybinds
+
+# vehicle input keybinds
