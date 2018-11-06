@@ -1,32 +1,30 @@
-#PARSE_ESCAPES
-#Translated by TimeConqueror
 itemGroup.storagedrawers=Storage Drawers
 itemGroup.storagedrawersSorting=Storage Drawers - Сортировка
 
 storagedrawers.container.drawers=Ящики
-storagedrawers.container.compDrawers=Сжимающие ящики
+storagedrawers.container.compDrawers=Уплотняющие Ящики
 storagedrawers.container.upgrades=Улучшения
 storagedrawers.container.drawer_controller=Контроллер ящиков
-storagedrawers.container.unboundSlave=Unbound Slave
-storagedrawers.container.framingTable=Обрамляющий стол
+storagedrawers.container.unboundSlave=Непривязанный Подчинённый
+storagedrawers.container.framingTable=Стол Обрамления
 
 storagedrawers.msg.maxUpgrades=Этот ящик не может принимать дополнительные улучшения.
 storagedrawers.msg.cannotAddUpgrade=Данное улучшение невозможно вставить в этот ящик.
 
 # Items
-item.storagedrawers.upgradeTemplate.name=Шаблон улучшения
-item.storagedrawers.upgradeStorage.obsidian.name=Улучшение хранилища (I)
-item.storagedrawers.upgradeStorage.iron.name=Улучшение хранилища (II)
-item.storagedrawers.upgradeStorage.gold.name=Улучшение хранилища (III)
-item.storagedrawers.upgradeStorage.diamond.name=Улучшение хранилища (IV)
-item.storagedrawers.upgradeStorage.emerald.name=Улучшение хранилища (V)
 item.storagedrawers.upgradeOneStack.name=Уменьшение хранилища
 item.storagedrawers.upgradeOneStack.description=Уменьшает базовую вместимость хранилища до одного стака
+item.storagedrawers.upgradeTemplate.name=Шаблон Улучшения
+item.storagedrawers.upgradeStorage.obsidian.name=Улучшение Хранилища (I)
+item.storagedrawers.upgradeStorage.iron.name=Улучшение Хранилища (II)
+item.storagedrawers.upgradeStorage.gold.name=Улучшение Хранилища (III)
+item.storagedrawers.upgradeStorage.diamond.name=Улучшение Хранилища (IV)
+item.storagedrawers.upgradeStorage.emerald.name=Улучшение Хранилища (V)
 item.storagedrawers.upgradeStatus.level1.name=Улучшение «Индикатор» (I)
 item.storagedrawers.upgradeStatus.level1.description=Показывает, когда ящик полностью заполнен
 item.storagedrawers.upgradeStatus.level2.name=Улучшение «Индикатор» (II)
 item.storagedrawers.upgradeStatus.level2.description=Показывает уровень заполнения
-item.storagedrawers.upgradeVoid.name=Пустотное улучшение
+item.storagedrawers.upgradeVoid.name=Пустотное Улучшение
 item.storagedrawers.upgradeVoid.description=Уничтожает лишние предметы
 item.storagedrawers.upgradeConversion.name=Улучшение «Конвертация»
 item.storagedrawers.upgradeConversion.description=Автоматически конвертирует совместимые предметы

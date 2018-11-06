@@ -1,0 +1,67 @@
+key.weaponlevels=Уровни оружия
+key.gui.weapon_interface=Способности
+
+weaponlevels.rarity.DEFAULT=Стандартный
+weaponlevels.rarity.BASIC=Базовый
+weaponlevels.rarity.UNCOMMON=Необычный
+weaponlevels.rarity.RARE=Редкий
+weaponlevels.rarity.ULTRA_RARE=Невероятно редкий
+weaponlevels.rarity.LEGENDARY=Легендарный
+weaponlevels.rarity.ARCHAIC=Древний
+
+weaponlevels.ability.FIRE=Огненное касание
+weaponlevels.ability.FROST=Ледяное касание
+weaponlevels.ability.POISON=Отравление
+weaponlevels.ability.INNATE=Кровотечение
+weaponlevels.ability.BOMBASTIC=Взрывоопасность
+weaponlevels.ability.VOID=Касание пустоты
+weaponlevels.ability.ILLUMINATION=Ослепление
+weaponlevels.ability.ETHEREAL=Зачарование эфиром
+weaponlevels.ability.BLOODTHIRST=Жажда крови
+weaponlevels.ability.MOLTEN=Сожжение
+weaponlevels.ability.FROZEN=Обморожение
+weaponlevels.ability.TOXIC=Токсичность
+weaponlevels.ability.ABSORB=Поглощение
+weaponlevels.ability.BEASTIAL=Ярость
+weaponlevels.ability.REMEDIAL=Литьё
+weaponlevels.ability.HARDENED=Закаление
+
+weaponlevels.ability.type.active=Шансовые
+weaponlevels.ability.type.passive=Пассивные
+
+weaponlevels.abilities.info.FIRE=Поджигает цель на короткий отрезок времени.
+weaponlevels.abilities.info.FROST=Замораживает цель на короткий отрезок времени.
+weaponlevels.abilities.info.POISON=Отравляет цель на короткий отрезок времени
+weaponlevels.abilities.info.INNATE=Проклинает цель на короткий отрезок времени.
+weaponlevels.abilities.info.BOMBASTIC=Взрывает область вокруг цели. Урон также будет нанесен и Вам.
+weaponlevels.abilities.info.VOID=Небольшой шанс на нанесение огромного количества урона в соотношении с здоровьем противника.
+weaponlevels.abilities.info.ILLUMINATION=Ослабляет цель на короткий отрезок времени.
+weaponlevels.abilities.info.ETHEREAL=При убийстве цели прочность Вашего оружия будет восстановлена.
+weaponlevels.abilities.info.BLOODTHIRST=Исцеляет Вас на часть полученного урона.
+weaponlevels.abilities.info.MOLTEN=Поджигает цель на короткий отрезок времени.
+weaponlevels.abilities.info.FROZEN=Замораживает цель на короткий отрезок времени.
+weaponlevels.abilities.info.TOXIC=Отравляет цель на короткий отрезок времени
+weaponlevels.abilities.info.ABSORB=Быстрое восстановление здоровья в течение короткого отрезка времени.
+weaponlevels.abilities.info.BEASTIAL=Повышает Ваш урон при понижении здоровья до критической отметки.
+weaponlevels.abilities.info.REMEDIAL=Броня будет регенерировать Ваше здоровье каждые 6 секунд.
+weaponlevels.abilities.info.HARDENED=небольшой шанс на игнорирование всего полученного урона от одной атаки.
+weaponlevels.abilities.info.duration=Длительность
+weaponlevels.abilities.info.chance=Шанс
+weaponlevels.abilities.info.count=Итог
+weaponlevels.abilities.info.bleedingspeed=Скорость проклятья
+weaponlevels.abilities.info.explosionintensity=Интенсивность взрыва
+weaponlevels.abilities.info.damagepercentage=Процентное соотношение урона
+weaponlevels.abilities.info.durability=Общее соотношение починки
+weaponlevels.abilities.info.seconds=секунд
+weaponlevels.abilities.info.heal_amount=Общее соотношение исцеления
+
+weaponlevels.misc.level=Уровень
+weaponlevels.misc.max=Максимальный
+weaponlevels.misc.experience=Опыт
+weaponlevels.misc.durability=Прочность
+weaponlevels.misc.abilities=Способности
+weaponlevels.misc.abilities.shift=Способности (Shift)
+weaponlevels.misc.rarity=редкость
+weaponlevels.misc.tier=Ярус
+weaponlevels.misc.abilities.tokens=Жетонов способностей
+weaponlevels.misc.abilities.purchased=Приобритенные способности

@@ -1,0 +1,71 @@
+vanillafix.gui.getLink=Получить ссылку
+vanillafix.gui.failed=[Ошибка]
+vanillafix.gui.keepPlaying=Продолжить игру
+vanillafix.gui.restart=Перезапустить Minecraft
+vanillafix.gui.disabledByConfig=Disabled by config
+
+vanillafix.crashscreen.title=Ой, беда...
+vanillafix.crashscreen.summary=Minecraft аварийно завершил свою работу.
+
+vanillafix.crashscreen.paragraph1.line1=Следующие моды могли привести к возникновению ошибки:
+
+vanillafix.crashscreen.unknownCause=Нет данных
+vanillafix.crashscreen.identificationErrored=[Error identifying, report to VanillaFix]
+
+vanillafix.crashscreen.paragraph2.line1=Нам удалось сохранить отчёт с подробной информацией о произошедшей ошибке.
+vanillafix.crashscreen.paragraph2.line2=Его можно найти здесь(кликабельно):
+
+vanillafix.crashscreen.reportSaveFailed=[Error saving report, see log]
+
+vanillafix.crashscreen.paragraph3.line1=Для решения проблемы обратитесь в Службу поддержки Hilarious.
+vanillafix.crashscreen.paragraph3.line2=Чтобы мы могли Вам помочь, необходимо предоставить ссылку на
+vanillafix.crashscreen.paragraph3.line3=сгенерированный отчёт. Для этого нажмите "Получить ссылку" и отправьте
+vanillafix.crashscreen.paragraph3.line4=её специалистам поддержки.
+
+vanillafix.initerrorscreen.title=Ой, беда...
+vanillafix.initerrorscreen.summary=Из-за критической ошибки невозможно запустить Minecraft
+
+vanillafix.initerrorscreen.paragraph3.line1=Для решения проблемы обратитесь в Службу поддержки Hilarious.
+vanillafix.initerrorscreen.paragraph3.line2=Чтобы мы могли Вам помочь, необходимо предоставить ссылку на
+vanillafix.initerrorscreen.paragraph3.line3=сгенерированный отчёт. Для этого нажмите "Получить ссылку" и отправьте
+vanillafix.initerrorscreen.paragraph3.line4=её специалистам поддержки.
+
+vanillafix.warnscreen.title=Опачки...
+vanillafix.warnscreen.summary=Найдена серьёзная проблема!
+
+vanillafix.warnscreen.paragraph1.line1=Нам удалось предотвратить вылет игры, но тем не менее возможны
+vanillafix.warnscreen.paragraph1.line2=некоторые неприятные последствия, такие как поломка важных функций.
+vanillafix.warnscreen.paragraph1.line3=Следующие моды могли привести к возникновению проблемы:
+
+vanillafix.warnscreen.paragraph3.line1=Пожалуйста, сообщите о проблеме в Службу поддержки Hilarious.
+vanillafix.warnscreen.paragraph3.line2=Чтобы мы могли Вам помочь, необходимо предоставить ссылку на
+vanillafix.warnscreen.paragraph3.line3=сгенерированный отчёт. Для этого нажмите "Получить ссылку" и отправьте
+vanillafix.warnscreen.paragraph3.line4=её специалистам поддержки. В сообщении подробно укажите обстоятельства,
+vanillafix.warnscreen.paragraph3.line5=при которых вы получили данное предупреждение.
+
+vanillafix.notification.title.unknown=Произошла неизвестная ошибка!
+vanillafix.notification.title.mod=Мод %s вызывает ошибку!
+vanillafix.notification.description=Для подробностей нажмите Ctrl + I
+
+vanillafix.fixes=Enable/Disable Fixes
+vanillafix.fixes.tooltip=Control which fixes are enabled and disabled.
+vanillafix.crashes=Crash Options
+vanillafix.crashes.tooltip=Options on how crashes are handled
+vanillafix.crashes.disableReturnToMainMenu=Disable Return to Main Menu
+vanillafix.crashes.disableReturnToMainMenu.tooltip=Disables the "Return to Main Menu" button on the crash screen, forcing the user to close the game after a crash. The crash screen will still show the suspected mods and offer to upload the crash report.
+vanillafix.crashes.problemAction.log=Log
+vanillafix.crashes.problemAction.notification=Notification
+vanillafix.crashes.problemAction.warningScreen=Warning Screen
+vanillafix.crashes.problemAction.crash=Crash
+vanillafix.crashes.scheduledTaskproblemAction=Scheduled task exception action
+vanillafix.crashes.scheduledTaskproblemAction.tooltip=What should happen when a scheduled task throws an exception
+vanillafix.crashes.errorNotificationDuration=Error Notification Duration
+vanillafix.crashes.errorNotificationDuration.tooltip=The time in milliseconds to display error notifications for
+vanillafix.crashes.replaceErrorNotifications=Replace Error Notifications
+vanillafix.crashes.replaceErrorNotifications.tooltip=When several errors occur in a row, replace the notification rather than queuing more notifications
+vanillafix.crashes.hasteURL=Haste URL
+vanillafix.crashes.hasteURL.tooltip=The URL to the root of the haste instance to upload crash reports to, without a trailing slash.
+
+vanillafix.debug.switch_profiler.help=F3 + S = Cycle client <-> integrated server profiler
+vanillafix.debug.switch_profiler.server=Using server profiler
+vanillafix.debug.switch_profiler.client=Using client profiler

@@ -1,0 +1,11 @@
+entity.grue.EntityGrue.name=Бабай
+entity.grue.EntityDaylightGrue.name=Дневной бабай
+
+death.attack.grue=%1$s был съеден бабайкой...
+death.attack.grue.player=%1$s был съеден бабаем в отчаянных попытках бегства %2$s
+death.attack.daylightgrue=%1$s был съеден бабайкой..
+death.attack.daylightgrue.player=%1$s был съеден бабаем в отчаянных попытках бегства %2$s
+death.attack.wimpgrue=%1$s очень сильно испугался, но это не помешало ему был съеденным бабайкой...
+death.attack.wimpgrue.player=%1$s был съеден бабаем в отчаянных попытках бегства %2$s
+
+text.warning.grue=Где-то рядом бродит бабай, время уносить ноги, да поскорее!

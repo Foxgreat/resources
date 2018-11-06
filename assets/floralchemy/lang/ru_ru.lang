@@ -1,0 +1,9 @@
+tile.botania:flower.petro_petunia.name=Акварилис
+tile.botania:flower.petro_petunia.reference=Извращения порой полезны
+
+botania.entry.petro_petunia=Акварилис
+botania.tagline.petro_petunia=Мана из жидкостей
+
+botania.page.petro_petunia0=&1Акварилис&0 поглощает ближайшие доступные нестандартные жидкости и преобразовывает их в ману.
+botania.page.petro_petunia1=Пойман и высосан
+

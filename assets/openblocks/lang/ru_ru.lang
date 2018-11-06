@@ -45,6 +45,10 @@ openblocks.gui.limit=Предел
 openblocks.gui.available_power=Доступная мощность: %d
 openblocks.gui.save_folder=Сохранить папку
 
+#openblocks.gui.drawingtable.stencils=Stencils ## NEEDS TRANSLATION ##
+#openblocks.gui.drawingtable.glyphs=Glyphs ## NEEDS TRANSLATION ##
+#openblocks.gui.drawingtable.print=Print ## NEEDS TRANSLATION ##
+
 openblocks.gui.welcome.title=Добро пожаловать!
 openblocks.gui.welcome.content=OpenBlocks - это новая модификация с открытым исходным кодом, которая внедряет множество идей в Minecraft. В числе этих идей: Дельтапланы, лифты, резервуары, могилы, краски, краны, жидкий опыт, картографы, трофеи и многое другое!
 
@@ -349,8 +353,11 @@ item.openblocks.crane_backpack.description=В мире Minecraft "магнит" 
 item.openblocks.crane_control.name=Крановое управление
 item.openblocks.crane_control.description=Этот высокотехнологичный беспроводной пульт используется для управления хранилищами.\n\nПКМ, чтобы поднять, ПКМ, присев, чтобы опустить, ЛКМ, чтобы поднять/отпустить.\nМигающие световые сигналы относятся к магниту.
 
-#item.openblocks.wrench.name=Big Metal Bar ## NEEDS TRANSLATION ##
-#item.openblocks.wrench.description=This is extremely sophisticated tool used to perform transformations of objects with octahedral symmetry.\n\n\nOr just big, dumb piece of metal you can use to rotate cubes and stuff.\n\nSo yeah, it's yet another wrench. I'm just trying to be original here, ok? ## NEEDS TRANSLATION ##
+item.openblocks.wrench.name=Большой металлический ключ
+item.openblocks.wrench.description=This is extremely sophisticated tool used to perform transformations of objects with octahedral symmetry.\n\n\nOr just big, dumb piece of metal you can use to rotate cubes and stuff.\n\nSo yeah, it's yet another wrench. I'm just trying to be original here, ok? ## NEEDS TRANSLATION ##
+
+#item.openblocks.glyph.name=Glyph ## NEEDS TRANSLATION ##
+#item.openblocks.glyph.with_char='%c' Glyph ## NEEDS TRANSLATION ##
 
 item.openblocks.stencil.name=Трафарет
 item.openblocks.crayon.name=Магический цветной карандаш

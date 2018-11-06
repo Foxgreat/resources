@@ -1,4 +1,8 @@
-﻿customnpcs.defaultTextColor=404040
+﻿# Authors:
+# Overbolt - 1.3
+# Slava_110 - 1.12.2 (28-apr-2018)
+
+customnpcs.defaultTextColor=404040
 
 ai.standing=Стоит
 ai.wandering=Бродит
@@ -17,7 +21,7 @@ ai.clearlos=Обяз. Видеть цели
 ai.indirect=Может Стрелять
 ai.rangemelee=Дальняя атака
 ai.tacticalvariant=Такт. Вариант
-ai.cobwebAffected=Станит
+ai.cobwebAffected=Паутина замедл.
 ai.movement=Движение
 
 aitactics.rush=Натиск
@@ -38,8 +42,9 @@ advanced.night=Ночь
 advanced.editingmode=Изменить
 advanced.loadday=Загрузите День
 advanced.loadnight=Загрузите Ночь
-advanced.haspitch=Имеет поле
+advanced.haspitch=Высота звука изменяется
 advanced.scenes=Сцены
+advanced.marks=Знаки над головой
 
 availability.options=Условия Активности
 availability.always=Всегда
@@ -68,13 +73,18 @@ availability.editIcon=В течение следующих 10 секунд вы 
 bank.slot=Слот
 bank.unlock=Открыть
 bank.upgrade=Улучшить
-bank.upgradeCosts=Стоимость улучшения
-bank.unlockCosts=Стоимость открытия
+bank.upgradeCosts=Предмет улучшения
+bank.unlockCosts=Предмет открытия
+bank.canUpgrade=Можно улучшить
+bank.cantUpgrade=Нельзя улучшить
+bank.upgraded=Улучшено
+bank.tabCost=Покупка
+bank.upgCost=Улучшение
 
 bard.jukebox=Звук возле NPC.
 bard.background=Фоновый звук.
-bard.ondistance=Расстояние включения
-bard.offdistance=Расстояние выключения
+bard.ondistance=Расстояние вкл.
+bard.offdistance=Расстояние выкл.
 bard.hasoff=Можно выключать на расстоянии
 
 beacon.range=Диапазон Эффекта
@@ -136,7 +146,7 @@ display.player=Игрок
 display.selectTexture=Выбрать Текстуру
 display.livingAnimation=Имеет живую анимацию
 display.visible=Видимый
-display.bossbar=Полоса Босса
+display.bossbar=Полоса HP
 display.url=Веб сайт
 display.tint=Оттенок
 
@@ -193,6 +203,8 @@ global.recipes=Крафты
 global.naturalspawn=Естественные спавны
 global.linked=Связи
 
+playerdata.players=Игроки
+
 guard.currentTargets=Текущие Цели
 guard.availableTargets=Доступные Цели
 guard.animals=Атакует Животных
@@ -233,8 +245,8 @@ gui.sunlight=Днем
 gui.always=Всегда
 gui.untilclose=Пока рядом
 gui.whenavailable=Если можно
-gui.ignoreDamage=Игнор Поломки
-gui.ignoreNBT=Игнор Тегов
+gui.ignoreDamage=Игнор прочности
+gui.ignoreNBT=Игнор NBT
 gui.minrange=Минимальная Дальность
 gui.engagedistance=Дистанция атаки
 gui.orbitdistance=Радиус
@@ -271,6 +283,10 @@ gui.started=Запустить
 gui.yoffset=Сдвиг по Y
 gui.playernearby=Игрок вблизи
 gui.button=Кнопка
+gui.start=Нач.
+gui.end=Конец
+gui.max=Макс.
+gui.min=Минимум
 
 inv.minExp=Мин. Опыта
 inv.maxExp=Макс. опыта
@@ -367,7 +383,7 @@ movement.pauses=Останавливается
 movement.stopinteract=Стоит при Взаимодействии
 movement.crawling=Ползает
 movement.hug=Обнимашки
-movement.ground=Ходи по земле
+movement.ground=Ходит по земле
 movement.flying=Летает
 
 puppet.standing=Когда стоит.
@@ -427,7 +443,16 @@ role.companion=Товарищ
 schematic.width=Ширина
 schematic.length=Длина
 schematic.height=Высота
-schematic.preview=Предосмотрт
+schematic.preview=Предосмотр
+schematic.instantBuild=Мгновенная постройка
+schematic.instantBuildText=Вы уверены, что хотите построить здание? Это действие отменить невозможно!
+
+mark.question=Вопросительный
+mark.exclamation=Восклицательный
+mark.pointer=Указатель
+mark.skull=Череп
+mark.cross=Крест
+mark.star=Звезда
 
 script.scripts=Скрипты
 script.hooks=Скобки
@@ -475,6 +500,14 @@ spawner.random=Случайно
 spawner.one=По очереди
 spawner.despawn=Исчезнут, если NPC теряет цель.
 
+clone.overwrite=Вы уверены, что хотите перезаписать клона?
+clone.client=ClientSide-сохранение
+clone.server=ServerSide-сохранение
+
+spawner.any=Всегда
+spawner.dark=В темноте
+spawner.light=При свете
+
 spawning.availableBiomes=Доступные Биомы
 spawning.spawningBiomes=Биомы Спавна
 spawning.biomes=Биомы
@@ -492,7 +525,7 @@ stats.spin=Крутится
 stats.stick=Прямое
 stats.regular=Простой
 stats.amplified=Усиленный
-stats.explosion=Взрывается
+stats.explosion=Взрыв
 stats.indirect=Только стреляет
 stats.meleerange=Рукопашная
 stats.health=Здоровье
@@ -505,8 +538,8 @@ stats.meleerange=Дистанция
 stats.meleespeed=Скорость
 stats.accuracy=Точность(%)
 stats.burstspeed=Скорость Огня
-stats.mindelay=Миним. Задержка
-stats.maxdelay=Максим. Задержка
+stats.mindelay=Мин. Задержка
+stats.maxdelay=Макс. Задержка
 stats.burstcount=Кол-во снарядов
 stats.shotcount=Кол-во Выстрелов
 stats.movespeed=Скорость Ходьбы
@@ -515,7 +548,7 @@ stats.respawn=Респавн
 stats.deadbody=Скрыть Труп
 stats.fireimmune=Иммунитет к Огню
 stats.candrown=Может плавать
-stats.firesound:=Файл звука
+stats.firesound=Файл звука
 stats.hitsound=Звук удара
 stats.groundsound=Звук шагов
 stats.creaturetype=Тип существа
@@ -537,13 +570,14 @@ stats.attackInvisible=Атакует из Скрытности
 stats.rangedrange=Дальность
 stats.walkspeed=Скорость Ходьбы
 
-tile.npcRedstoneBlock.name=Редстоун Блок
-tile.npcMailbox.name=Почтовый Ящик
-tile.npcLocationBlock.name=Локационный Квестовый Блок
-tile.npcBorder.name=Граница
-tile.npcScripted.name=Скриптовый блок
-tile.npcBuilderBlock.name=Строительный блок
-tile.npcCopyBlock.name=Копировальный блок
+tile.npccarpentybench.name=Верстак плотника
+tile.npcredstoneblock.name=Редстоун Блок
+tile.npcmailbox.name=Почтовый Ящик
+tile.npcwaypoint.name=Локационный Квестовый Блок
+tile.npcborder.name=Граница
+tile.npcscripted.name=Скриптовый блок
+tile.npcbuilderblock.name=Строительный блок
+tile.npccopyblock.name=Копировальный блок
 
 trader.insufficient=Недостаточно валюты
 trader.sufficient=Можно купить
@@ -561,17 +595,17 @@ transporter.discovered=Доступно если увидел NPC
 transporter.start=Сразу доступно
 transporter.interaction=Доступно после взаимодействия
 
-item.npcWand.name=Настройщик NPC
-item.npcMobCloner.name=Клонер NPC
-item.npcMovingPath.name=Путевод NPC
-item.npcMounter.name=Спаунер NPC
-item.npcTeleporter.name=Телепортер
-item.npcScripter.name=Сценарист
-item.npcScriptedDoorTool.name=Скриптовая Дверь
-item.npcScriptedBlock.name=Скриптовый блок
+item.npcwand.name=Настройщик NPC
+item.npcmobcloner.name=Клонер NPC
+item.npcmovingpath.name=Путевод NPC
+item.npcmounter.name=Спаунер NPC
+item.npcteleporter.name=Телепортер
+item.npcscripter.name=Сценарист
+item.npcscripteddoortool.name=Скриптовая Дверь
+item.npcscripted.name=Скриптовый блок
 
-item.npcSoulstoneEmpty.name=Камень душ (пуст)
-item.npcSoulstoneFilled.name=Камень душ (полон)
+item.npcsoulstoneempty.name=Камень душ (пуст)
+item.npcsoulstonefilled.name=Камень душ (полон)
 
-
+item.scripted_item.name=Скриптовый предмет
 #Translated by BetaZavr

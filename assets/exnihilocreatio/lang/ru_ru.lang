@@ -1,0 +1,113 @@
+item.hammer_wood.name=Деревянный молот
+item.hammer_stone.name=Каменный молот	
+item.hammer_iron.name=Железный молот
+item.hammer_gold.name=Золотой молот
+item.hammer_diamond.name=Алмазный молот
+
+item.crook_wood.name=Деревянный клюк
+item.crook_bone.name=Костяной клюк
+
+item.item_pebble.stone.name=Каменная галька
+item.item_pebble.granite.name=Гранитовая галька
+item.item_pebble.diorite.name=Диоритовая галька
+item.item_pebble.andesite.name=Андезитовая галька
+
+item.item_material.removed.name=Удалено из модификации
+item.item_material.porcelain_clay.name=Фарфоровая глина
+item.item_material.silkworm.name=Шелкопряд
+item.item_material.grass_seeds.name=Семена травы
+item.item_material.ancient_spores.name=Древние споры
+item.item_material.doll.name=Фарфоровая кукла
+item.item_material.rod_stone.name=Каменная палка
+item.item_material.gear_stone.name=Каменная шестерня
+
+item.item_doll.blaze.name=Пылающая кукла
+item.item_doll.blaze.desc=Бросьте в бочку лавы, чтобы возродить Ифрита
+item.item_doll.enderman.name=Ползучая кукла
+item.item_doll.enderman.desc=Бросьте в бочку с ведьминой водой, чтобы возродить Эндермена
+item.item_doll.shulker.name=Пархающая кукла
+item.item_doll.shulker.desc=Бросьте в бочку с ведьминой водой, чтобы возродить Шалкера
+item.item_doll.guardian.name=Защитная кукла
+item.item_doll.guardian.desc=Бросьте в бочку с водой, чтобы возродить Защитника
+item.item_doll.blizz.name=Замораживающая кукла
+item.item_doll.blizz.desc=Бросьте в бочку с Пиротеумом, чтобы возродить Близза
+item.item_doll.blitz.name=Размораживающая кукла
+item.item_doll.blitz.desc=Бросьте в бочку с Пиротеумом, чтобы возродить Блитза
+item.item_doll.basalz.name=Раздробленная кукла
+item.item_doll.basalz.desc=Бросьте в бочку с Пиротеумом, чтобы возродить Базальц
+item.item_doll.blueslime.name=Урожайная кукла
+item.item_doll.blueslime.desc=Бросьте в бочку с молоком, чтобы возрадить синего слизня
+
+#This will look like '!!!{modid} is not installed, Item has no use!!!'
+debug.mod_not_installed.desc=!!!%s is not installed, Item has no use!!!
+
+item.item_cooked_silkworm.name=Cooked Silkworm
+
+item.item_seed_birch.name=Семя сосны
+item.item_seed_oak.name=Семя дуба
+item.item_seed_jungle.name=Семя джунги
+item.item_seed_acacia.name=Семя акации
+item.item_seed_spruce.name=Семя ели
+item.item_seed_carrot.name=Семя марковки
+item.item_seed_potato.name=Семя картошки
+item.item_seed_sugarcane.name=Семя трасника
+item.item_seed_cactus.name=Семя кактуса
+item.item_seed_darkoak.name=Семя черного дуба
+
+tile.block_dust.name=Пыль
+tile.block_netherrack_crushed.name=Разломанный незерит
+tile.block_endstone_crushed.name=Разломанный эндерняк
+tile.block_skystone_crushed.name=Разломанный небесный камень
+tile.block_diorite_crushed.name=Разломанный диорит
+tile.block_andesite_crushed.name=Разломанный андезит
+tile.block_granite_crushed.name=Разломанный гранит
+
+tile.block_barrel0.name=Деревянная бочка
+tile.block_barrel1.name=Каменная бочка
+
+tile.block_crucible.0.name=Сырой Тигель
+tile.block_crucible.1.name=Тигель
+tile.block_crucible_wood.name=Деревянный тигель
+
+tile.block_infested_leaves.name=Зараженные листья
+tile.block_infesting_leaves.name=Зараженные листья
+
+tile.block_auto_sifter.name=Автосито
+tile.block_axle_stone.name=Каменная ось
+tile.block_grinder.name=Измельчитель [WIP! Ничего не делает!]
+tile.block_waterwheel.name=Водяное колесо
+
+tile.block_end_cake.name=Торт Края
+
+tile.block_sieve.name=Сито
+item.item_mesh.1.name=Сетка из нити
+item.item_mesh.2.name=Сетка из кремния
+item.item_mesh.3.name=Сетка из железа
+item.item_mesh.4.name=Сетка из алмаза
+
+orepiece.name=Кусочек руды
+orechunk.name=Кусок руды
+oredust.name=Пыль руды
+oreingot.name=Слиток
+
+fluid.witchwater=Ведьмина вода
+
+jei.sieve.dropChance=Шанс выпадения
+
+jei.hammer.hammerLevel=Сила молотка
+jei.hammer.hammerLevel.0=Дерево
+jei.hammer.hammerLevel.1=Камень
+jei.hammer.hammerLevel.2=Железо
+jei.hammer.hammerLevel.3=Алмаз
+jei.hammer.hammerLevel.4=Бог
+
+commands.enreloadconfig.confirm=Ex Nihilo Config Reloaded
+
+itemGroup.exNihilo=Ex Nihilo Creatio
+
+modifier.exnihilo_smashing.name=Разящий
+modifier.exnihilo_smashing.desc=§rРазбивай,даа!\n§rРазбивай штуки на более мелкие штуки!
+
+enchantment.sieve_efficiency=Эффективность сита
+enchantment.sieve_fortune=Удача сита
+enchantment.sieve_luck_of_the_sea=Сито удачи морей

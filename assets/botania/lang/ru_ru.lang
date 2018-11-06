@@ -69,6 +69,7 @@ botaniamisc.dropTip1=CTRL+%s выбросит весь стак
 botaniamisc.wandMode.bind=Режим привязки
 botaniamisc.wandMode.function=Функциональный режим
 botaniamisc.playVideo=Просмотреть видео
+botaniamisc.viewOnline=Смотреть онлайн
 botaniamisc.brewOf=Настой %s
 botaniamisc.needsCatalysts=Независимо от того, как сильно вы пытаетесь вознести слиток к маяку, ничего не происходит, возможно, ваша конфигурация каталитических пилонов может быть отключена.
 botaniamisc.peacefulNoob=Вы пытаетесь вознести Слиток, но мирные вибрации вашего мира мешают вам сделать это. Возможно, вам стоит что-то сделать.
@@ -151,10 +152,13 @@ botaniamisc.tutorialText=В игре
 botaniamisc.tutorialVideo=Видео
 botaniamisc.shiftToStopSpin=(SHIFT для остановки анимации)
 botaniamisc.noVideo=&4Видео скоро вернется. Извините :(
+botaniamisc.adaptativeConfigChanges=Botania's Adaptative Config has changed the following config defaults for you:
 botaniamisc.altarRefill0=Нажмите ПКМ с пустой рукой
 botaniamisc.altarRefill1=добавить последний рецепт
+botaniamisc.santaweaveInfo=Manaweave, changed up for the &cs&fe&ca&fs&co&fn
 botaniamisc.enterToView=^ Нажмите ENTER для просмотра ^
 botaniamisc.scaleChange=Изменить масштаб
+botaniamisc.invalidDodge=Invalid Dodge Packet
 
 # NEI INTEGRATION
 botania.nei.brewery=Ботаническая варочкая стойка
@@ -272,6 +276,7 @@ botania.armorset.will4.shortDesc=Критические удары пробив�
 botania.armorset.will5.shortDesc=Критические удары дают эффект иссушения
 
 # ROMAN NUMERALS
+botania.roman0=
 botania.roman1=I
 botania.roman2=II
 botania.roman3=III
@@ -445,6 +450,25 @@ item.dice.poem3=И числа отбивают в ритм.
 death.attack.botania-relic=%s был наказан за использование чужой реликвии
 
 # ENTITY NAMES
+entity.botania.botania:manaBurst.name=Всплеск маны
+entity.botania.botania:signalFlare.name=Сигнальная вспышка
+entity.botania.botania:pixie.name=Пикси
+entity.botania.botania:flameRing.name=Пламенное кольцо
+entity.botania.botania:vineBall.name=Шар лозы
+entity.botania.botania:doppleganger.name=Страж Гайи
+entity.botania.botania:magicLandmine.name=Ловушка Гайи
+entity.botania.botania:spark.name=Искра
+entity.botania.botania:thrownItem.name=Брошенный предмет
+entity.botania.botania:magicMissile.name=Магический снаряд
+entity.botania.botania:thornChakram.name=Шипастая чакра
+entity.botania.botania:corporeaSpark.name=Искра Извлекателя
+entity.botania.botania:enderAirBottle.name=Пузырёк с воздухом Края
+entity.botania.botania:poolMinecart.name=Вагонетка с бассейном для маны
+entity.botania.botania:pinkWither.name=Розовый иссушитель
+entity.botania.botania:playerMover.name=Лунизирующий луч
+entity.botania.botania:manaStorm.name=Эпицентр манашторма
+entity.botania.botania:babylonWeapon.name=Оружие казначейства
+entity.botania.botania:fallingStar.name=Падающая звезда
 
 # ADVANCEMENT NAMES + DESC
 advancement.botania_challenge=Испытания Botania
@@ -474,6 +498,7 @@ advancement.botania:manaBlasterShoot.desc=Cкрафьте и стреляйте 
 advancement.botania:tiaraWings=Сердечный стрелок
 advancement.botania:tiaraWings.desc=Создайте и украсьте Крылатую Тиару
 advancement.botania:terrasteelPickup=Танцующая в темноте
+advancement.botania:terrasteelPickup.descСделайте террасталь с использованием земленакапливающей пластины
 advancement.botania:elfPortalOpen=World Calling
 advancement.botania:elfPortalOpen.desc=Откройте портал в Альфхейм
 advancement.botania:gaiaGuardianKill=Розыск мертвецов
@@ -603,8 +628,8 @@ botania.challenge.runeCrafter.desc=Создайте систему, котора
 # BLOCK NAMES
 tile.botania:flower0.name=Мистический белый цветок
 tile.botania:flower1.name=Мистический оранжевый цветок
-tile.botania:flower2.name=Мистический сиреневый цветок
-tile.botania:flower3.name=Мистический светло-синий цветок
+tile.botania:flower2.name=Мистический пурпурный цветок
+tile.botania:flower3.name=Мистический голубой цветок
 tile.botania:flower4.name=Мистический жёлтый цветок
 tile.botania:flower5.name=Мистический лаймовый цветок
 tile.botania:flower6.name=Мистический розовый цветок
@@ -630,15 +655,15 @@ tile.botania:livingrock0.name=Жизнекамень
 tile.botania:livingrock1.name=Кирпич из жизнекамня
 tile.botania:livingrock2.name=Замшелый кирпич из жизнекамня
 tile.botania:livingrock3.name=Потрескавшийся кирпич из жизнекамня
-tile.botania:livingrock4.name=Обрамленный кирпич из жизнекамня
+tile.botania:livingrock4.name=Резной кирпич из жизнекамня
 tile.botania:livingwood0.name=Жизнедерево
 tile.botania:livingwood1.name=Доски из жизнедерева
 tile.botania:livingwood2.name=Замшелые доски из жизнедерева
-tile.botania:livingwood3.name=Обрамленное жизнедерево
+tile.botania:livingwood3.name=Резное жизнедерево
 tile.botania:livingwood4.name=Резное жизнедерево
 tile.botania:livingwood5.name=Светящееся жизнедерево
 tile.botania:spreader0.name=Распространитель маны
-tile.botania:spreader1.name=Красный распространитель маны
+tile.botania:spreader1.name=Импульсный распространитель маны
 tile.botania:spreader2.name=Эльфийский распространитель маны
 tile.botania:spreader3.name=Распространитель маны Гайи
 tile.botania:pool0.name=Бассейн маны
@@ -1546,7 +1571,7 @@ item.botania:incenseStick.name=Ароматическая палочка
 item.botania:terraAxe.name=Топор из террастали
 item.botania:manasteelNugget.name=Самородок из манастали
 item.botania:terrasteelNugget.name=Самородок из террастали
-item.botania:elementiumNugget.name=Элементиумный самородок
+Item.botania:elementiumNugget.name=Самородок элементиума
 item.botania:livingRoot.name=Живой корень
 item.botania:pebble.name=Галька
 item.botania:waterBowl.name=Чаша Воды
@@ -2785,6 +2810,12 @@ botania.page.felPumpkin0=&1Оскверненная тыква&0 - сумасш�
 botania.page.felPumpkin1=Чудовищная страшная тыква
 
 # -- ANIMATED TORCH
+botania.entry.animatedTorch=Animated Torch
+botania.tagline.animatedTorch=Compact systems with a floating redstone torch
+botania.page.animatedTorch0=The &1Animated Torch&0 is no more than a floating &1Redstone Torch&0 with a spark of magical autonomy.<br>The torch, when placed, will face a horizontal direction, providing power towards that direction. Shift-right clicking it will rotate the torch 90 degrees, changing the power to the new direction instead.
+botania.page.animatedTorch1=By default, whenever the torch is triggered, it'll turn 180 degrees, serving as a T-Flip-Flop Latch.<br>To trigger the torch one can either have a &4mana burst&0 collide with it, or have an adjacent &1Hovering Hourglass&0 turn. Either way will have the torch do its specified rotation.
+botania.page.animatedTorch2=Using a &1Wand of the Forest&0 on the torch will change its mode. The default mode is &4Toggle&0, which was explained in the previous page.<br>The other two modes are &4Rotate&0, which will have the torch do a 90 degree spin every time, and &4Random&0, which will have the torch rotate towards a random direction.
+botania.page.animatedTorch3=It's fallen and it can't get up
 
 # - MYSTICAL INSTRUMENTS
 # -- MANA BLASTER
@@ -3114,6 +3145,11 @@ botania.page.sextant1=Пока элемент используется, в ми�
 botania.page.sextant2=Вы набросаете круг, наполняя себя решимостью
 
 # -- WORLDSHAPER's ASTROLABAE
+botania.entry.astrolabe=Worldshaper's Astrolabe
+botania.tagline.astrolabe=A tool to help create planes
+botania.page.astrolabe0=The &1Worldshaper's Astrolabe&0 is a handy tool to place down blocks, a lot of them, really quick.<br>To start off, shift-right click the astrolabe on a block in the world. This will set the block that will be placed.<br>Shift-right clicking with the astrolabe on the air will change how many blocks will get placed.
+botania.page.astrolabe1=When looking at a block with the astrolabe in hand, a quick preview will show up, of what blocks will be placed upon right click.<br>To create the wall or floor displayed, alongside &4Mana&0, the respective blocks will be taken from the user's inventory, or items that can provide blocks to items such as the &1Rod of the Shifting Crust&0. (e.g. &1Rod of the Depths&0, &1Hand of Ender&0).
+botania.page.astrolabe2=Builds walls, creates worlds
 
 # - ENDER ARTEFACTS
 # -- EXTRACTING ENDER AIR

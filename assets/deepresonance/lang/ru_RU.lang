@@ -1,0 +1,45 @@
+item.deepresonance.dr_manual.name=Справочник кристаллоисследователя
+item.deepresonance.radiation_module.name=Радиационный экранный модуль
+item.deepresonance.rcl_module.name=Экранный модуль резонирующей кристальной жидкости
+item.deepresonance.radiation_monitor.name=Измеритель искажения
+item.deepresonance.resonating_plate.name=Резонирующая плита
+item.deepresonance.filter.name=Фильтрующий кристалл
+item.deepresonance.spent_filter.name=Заряженный фильтрующий кристалл
+item.deepresonance.insert_liquid.name=Жидкостный инжектор
+//Maybe should be different?
+item.deepresonance.helmet.name=Предмет в стадии разработки
+item.deepresonance.chest.name=Предмет в стадии разработки
+item.deepresonance.leggings.name=Предмет в стадии разработки
+item.deepresonance.boots.name=Предмет в стадии разработки
+
+tile.deepresonance.liquid_crystal.name=Кристальная жидкость
+
+tile.deepresonance.radiation_sensor.name=Сенсор искажения
+tile.deepresonance.resonating_ore.name=Резонирующая руда
+tile.deepresonance.resonating_block.name=Резонирующий блок
+tile.deepresonance.dense_obsidian.name=Укрепленный блок
+tile.deepresonance.dense_glass.name=Укрепленное стекло
+tile.deepresonance.poisoned_dirt.name=Искаженная земля
+tile.deepresonance.resonating_crystal.name=Резонирующий кристалл
+tile.deepresonance.generator.name=Генератор
+tile.deepresonance.generator_controller.name=Контроллер генератора
+tile.deepresonance.energy_collector.name=Сборщик энергии
+tile.deepresonance.machine_frame.name=Резонирующая машинная рамка
+tile.deepresonance.tank.name=Бак
+tile.deepresonance.crystalizer.name=Кристаллизатор
+tile.deepresonance.smelter.name=Плавильня
+tile.deepresonance.purifier.name=Очиститель
+tile.deepresonance.pulser.name=Пульсер
+tile.deepresonance.pedestal.name=Пьедестал
+tile.deepresonance.advanced_pedestal.name=Модернизированный пьедестал
+tile.deepresonance.valve.name=Слив
+tile.deepresonance.lens.name=Линза
+tile.deepresonance.laser.name=Лазерная установка
+tile.deepresonance.cooldown_sensor.name=Сенсор перезарядки
+tile.deepresonance.instability_sensor.name=Сенсор нестабильности
+
+itemGroup.DeepResonance=Deep Resonance
+
+message.shiftMessage=Нажмите Shift
+
+fluid.deepresonance.liquid_crystal=Резонирующая кристальная жидкость

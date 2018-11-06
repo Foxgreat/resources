@@ -23,50 +23,50 @@ tile.hive.infernal.name=Адский улей
 tile.hive.oblivion.name=Забвенный улей
 
 #item.magicbees.beecomb.
-item.magicbees.beecomb.mundane=Мирские соты
-item.magicbees.beecomb.molten=Расплавленные соты
-item.magicbees.beecomb.occult=Оккультные соты
-item.magicbees.beecomb.otherworldly=Потусторонние соты
-item.magicbees.beecomb.transmuted=Трансмутирующие соты
-item.magicbees.beecomb.paper=Бумажные соты
-item.magicbees.beecomb.soul=Душевные соты
-item.magicbees.beecomb.furtive=Незаметные соты
-item.magicbees.beecomb.aware=Памятные соты
-item.magicbees.beecomb.time=Временные соты
-item.magicbees.beecomb.forgotten=Забытые соты
-item.magicbees.beecomb.air=Ветреные соты
-item.magicbees.beecomb.fire=Огненные соты
-item.magicbees.beecomb.water=Водяные соты
-item.magicbees.beecomb.earth=Земляные соты
-item.magicbees.beecomb.TCair=Блестящие ветреные соты
-item.magicbees.beecomb.TCfire=Блестящие огненные соты
-item.magicbees.beecomb.TCwater=Блестящие водяные соты
-item.magicbees.beecomb.TCearth=Блестящие земляные соты
-item.magicbees.beecomb.TCorder=Блестящие упорядоченные соты
-item.magicbees.beecomb.TCchaos=Блестящие энтропийные соты
-item.magicbees.beecomb.essence=Соты эссенции
-item.magicbees.beecomb.potent=Крепкие соты
-item.magicbees.beecomb.TEcarbon=Углеродные соты
-item.magicbees.beecomb.TEelectric=Электрические соты
-item.magicbees.beecomb.TElux=Соты света
-item.magicbees.beecomb.TEendearing=Покоряющие соты
+item.magicbees.beecomb.mundane.name=Мирские соты
+item.magicbees.beecomb.molten.name=Расплавленные соты
+item.magicbees.beecomb.occult.name=Оккультные соты
+item.magicbees.beecomb.otherworldly.name=Потусторонние соты
+item.magicbees.beecomb.transmuted.name=Трансмутирующие соты
+item.magicbees.beecomb.paper.name=Бумажные соты
+item.magicbees.beecomb.soul.name=Душевные соты
+item.magicbees.beecomb.furtive.name=Незаметные соты
+item.magicbees.beecomb.aware.name=Памятные соты
+item.magicbees.beecomb.time.name=Временные соты
+item.magicbees.beecomb.forgotten.name=Забытые соты
+item.magicbees.beecomb.air.name=Ветреные соты
+item.magicbees.beecomb.fire.name=Огненные соты
+item.magicbees.beecomb.water.name=Водяные соты
+item.magicbees.beecomb.earth.name=Земляные соты
+item.magicbees.beecomb.TCair.name=Блестящие ветреные соты
+item.magicbees.beecomb.TCfire.name=Блестящие огненные соты
+item.magicbees.beecomb.TCwater.name=Блестящие водяные соты
+item.magicbees.beecomb.TCearth.name=Блестящие земляные соты
+item.magicbees.beecomb.TCorder.name=Блестящие упорядоченные соты
+item.magicbees.beecomb.TCchaos.name=Блестящие энтропийные соты
+item.magicbees.beecomb.essence.name=Соты эссенции
+item.magicbees.beecomb.potent.name=Крепкие соты
+item.magicbees.beecomb.TEcarbon.name=Углеродные соты
+item.magicbees.beecomb.TEelectric.name=Электрические соты
+item.magicbees.beecomb.TElux.name=Соты света
+item.magicbees.beecomb.TEendearing.name=Покоряющие соты
 
 #item.magicbees.wax.s
-item.magicbees.wax.magic=Магический воск
-item.magicbees.wax.soul=Душевный воск
-item.magicbees.wax.amnesic=Амнезийный воск
+item.magicbees.wax.magic.name=Магический воск
+item.magicbees.wax.soul.name=Душевный воск
+item.magicbees.wax.amnesic.name=Амнезийный воск
 
 #item.magicbees.drop.
-item.magicbees.drop.enchanting=Зачарованная капля
-item.magicbees.drop.intellect=Интеллектуальная капля
-item.magicbees.drop.destabilized=Нестабильная капля
-item.magicbees.drop.carbon=Углеродная капля
-item.magicbees.drop.lux=Капля света
-item.magicbees.drop.endearing=Покоряющая капля
+item.magicbees.drop.enchanting.name=Зачарованная капля
+item.magicbees.drop.intellect.name=Интеллектуальная капля
+item.magicbees.drop.destabilized.name=Нестабильная капля
+item.magicbees.drop.carbon.name=Углеродная капля
+item.magicbees.drop.lux.name=Капля света
+item.magicbees.drop.endearing.name=Покоряющая капля
 
 #item.magicbees.pollen.
-item.magicbees.pollen.unusual=Необычная пыльца
-item.magicbees.pollen.phased=Поэтапная пыльца
+item.magicbees.pollen.unusual.name=Необычная пыльца
+item.magicbees.pollen.phased.name=Поэтапная пыльца
 
 #Nuggets
 nugget.iron=Железный самородок
@@ -80,37 +80,37 @@ nugget.emerald=Изумрудный осколок
 nugget.apatite=Апатитовый осколок
 
 #Propolises
-item.magicbees.propolis.dull=Упорядоченный прополис
-item.magicbees.propolis.air=Свежий прополис
-item.magicbees.propolis.fire=Горящий прополис
-item.magicbees.propolis.water=Текучий прополис
-item.magicbees.propolis.earth=Каменный прополис
-item.magicbees.propolis.magic=Хаотический прополис
-item.magicbees.propolis.unstable=Нестабильный прополис
+item.magicbees.propolis.dull.name=Упорядоченный прополис
+item.magicbees.propolis.air.name=Свежий прополис
+item.magicbees.propolis.fire.name=Горящий прополис
+item.magicbees.propolis.water.name=Текучий прополис
+item.magicbees.propolis.earth.name=Каменный прополис
+item.magicbees.propolis.magic.name=Хаотический прополис
+item.magicbees.propolis.unstable.name=Нестабильный прополис
 
 #Misc item.magicbees.resource.
-item.magicbees.resource.fragment=Фрагмент знаний
-item.magicbees.resource.lump=Ароматический кусок
-item.magicbees.resource.fertilizer=Концентрированные соединения
-item.magicbees.resource.skullChip=Обломок кости скелета-иссушителя
-item.magicbees.resource.skullFragment=Фрагмент черепа скелета-иссушителя
-item.magicbees.resource.dragonDust=Драконья пыль
-item.magicbees.resource.dragonChunk=Драконий кусок
-item.magicbees.resource.essenceLife=Эссенция ложной жизни
-item.magicbees.resource.essenceDeath=Эссенция неглубокой могилы
-item.magicbees.resource.essenceTime=Эссенция утраченного времени
-item.magicbees.resource.essenceDurability=Эссенция вечной прочности
-item.magicbees.resource.essenceOblivion=Эссенция бесконечного равнодушия
-item.magicbees.resource.essenceMutable=Эссенция изменчивого постоянства
-item.magicbees.resource.TCairDust=Наполненная воздухом пыль
-item.magicbees.resource.TCfireDust=Наполненная огнём пыль
-item.magicbees.resource.TCwaterDust=Наполненная водой пыль
-item.magicbees.resource.TCearthDust=Наполненная землёй пыль
-item.magicbees.resource.TCorderDust=Наполненная порядком пыль
-item.magicbees.resource.TCchaosDust=Наполненная хаосом пыль
-item.magicbees.resource.dimensionalSingularity=Пространственная сингулярность
-item.magicbees.resource.startNode=Пчёлы и магия
-item.magicbees.resource.crystalAspect=Кристаллизованный %s аспект
+item.magicbees.resource.fragment.name=Фрагмент знаний
+item.magicbees.resource.lump.name=Ароматический кусок
+item.magicbees.resource.fertilizer.name=Концентрированные соединения
+item.magicbees.resource.skullChip.name=Обломок кости скелета-иссушителя
+item.magicbees.resource.skullFragment.name=Фрагмент черепа скелета-иссушителя
+item.magicbees.resource.dragonDust.name=Драконья пыль
+item.magicbees.resource.dragonChunk.name=Драконий кусок
+item.magicbees.resource.essenceLife.name=Эссенция ложной жизни
+item.magicbees.resource.essenceDeath.name=Эссенция неглубокой могилы
+item.magicbees.resource.essenceTime.name=Эссенция утраченного времени
+item.magicbees.resource.essenceDurability.name=Эссенция вечной прочности
+item.magicbees.resource.essenceOblivion.name=Эссенция бесконечного равнодушия
+item.magicbees.resource.essenceMutable.name=Эссенция изменчивого постоянства
+item.magicbees.resource.TCairDust.name=Наполненная воздухом пыль
+item.magicbees.resource.TCfireDust.name=Наполненная огнём пыль
+item.magicbees.resource.TCwaterDust.name=Наполненная водой пыль
+item.magicbees.resource.TCearthDust.name=Наполненная землёй пыль
+item.magicbees.resource.TCorderDust.name=Наполненная порядком пыль
+item.magicbees.resource.TCchaosDust.name=Наполненная хаосом пыль
+item.magicbees.resource.dimensionalSingularity.name=Пространственная сингулярность
+item.magicbees.resource.startNode.name=Пчёлы и магия
+item.magicbees.resource.crystalAspect.name=Кристаллизованный %s аспект
 
 #Frames
 item.magicbees.frameMagic.name=Магическая рамка

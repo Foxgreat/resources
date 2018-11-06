@@ -2,7 +2,7 @@ jer.config.itemsPerColumn.title=Кол-во предметов в столбце
 jer.config.itemsPerColumn.description=Изменяет кол-во предметов в столбце JEI-просмотров подземелий и мобов
 jer.config.itemsPerRow.title=Кол-во предметов в ряду
 jer.config.itemsPerRow.description=Изменяет кол-во предметов в ряду JEI-просмотра подземелий
-jer.config.enchantsBlacklist.title=Чёрный список зачарований
+jer.config.enchantsBlacklist.title=Чёрный список для зачарований
 jer.config.enchantsBlacklist.description=Убирает зачарования из JEI-просмотра зачарований
 jer.config.diyData.title=Использовать данные из модов
 jer.config.diyData.description=Встроенный код совместимости не будет загружаться, и json-ы будут загружены (требуется перезапуск)
@@ -33,7 +33,7 @@ jer.dungeon.desertPyramidChest=Храм в пустыне
 jer.dungeon.pyramidJungleChest=Храм в джунглях
 jer.dungeon.strongholdCorridorChest=Коридор крепости
 jer.dungeon.strongholdLibraryChest=Библиотека крепости
-jer.dungeon.strongholdCrossingChest=Перекрёсток крепости
+jer.dungeon.strongholdCrossingChest=Пересечение крепости
 jer.dungeon.villageBlacksmithChest=Деревенская кузница
 jer.dungeon.spawnBonusChest=Бонусный сундук
 jer.dungeon.simpleDungeonChest=Подземелье
@@ -58,7 +58,7 @@ jer.worldgen.average=Сред. выпадение
 jer.worldgen.base=Обычное
 
 #Mob View
-jer.mob.title=Выпадение из мобов
+jer.mob.title=Добыча мобов
 jer.mob.spawn=Появляется в биоме:
 jer.mob.biome=Появляется в биомах: наведите курсор сюда
 jer.mob.exp=Даёт опыта

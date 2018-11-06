@@ -1,0 +1,11 @@
+//items
+item.customdisk.name=Пользовательский диск
+item.fluidcustomdisk.name=Жидкостный пользовательский диск
+item.memory.name=Память
+
+//block
+tile.diskworkbench.name=Верстак для диска
+tile.fluiddiskworkbench.name=Верстак для жидкостного диска
+
+//gui
+itemGroup.storagetech=Storage Tech
