@@ -1,0 +1,71 @@
+tile.storagenetwork:kabel.name=Кабель хранения
+tile.storagenetwork:storage_kabel.name=Связующий кабель хранения
+tile.storagenetwork:ex_kabel.name=Кабель хранения экспорта
+tile.storagenetwork:im_kabel.name=Кабель хранения импорта
+
+tile.storagenetwork:master.name=Мастер сетевого хранения
+tile.storagenetwork:request.name=Таблица запросов хранения
+
+item.storagenetwork:upgrade_0.name=Обновление "Скорость"
+item.storagenetwork:upgrade_1.name=Обновление "Операция"
+item.storagenetwork:upgrade_2.name=Обновление "Стак"
+item.storagenetwork:upgrade_3.name=Обновление "Запас"
+
+item.storagenetwork:remote_0.name=Удаленное хранение
+item.storagenetwork:remote_2.name=Обновленное удаленное хранение
+item.storagenetwork:remote_1.name=Расширенное удаленное хранение
+
+item.remote.outofrange=Вне диапазона
+item.remote.notloaded=Чанк не загружен
+
+gui.storagenetwork.operate.tooltip=Активно, если %s чем %d %s в сети
+gui.storagenetwork.operate.tooltip.more=больше
+gui.storagenetwork.operate.tooltip.less=меньше
+
+
+gui.storagenetwork.checkbox.meta=Использовать метаданные
+gui.storagenetwork.checkbox.ore=Рудный словарь
+
+gui.storagenetwork.gui.import=Фильтр импорта
+gui.storagenetwork.gui.whitelist=Белый список
+gui.storagenetwork.gui.blacklist=Черный список
+
+gui.storagenetwork.sort=Направление сортировки
+gui.storagenetwork.priority=Приоритет
+gui.storagenetwork.priority.up=Приоритет выше
+gui.storagenetwork.priority.down=Приоритет ниже
+
+gui.storagenetwork.req.tooltip_NAME=Сортировать по имени
+gui.storagenetwork.req.tooltip_MOD=Сортировать по моду
+gui.storagenetwork.req.tooltip_AMOUNT=Сортировать по кол-ву
+
+gui.storagenetwork.fil.tooltip_IN=Только вход
+gui.storagenetwork.fil.tooltip_OUT=Только выход
+gui.storagenetwork.fil.tooltip_BOTH=Вход и выход
+
+gui.storagenetwork.shift=Зажмите Shift для большей информации.
+
+gui.storagenetwork.fil.tooltip_0=Префикс @: Поиск по моду.
+gui.storagenetwork.fil.tooltip_1=Префикс #: Поиск по подсказке.
+gui.storagenetwork.fil.tooltip_2=Префикс $: Поиск по рудному словарю.
+gui.storagenetwork.fil.tooltip_3=Очистить текст с помощью ПКМ или кнопки X
+
+gui.storagenetwork.tooltip_clear=Очистить поиск
+gui.storagenetwork.fil.tooltip_jei_on=Поиск JEI включен
+gui.storagenetwork.fil.tooltip_jei_off=Поиск JEI отключен
+
+
+tooltip.storagenetwork.kabel_S=Используется, чтобы подключить инвентарь к сети.
+tooltip.storagenetwork.kabel_E=Экспортирует объекты из сети в прикрепленные инвентари.
+tooltip.storagenetwork.kabel_I=Импортирует предметы из прикрепленных инвентарей в сеть.
+tooltip.storagenetwork.kabel_L=Кабель по умолчанию для подключения частей вашей сети.
+tooltip.storagenetwork.master=Сердце сети. Только ОДИН на сеть.
+tooltip.storagenetwork.request=Используется для просмотра и запроса предметов из сети.
+tooltip.storagenetwork.remote_0=Используется для доступа к сети на расстоянии в 64 блока.
+tooltip.storagenetwork.remote_1=Используется для доступа к сети с неограниченного расстояния и между измерениями.
+tooltip.storagenetwork.remote_2=Используется для доступа к сети с неограниченным расстоянием.
+
+tooltip.storagenetwork.upgrade_0=Увеличивает скорость импорта/экспорта.
+tooltip.storagenetwork.upgrade_1=Активность кабеля зависит от количества предметов.
+tooltip.storagenetwork.upgrade_2=Увеличивает размер стака задачи.
+tooltip.storagenetwork.upgrade_3=Сохраняет определенное количество предметов в прикрепленном инвентаре (только в кабеле экспорта).
