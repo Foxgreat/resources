@@ -9,20 +9,21 @@ death.attack.heat.player=%s was boiled alive by %s.
 death.attack.crusher=%s was grinded dead.
 
 gregtech.top.energy_stored=Energy:
-gregtech.top.cable_average_amperage=Average amperage in past %s ticks:
-gregtech.top.cable_average_voltage=Average voltage in past %s ticks:
 gregtech.top.progress=Progress:
 gregtech.top.working_disabled=Working Disabled
 
 gregtech.multiblock.title=Multiblock Pattern
-gregtech.multiblock.primitive_blast_furnace.description=The Primitive Blast Furnace (PBF) is multiblock structure used for cooking steel in early game stage. Although not being very fast, it can provide your with steel for your first setups.
+gregtech.multiblock.primitive_blast_furnace.description=The Primitive Blast Furnace (PBF) is multiblock structure used for cooking steel in early game stage. Although not being very fast, it f provide your with steel for your first setups.
 gregtech.multiblock.vacuum_freezer.description=The Vacuum Freezer is multiblock structure mainly used for freezing Hot Ingots into regular Ingots. However, it can also freeze other substances, such as Water.
 gregtech.multiblock.implosion_compressor.description=The Implosion Compressor is a multiblock structure that uses explosives to turn gem dusts into the corresponding gems.
 gregtech.multiblock.pyrolyze_oven.description=The Pyrolyze Oven is a multiblock structure used for turning Logs into Charcoal and Creosote Oil, or Ash and Heavy Oil.
 gregtech.multiblock.cracker.description=The Cracker Unit is a multiblock structure used for turning Light and Heavy Fuel into their Cracked variants.
 gregtech.multiblock.diesel_engine.description=The Diesel Engine is a multiblock structure that acts as a Diesel Generator for EV power.
 gregtech.multiblock.distillation_tower.description=The Distillation Tower is a multiblock structure used for distilling the various types of Oil and some of their byproducts.
-
+gregtech.multiblock.electric_blast_furnace.description=The Electric Blast Furnace (EBF) is multiblock structure used for smelting alloys, cooking metals and refining ores. It is required for obtaining high-tier alloys and metals, such as aluminium, stainless steel and titanium, naquadah alloy.
+gregtech.multiblock.multi_smelter.description=The Multi Smelter is multiblock structure used for smelting massive amounts of items at once. Different tiers of coils provide speed boost and energy efficiency gain. 16 is base value of items smelted per operation, and can be multiplied by using higher level coils.
+gregtech.multiblock.large_boiler.description=Large Boilers are multiblocks that generate steam from energy source and water. Usually either solid fuel or some high-density fluid acts like energy source for large boiler. Tiers differ only by amount of steam outputted.
+gregtech.multiblock.large_turbine.description=Large Turbines are multiblocks that generate power from steam, gases and plasma by them spinning turbine's rotor. Energy output is based on rotor efficiency and current speed of turbine.
 metaitem.dust.tooltip.purify=Throw into Cauldron to get clean Dust
 metaitem.generic.fluid_container.tooltip=%d/%dL %s
 metaitem.generic.fluid_container.tooltip_empty=Empty
@@ -157,8 +158,8 @@ metaitem.fuel.can.plastic.empty.tooltip=Used to store Fuels
 metaitem.fuel.can.plastic.filled.name=Plastic Fuel Can
 metaitem.fuel.can.plastic.filled.tooltip=Burns well in Diesel Generators
 
-metaitem.spray.empty.name=Empty Spray Can
-metaitem.spray.empty.tooltip=Used for making Sprays
+metaitem.spray.empty.name=Spray Can (Empty)
+metaitem.spray.empty.tooltip=Can be filled with sprays of various colors
 
 metaitem.thermos_can.empty.name=Empty Thermos Can
 metaitem.thermos_can.empty.tooltip=Keeping hot things hot and cold things cold
@@ -171,87 +172,43 @@ metaitem.large_fluid_cell.steel.name=%s Steel Cell
 metaitem.large_fluid_cell.tungstensteel.name=%s Tungstensteel Cell
 
 metaitem.spray.can.dyes.white.name=Spray Can (White)
-metaitem.spray.can.dyes.white.tooltip=Full
+metaitem.spray.can.dyes.white.tooltip=Can paint things in White
 metaitem.spray.can.dyes.orange.name=Spray Can (Orange)
-metaitem.spray.can.dyes.orange.tooltip=Full
+metaitem.spray.can.dyes.orange.tooltip=Can paint things in Orange
 metaitem.spray.can.dyes.magenta.name=Spray Can (Magenta)
-metaitem.spray.can.dyes.magenta.tooltip=Full
+metaitem.spray.can.dyes.magenta.tooltip=Can paint things in Magenta
 metaitem.spray.can.dyes.light_blue.name=Spray Can (Light Blue)
-metaitem.spray.can.dyes.light_blue.tooltip=Full
+metaitem.spray.can.dyes.light_blue.tooltip=Can paint things in Light Blue
 metaitem.spray.can.dyes.yellow.name=Spray Can (Yellow)
-metaitem.spray.can.dyes.yellow.tooltip=Full
+metaitem.spray.can.dyes.yellow.tooltip=Can paint things in Yellow
 metaitem.spray.can.dyes.lime.name=Spray Can (Lime)
-metaitem.spray.can.dyes.lime.tooltip=Full
+metaitem.spray.can.dyes.lime.tooltip=Can paint things in Lime
 metaitem.spray.can.dyes.pink.name=Spray Can (Pink)
-metaitem.spray.can.dyes.pink.tooltip=Full
+metaitem.spray.can.dyes.pink.tooltip=Can paint things in Pink
 metaitem.spray.can.dyes.gray.name=Spray Can (Gray)
-metaitem.spray.can.dyes.gray.tooltip=Full
+metaitem.spray.can.dyes.gray.tooltip=Can paint things in Gray
 metaitem.spray.can.dyes.silver.name=Spray Can (Light Gray)
-metaitem.spray.can.dyes.silver.tooltip=Full
+metaitem.spray.can.dyes.silver.tooltip=Can paint things in Light Gray
 metaitem.spray.can.dyes.cyan.name=Spray Can (Cyan)
-metaitem.spray.can.dyes.cyan.tooltip=Full
+metaitem.spray.can.dyes.cyan.tooltip=Can paint things in Cyan
 metaitem.spray.can.dyes.purple.name=Spray Can (Purple)
-metaitem.spray.can.dyes.purple.tooltip=Full
+metaitem.spray.can.dyes.purple.tooltip=Can paint things in Purple
 metaitem.spray.can.dyes.blue.name=Spray Can (Blue)
-metaitem.spray.can.dyes.blue.tooltip=Full
+metaitem.spray.can.dyes.blue.tooltip=Can paint things in Blue
 metaitem.spray.can.dyes.brown.name=Spray Can (Brown)
-metaitem.spray.can.dyes.brown.tooltip=Full
+metaitem.spray.can.dyes.brown.tooltip=Can paint things in Brown
 metaitem.spray.can.dyes.green.name=Spray Can (Green)
-metaitem.spray.can.dyes.green.tooltip=Full
+metaitem.spray.can.dyes.green.tooltip=Can paint things in Green
 metaitem.spray.can.dyes.red.name=Spray Can (Red)
-metaitem.spray.can.dyes.red.tooltip=Full
+metaitem.spray.can.dyes.red.tooltip=Can paint things in Red
 metaitem.spray.can.dyes.black.name=Spray Can (Black)
-metaitem.spray.can.dyes.black.tooltip=Full
-
-metaitem.spray.can.dyes.used.white.name=Spray Can (White)
-metaitem.spray.can.dyes.used.white.tooltip=Used
-metaitem.spray.can.dyes.used.orange.name=Spray Can (Orange)
-metaitem.spray.can.dyes.used.orange.tooltip=Used
-metaitem.spray.can.dyes.used.magenta.name=Spray Can (Magenta)
-metaitem.spray.can.dyes.used.magenta.tooltip=Used
-metaitem.spray.can.dyes.used.light_blue.name=Spray Can (Light Blue)
-metaitem.spray.can.dyes.used.light_blue.tooltip=Used
-metaitem.spray.can.dyes.used.yellow.name=Spray Can (Yellow)
-metaitem.spray.can.dyes.used.yellow.tooltip=Used
-metaitem.spray.can.dyes.used.lime.name=Spray Can (Lime)
-metaitem.spray.can.dyes.used.lime.tooltip=Used
-metaitem.spray.can.dyes.used.pink.name=Spray Can (Pink)
-metaitem.spray.can.dyes.used.pink.tooltip=Used
-metaitem.spray.can.dyes.used.gray.name=Spray Can (Gray)
-metaitem.spray.can.dyes.used.gray.tooltip=Used
-metaitem.spray.can.dyes.used.silver.name=Spray Can (Light Gray)
-metaitem.spray.can.dyes.used.silver.tooltip=Used
-metaitem.spray.can.dyes.used.cyan.name=Spray Can (Cyan)
-metaitem.spray.can.dyes.used.cyan.tooltip=Used
-metaitem.spray.can.dyes.used.purple.name=Spray Can (Purple)
-metaitem.spray.can.dyes.used.purple.tooltip=Used
-metaitem.spray.can.dyes.used.blue.name=Spray Can (Blue)
-metaitem.spray.can.dyes.used.blue.tooltip=Used
-metaitem.spray.can.dyes.used.brown.name=Spray Can (Brown)
-metaitem.spray.can.dyes.used.brown.tooltip=Used
-metaitem.spray.can.dyes.used.green.name=Spray Can (Green)
-metaitem.spray.can.dyes.used.green.tooltip=Used
-metaitem.spray.can.dyes.used.red.name=Spray Can (Red)
-metaitem.spray.can.dyes.used.red.tooltip=Used
-metaitem.spray.can.dyes.used.black.name=Spray Can (Black)
-metaitem.spray.can.dyes.used.black.tooltip=Used
+metaitem.spray.can.dyes.black.tooltip=Can paint things in Black
 
 metaitem.tool.matches.name=Match
-metaitem.tool.matchbox.used.name=Match Box
-metaitem.tool.matchbox.used.tooltip=This is not a Car
-metaitem.tool.matchbox.full.name=Match Box (Full)
-metaitem.tool.matchbox.full.tooltip=This is not a Car
-
-metaitem.tool.lighter.invar.empty.name=Lighter (Empty)
-metaitem.tool.lighter.invar.used.name=Lighter
-metaitem.tool.lighter.invar.full.name=Lighter (Full)
-
-metaitem.tool.lighter.platinum.empty.name=Platinum Lighter (Empty)
-metaitem.tool.lighter.platinum.empty.tooltip=A known Prank Master is engraved on it
-metaitem.tool.lighter.platinum.used.name=Platinum Lighter
-metaitem.tool.lighter.platinum.used.tooltip=A known Prank Master is engraved on it
-metaitem.tool.lighter.platinum.full.name=Platinum Lighter (Full)
-metaitem.tool.lighter.platinum.full.tooltip=A known Prank Master is engraved on it
+metaitem.tool.matchbox.name=Match Box
+metaitem.tool.lighter.invar.name=Lighter
+metaitem.tool.lighter.platinum.name=Platinum Lighter
+metaitem.tool.lighter.platinum.tooltip=A known Prank Master is engraved on it
 
 metaitem.ingot.iridiumalloy.name=Iridium Alloy Ingot
 metaitem.ingot.iridiumalloy.tooltip=Used to make Iridium Plates
@@ -446,6 +403,7 @@ metaitem.tool.datastick.tooltip=A Low Capacity Data Storage
 metaitem.tool.dataorb.name=Data Orb
 metaitem.tool.dataorb.tooltip=A High Capacity Data Storage
 metaitem.circuit.integrated.name=Integrated circuit
+metaitem.circuit.integrated.tooltip=Right-click to open configuration GUI
 metaitem.circuit.integrated.gui=Integrated circuit configuration
 
 metaitem.circuit.primitive.name=NAND Chip
@@ -557,6 +515,9 @@ metaitem.duct.tape.name=BrainTech Aerospace Advanced Reinforced Duct Tape FAL-84
 metaitem.duct.tape.tooltip=If you can't fix it with this, use more of it!
 metaitem.mcguffium.239.name=Mc Guffium 239
 metaitem.mcguffium.239.tooltip=42%% better than Phlebotnium
+
+metaitem.pipe.small.bronze.name=Small Bronze Pipe
+metaitem.pipe.small.steel.name=Small Steel Pipe
 
 metaitem.thermos_can.dark.coffee.name=Dark Coffee
 metaitem.thermos_can.dark.coffee.tooltip=Coffee, dark, without anything else
@@ -902,7 +863,7 @@ metaitem.tool.file.name=%s File
 metaitem.tool.crowbar.name=%s Crowbar
 metaitem.tool.crowbar.tooltip=Dismounts Covers and Rotates Rails
 metaitem.tool.screwdriver.name=%s Screwdriver
-metaitem.tool.screwdriver.tooltip=Adjusts Covers and Machines
+metaitem.tool.screwdriver.tooltip=/nRight click on a machine side to increment it's output tank filter index/nWhen output tank filter is set up, only fluids from specified tank index are allowed to be outputted on that side.
 metaitem.tool.mortar.name=%s Mortar
 metaitem.tool.wire_cutter.name=%s Wire Cutter
 metaitem.tool.scoop.name=%s Scoop
@@ -949,6 +910,8 @@ metaitem.tool.tooltip.handle_material=Handle material: %s (%s lvl)
 metaitem.tool.tooltip.attack_damage=Attack damage: %d
 metaitem.tool.tooltip.mining_speed=Mining speed: %d
 metaitem.tool.tooltip.durability=Durability: %d/%d
+metaitem.tool.tooltip.rotor.efficiency=Rotor Efficiency: %d%%
+metaitem.tool.tooltip.hammer.extra_drop=Has 50%% chance to drop 1 more crushed ore
 
 # %s is a localized material name
 item.material.oreprefix.oreBlackgranite=Granite %s Ore
@@ -1101,9 +1064,6 @@ item.material.oreprefix.pipeRestrictiveSmall=Small Restrictive %s Pipe
 item.material.oreprefix.pipeRestrictiveMedium=Medium Restrictive %s Pipe
 item.material.oreprefix.pipeRestrictiveLarge=Large Restrictive %s Pipe
 item.material.oreprefix.pipeRestrictiveHuge=Huge Restrictive %s Pipe
-item.material.oreprefix.pipeQuadruple=Quadruple %s Pipe
-item.material.oreprefix.pipeNonuple=Nonuple %s Pipe
-item.material.oreprefix.pipeSexdecuple=Sexdecuple %s Pipe
 item.material.oreprefix.pipe=%s Pipe
 item.material.oreprefix.wireGtHex=16x %s wire
 item.material.oreprefix.wireGtTwelve=12x %s wire
@@ -1692,19 +1652,10 @@ recipemap.dieselgeneratorfuel.value=Fuel Value: %s EU
 recipemap.gasturbinefuel.name=Gas Turbine Fuel
 recipemap.gasturbinefuel.value=Fuel Value: %s EU
 recipemap.thermalgeneratorfuel.name=Thermal Generator Fuel
-recipemap.thermalgeneratorfuel.value=Fuel Value: %s EU
 recipemap.semifluidboilerfuels.name=Semifluid Boiler Fuels
-recipemap.semifluidboilerfuels.value=Fuel Value: %s EU
 recipemap.plasmageneratorfuels.name=Plasma generator Fuels
-recipemap.plasmageneratorfuels.value=Fuel Value: %s EU
 recipemap.magicfuels.name=Magic Fuels
 recipemap.magicfuels.value=Fuel Value: %s EU
-recipemap.smallnaquadahreactor.name=Small Naquadah Reactor
-recipemap.smallnaquadahreactor.value=Fuel Value: %s EU
-recipemap.largenaquadahreactor.name=Large Naquadah Reactor
-recipemap.largenaquadahreactor.value=Fuel Value: %s EU
-recipemap.fluidnaquadahreactor.name=Fluid Naquadah Reactor
-recipemap.fluidnaquadahreactor.value=Fuel Value: %s EU
 recipemap.forming_press.name=Forming Press
 recipemap.forge_hammer.name=Forge Hammer
 recipemap.compressor.name=Compressor
@@ -1713,6 +1664,7 @@ recipemap.unpacker.name=Unpacker
 recipemap.diesel_generator.name=Diesel Generator
 recipemap.gas_turbine.name=Gas Turbine
 recipemap.steam_turbine.name=Steam Turbine
+recipemap.semi_fluid_generator.name=Semi Fluid Fuels
 
 behavior.magnifying_glass.description=Click on surface rock to inspect it
 behavior.magnifying_glass.inspect=This rock contains %s
@@ -1720,7 +1672,7 @@ behaviour.hoe=Can till dirt
 behaviour.soft_hammer=Click machine to allow/disallow it to work
 behaviour.lighter.tooltip=Can light things on fire
 behaviour.lighter.uses=Remaining uses: %d
-behaviour.unstackable=Not usable when stacked!
+behavior.plunger.description=Right click on machine to clear 1000 mb out of it's output tank./nUse while sneaking to clear 1000 mb out of machine's input tank./nInput tank clearing works only on GTCE machines!
 
 enchantment.damage.endermen=Disjunction
 enchantment.damage.radioactivity=Radioactivity
@@ -1780,6 +1732,15 @@ tile.boiler_casing.bronze_pipe.name=Bronze Pipe Casing
 tile.boiler_casing.steel_pipe.name=Steel Pipe Casing
 tile.boiler_casing.titanium_pipe.name=Titanium Pipe Casing
 tile.boiler_casing.tungstensteel_pipe.name=Tungstensteel Pipe Casing
+
+#Legacy locales
+tile.boiler_casing.legacy_bronze_firebox.name=Legacy Block (Bronze Firebox Casing)
+tile.boiler_casing.legacy_steel_firebox.name=Legacy Block (Steel Firebox Casing)
+tile.boiler_casing.legacy_titanium_firebox.name=Legacy Block (Titanium Firebox Casing)
+tile.boiler_casing.legacy_tungstensteel_firebox.name=Legacy Block (Tungstensteel Firebox Casing)
+tile.boiler_casing.legacy=This block is legacy. Put it into the crafting grid to get a new one.
+
+#Firebox casing blocks
 tile.boiler_casing.bronze_firebox.name=Bronze Firebox Casing
 tile.boiler_casing.steel_firebox.name=Steel Firebox Casing
 tile.boiler_casing.titanium_firebox.name=Titanium Firebox Casing
@@ -2300,11 +2261,36 @@ gregtech.machine.pump.lv.name=Basic Pump
 gregtech.machine.pump.mv.name=Advanced Pump
 gregtech.machine.pump.hv.name=Advanced Pump II
 gregtech.machine.pump.ev.name=Advanced Pump III
-gregtech.machine.pump.iv.name=Advanced Pump IV
-gregtech.machine.pump.luv.name=Advanced Pump V
-gregtech.machine.pump.zpm.name=Advanced Pump VI
-gregtech.machine.pump.uv.name=Advanced Pump VII
-gregtech.machine.pump.max.name=Advanced Pump VIII
+
+#Quantum chests
+gregtech.machine.quantum_chest.tooltip=Better than JABBA.
+gregtech.machine.quantum_chest.capacity=Item Capacity: %d items
+gregtech.machine.quantum_chest.items_stored=Item Amount:
+
+gregtech.machine.quantum_chest.mv.name=Basic Quantum Chest
+gregtech.machine.quantum_chest.hv.name=Advanced Quantum Chest
+gregtech.machine.quantum_chest.ev.name=Advanced Quantum Chest II
+gregtech.machine.quantum_chest.iv.name=Black Hole-Quantum Chest III
+
+#Quantum tanks
+gregtech.machine.quantum_tank.tooltip=Compact place to store all your fluids.
+gregtech.machine.quantum_chest.capacity=Fluid Capacity: %d mb
+
+gregtech.machine.quantum_tank.mv.name=Basic Quantum Tank
+gregtech.machine.quantum_tank.hv.name=Advanced Quantum Tank
+gregtech.machine.quantum_tank.ev.name=Advanced Quantum Tank II
+gregtech.machine.quantum_tank.iv.name=Black Hole-Quantum Tank III
+
+#Air Collectors
+gregtech.machine.air_collector.lv.name=Basic Air Collector
+gregtech.machine.air_collector.mv.name=Advanced Air Collector
+gregtech.machine.air_collector.hv.name=Advanced Air Collector II
+gregtech.machine.air_collector.ev.name=Atmosphere Collector III
+gregtech.machine.air_collector.description=Collects air from adjacent blocks
+
+#Tesla Coil
+gregtech.machine.tesla_coil.name=Tesla Coil
+gregtech.machine.tesla_coil.description=Damages all living entities within 7 blocks range/Consumes 2500 EU for 1 damage point\nInternal buffer Capacity: §e256k EU
 
 # General machinery
 gregtech.machine.basic.output_override.reset=Output filter: all tanks.
@@ -2897,6 +2883,7 @@ gregtech.fluid.click_to_fill.shift=§7(Shift-clicking will fill all containers i
 gregtech.fluid.click_to_empty=§7Click with a filled fluid container to empty in into tank.
 gregtech.fluid.click_to_empty.shift=§7(Shift-clicking will empty all containers in your hand)
 
+gregtech.fluid.plasma=%s Plasma
 gregtech.fluid.empty=Empty
 gregtech.fluid.amount=§7%,d/%,d
 gregtech.fluid.temperature=§7Temperature: %dK
@@ -2909,18 +2896,9 @@ gregtech.cable.voltage=Voltage: §a%d §7(§a%s§7)
 gregtech.cable.amperage=Amperage: §e%d
 gregtech.cable.loss_per_block=Loss per block: §c%d
 
-gregtech.item_pipe.normal=§6Item Pipe§7
-gregtech.item_pipe.capacity1=Item Capacity: §e%d§7 Stacks/ %d sec
-gregtech.item_pipe.capacity2=Item Capacity: §e%d§7 Stacks/sec
-gregtech.item_pipe.capacity3=Item Capacity: §e1§7 Stack/sec
-gregtech.item_pipe.routing_value=Routing Value: §2%d§7
-
-gregtech.fluid_pipe.normal=§1Fluid Pipe§7
-gregtech.fluid_pipe.multiple=§1Multiple Fluid Pipe§7
-gregtech.fluid_pipe.capacity1=Fluid Capacity: §9%d§7 L/sec
-gregtech.fluid_pipe.capacity2=Fluid Capacity: §9%d§7x§9%d§7 L/sec
-gregtech.fluid_pipe.heat_limit=Heat Limit:  §c%s§7 K
-gregtech.fluid_pipe.gas_proof=§aGas Proof§7
+gregtech.fluid_pipe.throughput=Transfer: §e%d mb/t
+gregtech.fluid_pipe.max_temperature=Max Temperature: §c%dK
+gregtech.fluid_pipe.non_gas_proof=Can't transfer gases.
 
 gregtech.multiblock.work_paused=Work Paused.
 gregtech.multiblock.running=Running perfectly.
@@ -2953,9 +2931,17 @@ gregtech.multiblock.turbine.low_rotor_durability=WARNING: Rotor Durability below
 gregtech.multiblock.large_boiler.temperature=Temperature: %s / %s C
 gregtech.multiblock.large_boiler.steam_output=Steam Output: %s mb/t
 
-gregtech.command.usage=Usage: /gregtech <sub_command>
+gregtech.command.usage=Usage: /gregtech <worldgen/util>
 gregtech.command.worldgen.usage=Usage: /gregtech worldgen <reload>
 gregtech.command.worldgen.reload.usage=Usage: /gregtech worldgen reload
 gregtech.command.worldgen.reload.success=Worldgen successfully reloaded from config.
 gregtech.command.worldgen.reload.failed=Worldgen reload failed. Check console for errors.
-
+gregtech.command.util.usage=Usage: /gregtech util <hand>
+gregtech.command.util.hand.usage=Usage: /gregtech util hand
+gregtech.command.util.hand.item_id=Item: %s (Metadata: %d)
+gregtech.command.util.hand.electric=Electric Info: %d / %d EU - Tier: %d; Is Battery: %s
+gregtech.command.util.hand.fluid=Fluid Info: %s %d / %d mb; Can Fill: %s; Can Drain: %s
+gregtech.command.util.hand.material_meta_item=Ore Prefix: %s; Material: %s
+gregtech.command.util.hand.tool_stats=Tool Stats Class: %s
+gregtech.command.util.hand.meta_item=Meta Item Name: %s
+gregtech.command.util.hand.not_a_player=This command is only usable by a player.

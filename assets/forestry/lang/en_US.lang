@@ -450,7 +450,10 @@ item.for.apiarist_helmet.name=Apiarist's Hat
 item.for.apiarist_legs.name=Apiarist's Pants
 
 item.for.ash.name=Ash
-tile.for.pile_ash.name=Ash Pile
+tile.for.ash_block_0.name=Ash Block
+tile.for.ash_block_1.name=Ash Block
+tile.for.ash_block_2.name=Ash Block
+tile.for.ash_block_3.name=Ash Block
 
 item.for.habitat_locator.name=Habitat Locator
 
@@ -1763,6 +1766,11 @@ for.config.tweaks.capsule.capsulePickup=Capsule Pickup
 for.config.tweaks.capsule.capsulePickup.comment=Enables the function that cans and capsules can pick up fluids from the world.
 for.config.tweaks.capsule.capsuleReuseable=Reuseable Capsules
 for.config.tweaks.capsule.capsuleReuseable.comment=Capsules are no longer consumed after being emptied.
+
+for.config.tweaks.charcoal.amount.base=Amount Base
+for.config.tweaks.charcoal.amount.base.comment=The base amount that the wood pile will drop if the wall blocks are no registered pile waal blocks.
+for.config.tweaks.charcoal.check.range=Wall Check Range
+for.config.tweaks.charcoal.check.range.comment=Sets the amount of blocks that the wood pile will check if it is a valid charcoal pile wall block.
 
 for.config.tweaks.book.spawn=Forester's Manual
 for.config.tweaks.book.spawn.comment=Players who enter the world for the first time get a Forester's Manual.
