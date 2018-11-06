@@ -2,7 +2,7 @@ item.LTHammer.name=Little Hammer
 item.LTMultiTiles.name=Multi-Tile-Structure
 item.LTRecipe.name=Little Recipe
 item.LTSaw.name=Little Saw
-item.LTContainer.name=Little Container
+item.LTContainer.name=Little Bag
 item.LTWrench.name=Little Wrench
 item.LTChisel.name=Little Chisel
 item.LTScrewdriver.name=Little Screwdriver
@@ -10,7 +10,7 @@ item.LTRubberMallet.name=Little Rubber Mallet
 item.LTColorTube.name=Little Paint Brush
 item.LTUtilityKnife.name=Little Utility Knife
 item.LTGrabber.name=Little Glove
-item.LTRecipeAdvanced.name=Miniature Recipe
+item.LTRecipeAdvanced.name=Advanced Recipe
 
 tile.LTParticleBlock.name=Little Particle Block
 tile.LTColoredBlock.clean.name=Colored Block Clean
@@ -27,6 +27,7 @@ tile.LTColoredBlock.clay.name=Colored Block Clay
 tile.LTColoredBlock.light_clean.name=Colored Block Lighting Clean
 tile.LTColoredBlock.plank.name=Colored Wooden Plank
 tile.LTColoredBlock.lava.name=Lava Block
+tile.LTColoredBlock.white_lava.name=White Lava Block
 
 tile.LTTransparentColoredBlock.clean.name=Colored Block Clean
 tile.LTTransparentColoredBlock.thick.name=Colored Block Thick
@@ -92,3 +93,17 @@ commands.open.usage=Opens all doors at the given coordinate
 commands.open.notloaded=Structure is not loaded
 
 item.LTPremade.workbench.name=Little Workbench
+item.LTPremade.importer.name=Little Importer
+item.LTPremade.exporter.name=Little Exporter
+
+selection.clear=clear
+selection.dialog.clear=Do you really want to clear all content?
+selection.include.vanilla=Regular Blocks
+selection.include.cb=C&B Blocks
+selection.include.lt=LittleTiles Blocks
+selection.include.structure=Remember Structures
+selection.mode.area.pos.first=First position selected [%s,%s,%s]
+selection.mode.area.pos.second=Second position selected [%s,%s,%s]
+selection.save=Save
+selection.scale=Scale
+mode.selection.area=Area
