@@ -45,4 +45,4 @@ item.totemexpansion.totem_time.desc=Двигает время вперёд
 item.totemexpansion.totem_recalling.name=Тотем возврата
 item.totemexpansion.totem_head_recalling.name=Голова тотема возврата
 item.totemexpansion.totem_recalling.desc=Возвращает вас домой
-item.totemexpansion.totem_recalling.error=§c§oТотем трясётся, но не может найти ваш дом.
+item.totemexpansion.totem_recalling.error=§c§oТотем вибрирует, но не может найти ваш дом.
