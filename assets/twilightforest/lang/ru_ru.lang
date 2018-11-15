@@ -630,3 +630,10 @@ modifier.stalwart.name=Крепкий
 modifier.stalwart.desc=§oХрабрый и смелый.§r\nУдар по существу может заставить Вас чувствовать себя ободренным.
 modifier.veiled.name=Замаскированный
 modifier.veiled.desc=§oКак привидение!§r\nСнаряд будет невидим.
+
+tile.twilightforest.AuroralizedGlass.name=Стекло Авроры
+item.twilightforest.scepterShield.name=Посох ходячей крепости
+tile.twilightforest.CastleStairsBrick.0.name=Кирпичные ступеньки крепости
+tile.twilightforest.CastleStairsWorn.0.name=Изношенные кирпичные ступеньки крепости
+tile.twilightforest.CastleStairsCracked.0.name=Треснутые кирпичные ступеньки крепости
+tile.twilightforest.CastleStairsMossy.0.name=Замшелые кирпичные ступеньки крепости
