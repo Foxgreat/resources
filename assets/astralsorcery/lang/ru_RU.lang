@@ -283,8 +283,8 @@ item.itemcoloredlens.effect.night.name=Ночное зрение
 inventory.altar.0=Светящийся верстак
 inventory.altar.1=Алтарь звездного света
 inventory.altar.2=Небезный алтарь
-inventory.altar.3=[NoName-Тёмный] Алтарь
-inventory.altar.4=[NoName-Конец] Алтарь
+inventory.altar.3=Радужный Алтарь
+inventory.altar.4=[WIP] Алтарь
 
 fluid.astralsorcery.liquidStarlight=Жидкий звёздный свет
 
@@ -297,8 +297,8 @@ tile.blockcollectorcrystal.obf.name=Летающий кристалл
 tile.blockaltar.altar_1.name=Светящийся верстак
 tile.blockaltar.altar_2.name=Алтарь звездного света
 tile.blockaltar.altar_3.name=Небесный алтарь
-tile.blockaltar.altar_4.name=[NoName-Тёмный] Алтарь
-tile.blockaltar.altar_5.name=[NoName-Конец] Алтарь
+tile.blockaltar.altar_4.name=Радужный Алтарь
+tile.blockaltar.altar_5.name=[WIP] Алтарь
 tile.blockaltar.general.name=Алтарь
 tile.blockattunementaltar.name=Алтарь настройки
 tile.blockstructural.attunement_altar_struct.name=Алтарь настройки
@@ -423,3 +423,4 @@ tile.blockgeolosyssamplecluster.name=Образец горного криста�
 item.itemusabledust.illumination.name=Освещающий порошок
 item.itemusabledust.nocturnal.name=Порошок ночи
 item.itemskyresonator.starlight.name=Резонатор света
+tile.blockcustomflower.glow_flower.name=Тусклый Амарант
