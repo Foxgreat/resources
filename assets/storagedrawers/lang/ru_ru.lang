@@ -1,3 +1,4 @@
+
 itemGroup.storagedrawers=Storage Drawers
 itemGroup.storagedrawersSorting=Storage Drawers - Сортировка
 
@@ -198,6 +199,11 @@ storagedrawers.config.addons.tooltip=Каждая упаковка исполь�
 
 storagedrawers.config.integration=Интеграция
 storagedrawers.config.integration.tooltip=Настройки интеграции с другими модами.
+
+tile.storagedrawers.keyButton.drawer.name=Ключ-кнопка от ящика
+tile.storagedrawers.keyButton.concealment.name=Прячущая ключ-кнопка
+tile.storagedrawers.keyButton.personal.name=Персональная ключ-кнопка
+tile.storagedrawers.keyButton.quantify.name=Ключ-кнопка показа количества
 
 storagedrawers.config.integration.enableAE2=Включить интеграцию с Applied Energistics 2
 storagedrawers.config.integration.enableWaila=Включить интеграцию с WAILA
