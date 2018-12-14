@@ -567,19 +567,19 @@ quark.potion.danger_sight.name=Danger Sight
 
 potion.effect.haste=Зелье Спешки
 splash_potion.effect.haste=Взрывное зелье Спешки
-lingering_potion.effect.haste=Сильное зелье Спешки
+lingering_potion.effect.haste=Туманное зелье Спешки
 tipped_arrow.effect.haste=Зачарованная стрела Спешки
 potion.effect.mining_fatigue=Зелье Слабости
 splash_potion.effect.mining_fatigue=Взрывное зелье Слабости
-lingering_potion.effect.mining_fatigue=Сильное зелье Слабости
+lingering_potion.effect.mining_fatigue=Туманное зелье Слабости
 tipped_arrow.effect.mining_fatigue=Стрела Тяжести
 potion.effect.resistance=Зелье Стойкости
 splash_potion.effect.resistance=Взрывное зелье Стойкости
-lingering_potion.effect.resistance=Сильное зелье Стойкости
+lingering_potion.effect.resistance=Туманное зелье Стойкости
 tipped_arrow.effect.resistance=Стрела Стойкости
 potion.effect.danger_sight=Зелье Взгляда Угандийского Наклза
 splash_potion.effect.danger_sight=Взрывное зелье Взгляда Угандийского Наклза
-lingering_potion.effect.danger_sight=Сильное зелье Взгляда Угандийского Наклза
+lingering_potion.effect.danger_sight=Туманное зелье Взгляда Угандийского Наклза
 tipped_arrow.effect.danger_sight=Стрела Взгляда Угандийского Наклза
 
 # KEYBINDS
