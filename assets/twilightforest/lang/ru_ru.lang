@@ -494,8 +494,9 @@ entity.twilightforest.troll.name=Пещерный тролль
 entity.twilightforest.giant_miner.name=Гигантский шахтёр
 entity.twilightforest.armored_giant.name=Бронированный гигант
 entity.twilightforest.ice_crystal.name=Ледяной кристалл
-entity.twilightforest.apocalypse_cube.name=Куб апокалипсис [NYI]
-entity.twilightforest.adherent.name=Приверженец [NYI]
+entity.twilightforest.apocalypse_cube.name=Куб апокалипсиса [WIP]
+entity.twilightforest.adherent.name=Приверженец [WIP]
+entity.twilightForest.harbinger_cube.name=Куб Предвестия [WIP]
 
 twilightforest.misc.wip0=Этот блок является незавершенной работой и может иметь ошибки или непреднамеренные эффекты, которые могут повредить ваш мир.
 twilightforest.misc.wip1=Используйте с осторожностью.
