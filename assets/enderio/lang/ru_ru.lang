@@ -1685,7 +1685,7 @@ tile.block_alloy_smelter.tooltip.detailed.line3=Обновление с конд
 tile.block_simple_alloy_smelter.name=Простой завод сплавов
 tile.block_simple_alloy_smelter.tooltip.detailed.line1=Используется для создания сплавов EnderIO
 
-tile.block_simple_furnace.name=Простаяч электропечь
+tile.block_simple_furnace.name=Простая электропечь
 tile.block_simple_furnace.tooltip.detailed.line1=Плавит предметы с помощью энергии
 
 tile.block_enhanced_alloy_smelter.name=Улучшенный завод сплавов
