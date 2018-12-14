@@ -611,18 +611,18 @@ enchantment.enderio.shimmer=Мерцание
 description.enchantment.enderio.shimmer=Заставляет предмет мерцать, как будто он был зачарован.|Вот и все.|Правда.|Ничего более.|Да, это совершенно бесполезно.|Я знаю.
 
 potion.effect.enderio.withering=Зелье распада
-splash_potion.effect.enderio.withering=Всплеск зелья распада
-lingering_potion.effect.enderio.withering=Затяжное зелье распада
+splash_potion.effect.enderio.withering=Взрывное зелье распада
+lingering_potion.effect.enderio.withering=Туманное зелье распада
 tipped_arrow.effect.enderio.withering=Стрела распада
 
 potion.effect.enderio.confusion=Зелье замешательства
-splash_potion.effect.enderio.confusion=Всплеск зелья замешательства
-lingering_potion.effect.enderio.confusion=Затяжное зелье распада
+splash_potion.effect.enderio.confusion=Взрывное зелье замешательства
+lingering_potion.effect.enderio.confusion=Туманное зелье распада
 tipped_arrow.effect.enderio.confusion=Стрела замешательства
 
 potion.effect.enderio.floating=Зелье восстания
-splash_potion.effect.enderio.floating=Всплеск зелья восстания
-lingering_potion.effect.enderio.floating=Затяжное зелье восстания
+splash_potion.effect.enderio.floating=Взрывное зелье восстания
+lingering_potion.effect.enderio.floating=Туманное зелье восстания
 tipped_arrow.effect.enderio.floating=Стрела восстания
 
 
@@ -964,7 +964,7 @@ enderio.loot.capacitor.entry.1=Вы можете расшифровать дре
 enderio.loot.capacitor.entry.2=Под властью черепа странника Края, у меня есть %s!
 enderio.loot.capacitor.entry.3=Если бы вам пришлось это описать, "%s" это было бы хорошим именем.
 enderio.loot.capacitor.entry.4=Если бы вам пришлось это описать, "%s" это было бы хорошим именем.
-enderio.loot.capacitor.entry.5=Этот "%s" является собственностью Рэндальфа Тинкера. Несанкционированное удаление несанкционировано!
+enderio.loot.capacitor.entry.5=Этот "%s" является собственностью Рэндальфа Тинкера. Несанкционированное удаление не санкционировано!
 enderio.loot.capacitor.entry.6=Этот "%s" является собственностью Рэндальфа экс-Тинкера. Несанкционированное удаление приветствуется!
 enderio.loot.capacitor.entry.7=Теперь ваш "%s" можно бесплатно обновить до "Конденсатор 1". Нажмите Ок или Отмена, чтобы сделать это.
 enderio.loot.capacitor.entry.8=Поместите этот "%s" в различные механизмы, чтобы узнать, что он делает. Или спроси у тети Гугл.
@@ -987,7 +987,7 @@ enderio.loot.capacitor.title.13=Небесный цент
 enderio.loot.capacitor.title.14=Не включайте его, разбирайте его на части!
 enderio.loot.capacitor.title.15=Не синий. Не коробка.
 enderio.loot.capacitor.title.16=Шокирующая штуковина
-enderio.loot.capacitor.title.17=Техномагическое чудо
+enderio.loot.capacitor.title.17=Техно-магическое чудо
 enderio.loot.capacitor.title.18=Безымянная вещь
 enderio.loot.capacitor.title.19=Вещь
 enderio.loot.capacitor.title.20=Что-то
