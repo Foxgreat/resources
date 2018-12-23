@@ -119,6 +119,10 @@ extracells.tooltip.gas=Газ
 extracells.tooltip.essentia=Эссенция
 extracells.tooltip.installed=Установлено:
 extracells.tooltip.crafting=Создается
+extracells.tooltip.deprecated1=Этот предмет устарел
+extracells.tooltip.deprecated2=Его заменили преметом %s из Applied Energistics 2
+extracells.tooltip.deprecated.part=Положите в сетку крафта для замены
+extracells.tooltip.deprecated.cell=Нужно опустошить эту ячейку, затем разобрать её чтобы можно было заменить компонент
 
 //Buttons
 extracells.gui.craft=Крафт
